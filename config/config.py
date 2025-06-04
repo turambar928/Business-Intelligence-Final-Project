@@ -18,8 +18,8 @@ MYSQL_CONFIG = {
     'host': 'localhost',
     'port': 3306,
     'database': 'news_analytics',
-    'username': 'root',
-    'password': 'password',
+    'username': 'analytics_user',
+    'password': 'your_password',  # 请修改为实际密码
     'charset': 'utf8mb4'
 }
 
@@ -65,3 +65,19 @@ NEWS_CATEGORIES = {
     'kids': '儿童',
     'video': '视频'
 }
+
+# 获取数据库连接字符串
+def get_mysql_url():
+    """生成MySQL连接URL"""
+    config = MYSQL_CONFIG
+    return f"mysql+pymysql://{config['username']}:{config['password']}@{config['host']}:{config['port']}/{config['database']}?charset={config['charset']}"
+
+# 获取Kafka配置
+def get_kafka_config():
+    """获取Kafka配置"""
+    return KAFKA_CONFIG
+
+# 获取Spark配置
+def get_spark_config():
+    """获取Spark配置"""
+    return SPARK_CONFIG
