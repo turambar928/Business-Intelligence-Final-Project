@@ -74,9 +74,9 @@ def main():
     logger.info("系统配置加载完成")
     
     try:
-        # 这里可以添加实际的分析器启动代码
-        # analyzer = NewsStreamingAnalyzer(config['kafka'], config['mysql'], config['spark'])
-        # analyzer.start_streaming()
+        #这里可以添加实际的分析器启动代码
+        analyzer = NewsStreamingAnalyzer(config['kafka'], config['mysql'], config['spark'])
+        analyzer.start_streaming()
         
         print("系统组件:")
         print("1. Kafka消费者 - 接收新闻曝光日志")
