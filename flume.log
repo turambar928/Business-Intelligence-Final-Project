@@ -1,0 +1,282 @@
+Info: Including Hive libraries found via () for Hive access
++ exec /usr/lib/jvm/java-11-openjdk-amd64/bin/java -Xmx20m -Dflume.root.logger=DEBUG,console -cp '/opt/flume/conf:/home/tzf/flume/lib/*:/lib/*' -Djava.library.path= org.apache.flume.node.Application --name a1 --conf-file /opt/flume/conf/flume-agent.conf
+12 Jun 2025 17:14:15,728 ERROR [main] (org.apache.flume.node.FileConfigurationSource.<init>:51)  - Unable to read /opt/flume/conf/flume-agent.conf: /opt/flume/conf/flume-agent.conf
+12 Jun 2025 17:14:15,747 ERROR [main] (org.apache.flume.node.Application.main:506)  - A fatal error occurred while running. Exception follows.
+org.apache.flume.conf.ConfigurationException: Unable to read file /opt/flume/conf/flume-agent.conf
+	at org.apache.flume.node.FileConfigurationSource.<init>(FileConfigurationSource.java:52) ~[flume-ng-node-1.11.0.jar:1.11.0]
+	at org.apache.flume.node.FileConfigurationSourceFactory.createConfigurationSource(FileConfigurationSourceFactory.java:40) ~[flume-ng-node-1.11.0.jar:1.11.0]
+	at org.apache.flume.node.ConfigurationSourceFactory.getConfigurationSource(ConfigurationSourceFactory.java:39) ~[flume-ng-node-1.11.0.jar:1.11.0]
+	at org.apache.flume.node.Application.main(Application.java:476) ~[flume-ng-node-1.11.0.jar:1.11.0]
+Caused by: java.nio.file.NoSuchFileException: /opt/flume/conf/flume-agent.conf
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116) ~[?:?]
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:371) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:422) ~[?:?]
+	at java.nio.file.Files.readAllBytes(Files.java:3206) ~[?:?]
+	at org.apache.flume.node.FileConfigurationSource.<init>(FileConfigurationSource.java:49) ~[flume-ng-node-1.11.0.jar:1.11.0]
+	... 3 more
+12 Jun 2025 17:15:35,335 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:memory-channel
+12 Jun 2025 17:15:35,345 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka-sink
+12 Jun 2025 17:15:35,346 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka-sink
+12 Jun 2025 17:15:35,347 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:spool-source
+12 Jun 2025 17:15:35,348 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:spool-source
+12 Jun 2025 17:15:35,348 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addProperty:1117)  - Added sinks: console-sink, kafka-sink Agent: a1
+12 Jun 2025 17:15:35,349 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:console-sink
+12 Jun 2025 17:15:35,350 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka-sink
+12 Jun 2025 17:15:35,351 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka-sink
+12 Jun 2025 17:15:35,352 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:spool-source
+12 Jun 2025 17:15:35,352 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka-sink
+12 Jun 2025 17:15:35,353 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:spool-source
+12 Jun 2025 17:15:35,355 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:memory-channel
+12 Jun 2025 17:15:35,356 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:memory-channel
+12 Jun 2025 17:15:35,356 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:spool-source
+12 Jun 2025 17:15:35,357 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:spool-source
+12 Jun 2025 17:15:35,358 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:console-sink
+12 Jun 2025 17:15:35,359 INFO  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.addComponentConfig:1203)  - Processing:kafka-sink
+12 Jun 2025 17:15:35,360 WARN  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.validateConfigFilterSet:623)  - Agent configuration for 'a1' has no configfilters.
+12 Jun 2025 17:15:35,410 WARN  [main] (org.apache.flume.conf.FlumeConfiguration$AgentConfiguration.validateSinks:841)  - no context for sinkconsole-sink,
+12 Jun 2025 17:15:35,412 INFO  [main] (org.apache.flume.conf.FlumeConfiguration.validateConfiguration:163)  - Post-validation flume configuration contains configuration for agents: [a1]
+12 Jun 2025 17:15:35,413 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:154)  - Creating channels
+12 Jun 2025 17:15:35,434 INFO  [main] (org.apache.flume.channel.DefaultChannelFactory.create:42)  - Creating instance of channel memory-channel type memory
+12 Jun 2025 17:15:35,456 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.loadChannels:208)  - Created channel memory-channel
+12 Jun 2025 17:15:35,459 INFO  [main] (org.apache.flume.source.DefaultSourceFactory.create:41)  - Creating instance of source spool-source, type spooldir
+12 Jun 2025 17:15:35,491 INFO  [main] (org.apache.flume.sink.DefaultSinkFactory.create:42)  - Creating instance of sink: kafka-sink, type: org.apache.flume.sink.kafka.KafkaSink
+12 Jun 2025 17:15:35,508 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:401)  - topic is deprecated. Please use the parameter kafka.topic
+12 Jun 2025 17:15:35,510 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:412)  - brokerList is deprecated. Please use the parameter kafka.bootstrap.servers
+12 Jun 2025 17:15:35,511 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:422)  - batchSize is deprecated. Please use the parameter flumeBatchSize
+12 Jun 2025 17:15:35,511 WARN  [main] (org.apache.flume.sink.kafka.KafkaSink.translateOldProps:432)  - requiredAcks is deprecated. Please use the parameter kafka.producer.acks
+12 Jun 2025 17:15:35,512 INFO  [main] (org.apache.flume.sink.kafka.KafkaSink.configure:348)  - Using the static topic news_impression_logs. This may be overridden by event headers
+12 Jun 2025 17:15:35,551 INFO  [main] (org.apache.flume.node.AbstractConfigurationProvider.getConfiguration:123)  - Channel memory-channel connected to [spool-source, kafka-sink]
+12 Jun 2025 17:15:35,552 INFO  [main] (org.apache.flume.node.Application.initializeAllComponents:177)  - Initializing components
+12 Jun 2025 17:15:35,554 INFO  [main] (org.apache.flume.node.Application.startAllComponents:207)  - Starting new configuration:{ sourceRunners:{spool-source=EventDrivenSourceRunner: { source:Spool Directory source spool-source: { spoolDir: /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs } }} sinkRunners:{kafka-sink=SinkRunner: { policy:org.apache.flume.sink.DefaultSinkProcessor@5629510 counterGroup:{ name:null counters:{} } }} channels:{memory-channel=org.apache.flume.channel.MemoryChannel{name: memory-channel}} }
+12 Jun 2025 17:15:35,555 INFO  [main] (org.apache.flume.node.Application.startAllComponents:214)  - Starting Channel memory-channel
+12 Jun 2025 17:15:35,560 INFO  [main] (org.apache.flume.node.Application.startAllComponents:229)  - Waiting for channel: memory-channel to start. Sleeping for 500 ms
+12 Jun 2025 17:15:35,581 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: CHANNEL, name: memory-channel: Successfully registered new MBean.
+12 Jun 2025 17:15:35,583 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: CHANNEL, name: memory-channel started
+12 Jun 2025 17:15:36,062 INFO  [main] (org.apache.flume.node.Application.startAllComponents:241)  - Starting Sink kafka-sink
+12 Jun 2025 17:15:36,066 INFO  [main] (org.apache.flume.node.Application.startAllComponents:252)  - Starting Source spool-source
+12 Jun 2025 17:15:36,070 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.source.SpoolDirectorySource.start:85)  - SpoolDirectorySource source starting with directory: /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs
+12 Jun 2025 17:15:36,201 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SOURCE, name: spool-source: Successfully registered new MBean.
+12 Jun 2025 17:15:36,201 INFO  [lifecycleSupervisor-1-1] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SOURCE, name: spool-source started
+12 Jun 2025 17:15:36,276 INFO  [lifecycleSupervisor-1-0] (org.apache.kafka.common.config.AbstractConfig.logAll:361)  - ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = false
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+
+12 Jun 2025 17:15:36,568 INFO  [lifecycleSupervisor-1-0] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:119)  - Kafka version: 2.7.2
+12 Jun 2025 17:15:36,568 INFO  [lifecycleSupervisor-1-0] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:120)  - Kafka commitId: 37a1cc36bf4d76f3
+12 Jun 2025 17:15:36,569 INFO  [lifecycleSupervisor-1-0] (org.apache.kafka.common.utils.AppInfoParser$AppInfo.<init>:121)  - Kafka startTimeMs: 1749719736552
+12 Jun 2025 17:15:36,573 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.register:119)  - Monitored counter group for type: SINK, name: kafka-sink: Successfully registered new MBean.
+12 Jun 2025 17:15:36,574 INFO  [lifecycleSupervisor-1-0] (org.apache.flume.instrumentation.MonitoredCounterGroup.start:95)  - Component type: SINK, name: kafka-sink started
+12 Jun 2025 17:15:37,741 INFO  [kafka-producer-network-thread | producer-1] (org.apache.kafka.clients.Metadata.update:279)  - [Producer clientId=producer-1] Cluster ID: 9xBgpsDvTfO7zbwEVUPRNQ
+12 Jun 2025 18:55:11,369 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:11,385 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:11,390 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:11,395 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:11,396 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:11,397 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:11,397 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:11,421 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:11,459 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.readEvents:407)  - Last read took us just up to a file boundary. Rolling to the next file, if there is one.
+12 Jun 2025 18:55:11,462 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.rollCurrentFile:520)  - Preparing to move file /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185508.json to /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185508.json.COMPLETED
+12 Jun 2025 18:55:14,512 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,521 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,527 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,530 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,535 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,536 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,537 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,538 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,539 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,540 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,541 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,542 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,544 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:14,549 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.readEvents:407)  - Last read took us just up to a file boundary. Rolling to the next file, if there is one.
+12 Jun 2025 18:55:14,550 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.rollCurrentFile:520)  - Preparing to move file /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185514.json to /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185514.json.COMPLETED
+12 Jun 2025 18:55:20,075 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,078 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,080 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,081 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,083 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,088 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,094 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,102 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,106 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,111 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,113 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,117 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,120 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,121 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,126 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,128 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,134 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,142 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:20,154 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.readEvents:407)  - Last read took us just up to a file boundary. Rolling to the next file, if there is one.
+12 Jun 2025 18:55:20,157 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.rollCurrentFile:520)  - Preparing to move file /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185520.json to /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185520.json.COMPLETED
+12 Jun 2025 18:55:25,701 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,703 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,705 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,711 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,711 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,712 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,713 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,714 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,715 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,716 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,717 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,719 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,721 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,722 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,726 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,748 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,758 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,764 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:25,772 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.readEvents:407)  - Last read took us just up to a file boundary. Rolling to the next file, if there is one.
+12 Jun 2025 18:55:25,775 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.rollCurrentFile:520)  - Preparing to move file /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185525.json to /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185525.json.COMPLETED
+12 Jun 2025 18:55:30,801 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,803 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,805 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,807 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,808 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,809 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,810 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,812 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,813 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,815 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:30,819 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.readEvents:407)  - Last read took us just up to a file boundary. Rolling to the next file, if there is one.
+12 Jun 2025 18:55:30,821 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.rollCurrentFile:520)  - Preparing to move file /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185530.json to /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185530.json.COMPLETED
+12 Jun 2025 18:55:36,346 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,346 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,350 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,351 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,353 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,355 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,357 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,358 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,359 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,360 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,362 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,363 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,363 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,364 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,366 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,367 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,367 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,368 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,370 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,370 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,371 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,372 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,373 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,374 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,375 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:36,379 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.readEvents:407)  - Last read took us just up to a file boundary. Rolling to the next file, if there is one.
+12 Jun 2025 18:55:36,391 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.rollCurrentFile:520)  - Preparing to move file /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185536.json to /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185536.json.COMPLETED
+12 Jun 2025 18:55:41,928 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,930 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,932 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,933 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,934 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,935 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,937 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,938 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,939 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,940 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,942 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,943 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,947 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,951 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:41,962 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.readEvents:407)  - Last read took us just up to a file boundary. Rolling to the next file, if there is one.
+12 Jun 2025 18:55:41,965 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.rollCurrentFile:520)  - Preparing to move file /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185541.json to /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185541.json.COMPLETED
+12 Jun 2025 18:55:47,493 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,495 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,495 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,496 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,506 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,507 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,508 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,510 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,513 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,514 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,518 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,520 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,521 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,523 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,524 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,525 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,528 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,529 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,530 WARN  [pool-4-thread-1] (org.apache.flume.serialization.LineDeserializer.readLine:143)  - Line length exceeds max (2048), truncating line!
+12 Jun 2025 18:55:47,542 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.readEvents:407)  - Last read took us just up to a file boundary. Rolling to the next file, if there is one.
+12 Jun 2025 18:55:47,543 INFO  [pool-4-thread-1] (org.apache.flume.client.avro.ReliableSpoolingFileEventReader.rollCurrentFile:520)  - Preparing to move file /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185546.json to /home/tzf/Desktop/Business-Intelligence-Final-Project/web_logs/news_logs_20250612_185546.json.COMPLETED

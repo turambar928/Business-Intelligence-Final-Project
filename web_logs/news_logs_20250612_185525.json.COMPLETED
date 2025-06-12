@@ -1,0 +1,768 @@
+{
+  "batch_id": "batch_20250612_185525_819c4e83",
+  "events": [
+    {
+      "timestamp": "2019-06-17T11:44:16Z",
+      "user_id": "U182115",
+      "news_id": "N119833",
+      "action_type": "like",
+      "session_id": "session_b688d9e51c07",
+      "dwell_time": 247,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Hubei",
+        "city": "Wuhan"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "basketball_nba",
+        "headline": "Report: The Rockets Are All Fed Up With Each Other",
+        "content": "\"With the Warriors severely depleted heading into next season, it stands to reason that the Houston Rockets are as well-positioned as any other team to take advantage and end the Warriors' five-year Finals run. After all, they've been the only Western Conference team to seriously push Golden State, and they have the sort of battle-tested formula that the retooled Lakers haven't yet developed. However, as a report from ESPN's Tim MacMahon makes abundantly clear, the Rockets organization is experiencing turmoil. \"\"Too much damn turmoil,\"\" in fact. One \"\"high-ranking\"\" Rockets source summed it up for MacMahon: \"\"There's some hard feelings right now everywhere.\"\" That starts with stars Chris Paul and James Harden. Paul's play declined this past season, and as he increasingly tried to slow the offense down and run set plays, Harden reportedly became more and more frustrated with him. When this led to \"\"tense exchanges\"\" during the Rockets' season-ending loss, Paul went out of his way to avoid the traditional postgame press conference with Harden. Paul's incessant jabbering also wore thin with Harden, according to MacMahon. He apparently continued to pester Harden all season long, about little details of his game, the team's style of play, and Harden's unwillingness to move off the ball. Harden snapped after the Rockets' season ended, telling Paul \"\"he didn't always know best and had talked too much.\"\" \"\"Chris wants to coach James,\"\" says a source familiar with the stars' dynamic. \"\"James looks at him like, 'You can't even beat your man. Just shut up and watch me.'\"\" The tension between the two can't easily be resolved by trading Paul either, as he's still owed $124 million over the remaining three years of his contract. Rockets owner Tilman Fertitta, who has reportedly complained about that contract to team staffers as well as rival executives, is the central figure in MacMahon's story, and his leadership of the team in the two years since he paid an NBA-record $2.2 billion comes off as uneven at best. Fertitta raised a full two thirds ($1.4 billion) of the money for the purchase from selling bonds , and he also assumed $175 million in debt and received a $275 million loan from previous owner Leslie Alexander. Questions about Fertitta's willingness to invest in the team naturally sprouted up when details of the purchase emerged, though he was clear with MacMahon that he's willing to dip into the luxury tax, just not the repeater tax. He can say what he wants, but the Rockets inarguably cut costs last year, opting to take on minimum salary players instead of using the mid-level exception to replace Trevor Ariza. GM Daryl Morey also snuck under the tax at the last second when he dumped Brandon Knight and James Ennis at the trade deadline. According to MacMahon, Fertitta's stubborn refusal to pay up is also at the root of discord between management and head coach Mike D'Antoni, who only has one year left on his contract. Negotiations on an extension broke down in late May shortly after Fertitta publicly raised questions about D'Antoni's age and willingness to keep coaching and Fertitta revealed in a press conference that he offered D'Antoni a $5 million base salary. However, D'Antoni's agent clarified that the offer was not actually for $5 million (which would be below the market rate for an established veteran coach such as D'Antoni), since it would be cut in half if D'Antoni was fired or if the Rockets failed to make the playoffs. Fertitta met with D'Antoni in West Virginia earlier this month, and though he says he offered more incentives in the deal and dropped the buyout language, his unwillingness to raise D'Antoni's base salary rankled D'Antoni's agent Warren LeGarie. \"\"I have not heard from them since that trip to visit Mike,\"\" LeGarie says. \"\"Mike is prepared to coach out his contract.\"\" The front office also let the bulk of D'Antoni's staff go after last season, and assistants are reportedly unwilling to commit to the team while D'Antoni's status is so unsettled. And so, the Rockets will head into the first season of Western Conference upheaval with a confused and shorthanded coaching staff and a pair of stars growing increasingly disgruntled with each other. Harden is good enough that he could win a championship for the Rockets next season in spite of all this, but he'll have to wade through more organizational chaos than ever before to do so. Morey responded to the story this morning on a Houston radio show , and chalked up the tension within the organization to competitiveness. \"\"I'm frustrated, our top players are frustrated, Mike D'Antoni is frustrated. We want to take the last step and be the champion and I think it's good that there is tension in the sense that we all want to win.\"\"\"",
+        "word_count": 799,
+        "publish_time": "2025-06-02T01:41:02Z",
+        "source": "CNN",
+        "tags": [
+          "market",
+          "ai",
+          "basketball_nba",
+          "report",
+          "sports"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N90242",
+          "N78202"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "股票",
+          "金融",
+          "财经",
+          "保险"
+        ],
+        "engagement_score": 0.66
+      },
+      "interaction_data": {
+        "scroll_depth": 0.21,
+        "clicks_count": 8,
+        "shares_count": 0,
+        "comments_count": 2,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.05,
+        "topic_keywords": [
+          "market",
+          "ai",
+          "basketball_nba"
+        ],
+        "viral_potential": 0.54,
+        "trend_score": 0.64,
+        "recommendation_relevance": 0.38,
+        "content_quality": 0.88,
+        "user_profile_match": 0.62
+      }
+    },
+    {
+      "timestamp": "2019-06-15T11:41:14Z",
+      "user_id": "U57336",
+      "news_id": "N90558",
+      "action_type": "read",
+      "session_id": "session_a9f2b03bf8d3",
+      "dwell_time": 134,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tv-celebrity",
+        "headline": "Tarek El Moussa Says He 'Wasn't Expecting' to Divorce Christina Anstead",
+        "content": "\"Love lost. Tarek El Moussa got candid about his former marriage with ex-wife, Christina Anstead , during an appearance on RuPaul on Thursday, June 13. He revealed that he \"\"wasn't expecting\"\" for the pair's relationship to end. \"\"It was kind of not something I anticipated in my life, but you know, I've learned a lot from it,\"\" El Moussa, 37, told host RuPaul , 58. \"\" I can say I'm a much better person from going through what I went through. So I wouldn't change anything.\"\" The Flip or Flop star continued: \"\"It was my first marriage. So, we met when we were young. I was 24, she was 22. And then the day we met, we pretty much connected right away and, you know, we built a life together.\"\" When the RuPaul's Drag Race star asked El Moussa if he would consider getting married again, the reality personality confessed that \"\"if someone had asked me that question a few months ago, I would have said no.\"\" However, he admitted that he has \"\"hope\"\" that he will find love again. El Moussa and Anstead, 35, wed in 2009 before filing for divorce in 2017 citing \"\"irreconcilable differences\"\" as the reason for separation. The couple share daughter Taylor, 8, and son Brayden, 3 . In 2018, Anstead tied the knot with her now-husband, English television presenter Ant Anstead . It was announced in March that the couple are expecting their first child together . While El Moussa is still single, he is ready to mingle. The HGTV star told RuPaul on Thursday that he has dived back into the dating scene, but he admitted to having \"\"no luck yet.\"\" \"\"I have never been in such a good place mentally, financially, spiritually like, everything is perfect. So I am walking on eggshells when it comes to relationships right now, because everything is going so great,\"\" he revealed. \"\"My biggest feeling in life is that feeling of loss. I'm still scared to fall in love again, because I don't ever want to face that feeling.\"\" In April, El Moussa told Us Weekly that \"\"life's been going really well and everything's great.\"\" However, he admitted that the \"\"only thing missing in my life is a best friend, and that's one thing I do miss about a relationship.\"\" RuPaul premiered Monday, June 10, on FOX. Related slideshow: Christina Anstead, Ex Tarek El Moussa Film Show Post-Pregnancy Reveal: Pics\"",
+        "word_count": 403,
+        "publish_time": "2025-05-22T05:44:51Z",
+        "source": "Bloomberg",
+        "tags": [
+          "ai",
+          "tv-celebrity",
+          "tv",
+          "film"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N84162"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "网球",
+          "投资",
+          "金融",
+          "AI"
+        ],
+        "engagement_score": 0.31
+      },
+      "interaction_data": {
+        "scroll_depth": 0.69,
+        "clicks_count": 0,
+        "shares_count": 3,
+        "comments_count": 5,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.83,
+        "topic_keywords": [
+          "ai",
+          "tv-celebrity",
+          "tv"
+        ],
+        "viral_potential": 0.66,
+        "trend_score": 0.16,
+        "recommendation_relevance": 0.77,
+        "content_quality": 0.39,
+        "user_profile_match": 0.68
+      }
+    },
+    {
+      "timestamp": "2019-06-17T08:09:17Z",
+      "user_id": "U233541",
+      "news_id": "N68652",
+      "action_type": "share",
+      "session_id": "session_e76398443788",
+      "dwell_time": 12,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Hubei",
+        "city": "Wuhan"
+      },
+      "news_details": {
+        "category": "music",
+        "topic": "musicnews",
+        "headline": "Cardi B performs in bathrobe after her outfit rips at Bonnaroo",
+        "content": "\"Ahead of her appearance at Bonnaroo , Cardi B had to bow out of several planned gigs due to plastic surgery. After weeks of worry from ticketholders, the world-famous rapper did indeed make it to the festival stage in Manchester, Tennessee but still, she faced setbacks. \"\"I just wanna let y'all know that my outfit rip,\"\" she told her audience, just a few songs into her set. She pressed through for a couple of minutes, then vanished from the stage. After a time-filling singalong of \"\"Old Town Road,\"\" she reemerged in a white bathrobe. \"\"We gonna keep it moving, baby,\"\" she said. \"\"We gonna keep it sexy. I don't know how in this (expletive) robe, but we gonna do it!\"\" \"\"Keep it moving\"\" was a mantra during her brisk 45-minute set, as a rare female rap star, who's used to working harder than anyone else in the room or on a festival lineup. In all seriousness, she just might be more famous than all three of Bonnaroo's \"\"headliners\"\" put together. But on Sunday night in the final hours of the festival, she found herself on Bonnaroo's second largest stage. Needless to say, it was a zoo around the Which Stage, as fans scurried for a vantage point. Cardi B and her dancers tore through every hit she's enjoyed in three short years: \"\"I Like It,\"\" \"\"Money,\"\" and her collaborations with Bruno Mars (\"\"Please Me,\"\" \"\"Finesse\"\"), Maroon 5 (\"\"Girls Like You.\"\") and closing with her breakout chart-topper \"\"Bodak Yellow.\"\" Related slideshow: Cardi B performs at Bonnaroo 2019 This article originally appeared on Nashville Tennessean: Cardi B performs in bathrobe after her outfit rips at Bonnaroo\"",
+        "word_count": 274,
+        "publish_time": "2025-06-01T20:14:11Z",
+        "source": "The Guardian",
+        "tags": [
+          "ai",
+          "musicnews",
+          "music"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N72931"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "财经",
+          "篮球",
+          "明星",
+          "音乐",
+          "科技",
+          "手机"
+        ],
+        "engagement_score": 0.22
+      },
+      "interaction_data": {
+        "scroll_depth": 0.69,
+        "clicks_count": 7,
+        "shares_count": 0,
+        "comments_count": 1,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.83,
+        "topic_keywords": [
+          "ai",
+          "musicnews",
+          "music"
+        ],
+        "viral_potential": 0.52,
+        "trend_score": 0.38,
+        "recommendation_relevance": 0.75,
+        "content_quality": 0.96,
+        "user_profile_match": 0.11
+      }
+    },
+    {
+      "timestamp": "2019-06-17T06:09:49Z",
+      "user_id": "U99450",
+      "news_id": "N61154",
+      "action_type": "skip",
+      "session_id": "session_69209a95f6e3",
+      "dwell_time": 28,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "travel",
+        "topic": "traveltripideas",
+        "headline": "The world's safest and most dangerous countries, revealed",
+        "content": "Here we report the 10 safest spots in the world as well as the 10 most dangerous destinations. Safe escapes and no-go zones In most situations traveling is safe but, before you book a vacation halfway across the globe, you might want to check this list first. Here we look at the findings of the Global Peace Index 2018 and report the 10 safest spots in the world, followed by the 10 most dangerous destinations. 10. Ireland Sneaking into the top 10, Ireland is now one of the safest countries in the world. The Emerald Isle has low levels of terrorism as well as little domestic and international conflict. As many as 10.6 million tourists visited Ireland in 2017, a number that has steadily grown over the last few years. 10. Ireland A visit to Ireland wouldn't be complete without sampling a pint of Guinness and the Storehouse is high on many tourists' priorities when they touch down in Dublin. After hitting the city landmarks, head to Temple Bar to finish the night listening to a live Irish band or two. But don t just stay in Dublin, the country s mostly untouched coastline is beautiful and if you head to the quieter spots you can admire it without any crowds. 9. Japan As you might expect with its colorful shrines, temples and tranquil zen gardens, Japan is an extremely peaceful nation. It may have increased its weapons imports in 2018, but homicide rates have fallen over the last 20 years helping to lower crime rates. 9. Japan The host of the 2020 Olympics, it s an exciting time to visit this Far East gem. From the neon lights of Tokyo to easy weekend trips from the capital and skiing in northern Hokkaido ( here are nine reasons to visit northern Japan ), the country has a lot to offer tourists. The nation also has an incredible 22 World Heritage Sites including the wonderfully preserved Himeji Castle. 8. Singapore The most secure country in Asia, Singapore's society is very safe, with low levels of domestic and international conflict. Singapore has famously strict laws, including a ban on chewing gum would you believe, which help to keep its crime levels low. 8. Singapore Food is a major draw to Singapore and the nation s cheap and hygienic hawker markets offer a fantastic range of options. After eating you can explore the botanical gardens or go shopping at one of the many malls. For a different experience, walk around vibrant Little India or go on a heritage tour of the older neighborhoods. 7. Czech Republic The Eastern European nation enjoyed a record number of tourists in 2018, with more than 21.3 million visiting. One major draw is the fact the Czech Republic has a low crime rate. The US Department of State suggests travelers need only take normal precautions when making the trip. 7. Czech Republic Prague, Czech Republic s capital, has a beautiful Old Town and is remarkably budget friendly. Visitors can explore Prague Castle, the largest castle complex in the world, as well as admire the cityscape from the scenic Charles Bridge. Outside of Prague, there are several inexpensive spas worth checking out in the Czech countryside. 6. Canada Topping the list in North America, Canada is the sixth safest country in the world. The nation has strong political stability and low levels of crime and internal conflict. No wonder its ranking remains unchanged from the previous year. 6. Canada Canada arguably offers some of the world s best hiking in national parks like Banff and Jasper. In winter, there are lots of snow sports on offer while kayaking is popular in summer. The cities are big players too with Vancouver, Montreal and Toronto all offering varied nightlife and quirky cultural events. 5. Denmark Although Scandi Noir crime dramas might convince you otherwise, Denmark is one of the world s safest countries. It scored particularly highly in the safety and security index which means that citizens and tourists can generally wander around free from harm. 5. Denmark Hipster Copenhagen welcomes most of the country s visitors and tourists here can visit picturesque Nyhavn, the city harbor, or navigate the streets by bike. There are lots of top restaurants and brunch spots to enjoy too. Outside of the capital, Aarhus has the fantastic ARoS art museum and there s also beautiful countryside to explore. 4. Portugal Although Portugal s score in the Global Peace Index fell from its peak in 2017, it still comes in fourth position in the world. The index attributes the drop to rising nationalism in the country which has created division between the people who live there. Despite this, Portugal has a low crime rate and you re unlikely to be bothered by anything more serious than a pickpocket. 4. Portugal Portugal has a lot to offer tourists from the beaches of the Algarve and the mountains of central Portugal to the fabled Lisbon Old Town and historic city of Porto. Food is one of the country s highlights. Be sure to try its famous custard tarts (pastéis de nata), fresh seafood and native wines. 3. Austria With low levels of domestic and international conflict, plus a high score of society safety, Austria sits pretty in third place. In 2018, capital Vienna was also named the world s most liveable city in the Economist Intelligence Unit annual survey. Residents and tourists alike will be please to know the whole country has a very low violent crime rate. 3. Austria Vienna holds many of the country s top attractions, including the incredible Schönbrunn Palace (pictured), as well as lots of regal cafés offering mouthwatering cakes. But it s not just the capital that s worth a visit. Tirol has fantastic skiing and the annual summer Salzburg festival welcomes thousands of culture lovers for a showcase of theater, opera and music. 2. New Zealand New Zealand topped the Asia-Pacific region and had high scores for society safety. Keep in mind, though, that this data was recorded in 2017 before the tragic terrorist attack in March 2019, although the country has since strengthened its gun laws. Transparency International s 2018 Corruption Perception Index also lists New Zealand as the second least corrupt country due to its well-functioning democracy. 2. New Zealand Most visitors to New Zealand come to explore the country s stunning natural environment, encompassing beaches, glaciers, mountains, forests and lakes. There are lots of opportunities for white-water rafting, hiking and skydiving. The Hobbiton movie set is one of New Zealand s biggest man-made attractions and welcomes more than 500,000 tourists a year. 1. Iceland Holding the top spot since 2008, Iceland is the safest country in the world. It topped the Global Peace Index for society safety and doesn t spend much on its military. It's also described as one of the safest places for single female travelers to visit. 1. Iceland The land of fire and ice welcomes more than two million visitors a year, many to wallow in its thermal springs or witness the breathtaking Northern Lights. Tourists can also explore the country s glaciers and the more adventurous can go diving at the Silfra fissure, the gap between the North American and Eurasian continental plates. W 10. Russia Now for the least safe. Russia was pitted as the 10th most dangerous country in the world, holding a low score in the Global Peace Index due to its high spending on its military. Russia s international conflict score has also increased since the country has become heavily involved in the Syrian War. However, it did up its score in political stability, as the data suggests President Putin has a good level of support in Russia. 10. Russia Unlike the other countries on the dangerous list, there is no US or UK Foreign Office advice against travel to Russia except to exercise increased caution, a warning issued for many European countries. Russia is home to 28 UNESCO World Heritage Sites and the amazing Hermitage Museum in St Petersburg (pictured). 9. Central African Republic The Central African Republic (CAR) scores particularly badly in the safety and security category. Fighting between rebels, militia and armed groups has caused widespread violence in the country since 2012. However, a recent 2019 peace treaty between the government and several rebel groups has prompted hope for the future. 9. Central African Republic CAR has never had a booming tourist industry but is home to rare forest elephants. These are smaller than savanna elephants and generally live in dense jungle. However, the conflict in CAR has made it difficult to protect the wild animal. 8. Democratic Republic of Congo The Democratic Republic of Congo (DRC) saw a large increase in the intensity of internal conflict in 2017 and a significant increase in violence. That year 1.7 million people were forced to flee their homes and civilians are struggling to meet their basic needs. 8. Democratic Republic of Congo DRC is one of only three countries in the world where it s possible to see mountain gorillas in the wild. In 2018, the Virunga National Park made the decision to close its doors to tourists after several brutal murders of the park s rangers. Despite the threat of violence, many of the rangers continue to risk their lives to protect the gorillas. Although Virunga s since reopened, current US State Department advice is to reconsider travel to the DRC. 7. Libya Libya is facing a prolonged war and the Global Peace Index states that hostility to foreigners escalated by 61.5% from 2013 to 2016. The Libyan Civil War began in the 2011 Arab Spring protests and the violence hasn t shown signs of abating. There are reports that slavery is thriving in the broken state. 7. Libya Both the US and UK advise against all travel to Libya due to the threat of terrorism, kidnap and armed attacks. Before the war, Libya s tourism industry was a growing market. The country is home to spectacular Roman ruins such as Leptis Magna (pictured) and the ancient Greek city of Cyrene. 6. Yemen War-torn Yemen has been in a state of civil war for many years. The conflict began in 2015 an...",
+        "word_count": 1705,
+        "publish_time": "2025-05-28T01:11:58Z",
+        "source": "TechCrunch",
+        "tags": [
+          "movie",
+          "travel",
+          "olympics",
+          "ai",
+          "market",
+          "traveltripideas",
+          "report",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N51924",
+          "N18236"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "科技",
+          "娱乐",
+          "明星",
+          "理财",
+          "奥运会",
+          "足球"
+        ],
+        "engagement_score": 0.07
+      },
+      "interaction_data": {
+        "scroll_depth": 0.42,
+        "clicks_count": 1,
+        "shares_count": 0,
+        "comments_count": 3,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.46,
+        "topic_keywords": [
+          "movie",
+          "travel",
+          "olympics"
+        ],
+        "viral_potential": 0.27,
+        "trend_score": 0.27,
+        "recommendation_relevance": 0.18,
+        "content_quality": 0.74,
+        "user_profile_match": 0.96
+      }
+    },
+    {
+      "timestamp": "2019-06-24T05:19:56Z",
+      "user_id": "U298624",
+      "news_id": "N25525",
+      "action_type": "share",
+      "session_id": "session_5a1d16e99853",
+      "dwell_time": 94,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "football_nfl",
+        "headline": "Dez Bryant tweets in support of LaVar Ball after ESPN ban",
+        "content": "LaVar Ball's latest folly on ESPN has been one of his most-publicized yet as the Big Baller has found himself banned from the station for an indefinite time . The move was a controversial one as not everyone saw Ball's comments as inappropriate, including former Cowboys receiver Dez Bryant. Early Sunday morning, Bryant took to Twitter to tweet at Molly Qerim, the women who Ball directed his comments to, about the situation. @MollyQerim I'm late but I just seen the espn video of you and lavar ball… just being real.. you owe that man an apology straight up… I didn't even sense foul play from him… you dramatically overreacted.. mature women like Doris Burke need those jobs - Dez Bryant (@DezBryant) June 23, 2019 After the initial tweet, Bryant started debating with his followers about the situation and comments. I'm saying more women who know there stuff and smart enough to know every man don't want them.. it's a job… she's out of line… I didn't see nothing sexual about what he said https://t.co/01nETmtoDn - Dez Bryant (@DezBryant) June 23, 2019 Tell me what was sexual about that? Far reach my brotha… on live Tv with a wife at home and 3 successful kids… stop it https://t.co/cxukr5QvxW - Dez Bryant (@DezBryant) June 23, 2019 The essence of Bryant's argument is what many others have said. Ball is many things, whether it's outlandish or loud or even abrasive at times. But his never been inappropriate and has even been the opposite more often than not. It doesn't make the comments any less thoughtless but doesn't make them inappropriate. Ball spoke publicly about the matter for the first time on Saturday and relayed the same thought. The good news is, though, that Ball won't be on TV to make matters better or worse anytime soon. MORE: Mets pitcher Jason Vargas had to be held back after telling a reporter he would knock him out NBA Free Agency 2019: The top players NCSA: A list of college football camps you can still attend this summer Report: Celtics interested in signing French center Vincent Poirier D'Angelo Russell open to Lakers return with Magic Johnson gone",
+        "word_count": 361,
+        "publish_time": "2025-06-02T15:04:40Z",
+        "source": "Fox News",
+        "tags": [
+          "ai",
+          "news",
+          "report",
+          "football_nfl",
+          "sports",
+          "tv",
+          "football"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N56158",
+          "N117135"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "美食",
+          "电脑",
+          "网球",
+          "篮球"
+        ],
+        "engagement_score": 0.56
+      },
+      "interaction_data": {
+        "scroll_depth": 0.32,
+        "clicks_count": 7,
+        "shares_count": 2,
+        "comments_count": 5,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.88,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "report"
+        ],
+        "viral_potential": 0.94,
+        "trend_score": 0.78,
+        "recommendation_relevance": 0.89,
+        "content_quality": 0.72,
+        "user_profile_match": 0.79
+      }
+    },
+    {
+      "timestamp": "2019-06-21T09:57:15Z",
+      "user_id": "U299988",
+      "news_id": "N43826",
+      "action_type": "click",
+      "session_id": "session_7880e4c58d1c",
+      "dwell_time": 61,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "basketball_nba",
+        "headline": "NBA Draft 2019: The best and worst picks of the first round",
+        "content": "The NBA Draft is a gamble. Players who everyone is convinced are going to be good (Greg Oden, Markelle Fultz, Jahlil Okafor) sometimes aren't. Whether that's because of fit or injury or whatever, sometimes things just don't work out. RELATED: 2019 NBA draft order, results But no matter what happens, after every draft people leave loving what their team got or flat-out hating it. So what did we love and flat-out hate from the first round of this draft? Oh, there was plenty. Worst picks Cameron Johnson, North Carolina, Suns, No. 11 overall: This is nothing against Johnson. In fact, we like him. He's a long athlete who can shoot the ball like crazy and he's a mature player who can contribute right away. But the Suns don't need someone to contribute right away. They're probably, at least, three years away. And they traded away another piece in TJ Warren before the draft even started so they took an even further move back. What makes this even worse is the Suns actually traded down from No. 6 to take Johnson at No. 11. They had a shot to take Texas Tech's Jarrett Culver, who is younger, a fantastic defender and fits the Suns' timeline. The Suns probably could have gotten Johnson eight or nine picks later. And, if they couldn't and another team took him with the 12th pick, then they should have let them, because the value wasn't right. Again, we wish the best of luck to Johnson, but the Suns' decision here doesn't make a lot of sense. Chuma Okeke, Auburn, Magic, No. 16 overall: There's a little bit of a theme here in that we like Okeke's game. He's athletic, he can shoot and he gives tons of effort. But he just tore his ACL and had surgery in April. He will likely be out for the entire season, and if the Magic lose Nikola Vucevic in free agency, it could be an insanely rough season for them next year. Orlando finally took a step forward last season getting to the playoffs and adding a player who could contribute sooner like Nickeil Alexander-Walker out of Virginia Tech or Brandon Clarke out of Gonzaga might have both filled needs and given more immediate production. Terrence Ross could leave in free agency, as well, and Alexander-Walker could have helped that loss while Clarke would step in to fill a bit of a void left by Vucevic, even if he doesn't have that kind of size. This one just seems like it wasn't thought out all the way. Best picks Grant Williams, Tennessee, Celtics, No. 22 overall: This one is actually kind of on the line of the Cameron Johnson pick. Williams was probably taken a little bit too early. He is a bit of a polarizing prospect who some ranked as high as 15 on their big boards but others saw him closer to the late first round or even early second. So the argument could be made the Celtics reached a little bit here. But, Williams is just too perfect for the Celtics to dislike the pick. He's a hard worker who excels on the offensive boards and gets more out of his smaller frame than just about anyone in this draft. Brad Stevens will absolutely love this guy. And, he is a better shooter than people give him credit for, which also fills a need for Boston. The Celtics need shooting and Williams gives them that. It's really hard to dislike this pick. Nassir Little, North Carolina, Trail Blazers, No. 25 overall: It made little sense that Little fell to the 25th pick but the Trail Blazers couldn't care less. This is easy to write as Little was one of the top recruits in the 2018 class and has one of the highest ceilings in this entire draft. MORE : NBA Draft 2019 rumor roundup: A complete list of trades, news, notes and more | NBA Draft 2019: RJ Barrett, Rui Hachimura and more emotional reactions to top selections He logically could step in and give the Trail Blazers huge minutes right away and shoots more than well enough to help the team space the floor. He has also already shown in his time at North Carolina that he doesn't always have to have the ball and is humble enough to take a lesser role for the betterment of the team. Portland has to be absolutely over the moon after getting Little. And, it didn't even have to trade up to do it. Related slideshow: 2019 NBA Draft top picks (Provided by imagn)",
+        "word_count": 766,
+        "publish_time": "2025-05-17T17:59:27Z",
+        "source": "New York Times",
+        "tags": [
+          "tech",
+          "ai",
+          "news",
+          "election",
+          "basketball_nba",
+          "sports"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N107795",
+          "N46954"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "美食",
+          "新闻",
+          "银行"
+        ],
+        "engagement_score": 0.21
+      },
+      "interaction_data": {
+        "scroll_depth": 0.68,
+        "clicks_count": 1,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.3,
+        "topic_keywords": [
+          "tech",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.33,
+        "trend_score": 0.57,
+        "recommendation_relevance": 0.88,
+        "content_quality": 0.6,
+        "user_profile_match": 0.58
+      }
+    },
+    {
+      "timestamp": "2019-06-18T05:52:59Z",
+      "user_id": "U429177",
+      "news_id": "N100679",
+      "action_type": "comment",
+      "session_id": "session_c0caa04807c8",
+      "dwell_time": 41,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Suspect Brian Clyde Dead After Shooting At Dallas Federal Building",
+        "content": "\"DALLAS (CBSDFW.COM) Officials in Dallas have identified the masked man who they say opened fire at the Earle Cabell Federal Building in downtown Dallas. The FBI says Brian Isaack Clyde, 22, was killed after a gunfight with federal officials outside the building. As a result of the investigation, streets around the courthouse will remain closed for the next couple of days. The FBI in Dallas tweeted, \"\"According to federal authorities, the Earle Cabell Federal Building located at 1100 Commerce Street in downtown Dallas will be open for employees Tuesday, but not for business. That means no hearings or public services.\"\" According to federal authorities, the Earle Cabell Federal Building located at 1100 Commerce Street in downtown Dallas will be open for employees Tuesday, but not for business. That means no hearings or public services. @ pic.twitter.com/QfiUkXToWk FBI Dallas (@FBIDallas) June 17, 2019 Dozens of Dallas Police Department squad cars and emergency vehicles from Dallas Fire-Rescue were on the scene after the active shooter situation at the building in the 1100 block of Commerce Street. More than 300 federal employees were in the building during the incident. One employee suffered minor injuries as she was taking cover from the shooter, according to U.S. Attorney Erin Nealy Cox. FBI Dallas Special Agent in Charge Matthew DeSarno explained, \"\"Shortly after the incident began this morning officers from the Federal Protective Service engaged the shooter Brian Isaack Clyde. He was taken to Baylor hospital and pronounced deceased on scene.\"\" Clyde was discharged from the Army in 2017. \"\"Private 1st Class Clyde served as an infantryman in the Army from August 2015 to February 2017,\"\" according to the Army Public Affairs Office. The FBI said he was not the subject of any investigations up to Monday's shooting. FBI agents are deployed across the state, speaking to relatives and associates and trying to get to the bottom of what the motive was. \"\"He had more than five 30-round magazines on his person. That's a lot of rounds at his disposal. A large powerful weapon at his disposal,\"\" said DeSarno. \"\" As far as what he was trying to do, we don't know that yet completely. We're reviewing videos. But for the actions of the federal protection office this likely would've been a deadly incident.\"\" U.S. Attorney Cox wanted to calm the fears of those in the area. \"\"The federal building was shot on by an active shooter,\"\" she said. \"\"Law enforcement responded immediately and I want to assure the community, especially our downtown community, that the community is safe.\"\" Video captured on cell phone by Dallas resident Tim Brown shows a masked person outside, armed with some type of long-rifle, firing near an entrance to the building. Bullets shattered panes of glass in a revolving door of the building. The sounds of gunshots can be heard and smoke can be seen coming from several feet away, as the gunman runs across the street into a parking lot and collapses. Witnesses say authorities performed CPR on active shooter after he was shot by officers outside Downtown Dallas federal courthouse and taken to a hospital pic.twitter.com/bnvZ7Pgje6 J.D. Miles (@jdmiles11) June 17, 2019 Clyde was given medical attention at the scene and then taken to a local hospital where he was pronounced dead. Clyde's vehicle was found nearby and a police bomb squad examined it \"\"for precautionary reasons.\"\" Several minutes after examining the car with a robot police decided to perform a controlled explosion of the vehicle. EOD is still concerned about possible device in the vehicle. Working to determine its potential danger as quickly and safely as possible. Streets remain closed and scene is active. Maj. Max Geron (@MaxDPD) June 17, 2019 After the shooting, witness Don Myles told CBS 11, \"\"I just saw a burst of people running out and a round of shots. It was just shots, maybe 10 to 15 shots all rapid shooting, and I just ran across the street into the traffic.\"\" Downtown Dallas Residents Ducked For Cover, Recorded Video Of Federal Courthouse Shooting All of the streets surrounding the federal building Commerce, South Field, Jackson and South Griffin Streets have all been closed. Because the shooting happened on government property, the investigation has been handed off to the FBI. They will be assisted by the ATF, Federal Protective Service, U.S. Marshals and the Dallas Police Department. Clyde graduated from Del Mar College in Corpus Christi in May 2019 with an Associate in Applied Science degree in Nondestructive Testing Technology, the college confirms. Dallas ISD confirms Clyde attended Woodrow Wilson High School as a freshman. He withdrew March 1, 2012 when his family apparently moved. The FBI asking people who recorded events connected with the shooting to send them in. Anyone with information or video should call 1-800-CALL-FBI or submit information, video and tips online here . Newly-sworn in Dallas Mayor Eric Johnson released the following statement on the shooting: \"\"I have been briefed by Chief Hall regarding the shooting at the Earle Cabell Federal Courthouse this morning. I am glad no civilians or officers were harmed, and I commend our law enforcement for their swift response to contain the situation.\"\"\"",
+        "word_count": 858,
+        "publish_time": "2025-05-15T23:59:08Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "tech",
+          "medical",
+          "ai",
+          "news",
+          "technology",
+          "newsus",
+          "government",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N12470",
+          "N13696"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "娱乐",
+          "电视",
+          "电脑",
+          "手机"
+        ],
+        "engagement_score": 0.18
+      },
+      "interaction_data": {
+        "scroll_depth": 0.59,
+        "clicks_count": 1,
+        "shares_count": 0,
+        "comments_count": 3,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.4,
+        "topic_keywords": [
+          "tech",
+          "medical",
+          "ai"
+        ],
+        "viral_potential": 0.01,
+        "trend_score": 0.86,
+        "recommendation_relevance": 0.76,
+        "content_quality": 0.96,
+        "user_profile_match": 0.57
+      }
+    },
+    {
+      "timestamp": "2019-06-14T12:36:10Z",
+      "user_id": "U217448",
+      "news_id": "N77086",
+      "action_type": "share",
+      "session_id": "session_dd8047dc6cf8",
+      "dwell_time": 46,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "4 early takeaways from the Democratic debate lineups",
+        "content": "\"Video by Reuters At long last we know not just who will be in the first two 2020 Democratic presidential debates, but also who will be matched up against one another. NBC News on Friday announced that the lineup for the June 26 and June 27 debates on MSNBC will look like this: Wednesday, June 26: Sen. Cory Booker (N.J.) Sen. Elizabeth Warren (Mass.) Former congressman Beto O'Rourke (Tex.) Sen. Amy Klobuchar (Minn.) Former congressman John Delaney (Md.) Rep. Tulsi Gabbard (Hawaii) Former HHS secretary Julián Castro Rep. Tim Ryan (Ohio) New York Mayor Bill de Blasio Washington Gov. Jay Inslee Thursday, June 27: Sen. Bernie Sanders (I-Vt.) Sen. Kamala D. Harris (Calif.) Former vice president Joe Biden South Bend, Ind., Mayor Pete Buttigieg Sen. Michael F. Bennet (Colo.) Author Marianne Williamson Rep. Eric Swalwell (Calif.) Sen. Kirsten Gillibrand (N.Y.) Businessman Andrew Yang Former Colorado governor John Hickenlooper And here are a few early takeaways and key matchups I'm looking forward to: The biggest takeaway is obviously that the two leading candidates in most polls Biden and Sanders will both be featured on that same night. That's also interesting because Sanders has telegraphed more of a desire to take on Biden directly than most of the other top candidates. Both men possibly see the other as their biggest obstacle to the Democratic nomination, and the interplay between the two will be the early focus. But also consider what this means for Warren. She has been rising in the polls more than anybody, and now she can be the focal point of her own debate on June 26. If we lump her in with Biden and Sanders in the top tier, the middle-tier candidates in her debate also seem less likely to go after her. Booker has always focused on running positive campaigns, and Klobuchar is hardly a brawler. (Remember that other Minnesotan who tried to turn into an attack dog at a debate? Yeah.) Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post Looking at the first night's field, I'm wondering who might possibly steal the spotlight and who might possible try to lay a glove on Warren. The best I can come up with for the latter would be O'Rourke or Delaney. Given the above story line, it could be hard for other candidates to get much notice on Night No. 2. That seems especially disappointing for someone such as Gillibrand, who has struggled to get anything amounting to a foothold in the race. And I'd say the same for Bennet, though expectations for him have been lower than they were for Gillibrand. The onus will also be on Harris to make herself a part of the debate. She'd probably prefer to appear the night before, but she could also have an opportunity to stealthily make an impression while Biden and Sanders are focused on one another. Buttigieg might also have preferred to be on the other night, but he's shown no real problem earning media attention, so he isn't relying upon this as much as the others. Expectations aren't high for Hickenlooper, but he has, of late, been perhaps the biggest critic of Sanders's brand of democratic socialism. And now he'll get to be on a debate stage with Sanders. Hickenlooper this week gave a speech in Washington saying that Sanders's goal was \"\"to make the United States of America a democratic socialist country. The urgency now is even greater than before: Democrats must say loudly and clearly that we are not socialists. If we do not, we will end up reelecting the worst president in our country's history.\"\" All of the above is subject to this unknown: Does holding the debates on consecutive nights diminish either? When Republicans did this, they put the candidates who were lower in the polls all in a debate the same night as the main event the so-called \"\"kiddie table\"\" debate. That was a recipe for a forgettable forum. Now, though, both debates have big names. Will the first one be forgotten quickly as we focus on the latter? Will both have a chance to make equal impressions? Will there be other big news on either day? We're in some uncharted territory here, in which your opponents matter, but so, too, could the order of the debates.\"",
+        "word_count": 720,
+        "publish_time": "2025-06-01T11:22:27Z",
+        "source": "The Guardian",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "newspolitics",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N43558"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "音乐",
+          "电影",
+          "金融",
+          "商业",
+          "体育",
+          "足球",
+          "旅行",
+          "美食"
+        ],
+        "engagement_score": 0.22
+      },
+      "interaction_data": {
+        "scroll_depth": 0.31,
+        "clicks_count": 7,
+        "shares_count": 1,
+        "comments_count": 1,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.23,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.57,
+        "trend_score": 0.48,
+        "recommendation_relevance": 0.08,
+        "content_quality": 0.89,
+        "user_profile_match": 0.51
+      }
+    },
+    {
+      "timestamp": "2019-06-17T08:42:06Z",
+      "user_id": "U118907",
+      "news_id": "N113705",
+      "action_type": "share",
+      "session_id": "session_b4e43cff8e88",
+      "dwell_time": 47,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "entertainment",
+        "topic": "entertainment-celebrity",
+        "headline": "See how the stars celebrated Father's Day 2019",
+        "content": "\"Celebrities showed a lot of love for the daddies in their lives on Father's Day, June 16, 2019. See how the stars celebrated Father's Day 2019, starting with this dad of three... Ben Affleck was all smiles as he left Sunday church services with son Samuel Affleck and daughter Seraphina Affleck on Father's Day, June 16, 2019. Keep reading for more... \"\"Happy Father's Day! And wishing a very special first Father's Day to The Duke of Sussex! © SussexRoyal\"\" -- Prince Harry and Duchess Meghan's official Instagram account, which shared this beautiful photo of their son, Archie Harrison Mountbatten-Windsor, in his dad's arms on June 16, 2019 \"\"Happy Father's Day to my wonderful husband. Watching you be such a hands on and loving father was one of the many reasons I fell in love with you, and continue to each day. I love you ♥️\"\" --Katherine Schwarzenegger, who posted this pic of Chris Pratt and his son, Jack, on June 16, 2019 Katherine Schwarzenegger posted this pic of herself and sister Christina giving dad Arnold Schwarzenegger a grown-up version of a classic Father's Day gift on her Instagram Story on June 16, 2019. \"\"Happy Father's day to all those men who help make us who we are. Love you, Dad.\"\" -- Rob Lowe , who shared this selfie with dad Charles Lowe on June 16, 2019 \"\"Happy Father's Day to this one. Thanks for teaching me how to play a guitar, write a song, handle a gun, and stand strong in who I am. For all the haggard songs and for all the fried eggs and bacon first thing in the morning for 35 years. #RickLambert #yallwantsomeeggs?\"\" -- Miranda Lambert , who posted this selfie with dad Rick Lambert on June 16, 2019 \"\"How lucky are we to have you in our lives...not only do you make us all laugh everyday, you help us to be our best selves with a loving gentle hand. Being there and caring with a consistent presence that doesn't ever waiver. Macho...I cannot begin to tell you how much you have come to mean to me and Max and Emme!! Seeing the father you are to Tashi and Ella is one of my greatest joys and they are so fortunate to have you to call Daddy!!! We all love you so much!! Happy Fathers Day!!! ♥️♥️♥️\"\" -- Jennifer Lopez , who shared this photo (and many others) in a video honoring fiancé Alex Rodriguez on Instagram on June 16, 2019 \"\"Happy Fathers Day to you Flaco!!! Emme and Max love you soooo much!! Thank you for these two beautiful coconuts!!! Feliz Día Del Padre!!! 🥥🥥🙏🏼 #throwback\"\" -- Jennifer Lopez , who posted a slideshow of photos on Instagram honoring ex-husband Marc Anthony (and celebrating his good relationship with her new love, Alex Rodriguez) on June 16, 2019 \"\"For me, being a father means having that quiet little voice inside of you that says 'Be a better man,' get louder and more consistent... to the point where you can't really remember where that voice ends and where you begin. It means being tired beyond what is probably healthy, and patient beyond what you previously thought possible. And even though you know you're far from perfect... being a father also comes with an unshakable awareness that all your actions have consequences - context that reaches far beyond your own self-interest. It's scary to feel that interconnected with the rest of the world - especially with your heart now walking around outside your body - because it demands more personal responsibility... but it will make you a better man. Of at least that I'm sure. #HappyFathersDay to all the imperfect dads out there, trying their best and learning on the job.👊#fatherhood\"\" -- James Van Der Beek , who posted this photo with his five beautiful children on Instagram on June 16, 2019 \"\"The man who taught me the importance of a well-tailored suit, among many other things. Happy #FathersDay dad!\"\" -- Ryan Seacrest , who posted a slideshow of pics with his dad on Instagram on June 16, 2019 \"\"I feel like this picture pretty much sums up fatherhood! 😂 To all the frog catching, bedtime story reading, wrestling, diaper changing, outside playing, adventure seeking, tickling, cuddling, loving dads out there, Happy Father's Day! @mfisher1212 your boys sure do love you and are are so lucky to have you! ❤️\"\" -- Carrie Underwood , who posted this pic of husband Mike Fisher with sons Isaiah and Jacob on June 16, 2019 Chance the Rapper shared this photo with daughter Kensli Bennett on Father's Day, June 16, 2019. \"\"Happy Fathers Day To My Dad! 99 Years Young And I've Never Loved You More Than Now.\"\" --KISS rocker Paul Stanley, who posted this pic with his dad on Twitter on June 16, 2019 \"\"Happy Father's Day to the best ever. Love you to the moon, Dad!!\"\" -- Mandy Moore , who posted this selfie with dad Donald Moore on June 16, 2019 Jason Momoa is seen going for a ride with kids Lola and Nakoa-Wolf in a Harley-Davidson motorcycle they built together. The actor shared a video of their experience in a YouTube video in honor of Father's Day, June 16, 2019. \"\"EVERYTHING ❤️@swimswammyslippyslappy #HappyFathersDay #Rani🌹\"\" --Kate Hudson, who posted a video of boyfriend Danny Fujikawa making their daughter Rani Rose laugh on Father's Day 2019, June 16 \"\"Here's to you baby!!! Best Daddy ever!! ❤️❤️❤️\"\" --Goldie Hawn, who posted this snapshot of herself and longtime partner Kurt Russell on Father's Day 2019, June 16 \"\"To my wonderful husband Evan who embodies everything a Father should be and more 💖👼🏻🤰🏻 The boys are so blessed to have you! And to my Father, the best Dad a girl could ever ask for! 🙏🏻 Happy Fathers Day xxx\"\" -- Miranda Kerr y, who posted a slideshow of photos honoring husband Evan Spiegel and dad John Kerr on Instagram on June 16, 2019 \"\"Happy dads day! Xojd\"\" --Jeffrey Dean Morgan, who shared this photo of himself with son Gus and daughter George Virginia on Instagram on June 16, 2019 \"\"They say good things come to those who wait.. I'm so glad I did ♥️ We love you Papa ♥️ Happy (19th!) Father's Day @bigbaldhead\"\" --Diane Kruger, who posted this pic of boyfriend Norman Reedus and their daughter on Instagram on June 16, 2019 \"\"Happy Father's Day to one of my favorite humans I know - #greatnesses always there for me and my boys I love I w all my heart ❤️ #grateful #blessed #loveudad gx #littlesister\"\" -- Gwen Stefani , who posted a slideshow of photos of herself with her dad, Dennis Stefani, through the years on Instagram on Father's Day 2019, June 16 \"\"I love being a father! Happy Father's Day to all the dads out there\"\" --David Arquette, who posted this pic of kids Coco, Gus and Charlie on Instagram on June 16, 2019 \"\"My dad isn't on social media but if he was...I'd tell him how proud I am to be his son. How the lessons that he instilled in me have made me the husband, father and man that I am today. How I so regret those adolescent and young adult years when I was an insufferable a-- and we lost contact. I learned from his actions that regardless of your education or station in life, you do whatever you have to to take care of and support your family. I'd tell him how lucky I was to grow up in a family that not only told me I was loved but that through their actions, made me feel loved. I'd tell him that my kids not only hear me tell them I love them numerous times each day but hopefully, through what I learned from him, feel that love through my actions. If my dad was on social media, I'd tell him how much I wished I could have helped him more when his wife, my mom, died, leaving him to take care of three young boys and how now, looking back, I should've focused on him and my younger brothers instead of pushing it all away. If he were on social media, he'd see this post and know all of these things. But he's not. So, I'll call him today, and wish him a happy Father's Day. We'll talk about the weather and how he's doing since the death of his third wife. I'll tell him that we really miss being in Prague and he'll say that he's sorry that he couldn't make it over to see us. He'll rush me off of the phone like he always does with a little lie about having something that he needs to get to, but we'll end the call by exchanging 'love you' and 'talk to you soon.' I won't mention any of the things in this post because time heals so much, because we're guys (don't kid yourself, that is an excuse) and because that's how it works for us. But i think he knows. #HappyFathersDay\"\" --Scott Foley, who posted this selfie with his dad on Instagram on June 16, 2019 Christina Anstead posted this Instagram Story pic with husband Ant Anstead on Father's Day, June 16, 2019, during their babymoon trip to Sedona, Arizona, during the final week of her second trimester. \"\"Happy Father's Day my love. I love how you always thinking about your kids future and the way you love them. FATHEROF4❤️❤️❤️\"\" --Cardi B, who posted this photo of husband Offset and their daughter, Kulture, on Instagram on June 16, 2019 \"\"Happy #FathersDay #Dad! Thank you for your service & most important, for being a great dad! 🤘🎸🇺🇸\"\" -- Bret Michaels , who posted this Father's Day selfie with his dad on June 16, 2019 \"\"My first Father's Day! Happy Dad's Day, everybody. I want to thank my surrogate in California, without whom I wouldn't have Ben. And I need to ask: If a woman is willing to provide the gift of life to a man like me, or a couple struggling with infertility, why should the government be able to tell her what she can do with her body? It's past time to end NY's ban on surrogacy & pass the Child-Parent Security Act. If you're in NY State please call your Assemblyperson and ask them to end the surrogacy ban this week! #ModernFamiliesNY\"\" --Andy Cohen, who posted this photo of son Benjamin on Instagram on June 16, 2019 \"\"love u every day dad\"\" -- Katy Perry , who posted this vintage snapshot of her parents, Keith and Mary Hudson, on Instagram to mark Father's Day 2019 \"\"Happy Fathers Day! You are the best daddy to our kids!!! We love you so much!\"\" -- Kim Kardashian West , who posted a slideshow of family photos with husband Kanye West on Instagram on Father's Day, June 16, ...",
+        "word_count": 1813,
+        "publish_time": "2025-05-24T18:17:45Z",
+        "source": "TechCrunch",
+        "tags": [
+          "entertainment-celebrity",
+          "entertainment",
+          "ai",
+          "health",
+          "government"
+        ],
+        "entities": {
+          "persons": [
+            "{'stars': 'Star', ",
+            "Father's Day",
+            ": ",
+            "Fathers' Day",
+            "}"
+          ],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N58081",
+          "N25368"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "国际",
+          "社会",
+          "电脑",
+          "理财",
+          "财经",
+          "电影",
+          "明星"
+        ],
+        "engagement_score": 0.28
+      },
+      "interaction_data": {
+        "scroll_depth": 0.89,
+        "clicks_count": 1,
+        "shares_count": 0,
+        "comments_count": 2,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.22,
+        "topic_keywords": [
+          "entertainment-celebrity",
+          "entertainment",
+          "ai"
+        ],
+        "viral_potential": 0.09,
+        "trend_score": 0.66,
+        "recommendation_relevance": 0.32,
+        "content_quality": 0.02,
+        "user_profile_match": 0.0
+      }
+    },
+    {
+      "timestamp": "2019-06-14T05:20:46Z",
+      "user_id": "U317643",
+      "news_id": "N27499",
+      "action_type": "comment",
+      "session_id": "session_50a637851292",
+      "dwell_time": 75,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "markets",
+        "headline": "A Morgan Stanley reading on the economy collapses by the most ever",
+        "content": "\"A reading of the economy from Morgan Stanley is signaling \"\"June gloom.\"\" Morgan Stanley's Business Conditions Index, which captures turning points in the economy, fell by 32 points in June, to a level of 13 from a level of 45 in May. This drop is the largest one-month decline on record and the lowest level since December 2008 during the financial crisis, according to the firm. \"\"The decline shows a sharp deterioration in sentiment this month that was broad-based across sectors,' economist Ellen Zentner said in a note to clients. \"\"Fundamental indicators point to a broad softening of activity, but analysts did not widely attribute the weakening to trade policy.\"\" Fears of a possible economic slowdown were raised last week after a much worse than expected jobs report. The economy added just 75,000 jobs in May , according to the Labor Department last Friday. A report on Thursday showed a spike in jobless claims last week. Manufacturing activity last month grew at the slowest pace in two years. Worries about a trade deal getting passed between the U.S. and China weighed on stock markets in May. Perversely, that weak sentiment actually boosted stocks this month because traders are hoping the Federal Reserve will cut interest rates. But some investors are starting to worry the economy could fall into an outright recession. June's conditions index reading showed notable declines in hiring, hiring plans, capex plans, and business conditions exceptions, Morgan Stanley said.. The manufacturing subindex business conditions fell sharply to zero, \"\"a decline that was likely exaggerated by the recent turn lower in oil prices, while marking the lowest level for the subindex on record,\"\" Zentner said. The services subindex also fell to 18 from 35. Related video: America's millionaires are optimistic about the market and the economy (provided by CNBC)\"",
+        "word_count": 300,
+        "publish_time": "2025-05-20T08:36:45Z",
+        "source": "Fox News",
+        "tags": [
+          "policy",
+          "markets",
+          "market",
+          "ai",
+          "finance",
+          "economy",
+          "report",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "奥运会",
+          "保险",
+          "财经"
+        ],
+        "engagement_score": 0.57
+      },
+      "interaction_data": {
+        "scroll_depth": 0.62,
+        "clicks_count": 8,
+        "shares_count": 3,
+        "comments_count": 4,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.51,
+        "topic_keywords": [
+          "policy",
+          "markets",
+          "market"
+        ],
+        "viral_potential": 0.9,
+        "trend_score": 0.96,
+        "recommendation_relevance": 0.43,
+        "content_quality": 0.7,
+        "user_profile_match": 0.74
+      }
+    }
+  ],
+  "metadata": {
+    "source": "web_portal",
+    "version": "1.0",
+    "processed_time": "2025-06-12T18:55:25.411325Z"
+  }
+}

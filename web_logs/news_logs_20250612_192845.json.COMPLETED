@@ -1,0 +1,748 @@
+{
+  "batch_id": "batch_20250612_192845_2e5606ff",
+  "events": [
+    {
+      "timestamp": "2019-06-17T18:17:58Z",
+      "user_id": "U98537",
+      "news_id": "N42407",
+      "action_type": "read",
+      "session_id": "session_652ee7a552b7",
+      "dwell_time": 7,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestyledidyouknow",
+        "headline": "These are the 20 least fun states in the U.S.",
+        "content": "\"These are the states with bad weather, no access to movies, low investment in parks and rec, and more, according to WalletHub. WalletHub released a study ranking all 50 states on how much fun they are , primarily based on two factors: nightlife and entertainment and recreation. They took into account many qualities, including amusement parks , golf courses, movie theaters, beach quality, music festivals , ideal weather, the average price of beer and wine, and many more. West Virginia came in dead last, making it the least fun state in the union . Visit INSIDER's homepage for more stories. If you've ever thought, \"\"Man, there really is nothing to do around here,\"\" you might not be exaggerating. WalletHub ranked all 50 states on their levels of fun, letting us know what the least fun states are, too. If you live in Delaware , good luck catching the latest movies - the state has the least amount of movie theaters per capita. And if you're passing through Mississippi , think twice about seeing a play. It has the fewest performing arts theaters per capita. Keep scrolling to see the 20 least fun states in America. 20. South Dakota Visitors and residents of South Dakota should be prepared to cook for themselves. The Mount Rushmore State reached No. 47 for fewest restaurants per capita, only behind Wyoming, Alaska, and North Dakota. 19. Idaho Don't come to Idaho expecting a lot of theater options - it ranked No. 47 for amount of performing arts theaters per capita. 18. New Jersey New Jersey came in towards the bottom of the ranking for variety of arts, entertainment, and recreation establishments, pulling in at No. 46 on that measure. 17. Kentucky Kentucky ranked No. 37 for states with the highest amount of ski resorts per capita. It also ranked No. 47 for state and local expenditures on parks and recreation per capita. 16. Iowa Iowa's high No. 19 ranking for nightlife was offset by its No. 40 spot for entertainment and recreation. 15. Montana Montana has the third-highest best access to national parks ... but not much else is going on in the Treasure State. 14. Maine Surprisingly, Maine has the highest variety of arts, entertainment, and recreation establishments, but that wasn't enough to bump it higher on the list. 13. Nebraska The landlocked Nebraska predictably came in 50th for most marinas per capita. However, this was mitigated by its No. 25 ranking for nightlife. 12. Indiana Indiana's relatively flat land worked against it - of the 37 states with ski facilities, Indiana is at No. 33. 11. North Dakota North Dakota ranked dead last for the amount of restaurants per capita. 10. Kansas Kansas averaged relatively low on both rankings, coming in at 38 for entertainment and recreation and 32 for nightlife. 9. New Hampshire New Hampshire is at the very bottom of the list for state and local expenditures on parks and recreation per capita. It spends five times less than No. 1-ranked North Dakota and Wyoming. 8. Connecticut Connecticut ranked No. 40 for nightlife. 7. Alabama Alabama earned the No. 47 spot for personal expenditures on recreation services per capita, only behind Arkansas, West Virginia, and Mississippi. 6. Arkansas Arkansas had one of the lowest average personal expenditures on recreation services per capita - in other words, people barely spend money on fun extracurriculars. 5. Vermont Unsurprisingly, Vermont tied for first for most ski resorts per capita, but was ranked low for the overall entertainment and recreation category and for nightlife. 4. Rhode Island Surprisingly, though it's ranked so low, Rhode Island is tied with No. 2 overall most fun state Florida for most marinas per capita. 3. Delaware Delaware has the least movie theaters per capita, eight times less than the three states tied for most: New York, California, and Texas. 2. Mississippi Mississippi came in 50th for performing arts theaters per capita - No. 1 ranked state New York has 39 times the amount of theaters. 1. West Virginia West Virginia came in last in the general entertainment and recreation ranking, and also ranked towards the bottom for fewest performing arts theaters per capita, fewest fitness centers per capita, lowest variety of arts, entertainment, and recreation establishments, and tied for last for lowest personal expenditures on recreation services per capita.\"",
+        "word_count": 720,
+        "publish_time": "2025-05-17T06:17:24Z",
+        "source": "Washington Post",
+        "tags": [
+          "movie",
+          "music",
+          "entertainment",
+          "ai",
+          "study",
+          "investment",
+          "lifestyle",
+          "lifestyledidyouknow"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N37222",
+          "N103844"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "明星",
+          "音乐",
+          "篮球",
+          "网球",
+          "健康",
+          "时尚",
+          "经济",
+          "商业"
+        ],
+        "engagement_score": 0.55
+      },
+      "interaction_data": {
+        "scroll_depth": 0.14,
+        "clicks_count": 3,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.76,
+        "topic_keywords": [
+          "movie",
+          "music",
+          "entertainment"
+        ],
+        "viral_potential": 0.37,
+        "trend_score": 0.35,
+        "recommendation_relevance": 0.77,
+        "content_quality": 0.4,
+        "user_profile_match": 0.6
+      }
+    },
+    {
+      "timestamp": "2019-06-14T07:42:56Z",
+      "user_id": "U196892",
+      "news_id": "N37463",
+      "action_type": "share",
+      "session_id": "session_292746a922d4",
+      "dwell_time": 13,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "health",
+        "topic": "nutrition",
+        "headline": "12 Foods to Avoid If You Have Arthritis",
+        "content": "When you have arthritis, you want to keep inflammation at a minimum. Find out what foods you should avoid to feel your best. When you have arthritis, you want to keep inflammation at a minimum. Click through the gallery above to find out what foods you should avoid to feel your best. Alcohol Try to limit the amount of alcohol you consume as it can aggravate any inflammation happening in the body. ( What is inflammation? Here's a quick explainer. ) This becomes a real concern if you're having more than one or two drinks per sitting. Instead, give non-alcoholic party drinks a try to help you cut back but still have fun. White Bread Refined carbohydrates like white bread not only provide your body with minimal nutrition but may also fuel the production of something called advanced glycation end (AGE) products . These compounds are known to promote inflammation, a red flag for those with arthritis. Swap out white bread for whole grain bread like this , which is also a healthy choice in terms of fiber, vitamins and minerals. Ice Cream Sugar is a major inflammatory agent in our diet, as is saturated fat both of which can make arthritis symptoms worse! Ice cream has high levels of both saturated fat and sugar, making it something to enjoy every now and then. For dessert most nights, try one of these colorful fruit salad recipes . French Fries Traditional french fries are (unfortunately) aggravating for those suffering from arthritis. Fried foods and refined carbohydrates both fuel production of AGEs. Also, french fries are typically fried in vegetable oils that are composed of pro-inflammatory omega-6 fatty acids. Finally, they are typically loaded with sodium, which can promote inflammation. All three of these factors make french fries a poor choice for those with arthritis. We're recommending sweet potato fries as an alternative . Cakes, Cookies and Other Sweets Given that both sugar and saturated fats are inflammatory foods, traditional treats are something those with arthritis should avoid. Fortunately, there are many ways to satisfy your sweet tooth, whether that be swapping out sugar for a natural alternative and/or swapping out butter and cream for low-fat yogurt or avocado. Here are some great low-sugar desserts to try. Takeout Chinese Food Takeout food tends to be loaded with sodium, making it highly inflammatory. Chinese food is a particular concern because it often contains monosodium glutamate (MSG), which can trigger two separate inflammatory pathways, making it a big stressor for arthritis symptoms. If you're hankering for some Chinese takeout, try one of these MSG-free takeout fake-out recipes . Soda You'll find sugar, aspartame and/or phosphoric acid on the ingredient list of most sodas. All three of these can flare arthritis pain through aggravating inflammation. Try replacing your soda with green tea or one of these fruity infused waters . Safflower, Sunflower, Corn and Soybean Oil Safflower, sunflower, soybean and corn oil all have one thing in common: They're composed of more omega-6 fatty acids than omega-3 fatty acids. Given that omega-6s are pro-inflammatory fatty acids, as opposed to the anti-inflammatory omega-3 fatty acids , these oils can make arthritis symptoms worse. Try swapping these oils out for avocado oil, walnut oil, flaxseed oil or cod liver oil. Potato Chips Similar to french fries, potato chips are an AGE-producing refined carb, loaded with sodium, and tend to be fried in a not-good-for-you vegetable oil. All three of these factors make them likely to irritate bodily inflammation. These brands of healthy chips may hit the spot when you're craving something crunchy! Red Meat Meats, particularly red meats, increase inflammation in the body through a number of pathways, from increasing inflammatory lab markers to containing AGEs after cooking using dry heat, like grilling. Try to reduce your red meat intake if you can and/or cook it off the grill. Margarine While trying to limit your saturated fat intake, you may want to turn from butter to margarine, but resist the temptation! Margarine is full of trans fats, an artificially created fat that turns unsaturated (liquid) fats into solids. When you eat these types of fats, they lower your good cholesterol while increasing your bad cholesterol as well as increase inflammatory markers in your body. Try to focus on heart-healthy, high omega-3 oils like avocado, walnut and flaxseed. Processed Meats Processed meats (and processed foods for that matter) are major inflammatory aggravators. Processed foods tend to contain saturated fats and loads of sodium while processed meats are known carcinogens and can be AGE-producing. Try to limit your intake of these as much as possible and stick to homemade foods and minimally processed, gently cooked meats.",
+        "word_count": 777,
+        "publish_time": "2025-06-01T22:56:15Z",
+        "source": "Bloomberg",
+        "tags": [
+          "ai",
+          "health",
+          "nutrition"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "娱乐",
+          "篮球",
+          "投资",
+          "经济"
+        ],
+        "engagement_score": 0.03
+      },
+      "interaction_data": {
+        "scroll_depth": 0.13,
+        "clicks_count": 9,
+        "shares_count": 1,
+        "comments_count": 3,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.71,
+        "topic_keywords": [
+          "ai",
+          "health",
+          "nutrition"
+        ],
+        "viral_potential": 0.32,
+        "trend_score": 0.98,
+        "recommendation_relevance": 0.73,
+        "content_quality": 0.9,
+        "user_profile_match": 0.17
+      }
+    },
+    {
+      "timestamp": "2019-06-18T15:50:10Z",
+      "user_id": "U148238",
+      "news_id": "N61448",
+      "action_type": "skip",
+      "session_id": "session_218ddf3a2180",
+      "dwell_time": 207,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Family who left 80-year-old alone on mountain may get billed for rescue",
+        "content": "\"New Hampshire officials are considering having the family of an 80-year-old hiker cover the costs of his hours-long rescue mission, saying he was unprepared to hike in dangerous weather. They are also weighing criminal charges after two family members left the man to hike alone. James Clark was found Thursday night on Mount Washington in New Hampshire in a fetal position and showing signs of hypothermia \"\"to the point of not being able to speak any clear or discernible words,\"\" the New Hampshire Fish and Game said in a press release . Clark, of Dublin, Ohio, was attempting to climb Lion Head Trail in Sargent's Purchase with two family members when they left him behind, officials said. The family members summited Mount Washington without Clark and then descended down a different trail. They became worried and called rescue personnel around 7:45 pm. on Thursday when Clark had not reached the summit. The family members told authorities that Clark did not have overnight gear and was not carrying a cell phone or light. Temperatures on the summit were below freezing with a wind-chill of 12 degrees Fahrenheit, officials said. Rain and dense fog led to icy conditions. New Hampshire Fish and Game Lt. Mark Ober said Tuesday that Clark was not prepared to make the hike in those weather conditions and was not wearing proper clothing. Ober told the Associated Press that his agency may recommend to the attorney general's office that Clark's family pay the cost of the rescue mission. The cost of the mission has not yet been determined. Fish and Game Major Dave Walsh told the New Hampshire Union Leader that criminal charges are also possible because Clark was left to hike alone and his family members did not go back to check on him. \"\"That may be something that we look at when we ask the attorney general about the negligent hiking,\"\" he said. \"\"They should have been better prepared in terms of equipment and clothing and never should have left him alone. I don't know his physical shape, but he's 80 years old.\"\" Clark was found late Thursday night on the Lion Head Trail. He had to be changed into dry clothes and placed in a sleeping bag for warmth, the Fish and Game agency said. \"\"Three rescue personnel continued to keep Clark warm and alive as volunteer rescuers were called to assist in the life-saving event,\"\" the agency stated in its press release. Another rescue team reached Clark around 1:15 a.m. on Friday and carried him almost two miles to a road, where he was then taken by ambulance to the hospital for non-life-threatening injuries. Fish and Game Conservation Officers, the Appalachian Mountain Club and the Androscoggin Valley Search and Rescue Team all assisted in the rescue. Clark told the Union Leader that the family members he was with were his grandsons, ages 19 and 14, and they had planned for the two teenagers to hike at their own pace and let Clark catch up later. He said they had done that before while hiking in New York and Vermont. \"\"If anybody's at fault, it's definitely me and not those boys,\"\" Clark said. \"\"I'm the one who has insisted that they go ahead. So any negligence was on my part.\"\"\"",
+        "word_count": 545,
+        "publish_time": "2025-06-03T21:13:58Z",
+        "source": "Associated Press",
+        "tags": [
+          "ai",
+          "news",
+          "newsus"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N84282",
+          "N86016"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "保险",
+          "健康"
+        ],
+        "engagement_score": 0.94
+      },
+      "interaction_data": {
+        "scroll_depth": 0.26,
+        "clicks_count": 0,
+        "shares_count": 1,
+        "comments_count": 2,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.13,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "newsus"
+        ],
+        "viral_potential": 0.93,
+        "trend_score": 0.86,
+        "recommendation_relevance": 0.79,
+        "content_quality": 0.8,
+        "user_profile_match": 0.26
+      }
+    },
+    {
+      "timestamp": "2019-06-18T20:43:34Z",
+      "user_id": "U138277",
+      "news_id": "N90064",
+      "action_type": "share",
+      "session_id": "session_00bc496986d1",
+      "dwell_time": 20,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestylehomeandgarden",
+        "headline": "35 Things You're Unaware of That Make Your House a Target for Burglars",
+        "content": "These not-so-obvious indicators will make your home a target for thieves. Leaving Trash Visible in Garbage Cans Setting out the box from your new 60-inch HDTV or high-end gaming console on the curb is basically advertising the fact that those items are in your home. As electronics are the second thing burglars go for (cash is number one), this makes your home an attractive target, according to the study. So buy a cheap box cutter and invest the 30 seconds it takes to break down large boxes and bundle them together so their labels can't be seen. Plus, your garbage man will thank you! Find out what else your garbage collector wants you to know. Sometimes Just Living on Your Street Homes in high-visibility places are far less likely to be broken into. There are simply too many potential ways to be seen. But townhomes, houses in the middle of the block, or houses in a cul-de-sac are much better targets. This is especially true if your property backs up to a forest, open lot, or other unguarded area. The trick, according to Secure Life, is to make your house as difficult as possible to access. This means installing high fences and lots of lighting. Learn 13 sneaky things FBI agents do to protect their homes . Posting Vacation Pics Forty percent of people admit posting pics while out of town, according to Nationwide. And while putting your vacation pictures online might get you a lot of likes, it also notifies your friends and acquaintances that you re now far from home, making your house a prime target for anyone with ill intentions or just an opportunistic streak. Instead, make sure your social media profiles aren t public, and wait to post your beautiful beach selfies until you get home. Here are some other things you should never post on social media for the sake of your own safety and your home's safety . Mailbox It takes two minutes online or on the phone to put a hold on your mail while you re gone and subvert the number one signal burglars look for: an overflowing porch or mailbox. These are the hiding spots burglars check first . Save yourself a trip to the mailbox by installing an alert system like this. Your Yard Gives a Lot of Clues Love those flowers . That says you have taste…and taste means there are nice things inside. Those yard toys your kids leave out always make me wonder what type of gaming system they have. By the way, this is the most common time for burglaries and it's not at night. Letting Newspapers and Flyers Build Up Yes, burglars really do look for newspapers piled up on the driveway. And they might leave a pizza flyer in your front door to see how long it takes you to remove it. Check out these 12 unusual things postal carriers see every day . Not Locking the Door According to SafeGuardTheWorld, a professional preventative security company, around 30 percent of burglaries involve a burglar entering through an unlocked door. It seems silly to have to say it but people forget to lock the door sometimes and it becomes ripe for the picking. Try these 13 inexpensive ways to theft-proof your home . Leaving a Window Cracked You might want to keep the house cool and save some money by not running the air conditioning but your setting your home up as a target even if the window is left open a crack. Here are 10 sensible ways to save on cooling costs . Having a Wide Open Backyard A backyard without a fence or one that opens up to a wooded area is prime for burglars to target. It's relatively easy to move in and out of, plus the woods will make an escape easier. Try some maintenance-free fencing if you feel the need to create a deterrence. Keeping a Window A/C Unit Window units are great at cooling smaller spaces but they're also great for thieves to knock out of the way and grab any loot inside a home. Leaving Expensive Stuff in Sight It should go without saying but anything of value shouldn't be left in view from the outside. Burglars will often case a house before breaking in and if your home has valuable items out, the likelihood of it getting ribbed just went up. You need to know the 50 places thieves will never look in order to be safe. Forgetting to Lock the Garage Door Be sure to lock each garage door, including the one that leads to the backyard because thieves will use any entry point to gain access. Check out how thieves can attack your garage and how to secure it. Leave Spare Keys in Obvious Places You might to consult this list of obvious hiding places before deciding where to keep a spare key because burglars are definitely going to check the cliche spots. Instead try these secret hiding places for spare keys and other valuables . Forgetting to Keep Up With Appearances If you normally leave your blinds or drapes open during the day and close them the day you leave for vacation, that could be a calling card for burglars that no one is home. 'I recommend a mix of open, partially open, and close,' says Emily Long, safety expert at SafeWise . 'Open blinds that provide full views of TVs, computers, and other valuables can tempt burglars, while partially open blinds provide privacy and security as well as let interior light out, giving the illusion that you are home.' Try one of these tricks with your blinds to keep it cool inside during the summer. Leaving an Opening Through the Dog Door When burglars can t get in through human entrances to your house, they may try to get in through the animal entrances. Robert Sollars, security expert and creator of robertdsollars.com , knows this all too well. 'There are innumerable instances of doors being secured but the burglar coming in through the kitty door,' he advises. 'Not all burglars are 6-foot-2 and 200 pounds. They can slither through those openings as well as a snake.' One of the burglaries Nancy Gretzinger experienced was committed in this way. 'They came in a medium-small doggie door,' she said. So, pet owners, keep your pet doors secure as well. If worse comes to worst and a burglar does manage to enter your home, make sure your valuables are not in these hiding spots burglars always check first . Try these 40 pet projects to show your favorite canine or feline some love. Leaving Fresh Snow If it snows while you re out of town, get a neighbor to create car and foot tracks into the house. Virgin drifts in the driveway are a dead giveaway. Here's another way to install a reliable security system in just one day . DIY home security systems will help to protect your home and your family. Glass Doors are Thieves' Best Friends If decorative glass is part of your front entrance, don't let your alarm company install the control pad where a burglar can see if it's set. That makes it too easy. Glass doors will rob you in energy costs, too. See how to save money by better insulating a patio door. Close Your Blinds Burglars love looking in your windows. They're looking for signs that you re home or gaming systems they'd like. Burglars will drive or walk through your neighborhood at night, before you close the blinds, just to pick their targets. Hopefully you have a friendly neighbor but beware of the things they aren't telling you . Forgetting to Secure Patio Doors Patio door locks are easy to pick. Placing a heavy-duty stick in the door track will bar the door closed, but it looks crude and it's inconvenient to remove every time you want to open the door. Fortunately, there's a better way to get the security you need.Andersen Corp.'s auxiliary foot lock ( andersenwindows.com ) fastens along the bottom of the door and has a bolt that fits into a grommet to hold the door secure. A similar lock, the Door Guardian ( thedoorguardian.com ) attaches at the top of the door. Both locks allow the door to open 3 in. without compromising security. Installation takes about 10 minutes. Screw the bracket containing the pin to the door, then drill holes and insert grommets in the track for the pin to slide into. Need to replace your patio door? Here's how to do it. Keeping the Clicker in the Car A thief who breaks into your car can grab the remote for easy access to your garage. This isn't just a problem when your car is parked in the driveway; the registration card in your glove box gives a crook your address.So get rid of the remote on your visor and buy a keychain remote. You can easily take it with you every time you leave the car. Home centers stock only a small selection of remotes, but you'll find more online. Start your search by typing in the brand of your opener, followed by 'remote.' Flowers Start to Wilt While your friends and neighbors can pick up the mail, grab the paper, create tracks in the snow, etc. Your flowers might get overlooked. A thief in the area will wise up to what's going on when they spot a few wilted flowers. Keep the bushes in your yard from wilting too with these tips. Lawn Hasn't Been Mowed For a While If you have someone routinely mow your lawn you don't have to worry about it overgrowing while your on vacation but if you think you can get away with it for a long time, think again. Thieves will notice just as quickly as your neighbors what an eyesore your lawn has become. The neighbors might talk about it with each other but a thief is going to use it as an excuse to check in on the rest of your house. Leaving the House Dim Some people want to leave a dim light on while they're away on vacation as a deterrent to break-ins. The debate rages on whether it's better to leave lights on or off but one thing's for sure, those dim lights at night are going to be dim during the day and any smart burglar will notice that. Find out the other secrets burglars don't want you to know. Bushes Are Overgrown Overgrown bushes leave a lot of hiding spots for burglars who are planning a heist. It might be a pain to trim them back but it'll make your yard look better and improve security. Trimming shrubs should be one of the 14 things they do every month. Home Business If you have a home business there are additional precautions to take since there ...",
+        "word_count": 1819,
+        "publish_time": "2025-06-09T11:54:50Z",
+        "source": "Bloomberg",
+        "tags": [
+          "ai",
+          "news",
+          "breaking",
+          "lifestylehomeandgarden",
+          "election",
+          "stock",
+          "lifestyle",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N16538",
+          "N17354"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "政治",
+          "社会",
+          "商业",
+          "足球",
+          "奥运会"
+        ],
+        "engagement_score": 0.8
+      },
+      "interaction_data": {
+        "scroll_depth": 0.43,
+        "clicks_count": 9,
+        "shares_count": 1,
+        "comments_count": 2,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.89,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "breaking"
+        ],
+        "viral_potential": 0.06,
+        "trend_score": 0.36,
+        "recommendation_relevance": 0.14,
+        "content_quality": 0.53,
+        "user_profile_match": 0.17
+      }
+    },
+    {
+      "timestamp": "2019-06-19T06:10:50Z",
+      "user_id": "U15020",
+      "news_id": "N99571",
+      "action_type": "read",
+      "session_id": "session_c68796416d53",
+      "dwell_time": 755,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "entertainment",
+        "topic": "video",
+        "headline": "Sandra Bullock Talks Reuniting With Keanu Reeves for More 'Speed' | MTV Awards 2019 (Exclusive)",
+        "content": "ET spoke with the actress backstage after her win for 'Most Frightened Performance' at the 2019 MTV Movie and TV Awards, where she opened up about why she signed on to 'Bird Box,' motherhood and her pal Keanu Reeves, whom she says she has no interest in setting up on a date.",
+        "word_count": 52,
+        "publish_time": "2025-05-18T02:34:06Z",
+        "source": "CNN",
+        "tags": [
+          "movie",
+          "exclusive",
+          "entertainment",
+          "video",
+          "tv"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N12095",
+          "N66771"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "经济",
+          "生活",
+          "网球",
+          "足球"
+        ],
+        "engagement_score": 0.08
+      },
+      "interaction_data": {
+        "scroll_depth": 0.84,
+        "clicks_count": 9,
+        "shares_count": 1,
+        "comments_count": 1,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.6,
+        "topic_keywords": [
+          "movie",
+          "exclusive",
+          "entertainment"
+        ],
+        "viral_potential": 0.39,
+        "trend_score": 0.71,
+        "recommendation_relevance": 0.72,
+        "content_quality": 0.89,
+        "user_profile_match": 0.27
+      }
+    },
+    {
+      "timestamp": "2019-06-21T18:46:05Z",
+      "user_id": "U88198",
+      "news_id": "N92415",
+      "action_type": "share",
+      "session_id": "session_132219dcd482",
+      "dwell_time": 39,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Bear discovered napping on closet shelf",
+        "content": "\"A black bear that became locked inside a Montana residence made itself at home and took a nap on a shelf in a closet after ripping the room apart. Deputies from the Missoula County Sheriff's Office responded to the Butler Creek resident's call around 5:45 Friday morning and discovered the bear had opened the door to the mudroom and \"\"somehow managed to deadbolt the door from the inside,\"\" the sheriff's office reported on Facebook . \"\"When deputies knocked on the window, the bear was not the least bit impressed,\"\" the sheriff's office wrote. \"\"He slowly stretched, yawned and, unamused, looked toward the door. Eventually, deputies were able to unlock the door in hopes he would hop down and leave. However, their attempts were only met with more big bear yawns.\"\" Also on FTW Outdoors: Angler revives exotic sea creature in rare encounter Officials from the Montana Fish, Wildlife and Parks arrived and tranquilized the bear so it could be relocated. \"\"The homeowners were glad he was removed in good health, but won't soon forget when this intruder came looking for the bear necessities!\"\" the sheriff's office wrote, adding a reminder to make sure you lock your doors. Photos courtesy of the Missoula County Sheriff's Office. Follow David Strege and the outdoors on Facebook. MORE: Kyle Kuzma is already trash-talking his former Lakers teammate NBA Free Agency 2019: The top players Rob Pelinka May Not Have Known the Cap Rules for Anthony Davis Trade News: Elliott holdout concern re-emerges from Bristol, Cowboys new DE impresses Luke Bowanko: what the Lions are getting with their new OL\"",
+        "word_count": 265,
+        "publish_time": "2025-06-12T05:04:54Z",
+        "source": "Reuters",
+        "tags": [
+          "news",
+          "health",
+          "report",
+          "newsus"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N27595",
+          "N20524"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "美食",
+          "新闻",
+          "国际",
+          "金融"
+        ],
+        "engagement_score": 0.16
+      },
+      "interaction_data": {
+        "scroll_depth": 0.59,
+        "clicks_count": 1,
+        "shares_count": 0,
+        "comments_count": 5,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.22,
+        "topic_keywords": [
+          "news",
+          "health",
+          "report"
+        ],
+        "viral_potential": 0.01,
+        "trend_score": 0.93,
+        "recommendation_relevance": 0.48,
+        "content_quality": 0.83,
+        "user_profile_match": 0.74
+      }
+    },
+    {
+      "timestamp": "2019-06-17T12:11:27Z",
+      "user_id": "U61431",
+      "news_id": "N60159",
+      "action_type": "click",
+      "session_id": "session_f236831799f0",
+      "dwell_time": 230,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tvnews",
+        "headline": "Anderson Cooper Narrates Emotional Obituary For His Mom, Gloria Vanderbilt",
+        "content": "\"CNN's Anderson Cooper became emotional during a touching segment honoring his mother, Gloria Vanderbilt, who died Monday at age 95. Cooper got a bit choked up near the end of the segment, as he recounted the recent time they had spent together and realizing they shared \"\"the exact same giggle.\"\" Vanderbilt was diagnosed with stomach cancer several weeks ago. Gloria Vanderbilt died this morning, according to her son, CNN's Anderson Cooper. The fashion designer and socialite was 95. https://t.co/Hxeen0b3fm pic.twitter.com/uNJutm9BV6 CNN (@CNN) June 17, 2019 \"\"The last few weeks, every time I kissed her goodbye, I would say, 'I love you, Mom,'\"\" Cooper said in the segment. \"\"She would look at me and say, 'I love you, too. You know that.' And she was right. I did know that. I knew it from the moment I was born, and I'll know it for the rest of my life. And in the end, what greater gift can a mother give to her son?\"\" \"\"What an extraordinary life,\"\" Cooper said at the end of the obituary. \"\"What an extraordinary mom. And what an incredible woman.\"\" Related slideshow: Stars we've lost in 2019 (via Photo Services)\"",
+        "word_count": 193,
+        "publish_time": "2025-05-17T20:58:56Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "ai",
+          "tvnews",
+          "tv"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N65118",
+          "N95121"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "美食",
+          "理财",
+          "电脑",
+          "互联网",
+          "政治"
+        ],
+        "engagement_score": 0.07
+      },
+      "interaction_data": {
+        "scroll_depth": 0.59,
+        "clicks_count": 6,
+        "shares_count": 1,
+        "comments_count": 0,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.04,
+        "topic_keywords": [
+          "ai",
+          "tvnews",
+          "tv"
+        ],
+        "viral_potential": 0.72,
+        "trend_score": 0.19,
+        "recommendation_relevance": 0.83,
+        "content_quality": 0.77,
+        "user_profile_match": 0.4
+      }
+    },
+    {
+      "timestamp": "2019-06-21T09:48:40Z",
+      "user_id": "U174179",
+      "news_id": "N49403",
+      "action_type": "share",
+      "session_id": "session_f9cd11512200",
+      "dwell_time": 62,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsworld",
+        "headline": "Iran shows purported wreckage of downed U.S. drone",
+        "content": "\"Iranian authorities showed debris that they said were retrieved sections of a U.S. military drone. The head of the Revolutionary Guard's aerospace division said the debris proved the drone was over Iranian territorial waters when it was shot down. The purported wreckage of an American drone is seen displayed by the Islamic Revolution Guards Corps in Tehran, Iran June 21, 2019. Iranian authorities showed debris that they said were retrieved sections of a U.S. military drone. The head of the Revolutionary Guard's aerospace division said the debris proved the drone was over Iranian territorial waters when it was shot down. Tasnim News Agency/Handout via REUTERS The purported wreckage of the American drone is seen displayed by the Islamic Revolution Guards Corps in Tehran, June 21. Tasnim News Agency/Handout via REUTERS A still image from surveillance video provided by the U.S. military shows what they say is a drone being shot down over the Strait of Hormuz, June 20. U.S. Department of Defense/Handout via REUTERS A \"\"3 Khordad\"\" system, which is said to had been used to shoot down a U.S. military drone, according to IRINN, is being launched in this screen grab taken from an undated video. IRINN/Reuters TV via REUTERS The purported wreckage of the American drone is seen displayed by the Islamic Revolution Guards Corps in Tehran, June 21. Tasnim News Agency/Handout via REUTERS The purported wreckage of the American drone is seen displayed by the Islamic Revolution Guards Corps in Tehran, June 21. Tasnim News Agency/Handout via REUTERS The purported wreckage of the American drone is seen displayed by the Islamic Revolution Guards Corps in Tehran, June 21. Tasnim News Agency/Handout via REUTERS The purported wreckage of the American drone is seen displayed by the Islamic Revolution Guards Corps in Tehran, June 21. Tasnim News Agency/Handout via REUTERS The purported wreckage of the American drone is seen displayed by the Islamic Revolution Guards Corps in Tehran, June 21. Tasnim News Agency/Handout via REUTERS The purported wreckage of the American drone is seen displayed by the Islamic Revolution Guards Corps in Tehran, June 21. Tasnim News Agency/Handout via REUTERS The purported retrieved sections of a downed U.S. drone are shown on Iranian state television in an unidentified location, June 21. IRINN/Reuters TV via REUTERS The purported wreckage of the American drone is seen displayed by the Islamic Revolution Guards Corps in Tehran, June 21. Tasnim News Agency/Handout via REUTERS An undated U.S. Air Force handout photo of a RQ-4 Global Hawk unmanned (drone) aircraft. The Global Hawk drone, made by Northrop Grumman Corp, is used for intelligence-gathering over water and coastal areas, and costs around $130 million, according to industry experts. The drone is designed to gather near real-time, high-resolution images in all types of weather and during day and night. It is considered to be one of the U.S. military's most sophisticated unmanned aircraft, according to an Air Force statement of the aircraft's capabilities. U.S. Air Force/Bobbi Zapka/Handout/Files via REUTERS Iran's Supreme Leader Ayatollah Ali Khamenei is seen near a \"\"3 Khordad\"\" system which is said to had been used to shoot down a U.S. military drone, according to news agency Fars, in this undated handout picture. Fars news/Handout via REUTERS U.S. Air Force maintainers prepare a RQ-4A Global Hawk for takeoff at an undisclosed location in Southwest Asia, December 2, 2010. Courtesy Eric Harris/U.S. Air Force/Handout via REUTERS\"",
+        "word_count": 562,
+        "publish_time": "2025-05-15T17:28:37Z",
+        "source": "Bloomberg",
+        "tags": [
+          "ai",
+          "news",
+          "newsworld",
+          "tv"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N80822",
+          "N105712"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "美食",
+          "旅行",
+          "AI",
+          "电脑",
+          "银行",
+          "经济",
+          "股票"
+        ],
+        "engagement_score": 0.19
+      },
+      "interaction_data": {
+        "scroll_depth": 0.34,
+        "clicks_count": 5,
+        "shares_count": 1,
+        "comments_count": 3,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.5,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "newsworld"
+        ],
+        "viral_potential": 0.24,
+        "trend_score": 0.37,
+        "recommendation_relevance": 0.2,
+        "content_quality": 0.82,
+        "user_profile_match": 0.85
+      }
+    },
+    {
+      "timestamp": "2019-06-18T19:17:40Z",
+      "user_id": "U397787",
+      "news_id": "N102938",
+      "action_type": "comment",
+      "session_id": "session_59c0bfbf9e3c",
+      "dwell_time": 49,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "basketball_nba",
+        "headline": "Raptors coach on Kawhi Leonard's Game 7 buzzer-beater: 'That's an old play I stole off a Hubie Brown DVD'",
+        "content": "\"During one of the most important moments of the Toronto Raptors' NBA championship season, first-year head coach Nick Nurse went back to his Iowa roots. With the Raptors locked with the Philadelphia 76ers in Game 7 and a trip to the Eastern Conference finals at stake, the Carroll, Iowa, native called up a play he discovered from a DVD he bought in Ames and used a number of times while coaching the then-NBA Development League's Iowa Energy. And like it did so many times with the Energy, the play worked , this time on an even bigger stage: Toronto star Kawhi Leonard knocked down a buzzer-beating jumper that gave the Raptors a stunning 92-90 win. The Raptors went on to defeat the Milwaukee Bucks to reach the NBA Finals , where they dispatched the Golden State Warriors in six games to clinch the franchise's first championship . But those trophy memories may not be in Canadian sports lore without the big play call by Nurse and performed to perfection by Leonard. \"\"Kawhi's Game 7 buzzer-beater was the same exact play we used at the Energy I'll bet you, 10 times to either win a game or send a game into overtime,\"\" Nurse said in an interview with the Des Moines Register on Tuesday. \"\"We'd pop Cartier Martin off that thing, and he'd bang that 3-ball (in) or go one-on-one like Kawhi did and make the play on that. \"\"That's an old play I stole off a (longtime NBA coach and broadcaster) Hubie Brown DVD I got from Championship Books and Video in Ames, Iowa.\"\" KAWHI LEONARD FOR THE SERIES! 🔥 #WeTheNorth | #NBAPlayoffs pic.twitter.com/z0yi7kdxGB NBA TV (@NBATV) May 13, 2019 Nurse has had some time this week to reflect on his crazy coaching career, which reached its pinnacle last week. The 51-year-old celebrated the title with his team in Monday's victory parade in Toronto. And what a wild ride its been for Nurse, who played his college ball at Northern Iowa. He also coached at UNI as an assistant and got his first head college coaching job at Grand View. He bounced around the globe coaching overseas, but always wanted to patrol an NBA sideline. More: Toronto police searching for 'person of interest' in Raptors parade shooting NBA free agency: What are options for Raptors' Kawhi Leonard? When no one would give Nurse a shot to coach in the D-League, Nurse helped local Des Moines attorney Jerry Crawford create the Iowa Energy. Nurse became the team's first head coach and guided the team to a D-League crown. The run with the Energy opened up more coaching jobs for Nurse, who also guided the Rio Grande Valley Vipers to a title. The success landed him on the Raptors' bench in 2013. When Toronto fired Dwane Casey last offseason, Nurse was promoted to replace him. He's obviously made the most of the opportunity. Nurse credits all his prior coaching gigs, even his time in Iowa, for his success. \"\"I think all those jobs and all those stops, I can almost think of all kinds of situations that prepared me for this situation,\"\" Nurse said. \"\"And a lot of it was really similar, a lot of the basketball. Some of the plays I was using with the Energy, I was using this year some big plays. So, there's a lot of similarities to the game at all levels. There's just a few more people watching at this level.\"\" This article originally appeared on Des Moines Register: Raptors coach on Kawhi Leonard's Game 7 buzzer-beater: 'That's an old play I stole off a Hubie Brown DVD' Related slideshow: Best of the Raptors' championship parade (Provided by imagn)\"",
+        "word_count": 613,
+        "publish_time": "2025-06-03T20:46:12Z",
+        "source": "Bloomberg",
+        "tags": [
+          "ai",
+          "basketball_nba",
+          "sports",
+          "tv",
+          "basketball"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "理财",
+          "财经",
+          "足球",
+          "股票",
+          "互联网",
+          "AI"
+        ],
+        "engagement_score": 0.57
+      },
+      "interaction_data": {
+        "scroll_depth": 0.72,
+        "clicks_count": 2,
+        "shares_count": 3,
+        "comments_count": 1,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.17,
+        "topic_keywords": [
+          "ai",
+          "basketball_nba",
+          "sports"
+        ],
+        "viral_potential": 0.07,
+        "trend_score": 0.01,
+        "recommendation_relevance": 0.48,
+        "content_quality": 0.72,
+        "user_profile_match": 0.87
+      }
+    },
+    {
+      "timestamp": "2019-06-14T08:06:38Z",
+      "user_id": "U257982",
+      "news_id": "N50928",
+      "action_type": "comment",
+      "session_id": "session_75615cb4bf20",
+      "dwell_time": 602,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "health",
+        "topic": "nutrition",
+        "headline": "50 Unhealthiest Drinks on the Planet",
+        "content": "\"From soda and iced tea to lemonade and wholesome-looking juices, these are the unhealthiest drinks that should never pass your lips. 50 Unhealthiest Drinks on the Planet Many of us grew up in homes where soda was the go-to beverage of choice for family dinners and school celebrations. Nowadays, parents across the nation are shamed if they're seen sipping the stuff or worse serving it to their little ones. And it's not your imagination. Sugary and diet drinks have indeed become taboo, which has resulted in fewer people drinking soda. Sales of carbonated soft drinks in America have dropped for 11 consecutive years, with consumption of the bubbly stuff hitting a 30-year low earlier this year, according to a 2017 report from Beverage Digest as reported by Forbes . So why aren't we all losing weight and shedding belly fat ? Soda has been named public enemy number one, so it's only logical to assume if we all stay away from Coca-Cola, Sprite, and Dr. Pepper, the pounds will melt away and in theory, that's 100 percent true. However, there's one big problem: Very few of us are swapping soda for plain ol' H2O. Instead, we're looking to other beverages like juices and flavored waters to fill the void. While many of these soda alternatives market themselves as the \"\"healthier choice,\"\" that's not always the case. That's why the Eat This, Not That! team ventured to beverage aisles, restaurants, and coffee shops near and far, with the goal of uncovering the unhealthiest drinks on the planet. Some obvious things like orange soda made the list, but we'd bet there are a number of other sips you've never been suspicious of that are filled with sludge you'd never knowingly want inside your body. Read on to get in the know, and then toss out any junky drinks that are lingering in your kitchen. And while you're at it, you may as well get rid of these unhealthiest foods on the planet , too! 1. Cranberry Juice Cocktail Did you know that cranberries are the fruit that is lowest in sugar ? It's true! So how can something so good for you turn bad? Easy. Let the juice industry get a hold of it. Because cranberries are so tart, Ocean Spray (the cranberry juice company) even wrote in an official letter to the FDA that, \"\"cranberries … are naturally low in sugar, giving them a distinctly tart, astringent, and even unpalatable taste.\"\" Because of their \"\"unpalatable taste,\"\" companies load up their cranberry juice with sugar and lots of it. One cup of Ocean Spray cranberry juice cocktail contains 25 grams of sugar. Drink This! Instead: The 100% Cranberry Juice from Ocean Spray isn't much better (it has 28 grams of sugar per serving), the only difference is that cocktail is sweetened with cane sugar and the other is sweetened with fruit juices. To really cut back on the sweet stuff, we recommend diluting your serving with an equal amount of water. 2. Chocolate Milk Unless you're downing a glass of chocolate milk as a post-workout drink after a heart-thumping, sweat-inducing workout, be aware that chocolate milk isn't the innocuous lunchbox treat we came to love as kids. One 8-ounce bottle of Nesquik has 21 grams of sugar (plus artificial flavors). 3. Orange Drinks Just how Velveeta isn't real cheese, Sunny D isn't actual juice; it's just a mix of water, high fructose corn syrup, and a few token dribbles of juice concentrates, canola oil, and chemicals. Their tagline may be \"\"When life gives you oranges, make Sunny D,\"\" but don't be fooled, there's hardly any oranges in the bottle which is why it has zero nutritional benefits. 4. Tomato Juice Tomatoes may be an antioxidant-rich fruit, but any benefits they may provide to you are lost once they're juiced and bottled. Regular tomato juices aren't really flavorful on their own, so brands have to load them up with sodium 680 milligrams worth in every Campbell's cup. That's 30 percent of your daily value of sodium in just one glass. 5. Shelf-Stable Cold-Pressed Juices Why are cold-pressed juices so cherished? It's because the cold-press process preserves the delicate, good-for-you antioxidants and micronutrients found the fruits and vegetables you're pulverizing. Juices are already on our naughty list, as they tend to be high in sugar and low in digestion-slowing, blood-sugar-balancing fiber; however, juices get even worse when they're shelf-stable. To make juices shelf-stable, companies pasteurize the product, which kills off any remaining semblance of a healthy drink. 6. Chocolate Drinks You might think, \"\"hey, isn't that the same as chocolate milk?\"\" But the answer, dear reader, is no. Brands like Yoo-Hoo are not chocolate milk by the FDA's definition of the term because it's not really milk. The first ingredient listed is water, followed by high fructose corn syrup and then isolated whey protein (from milk). The rest of the shelf-stable drink is some cocoa powder, dry milk powder, artificial flavors, corn syrup solids, and palm oil. If you're not turned off by the ingredients, maybe the 19 grams of corn syrup (in a smaller-than-average 6.5-ounce serving) will deter you from sipping one of these drinks again. 7. Shelf-Stable Kombucha Kombucha is a probiotic drink that's teeming with live probiotic cultures that are beneficial for gut health. But if you buy your kombucha off a shelf and not from the refrigerator that's a sign that what you're about to drink isn't the real stuff. These pasteurized drinks, like those from búcha , kill off all those naturally-occurring beneficial bacteria, and then further dilute the fermented drink by adding carbonated water. Drink This! Instead: For the best brews, don't miss our list of the best kombuchas . 8. Sweet Tea Word to the wise: if a drink has the word \"\"sweet\"\" in its name, it's probably not going to be great for you. Some bottled sweet teas, like Gold Peak's Sweet Tea, contain 48 grams of sugar (or 96 percent of your daily value of added sugars) in one bottle. Meanwhile, grab a Large Sweet Tea at Sonic, and expect to slurp down 78 grams of the sweet stuff. Your blood sugar will be through the roof after downing that. 9. Supersized Coffees While a cup or two of coffee can do your body good, you may want to think twice before sizing up to a large or indulging in a fourth cup of Joe. The reason: Doing so may make your bone brittle. \"\"I try to avoid excessive caffeine,\"\" says Dr. Mamta M. Mamik, Assistant Professor of Obstetrics, Gynecology and Reproductive Science at the Icahn School of Medicine at Mount Sinai. \"\"An adult can safely consume up to 400 milligrams of caffeine a day (which is equivalent to four 8-ounce cups of coffee), but drinking any more than that can cause calcium excretion, which, over time, may lead to osteoporosis. Avoiding excess caffeine also helps to ward off uncomfortable withdrawal symptoms like lethargy, insomnia, headaches, and irritability,\"\" she adds. 10. Diet Soda What do cancer-causing artificial colors, flame retardants, and fat-causing fake sugars all have in common? They're all in your favorite diet fizzy drinks. Shove all that into a bottle laced with BPA, a chemical that's been linked to obesity, and you've pretty much got one of the worst drinks ever. Nearly all popular diet sodas contain aspartame, an artificial sweetener that was initially developed to aid weight loss, but that has recently been found to have the opposite effect. \"\"Sugar substitutes like aspartame are designed to promote weight loss and decrease the incidence of metabolic syndrome, but a number of clinical and epidemiologic studies have suggested that these products don't work very well and may actually make things worse,\"\" says Richard Hodin, MD, lead author of a recent study on the matter. So what should you be sipping instead? Drink This! Instead: Water is always a safe choice, as are these healthy soda alternatives . 11. Ginger Beer Sorry, Dark 'n Stormy fans, but ginger beer isn't good news for your waistline. In fact, it's one of the most calorie-dense carbonated drinks on the market. An average 7-ounce serving has 171 calories, which brakes down to about 24 calories per ounce. For comparison, a typical vending machine soda has 14 calories per ounce. To learn more about how all your favorite colas stack up, don't miss our report, most popular sodas ranked . Drink This! Instead: Looking for ginger? Try ginger tea! Boil a cup of water with an inch of sliced ginger. You'll reap the digestion-boosting benefits of ginger without the sugar. 12. Bottled Smoothies Busy mornings and grab-and-go breakfasts are practically synonymous so it's easy to see the appeal of store-bought smoothies. They seem like the best way to get what you crave in a pinch. But the timesaving drinks have a downside: Compared to fresh-made drinks, most of them fall short on nutrition and are so calorie- and sugar-filled that you'd have to spend hours on the treadmill to burn them off. Drink This! Instead: Play it safe by blending up one of these best smoothie recipes for weight loss instead all of them can be made in 5 minutes or less, compliments of Zero Belly Smoothies . Test panelists lost up to 16 pounds in 14 days! 13. Pumpkin Spice Latte That's right you're not only basic, but you're also sipping on an unhealthy drink. Starbucks may have pioneered the pumpkin spice latte, but they're not the only culprit of these sugar bombs. Their grande size has a staggering 50 grams of sugar when you order it with whipped cream, and copycats from other brands aren't much better. 14. Piña Colada If you like Piña Coladas, you must like sugar-heavy frozen cocktails that aren't doing your waistline any favors. Piña Colada mixes, like those from Mr. and Mrs. T, have a gut-busting 42 grams of sugar in just 4 ounces. That's the sugar equivalent of eating 9 Oreo cookies. 15. ICEES You know a beverage is bad if the first ingredient is high fructose corn syrup, followed by water. If you're unfamiliar, ICEES are frozen, carbonated beverages in fruit and soda flavors. The infamous Blue Raspberr...",
+        "word_count": 1698,
+        "publish_time": "2025-05-17T04:16:39Z",
+        "source": "TechCrunch",
+        "tags": [
+          "market",
+          "ai",
+          "health",
+          "news",
+          "study",
+          "report",
+          "nutrition"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "社会",
+          "手机"
+        ],
+        "engagement_score": 0.42
+      },
+      "interaction_data": {
+        "scroll_depth": 0.63,
+        "clicks_count": 5,
+        "shares_count": 3,
+        "comments_count": 2,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.36,
+        "topic_keywords": [
+          "market",
+          "ai",
+          "health"
+        ],
+        "viral_potential": 0.79,
+        "trend_score": 0.75,
+        "recommendation_relevance": 0.62,
+        "content_quality": 0.79,
+        "user_profile_match": 0.7
+      }
+    }
+  ],
+  "metadata": {
+    "source": "news_app",
+    "version": "1.0",
+    "processed_time": "2025-06-12T19:28:45.204685Z"
+  }
+}

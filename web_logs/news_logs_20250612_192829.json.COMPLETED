@@ -1,0 +1,767 @@
+{
+  "batch_id": "batch_20250612_192829_29b1916d",
+  "events": [
+    {
+      "timestamp": "2019-06-24T06:17:08Z",
+      "user_id": "U444356",
+      "news_id": "N13421",
+      "action_type": "skip",
+      "session_id": "session_81b5a533e2e1",
+      "dwell_time": 86,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "weather",
+        "topic": "weathertopstories",
+        "headline": "We Need Rain, And Seattle Area Will Get It This Week: NWS",
+        "content": "SEATTLE, WA The first official day of summer was on Friday. But it looks like spring will arrive in Puget Sound this week. The latest forecasts are predicting rain and cool temperatures for the region this week. It will be the first stretch of significant rainfall in more than two months amid an ongoing severe drought in Western Washington . There's a slight chance for rain on Monday, but the National Weather Service is predicting a 70 percent chance on Wednesday with showers continuing through the weekend. And that's good because we really need the rain. As of June 23, rain totals in the Seattle area were between 8 and 16 inches below normal, according to NWS data. So far in June, we've had 0.81 inches of rain. That's not much, but more than May when just 0.62 inches fell at Sea-Tac. April was a little more normal with about 3-1/2 inches. Meantime, we've been breaking temperature records. On June 13, a record high of 91 was recorded at Sea-Tac. Record highs were also broken on May 10, 11, and 12, when temperatures got into the mid-80s during a short spring heatwave. It's going to be cool this week, with highs in the upper 60s, and lows in the low 50s. Here's the full week-ahead forecast for the Seattle-Bellevue area from the National Weather Service: Monday : Mostly cloudy, with a high near 68. South southeast wind 5 to 8 mph becoming west in the afternoon. Monday Night : Mostly cloudy, with a low around 52. West wind 7 to 14 mph becoming northeast in the evening. Tuesday : A 20 percent chance of showers after 11am. Partly sunny, with a high near 68. Northeast wind 6 to 8 mph becoming west in the afternoon. Tuesday Night : A 30 percent chance of showers, mainly after 11pm. Mostly cloudy, with a low around 53. North wind 16 to 18 mph becoming south in the evening. Winds could gust as high as 24 mph. Wednesday : Showers likely, mainly after 11am. Mostly cloudy, with a high near 65. Chance of precipitation is 70 percent. New precipitation amounts between a tenth and quarter of an inch possible. Wednesday Night : Showers likely, mainly before 11pm. Mostly cloudy, with a low around 53. Chance of precipitation is 60 percent. Thursday : Showers likely, mainly after 11am. Mostly cloudy, with a high near 66. Thursday Night : Showers likely, mainly before 11pm. Mostly cloudy, with a low around 53. Friday : A chance of showers. Mostly cloudy, with a high near 66. Friday Night : A slight chance of showers. Mostly cloudy, with a low around 54.",
+        "word_count": 443,
+        "publish_time": "2025-05-27T05:56:06Z",
+        "source": "Washington Post",
+        "tags": [
+          "ai",
+          "weathertopstories",
+          "breaking",
+          "weather"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N29475",
+          "N59840"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "电影",
+          "明星",
+          "财经",
+          "银行",
+          "生活",
+          "时尚",
+          "金融",
+          "商业"
+        ],
+        "engagement_score": 0.05
+      },
+      "interaction_data": {
+        "scroll_depth": 0.55,
+        "clicks_count": 7,
+        "shares_count": 0,
+        "comments_count": 1,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.8,
+        "topic_keywords": [
+          "ai",
+          "weathertopstories",
+          "breaking"
+        ],
+        "viral_potential": 0.41,
+        "trend_score": 0.24,
+        "recommendation_relevance": 0.64,
+        "content_quality": 0.25,
+        "user_profile_match": 0.13
+      }
+    },
+    {
+      "timestamp": "2019-06-17T09:53:44Z",
+      "user_id": "U277796",
+      "news_id": "N118320",
+      "action_type": "click",
+      "session_id": "session_7e191cd2fe4d",
+      "dwell_time": 203,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsopinion",
+        "headline": "Election Commissioner: Clinton Can Get Info From Foreigners, But How Dare Trump Think About It",
+        "content": "\"Editor's note: The opinions in this article are the author's, as published by our content partner, and do not necessarily represent the views of MSN or Microsoft. If you want to understand American election law, you need only start with one underlying principle that explains seemingly contradictory interpretations over the last year: The purpose of election law is to punish Donald Trump's allies for 2016 and prevent his victory in 2020. Don't believe me? Consider this public statement: \"\"Let me make something 100% clear to the American public and anyone running for public office: It is illegal for any person to solicit, accept, or receive anything of value from a foreign national in connection with a U.S. election….This is not a novel concept,\"\" partisan Democrat and Perkins Coie law firm alumnus Ellen L. Weintraub , who sits on the Federal Election Commission, wrote in a statement. Was she writing about the October 25, 2017 complaint filed against the Democratic National Committee and Hillary for America that pointed to Clinton using Perkins Coie to use foreigners to help the Clinton campaign defeat Trump? Of course not! You see, when Clinton uses foreigners to meddle in elections, all the really smart people argue it's perfectly legal . When Trump hypothetically entertains the same idea in a recent ABC News interview, he's an \"\" enemy of the state .\"\" Weintraub recently joined the dogpile after the president was asked whether he would accept opposition research from a foreigner during the next election campaign cycle. As Politico noted , \"\"Trump's comments garnered fierce backlash from Republicans, Democrats and former law enforcement officials…. Trump made the comments while responding to attention over his son Donald Trump Jr., who met in Trump Tower with Russian nationals offering dirt on then-Democratic candidate Hillary Clinton in the lead-up to the 2016 election.\"\" As I have repeatedly noted , both of the Russians with whom Donald Trump Jr. met at Trump Tower had a longstanding history with opposition research group Fusion GPS, and Fusion GPS provided the handouts the Russians brought to the meeting. After Perkins Coie hired Fusion GPS on behalf of the Hillary Clinton campaign, Fusion GPS appears to have enlisted the help of these two additional foreigners to frame the Trump campaign. But again, it's only a violation of election law, in Weintraub's view, if it's done to help Trump. Writing for the Washington Post, lawyer Eugene Volokh challenged Weintraub's logic that merely providing information amounts to a \"\"campaign contribution,\"\" and that accepting information from a foreign national is therefore a crime. Volokh wrote: It would raise obvious First Amendment problems…Americans have the right to receive information even from speakers who are entirely abroad. See Lamont v. Postmaster General, 381 U.S. 301 (1965). Can Americans whether political candidates or anyone else really be barred from asking questions of foreigners, just because the answers might be especially important to voters? The Supreme Court did affirm (without opinion) a federal court decision in Bluman v. FEC, 800 F. Supp. 2d 281 (D.D.C. 2011), that upheld a ban on contributions and independent expenditures by non-citizen non-permanent-residents, on the theory that the government can use such a ban to limit foreign influence on American elections. But the panel decision expressly stressed that it was limited to the restriction on spending money. And it seems to me that restrictions on providing information to the campaigns or on campaigns seeking such information can't be constitutional. The complaint against Clinton involving Perkins Coie (which Weintraub's FEC continues to ignore) alleges \"\"the DNC and Hillary for America reported dozens of payments totally millions of dollars to the law firm Perkins Coie with the purpose described as 'Legal Services' or 'Legal and Compliance Consulting,' when in reality, at least some of those payments were earmarked for the firm Fusion GPS, with the purpose of conducting opposition research on Donald Trump. By failing to file accurate reports, the DNC and Hillary for America undermined the vital public information role that reporting is intended to serve.\"\" The Perkins Coie-related complaint will likely only be investigated if there is a unanimous vote by the FEC membership. The current Democratic appointee to the FEC, the same Ellen L. Weintraub , was \"\"Of Counsel to the Political Law Group of Perkins Coie LLP\"\" prior to coming to work for the FEC (in 2002). Remember, that same Perkins Coie hired Fusion GPS to produce the Trump-Russia dossier for Clinton's campaign. While at the FEC, Weintraub helped push the narrative with published a position statement lamenting \"\"Russia's interference in the 2016 election.\"\" No word on whether Weintraub has recused herself from the Perkins Coie-related complaint. In December 2017, a separate complaint against the Clinton campaign was filed. It alleged a scheme to launder $84 million in campaign funds through state parties back to the Clinton campaign in order to circumvent donor limits. Although the allegations clearly originate with a partisan political group, the allegations rely upon the DNC's own public filings and former DNC chairwoman Donna Brazile's public admissions on how the DNC co-mingled money with the Clinton campaign. The Washington Post's review of the allegations conceded that the essential allegations are corroborated by public information. Weintraub is also ignoring this complaint. Contrast the treatment of the complaints against Clinton with the lightning-fast prosecution of a very dubious campaign finance complaint against the president's former attorney, Michael Cohen, whose alleged violations closely resembled those of Clinton supporter Lisa Bloom. Bloom appears to have arranged for unreported payments to women in exchange for making public accusations against Trump. Cohen's payments to Daniels were reported, and he was prosecuted. The payments to Trump's accusers were not. As I previously wrote, \"\"Aren't these laws supposed to be written-down so one can know in advance whether one might be subject to criminal prosecution for violations of rules that we agree-upon in advance? Shouldn't these rules apply equally regardless of whether your name is 'Trump' or 'Clinton?' With Cohen and Bloom appearing to do the exact mirror image of the same thing in the same election with such dramatically different legal outcomes, one cannot help but wonder whether [the DOJ] is indeed applying laws 'equally to everyone, without regard to rank or status.'\"\" International standards of election fairness command that a nation must have a \"\"sound legal framework and an impartial and effective election administration,\"\" and that both parties have the opportunity to compete without arbitrary restrictions and discrimination. But that was under the old pre-Trump system. There's only one law now: Get Trump!\"",
+        "word_count": 1087,
+        "publish_time": "2025-05-29T17:04:57Z",
+        "source": "BBC",
+        "tags": [
+          "newsopinion",
+          "research",
+          "ai",
+          "news",
+          "election",
+          "finance",
+          "report",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N35834"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "美食",
+          "篮球",
+          "手机",
+          "银行"
+        ],
+        "engagement_score": 0.39
+      },
+      "interaction_data": {
+        "scroll_depth": 0.45,
+        "clicks_count": 8,
+        "shares_count": 2,
+        "comments_count": 0,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.72,
+        "topic_keywords": [
+          "newsopinion",
+          "research",
+          "ai"
+        ],
+        "viral_potential": 0.35,
+        "trend_score": 0.86,
+        "recommendation_relevance": 0.01,
+        "content_quality": 0.14,
+        "user_profile_match": 0.88
+      }
+    },
+    {
+      "timestamp": "2019-06-19T08:39:07Z",
+      "user_id": "U368057",
+      "news_id": "N95120",
+      "action_type": "read",
+      "session_id": "session_9352d6900f65",
+      "dwell_time": 11,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shanghai",
+        "city": "Shanghai"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "President Trump unveils 2020 slogan to replace 2016 rallying cry during campaign rally",
+        "content": "\"President Trump revealed the 2020 re-election campaign slogan to replace his Make America Great Again mantra from 2016. \"\"Make America Great Again\"\" was the best political slogan in history, but it's time for a change, Trump told the adoring audience Tuesday at his campaign kickoff rally in Orlando. \"\"We've made America great again, but how do you give up the number one call it theme, logo, statement, in the history of politics for a new one?\"\" the president asked the crowd. \"\"You know there is a new one that really works, and that's called 'Keep America Great.' Right? 'Keep America Great.'\"\" TRUMP LAUNCHES 2020 RE-ELECTION BID IN JAM-PACKED ORLANDO ARENA Trump claimed his presidential tenure has borne true his new campaign slogan, pointing to his administration's accomplishments. \"\"We have really done it,\"\" the Republican said. \"\"We have rebuilt our military, it's still in the process.\"\" \"\"We've taken care of our vets. We've cut the hell out of regulations.\"\" Trump remarked if he loses in 2020 under the \"\"Keep America Great\"\" banner, people will criticize the slogan change. But so confident is the president, he didn't consider a 2020 loss to be within the realm of possibility. WATCH: PRESIDENT TRUMP DEBUTS HILLARY CLINTON IMPRESSION DURING FLORIDA CAMPAIGN RALLY \"\"If I do it with a new theme... and if I lose, people are going to say 'what mistake that was',\"\" he claimed. \"\"But we're not going to lose so it's not going to matter.\"\" The president then uttered each slogan, waiting for the crowd to give a reaction to each individually. Both taglines elicited booming cheers from the crowd. Just over four years ago, Trump descended through the pink marble and brass atrium of Trump Tower to announce his candidacy for president, the first step on a journey few analysts believed would take him all the way to the White House. CLICK TO GET THE FOX NEWS APP This time, thousands of supporters arrived more than 40 hours in advance to secure a spot in the Amway Center, despite sweltering heat to see him formally announce his re-election campaign. Some had been camped in chairs for several nights. Fox News' Gregg Re contributed to this report.\"",
+        "word_count": 364,
+        "publish_time": "2025-05-19T06:18:59Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "ai",
+          "news",
+          "election",
+          "newspolitics",
+          "report",
+          "politics"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N69139",
+          "N18912"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "体育",
+          "网球",
+          "新闻",
+          "投资",
+          "经济"
+        ],
+        "engagement_score": 0.49
+      },
+      "interaction_data": {
+        "scroll_depth": 0.82,
+        "clicks_count": 1,
+        "shares_count": 1,
+        "comments_count": 0,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.79,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "election"
+        ],
+        "viral_potential": 0.53,
+        "trend_score": 0.66,
+        "recommendation_relevance": 0.16,
+        "content_quality": 0.65,
+        "user_profile_match": 0.03
+      }
+    },
+    {
+      "timestamp": "2019-06-17T11:16:33Z",
+      "user_id": "U27007",
+      "news_id": "N82812",
+      "action_type": "skip",
+      "session_id": "session_940e25014a8a",
+      "dwell_time": 3,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shaanxi",
+        "city": "Xi'an"
+      },
+      "news_details": {
+        "category": "autos",
+        "topic": "autosnews",
+        "headline": "2019 Mazda 3 hatch has the looks and moves",
+        "content": "Henry Payne of The Detroit News offers up a review of the 2019 Mazda 3 Hatchback. Mazda 3 hatch has the looks and moves Henry Payne of The Detroit News offers up a review of the 2019 Mazda 3 Hatchback. Mazda 3 hatch has the looks and moves The 2019 Mazda 3 Hatchback comes standard with 8.8-inch screen, push-button start, leatherette seats, adaptive cruise-control and blind-spot assist. Mazda 3 hatch has the looks and moves The 2019 Mazda 3 Hatchback center console has been redesigned with the shift knob, new commander control and armrest moved forward. Mazda 3 hatch has the looks and moves The 2019 Mazda 3 Hatchback comes with i-Activsense, an instrument-display-based graphic that informs you of other vehicles around your car. Mazda 3 hatch has the looks and moves The 2019 Mazda 3 Hatchback comes standard with 18-inch wheels. Mazda 3 hatch has the looks and moves The 2019 Mazda 3 Hatchback starts at $24,495. Add AWD and Soul Red paint for curb appeal and you'll be at $26,490. A premium manual (available with FWD only) is offered at $28,395. Mazda 3 hatch has the looks and moves The 2019 Mazda 3 Hatchback offers 20.1 cubic feet of cargo space. Mazda 3 hatch has the looks and moves The 2019 Mazda 3 Hatchback's 2.5-liter inline-4 cylinder that comes standard produces 186 horsepower and 185 pound-feet of torque. Mazda 3 hatch has the looks and moves The 2019 Mazda 3 Hatchback. Mazda 3 hatch has the looks and moves Mazda's generous center console allows plenty of room to stow your phone and hook in to Apple CarPlay or Android Auto -- and the standard 8.8-inch display offers good graphics. Mazda 3 hatch has the looks and moves Stunning outside, the 2019 Mazda 3 Hatchback might not be comfortable for drivers who have to spend a lot of time in traffic -- and rear-seat passengers might pine for more sunlight. Mazda 3 hatch has the looks and moves The 2019 Mazda 3 Hatchback.",
+        "word_count": 334,
+        "publish_time": "2025-06-01T14:15:37Z",
+        "source": "ESPN",
+        "tags": [
+          "ai",
+          "autos",
+          "news",
+          "autosnews"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N90215",
+          "N12572"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "奥运会",
+          "电视",
+          "明星",
+          "投资",
+          "理财"
+        ],
+        "engagement_score": 0.18
+      },
+      "interaction_data": {
+        "scroll_depth": 0.13,
+        "clicks_count": 10,
+        "shares_count": 0,
+        "comments_count": 0,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.74,
+        "topic_keywords": [
+          "ai",
+          "autos",
+          "news"
+        ],
+        "viral_potential": 0.76,
+        "trend_score": 0.94,
+        "recommendation_relevance": 0.42,
+        "content_quality": 0.23,
+        "user_profile_match": 0.47
+      }
+    },
+    {
+      "timestamp": "2019-06-24T08:44:44Z",
+      "user_id": "U97018",
+      "news_id": "N72747",
+      "action_type": "skip",
+      "session_id": "session_a2478d8b1382",
+      "dwell_time": 210,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Hubei",
+        "city": "Wuhan"
+      },
+      "news_details": {
+        "category": "foodanddrink",
+        "topic": "recipes",
+        "headline": "45 4th of July Appetizer Recipes That Will Make You Feel Truly Independent",
+        "content": "\"You could wait for the burgers and dogs to come off the grill (or for the barbecue to come out of the smoker); or you could fill up on crudités, dip, and fried seafood before those entrées ever cross your plate. Your choice. Crudités with Chile-Lime Salt This zesty spiced salt wakes up any sliced raw fruit or veggie don't feel limited to the ones listed in the recipe. See recipe. Creamy Avocado Dip with Scallions With a mix of caramelized and fresh scallions, plus avocado and yogurt, this dip has a taste and texture somewhere between onion dip and guacamole. See recipe. Pigs-in-a-Blanket with Sauerkraut and Mustard Classic German flavors bring a fresh twist to this beloved hors d'oeuvre. See recipe. Boneless Buffalo Chicken \"\"Wings\"\" These fried and sauced chicken breast strips have all the spicy flavor of Buffalo wings without the hassle of bones. Serve them with a tangy blue cheese dip and celery sticks. See recipe. Campechana Extra (Mexican Seafood Cocktail) Campechana is the perfect marriage of shrimp cocktail and salsa, with extra layers of flavor thanks to sweet lump crabmeat, smoky New Mexican chiles, briny olives, and creamy avocado. See recipe. 3-Ingredient Charred Green Beans with Ricotta and Lemon Grill green beans to crisp-tender and then serve with a side of or on a bed of creamy whipped ricotta for guests to eat like fries and ketchup. See recipe. Pickled Shrimp Serve these make-ahead Southern classics at cocktail time and everyone will think you're a genius. See recipe. Vegetarian Buffalo \"\"Meatballs\"\" With Blue Cheese Dip Forget about hot wings these spicy \"\"meatballs\"\" combine white beans and mushrooms for a meatless take on your favorite party snack. See recipe. 3-Ingredient Tomatillo Guacamole Store-bought tomatillo salsa provides a shortcut to spicy and flavorful guacamole. See recipe. Fried Oysters with Bacon, Garlic, and Sage Holding the raw oysters in the rice-flour dredge is a genius do-ahead trick, allowing you to shuck and coat the oysters hours ahead of fry time. See recipe. Grilled Greens and Cheese on Toast Pile charred Halloumi cheese, kale, and cherry tomatoes onto grilled bread rubbed with garlic for an almost-instant summer dinner or slice the toasts in half for a smoky, delicious appetizer. See recipe. 3-Ingredient Grilled and Fresh Tomato Salsa Grilling the onions and half of the tomatoes adds smoky depth and sweetness to this riff on pico de gallo. See recipe. Slow-Cooked Summer Squash with Lemon and Thyme Cooking summer squash low and slow yields sweet, nutty, tender but not mushy results. Pile the jammy rounds onto toasts for an app or toss with pasta for side dish. See recipe. Muhammara This vibrant dip of toasted walnuts and roasted red peppers pairs perfectly well with grilled pita bread and kebabs. See recipe. Jalapeño Poppers with Smoked Gouda The results of grilling jalapeños are nothing like the breaded, deep-fried apps you get in sports bars they're even better. See recipe. Grilled Clam Toasts With Lemon and Green Olives Italian-food purists might balk at the combination of clams and Parm, but we swear it's delicious. See recipe. Spicy and Greasy Rhode Island Calamari Unusual but addictively delicious, Rhode Island-style calamari is a local favorite. Look for medium-size fresh or frozen squid (about eight to a pound) for frying. See recipe. Smoky Eggplant Dip (Eggplant Moutabal) If you don't have a grill or a gas stovetop, you can broil the eggplants in the oven, turning occasionally, until charred and tender. See recipe. Watermelon with Lime Dressing and Peanuts This boldly flavored fruit salad is a welcome opener to any grilled main. See recipe. Spinach-Yogurt Dip with Sizzled Mint Our version of this dip uses spinach, but it can be made with cooked beets or roasted eggplant, too. See recipe. Tajín-Seasoned Vegetable Spears This recipe for raw vegetables is the only conscionable thing you can serve right before sitting down to a heavier meal. See recipe. Flatbread with Smoked Trout, Radishes, and Herbs You can make the dough, you can buy the dough, or you can simply assemble these same toppings on slices of toasted country-style bread. See recipe. Grilled Clams With Herb Butter Butter, flecked with parsley, chive, and dill, melts into the smoky, briny juices of grilled clams to create a delicious, effortless sauce. See recipe. Spicy Lightly Pickled Cucumbers These quick pickles have just the right amount of sweet, salt, and tang going on. The brine can work with any crunchy veg, but we like them best with cucumbers. We guarantee they'll be the sleeper hit of your next party spread. See recipe. Onion-Dip Potato Chips These homemade onion-flavored chips just might be more devotion-worthy than the store-bought versions. See recipe. Swiss Chard Tahini Dip If you love hummus or baba ghanoush, this dairy-free dip will become a new favorite. Just make sure you have plenty of warm flatbread to scoop it all up. See recipe. Hush-Up Spicy Gluten-Free Hush Puppies Millet and glutinous rice flours form the base of these fried, chicken-studded appetizers. See recipe. Eggplant and Yogurt Spread This is a wonderful dip with a subtle flavor of caramelized onion and saffron and a silky texture offset by the lovely crunch of the walnut garnish. See recipe. Watermelon With Yogurt, Poppy Seeds, and Fried Rosemary This renegade combination is at once sweet, tart, and savory the kind of dish that's as comfortable at the breakfast table as it is at a potluck. See recipe. Smoked Chicken Wings Fox Bros. Bar-B-Q in Atlanta, GA, sells its own barbecue sauce, which you can order online, but any store-bought sauce will work for this smoked chicken wings recipe too. See recipe. Roasted Vegetables Antipasto Plate This antipasto platter goes way past jarred peppers and cold cuts, with roasted vegetables that change with the seasons. Even at room temp, these options round out any meat and cheese platter. See recipe. Tomato-Lemon Tart Using frozen puff pastry is the shortcut that makes this tart a summer entertaining favorite. See recipe. Sippin' Green Gazpacho This zippy, herbaceous drinkable soup is like a trip to the farmers' market in a glass. See recipe. Grilled Chicken Wings with Shishito Peppers and Herbs There's more to wings than Buffalo sauce here, they're tossed in a sesame-lime vinaigrette, charred alongside shishito peppers, and scattered with jalapeños. See recipe. Caramelized Shallot Yogurt Will make you pause before making a sour cream based onion dip ever again. See recipe. Charred Caprese Sandwich How do you improve on a classic Caprese? Grill your tomatoes and then spill them over charred baguette. See recipe. Crudités With Bacon XO Sauce XO sauce can be used as an all-purpose condiment. It's great over rice, steamed or roasted veggies, or roast chicken. See recipe. Fried Ipswich Whole Belly Clams with Tartar Sauce Never substitute \"\"clam strips\"\" for whole belly clams. Clam strips come from surf clams, and theyll be very tough if you fry them. See recipe. Mini Shrimp Rolls A simple shrimp salad is served in small dinner rolls in this fun (and easy) twist on the traditional New England lobster roll. See recipe. Quick-Pickled Charred Vegetables This technique is nothing short of amazing even if you're finicky about your pickles. See recipe. Salted and Spiced Melon The musky-sweet flavor of melon also takes well to red pepper flakes and cracked black pepper. See recipe. Grilled Bread with Ricotta & Tomatoes Use very ripe even overripe tomatoes; they'll give up even more juice. See recipe. Corn Fritters with Spicy Zucchini Salsa Don't worry if the fritters seem a little flimsy they hold together and flip easily during cooking. See recipe. Cashew and Coconut Shrimp The combination of hot, juicy shrimp with a crispy coating and a zingy dipping sauce will always win over the masses. See recipe. Bacon-Wrapped Pig Wings Take a few boneless pork chops, add some bacon and a little creativity, and Pig Wings are on the menu! The bacon adds great flavor and keeps the loin meat from getting dry. See recipe.\"",
+        "word_count": 1328,
+        "publish_time": "2025-06-03T20:07:19Z",
+        "source": "New York Times",
+        "tags": [
+          "tech",
+          "market",
+          "ai",
+          "foodanddrink",
+          "recipes"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N28428",
+          "N51035"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "篮球",
+          "奥运会",
+          "健康",
+          "银行",
+          "财经"
+        ],
+        "engagement_score": 0.31
+      },
+      "interaction_data": {
+        "scroll_depth": 0.13,
+        "clicks_count": 9,
+        "shares_count": 2,
+        "comments_count": 5,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.97,
+        "topic_keywords": [
+          "tech",
+          "market",
+          "ai"
+        ],
+        "viral_potential": 0.4,
+        "trend_score": 0.04,
+        "recommendation_relevance": 0.69,
+        "content_quality": 0.5,
+        "user_profile_match": 0.72
+      }
+    },
+    {
+      "timestamp": "2019-06-19T13:02:34Z",
+      "user_id": "U43526",
+      "news_id": "N71975",
+      "action_type": "skip",
+      "session_id": "session_def503a69696",
+      "dwell_time": 47,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Trump's U.N. nominee breaks with the president on climate change",
+        "content": "\"President Trump's nominee to serve as the next ambassador to the United Nations publicly broke with him on climate change Wednesday, stating at her Senate confirmation hearing that she believes fossil fuels and human behavior contribute to the planet's shifting weather phenomena but stopping short of endorsing a return to international pacts such as the Paris climate agreement. Kelly Knight Craft, now the U.S. ambassador to Canada, stressed to the Senate Foreign Relations Committee that \"\"human behavior has contributed to the change in climate. Let there be no doubt.\"\" \"\"I also understand that fossil fuels have played a part in climate change,\"\" she later added. Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post But Craft rejected urging the United States to make a return to the Paris agreement , warning that such pacts could \"\"imperil\"\" American jobs . \"\"We don't feel like we have to be part of an agreement to be leaders,\"\" she told senators, also arguing that the United States' withdrawal was legitimate because \"\"we expected other countries to step up, and while they did commit, they really were not serious.\"\" Democrats had voiced concerns about how Craft would address climate change because of her family's investments totaling tens of millions of dollars in the fossil fuel industry. Craft pledged she would recuse herself from negotiations or meetings related to coal and potentially fossil fuels, promising to follow whatever ethics guidance she was given on oil and gas matters as well . \"\"Where coal is part of the conversation within climate change at the U.N., I will recuse myself,\"\" Craft told Sen. Edward J. Markey (D-Mass.) during the hearing. \"\"If our ethics agreement called for me to recuse myself, absolutely, I will be in full compliance, I give you my word,\"\" she said. Craft's nomination comes as lawmakers are increasingly concerned about Trump's approach to the global community, particularly his embrace of totalitarian leaders and lack of attention to human rights matters traditionally prioritized by the U.S. government. Craft pledged to senators that if confirmed, she would focus on promoting the value of humanitarian aid and \"\"miss no opportunity\"\" to use the United States' seat on the U.N. Security Council to hold adversary nations like China and Russia to account for human rights violations. She also spoke of her responsibility as U.N. ambassador to advocate for the oppressed and persecuted, noting the civil wars in Yemen and Syria, the economic crisis in Venezuela and the \"\"ethnic cleansing\"\" of the Rohingya people in Myanmar. But Craft refused to cross Trump on specific policy positions, including the administration's decision to reduce its payment to the international organization and pull out of key bodies, such as the U.N. Human Rights Council. \"\"[The U.N.'s] ambitions at times have gotten ahead of accountability. Waste and overlap remain problems,\"\" Craft said, arguing that the Trump administration had had \"\"many recent successes at the U.N.\"\" that she was \"\"eager to build on.\"\" In one particularly tense exchange with Sen. Lindsey O. Graham (R-S.C.), who is close to the president but opposes his cuts in humanitarian aid, Craft argued that it was the responsibility of other nations to fill the shortfalls created by the United States pulling back its support an argument that echoes Trump's talking points on other alliances, such as defense cooperation with NATO . \"\"We are asking for people to step up and share this burden,\"\" Craft told Graham when he asked her about the president's budget. \"\"Is the world safe enough for us to step down?\"\" Graham asked. \"\"No, sir, we are leaders within the United Nations, and we are leaders around the world,\"\" Craft answered, prompting Graham to retort: \"\"Let's show it.\"\" Otherwise, Republicans and Democrats made very different demands of her and the approach she should take, if confirmed. \"\"It is important that the U.S. continue to pressure the United Nations to spend its money efficiently and effectively,\"\" panel Chairman Sen. James E. Risch (R-Idaho) said , endorsing the Trump administration's approach . \"\"While the United States benefits from being a member of the U.N., the United Nations benefits more, much more, from the United States being a member.\"\" The committee's top Democrat, Sen. Robert Menendez (N.J.), stressed that Craft would need to commit to \"\"reforming and strengthening the United Nations, not irreparably damaging it.\"\" \"\"I have deep reservations about your lack of qualifications for such a complex and challenging role,\"\" Menendez said. Several Democrats raised questions about whether Craft would be dedicated enough to her job, pointing out that she spent the majority of her nearly two-year tenure as ambassador to Canada away from her duty post in Ottawa. Menendez called her time away from the capital \"\"staggering . . . very troubling and an abdication of leadership.\"\" But Craft argued that all of her trips had been \"\"preapproved before travel\"\" and that she had spent time on the road because she was involved in negotiating a new trade deal with Canada and Mexico. \"\"I was not going to let this country down, nor Ambassador Lighthizer nor the president,\"\" she said, arguing that her duties included many trips to Washington, D.C., for negotiations and around Canada to promote the agreement. She was referring to U.S. Trade Representative Robert E. Lighthizer. \"\"This was not a time to socialize, this was really a time to work,\"\" Craft said. Several Republican senators leaped to her defense. \"\"You prioritized the top priority of this administration,\"\" Sen. Marco Rubio (R-Fla.) said. Craft promised to \"\"support the president's vision for peace and security\"\" in the Middle East but when asked directly by Sen. Christopher A. Coons (D-Del.) whether Trump's vision for the region included a two-state solution for Israel and Palestinian territories, she demurred. \"\"I have not been part of the Middle East peace process,\"\" she said. \"\"But if confirmed, I will tell you there will be no stronger friend than Kelly Craft and the United States for Israel and no stronger person to promote Israel in normalizing themselves in the system.\"\" But in a potential departure from Trump, Craft pledged to respect the findings of a U.N. investigation into the killing of Saudi journalist Jamal Khashoggi , who was also a contributing columnist for The Washington Post . Special U.N. investigator Agnes Callamard released a report Wednesday calling for added investigation of Saudi officials, including Crown Prince Mohammed bin Salman. \"\"We know there is an investigation,\"\" Craft said, referring to the U.N.-sponsored inquiry, \"\"and we will follow this investigation where it takes us.\"\" Trump has continued to embrace Saudi officials and said he accepts the royal family's denials of culpability infuriating members of both parties . \"\"He did it,\"\" Graham, one of the biggest Republican critics of Trump's approach to Saudi Arabia, said of the Saudi crown prince. \"\"Wouldn't have happened without him, he knew it was going to happen, he wanted it to happen, he caused it to happen, and this is just the tip of the iceberg of other things going on in this kingdom.\"\" \"\"After this report's issued,\"\" Graham challenged Craft, \"\"I want you to let the committee know, do you believe he did it.\"\" It could be July before the committee votes on Craft's nomination, a Senate aide said. karoun.demirjian@washpost.com\"",
+        "word_count": 1206,
+        "publish_time": "2025-05-30T06:28:17Z",
+        "source": "CNN",
+        "tags": [
+          "policy",
+          "ai",
+          "news",
+          "report",
+          "investment",
+          "newsus",
+          "senate",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N56386",
+          "N18912"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "电视",
+          "明星",
+          "足球",
+          "电脑",
+          "互联网",
+          "政治"
+        ],
+        "engagement_score": 0.43
+      },
+      "interaction_data": {
+        "scroll_depth": 0.57,
+        "clicks_count": 1,
+        "shares_count": 0,
+        "comments_count": 5,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.54,
+        "topic_keywords": [
+          "policy",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.55,
+        "trend_score": 0.15,
+        "recommendation_relevance": 0.52,
+        "content_quality": 0.86,
+        "user_profile_match": 0.61
+      }
+    },
+    {
+      "timestamp": "2019-06-19T07:21:00Z",
+      "user_id": "U293378",
+      "news_id": "N80645",
+      "action_type": "skip",
+      "session_id": "session_8cca2271a508",
+      "dwell_time": 524,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestyledidyouknow",
+        "headline": "50 Words You Hear Every Day But Don't Know What They Mean",
+        "content": "\"With linguists estimating a million words in the English language, there's no chance you'll know them all. Here are 50 common words you may not know. No one knows for sure how many words are in the English language. But according to the prose pros at Merriam-Webster , some linguists peg the exact number at a million, give or take. Since there's no way you'll ever memorize seven figure's worth of dictionary entries, you're bound to hear a word every now and then that you have zero clue what it means. And while we can't cover all of the bases, we can, at the very least, help bulk up your vocabulary a bit. What follows is a study sheet of 50 commonly-heard, less-commonly-understood words some are often used incorrectly and others just have perplexing definitions. Without further ado, it's time to learn what the words you hear most often, but don't quite understand actually mean. And for more word facts, check out The Shocking Backstories for Common Words You Use All the Time . 1. Albeit How you've heard it: \"\"The filet mignon was delicious, albeit rather expensive.\"\" What it means: It's just a fancier way of saying \"\"although.\"\" And for more ways to expand your lexicon, learn about The 40 Most Beautiful Words in the English Language And How to Use Them . 2. Appease How you've heard it: \"\"We created miles of new bike lanes to appease cycling activists.\"\" What it means: To placate a group or individual by acquiescing to their requests. Alternatively, appease could mean \"\"to satisfy,\"\" e.g., \"\"A good steak would appease my hunger\"\" (though, frankly, you'll sound a bit pretentious if you use it like this). 3. Arbitrary How you've heard it: \"\"His bookshelves are organized in a totally arbitrary way.\"\" What it means: Random, erratic, unpredictable, not based on coherent logic whatsoever. And for more great language lessons, here are The 30 Funniest Words in the English Language And How to Use Them . 4. Banal How you've heard it: \"\" Another zombie movie?! These films are so banal .\"\" What it means: Sometimes people use banal to mean \"\"boring,\"\" but it's a bit more complex than that. Banal means that something say, a movie or a TV show is so uninspired and derivative that, even if you've never seen it before, you'll feel like you already have. 5. Bemused How you've heard it: \"\"A bemused expression came over his face when I asked if he knew what banal meant.\"\" What it means: No, this is not a fancy way of saying \"\"amused.\"\" It means puzzled, confused, or bewildered. And for more fun word play, see these 40 Facts About Words That Will Make You Say \"\"OMG!\"\" 6. Benchmark How you've heard it: \"\"Let's see if she can hit the benchmark score in Tetris !\"\" What it means: The standard against which others are compared, measured, or evaluated. 7. Candor How you've heard it: \"\"I love Keanu Reeves because of his off-screen candor . It's refreshing coming from such a popular guy!\"\" What it means: A deeply genuine, honest nature. 8. Chronic How you've heard it: \"\"I suffer from chronic lower back pain.\"\" What it means: In context, you might think chronic means severe. But in reality, it means that something generally, an illness or condition is recurring. 9. Contrived How you've heard it: \"\"I loved her first album, but her second one just feels so contrived .\"\" What it means: Phony, fake, a total sham. Contrived is usually used to describe a piece of creative expression as forced. 10. Colloquial How you've heard it: \"\"What follows is a study sheet of 50 words that are commonly heard in colloquial language.\"\" What it means: Colloquial refers to language that is used in an ordinary or informal way, rather than formal. For instance, most people call the third Monday in February (an American holiday ) by its colloquial term, \"\"Presidents Day,\"\" when it's actually still officially titled \"\"Washington's Birthday.\"\" ( Colloquial can also mean, simply, \"\"conversational.\"\") 11. Compelled How you've heard it: \"\"After going under oath, I'll be compelled to tell the truth, the whole truth, and nothing but the truth.\"\" What it means: To be forced to do something, whether you want to or not. Often, people misuse this word to mean they're \"\"feeling strongly\"\" about something. 12. Conundrum How you've heard it: \"\"It's 20 miles to the next gas station, but we only have 15 miles left in the tank. This is quite the conundrum we're in!\"\" What it means: Conundrum is used to describe a confusing or difficult problem, question, or riddle more often than not, it's somewhat of a catch-22. 13. Deferential How you've heard it: \"\"The student showed a deferential attitude toward her teacher.\"\" What it means: Deferential is an adjective that means \"\"to show or express respect,\"\" especially in regards to a superior or elder. However, many people tend to confuse this word with the similar-sounding adjective, \"\"differential,\"\" which is used to describe the difference between two or more things. Make sure to check your auto-correct for this one; while the words might look similar, their meanings have nothing in common. 14. Cult How you've heard it: \"\" Rocky Horror Picture Show is a cult classic.\"\" What it means: As in, a \"\"cult following\"\" or a \"\"cult favorite,\"\" the word refers to a movie, book, band, TV show, video game, or other form of media that has a small but extremely passionate fanbase . However, people often misuse it to refer to a project with a massive, passionate fanbase, like Star Wars or Game of Thrones . (Neither are \"\"cult\"\" classics, folks.) 15. Dilemma How you've heard it: \"\"When she was offered a big promotion at her current company and an entirely new job elsewhere, Kate was faced with quite the dilemma .\"\" What it means: While often incorrectly used to describe any problem, the word's correct usage refers to a difficult problem that offers two (usually both unfavorable) possibilities for an outcome. After all, the prefix di- literally means \"\"two.\"\" 16. Dystopia How you've heard it: \"\"The world is so unfair it makes me feel like we're living in some kind of dystopia .\"\" What it means: A dystopia is state or society with great injustice and suffering. Generally, it pops up in futuristic science fiction novels, like The Hunger Games and 1984 . 17. Egregious How you've heard it: \"\"C'mon, that's an egregious error.\"\" What it means: In today's society, egregious means something remarkably bad or shocking. It used to mean the complete opposite referring to something that was remarkable in a good way. However, people began to use the word ironically so often, its meaning started to take on a negative connotation. 18. Entitled How you've heard it: \"\"She's a millennial, so she's very entitled .\"\" What it means: Having, or believing one has, the right to something. People use entitled to mean \"\"privileged,\"\" and that's accurate. But they also use it when they should just be using the word \"\"titled\"\" to describe the name of a TV series, podcast title, etc. e.g., The seventh Star Wars movie is titled The Force Awakens , not entitled The Force Awakens . 19. Empathetic How you've heard it: \"\"I'm empathetic to what she's going through.\"\" What it means: Empathy and sympathy are often conflated, when they are, in fact, different. To sympathize means to feel pity or sadness for someone else's experience. But to empathize means to understand what they're going through on a personal level. 20. Epitome How you've heard it: \"\"She was the epitome of elegance and grace.\"\" What it means: E pitome is defined as \"\"a perfect example of a particular quality or type\"\" which means it is the very best illustration of the adjective that follows it. 21. Exponential How you've heard it: \"\"My regard for you is exponentially increasing.\"\" What it means: Lifted from math, exponential refers to something that continues to grow at an increasingly rapid rate. 22. Existential How you've heard it: \"\"I'm having an existential crisis.\"\" What it means: This simply means \"\"of, relating to, or affirming existence.\"\" It's often used by philosophically-minded individuals to indicate they are having an issue with something on a theoretical level. 23. Facetious How you've heard it: \"\"I meant that facetiously .\"\" What it means: This means to treat an important issue in a flippant or humorous manner. It's often meant in a negative way, as it indicates the matter requires a greater level of seriousness. 24. Fortuitous How you've heard it: \"\"How fortuitous it was for us to meet on the street like that!\"\" What it means: People often think fortuitous means \"\"lucky\"\" because of its similarity to the word \"\"fortune.\"\" But it actually just means \"\"by chance,\"\" and can be used in a positive or negative way. 25. Hot-Button How you've heard it: \"\"That's a hot-button issue.\"\" What it means: This is often used to refer to scenarios that are very politically- or emotionally-charged. For example, whether or not the Trump Administration colluded with Russia would be considered a \"\" hot-button issue\"\" as it tends to inspire strong emotions from either side. 26. Impeach How you've heard it: \"\"Are we going to impeach the president?\"\" What it means: In theory, impeach means to \"\"call into question the integrity or validity\"\" of someone or something, but we almost always use it in its practical sense: to remove someone from an elected office. 27. Incongruous How you've heard it: \"\"The north and south sides of the city are totally incongruous .\"\" What it means: Lacking harmony, or inconsistent with itself. 28. Inflammable How you've heard it: \"\"You better not put that plastic cup near the open flame. It's highly inflammable .\"\" What it means: Though you may have imagined otherwise, this word doesn't mean \"\"incapable of catching fire.\"\" Unlike bemused and amused , this is a case where two words with different prefixes mean the same thing. Both flammable and inflammable refer to something that's capable of catching fire. 29. Infamous How you've heard it: \"\"John McEnroe is infamous for his aggressive behavior on the tennis...",
+        "word_count": 1693,
+        "publish_time": "2025-05-22T11:20:34Z",
+        "source": "Associated Press",
+        "tags": [
+          "movie",
+          "tennis",
+          "film",
+          "ai",
+          "study",
+          "tv",
+          "lifestyle",
+          "lifestyledidyouknow"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N31115",
+          "N74033"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "商业",
+          "股票",
+          "国际",
+          "政治"
+        ],
+        "engagement_score": 0.08
+      },
+      "interaction_data": {
+        "scroll_depth": 0.24,
+        "clicks_count": 7,
+        "shares_count": 1,
+        "comments_count": 4,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.53,
+        "topic_keywords": [
+          "movie",
+          "tennis",
+          "film"
+        ],
+        "viral_potential": 0.99,
+        "trend_score": 0.28,
+        "recommendation_relevance": 0.66,
+        "content_quality": 0.96,
+        "user_profile_match": 0.76
+      }
+    },
+    {
+      "timestamp": "2019-06-18T06:08:05Z",
+      "user_id": "U212945",
+      "news_id": "N96151",
+      "action_type": "comment",
+      "session_id": "session_b2f5ca9a08bd",
+      "dwell_time": 1,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "video",
+        "topic": "animals",
+        "headline": "Cat loves to wash owner's hair",
+        "content": "When Liam Sheelan lies down on the couch in his home in Manchester, England, his cat can't resist creeping up on him and washing his hair by licking his head.",
+        "word_count": 30,
+        "publish_time": "2025-05-15T05:50:01Z",
+        "source": "ESPN",
+        "tags": [
+          "ai",
+          "animals",
+          "video"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N75407",
+          "N104248"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "生活",
+          "美食",
+          "奥运会"
+        ],
+        "engagement_score": 0.05
+      },
+      "interaction_data": {
+        "scroll_depth": 0.77,
+        "clicks_count": 0,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.52,
+        "topic_keywords": [
+          "ai",
+          "animals",
+          "video"
+        ],
+        "viral_potential": 0.77,
+        "trend_score": 0.17,
+        "recommendation_relevance": 0.61,
+        "content_quality": 0.7,
+        "user_profile_match": 0.88
+      }
+    },
+    {
+      "timestamp": "2019-06-21T13:35:42Z",
+      "user_id": "U345533",
+      "news_id": "N79670",
+      "action_type": "read",
+      "session_id": "session_127d82befa7e",
+      "dwell_time": 4,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "travel",
+        "topic": "traveltripideas",
+        "headline": "50 American destinations every history buff should visit in their lifetime",
+        "content": "\"These patriotic travel destinations tell the story of American history, and they are places everyone should see in their lifetime. 50 American destinations every history buff should visit in their lifetime America may not have a long history compared to some other countries around the world , but it does have a uniquely interesting history. If you're fascinated by American history but are far removed from the days when you would sit in a classroom and learn about it, know that your days of expanding your knowledge are far from over. We've curated a list of 50 of the most important destinations for history lovers to see across America. From museums that tell underrepresented stories to some of the most important battlefields to sites that defined our freedom, here are 50 American destinations every history buff should visit in their lifetime. The Alamo (San Antonio, Texas) The Alamo in San Antonio, Texas , is the most-visited tourist attraction in the Lone Star State. The mission and fortress was the site of the 1836 Battle of the Alamo, at which a small garrison of Texas independence fighters was finally overwhelmed by a much larger Mexican army after a 13-day siege. Today, visitors can take guided or self-guided tours of the mission to learn more about the church, the various rulers of Texas, the Texas Revolution and the defenders of the Alamo, including famed pioneer Davey Crockett. Alcatraz Island (San Francisco, California) A 15-minute ferry ride from San Francisco, California, takes visitors to Alcatraz Island. On this 22-acre island, you can visit the former fort and federal prison, which is said to be one of the most haunted places in the world . Here, you can learn about military history and the infamous escapes from Alcatraz. The island also features exhibits on the 1969-71 occupation of Alcatraz Island by American Indian activists and information about the island's topography. American Civil War Museum (Richmond, Virginia) The American Civil War was a complicated conflict that Americans still can t agree on today. The American Civil War Museum in Richmond, Virginia , attempts to tell the story of the Civil War from all sides of the battle. Voices from soldiers and civilians both Confederate and Union are represented. The museum s main exhibition, A People s Contest: Struggles for Nation and Freedom in Civil War America also includes narratives from the eyes of women, enslaved African-Americans, Native Americans and more. Arlington National Cemetery (Arlington County, Virginia) The Arlington National Cemetery in Arlington, Virginia, features over 400,000 graves of American soldiers, both those who died in battle and those who retired and died later of other causes. Every American should see the Tomb of the Unknown Soldier, which is the final resting place for unknown soldiers from World War I, World War II and the Korean War. Every hour in the summer (and half hour in cooler months), there is a changing of the guard ceremony at the Tomb of the Unknown Soldier, complete with a moving ceremony. Arlington National Cemetery is the final resting place of John F. Kennedy, William Howard Taft, the space shuttle Challenger's crew and more. Betsy Ross House (Philadelphia, Pennsylvania) Betsy Ross is known as the woman who sewed the first American flag, but this seamstress had a more complicated life than you might think. The Betsy Ross House in Philadelphia, Pennsylvania , tells her story. The 18th-century home features an audio tour of the building, which tells Betsy's story. There are also special exhibits, including presentations about working women during the Revolutionary War. Boston Tea Party Ships & Museum (Boston, Massachusetts) There's no shortage of things for history buffs to do in Boston, Massachusetts , but the Boston Tea Party Ships & Museum is an absolute must-see. The museum itself tells the story of the events that happened leading up to the American Revolution, and you'll see a colonial town meeting in action and can \"\"dump the tea\"\" on the ship. The Boston Museum features perhaps one of the most fascinating objects from this era of American history, the Robinson Tea Chest, the only known remaining tea chest from the Boston Tea Party in 1773. Bunker Hill Monument (Charlestown, Massachusetts) One of the first monuments in the United States, the Bunker Hill Monument in Boston, Massachusetts, is actually on Breed's Hill, which is where the misnamed Battle of Bunker Hill actually took place. Here, you'll hear a talk on why this costly British victory was a major turning point for the colonies during the Revolutionary War and can learn about the soldier's weapon of choice, the musket. Capitol Building (Washington, D.C.) The home of Congress, the Capitol Building in Washington, D.C. , is the pillar of the legislative branch of the American government. On a guided tour, you can see the Crypt, the Rotunda and National Statuary Hall, which feature truly stunning Greek-inspired architecture. You can also obtain a pass from your state senator or House representative to see the Galleries of the Senate and House. Here, you'll be able to watch Congress in action. Disneyland (Anaheim, California) Widely considered to be the first-ever theme park, there's a surprising amount of history at Disneyland in Anaheim, California . Disneyland changed the American amusement park forever thanks to its innovations in themed lands and technology . There are a number of original 1955 attractions still operating today, including Autopia, the Disneyland Railroad, Mr. Toad's Wild Ride and the Storybook Land Canal Boats. History buffs should also be sure to see Abraham Lincoln himself tell his story in Great Moments With Mr. Lincoln, featuring the first-ever animatronic from the 1964 New York World's Fair. Ellis Island (New York, New York) America would be nothing today without immigrants, and between 1892 and 1924, more than 12 million of them were processed at Ellis Island. Today, Ellis Island in New York, New York , is the home to a museum where you can see the plight and hope of these immigrants. Some 100 million Americans can trace their ancestry back to one of the aforementioned 12 million immigrants. At Ellis Island, you can visit the American Family Immigration History Center and try to trace your own family's heritage. Ford's Theatre (Washington, D.C.) The site of Abraham Lincoln's assassination, Ford's Theatre in Washington, D.C., will teach you about the impact of that singular, violent act as well as the rest of Lincoln's presidency. A museum at the theatre features a number of artifacts, including the weapons assassin John Wilkes Booth used to murder our 16th president. The theatre itself is also a stunning, historical venue, and live shows take place there regularly. Franklin D. Roosevelt Presidential Library and Museum (Hyde Park, New York) Opened in 1941, the Franklin D. Roosevelt Presidential Library and Museum in Hyde Park, New York, was the first presidential library and continues to be a must-see for anyone interested in the presidency. FDR was the president during the Great Depression, New Deal and World War II, and his library features documents and self-guided exhibitions about that fascinating period of American history. A $20 ticket to this museum also grants you access to Franklin and Eleanor Roosevelt's home, with a guided tour from a park ranger. Freedom Trail (Boston, Massachusetts) The Freedom Trail, a 2.5-mile path across downtown Boston, Massachusetts, features a great number of historical sites tied to the early history of the United States. Walk this trail (recommended from south to north) to see Old South Meeting House, the Old State House, Faneuil Hall, the USS Constitution and more sights. The Freedom Trail also includes the Granary Burying Ground where the likes of Samuel Adams and Paul Revere are buried as well as King's Chapel Burying Ground, where early pilgrims are buried. Fort McHenry National Monument (Baltimore, Maryland) Without Fort McHenry, there would be no \"\"Star-Spangled Banner.\"\" During the Battle of Baltimore in the War of 1812, the raising of the American flag over this battlefield inspired Francis Scott Key to pen the song that would become our national anthem. Today, you can visit the Fort McHenry National Monument and hear talks about the famous battles that took place at this Baltimore, Maryland , spot. You can also raise and lower replicas of the flag that inspired Key. Fort Sumter (Charleston, South Carolina) The Fort Sumter and Fort Moultrie monument in Charleston, South Carolina , is the site of the first shots of the Civil War. Here, you can take a self-guided or ranger-led tour to learn about how slavery and sectionalism in the early history of the United States eventually led to the devastating Civil War. This educational spot is meant to be a reflective, historical and contemplative place. Gettysburg National Military Park (Gettysburg, Pennsylvania) The Civil War comes alive in Gettysburg, the famous Pennsylvania battlefield where the U.S. Army repulsed a Confederate invasion in the costliest battle of the war. Every weekend from April to October, Civil War living historians give demonstrations across the park to show how people of the time lived and fought. Gettysburg also hosts battle walks and campfire lectures throughout the summer. Visitors should also pay their respects at Gettysburg National Cemetery, where President Lincoln gave his stirring Gettysburg Address in tribute to those who fell in the battle. Graceland (Memphis, Tennessee) Rock 'n' roll music is an integral part of the American story, and perhaps no artist has had as much impact as Elvis Presley. Today, his mansion Graceland in Memphis, Tennessee , is a memorial to the \"\"King of Rock 'n' Roll,\"\" and you can take an iPad-led tour of his mansion home. There's also Elvis: The Entertainer Career Museum and a collection of Elvis' automobiles in Memphis. Of course, the musical history in this to...",
+        "word_count": 1624,
+        "publish_time": "2025-05-12T19:03:32Z",
+        "source": "CNN",
+        "tags": [
+          "congress",
+          "tech",
+          "travel",
+          "ai",
+          "technology",
+          "traveltripideas",
+          "senate",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N70702",
+          "N120358"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "经济",
+          "股票",
+          "时尚",
+          "政治"
+        ],
+        "engagement_score": 0.16
+      },
+      "interaction_data": {
+        "scroll_depth": 0.69,
+        "clicks_count": 8,
+        "shares_count": 3,
+        "comments_count": 0,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.67,
+        "topic_keywords": [
+          "congress",
+          "tech",
+          "travel"
+        ],
+        "viral_potential": 0.34,
+        "trend_score": 0.45,
+        "recommendation_relevance": 0.33,
+        "content_quality": 0.1,
+        "user_profile_match": 0.29
+      }
+    },
+    {
+      "timestamp": "2019-06-17T05:16:43Z",
+      "user_id": "U420796",
+      "news_id": "N85806",
+      "action_type": "read",
+      "session_id": "session_5e9ddd650794",
+      "dwell_time": 5,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestylesmartliving",
+        "headline": "25 Things You Should Never Say to Customer Service",
+        "content": "\"To understand common mistakes customers make, we surveyed the experts and pulled together this definitive list of things to never say to customer service. 25 Things You Should Never Say to Customer Service Emotions tend to run high when you're interacting with customer service reps. If you're calling them or approaching them in a store, chances are you have a problem you are hoping they can help solve. You might be stressed out because you're being charged more than you think you should be or because something you just bought is not working. And before you know it, things can escalate. With tensions running high, it's easy to say the wrong thing perhaps disrespecting the person you're speaking to, giving them inaccurate or unhelpful information, or undercutting your efforts to fix your problem. And it's possible that you have no idea that what you're saying is only making matters worse. To understand common mistakes customers make, we surveyed customer service experts and pulled together these 25 things to avoid saying or doing when trying to get better customer service. 1. \"\"You people…\"\" While the person on the other end is working for the company that's frustrating you, avoid conflating that individual with their organization since whatever is bothering you wasn't directly their fault. Dane Kolbaba , founder of Watchdog Pest Control , urges against \"\"using 'you' or 'your' when referring to mistakes the company (or a previous representative) made.\"\" \"\"If they're personally insulted for an issue they had no direct hand in, it's completely human to feel less helpful, and these representatives are no different,\"\" Kolbaba notes. You're better off trying to ally yourself with them in order to solve the issue together, rather than lumping the rep in with the problem and accusing them. 2. \"\"Your company screwed up, so you better fix this.\"\" The customer service rep is not there to be a punching bag. Even if someone at the company you are calling messed up, that does not mean you can hurl angry comments at the customer service rep and vent your rage just because they represent the organization that is frustrating you. \"\"Any form of abuse (e.g. verbal, emotional, etc.) should be completely avoided,\"\" stresses Sarkis Hakopdjanian , director of strategy and principal for marketing consultancy The Business Clinic , which specializes in employee training services in customer service. \"\"These are human beings that are trying to do their jobs as best as they can. Sometimes a customer is upset about something another employee did, or about a company policy, and they unfortunately take it out on the rep trying to resolve their problem.\"\" He adds that kindness is not just the more decent approach, it is far more effective at motivating customer service representatives than bullying ever could be. And for more phrases that should leave your mouth, here are 40 Things No One Over 40 Should Ever Say . 3. \"\"You're not listening to me.\"\" Sometimes the person on the other end of the line may not quite understand the issue that you are having. But that does not mean they are not listening to you or that you can't clarify what it is you are trying to explain without being rude. \"\"We understood you the first time trust me, we did,\"\" says Drew DuBoff , a growth strategist and outsourcing expert who manages the customer service for major financial advisor bloggers. \"\"You're just getting heated for no reason. Instead, try listening to the response and ask a clarifying question.\"\" 4. \"\"What do you mean, I can't…?\"\" \"\"This question is usually useless to ask because customer service representatives don't control the rules. They just enforce them,\"\" says DuBoff. \"\"If your response to not being eligible for a refund is, 'What do you mean, I can't get a refund if I no longer can afford the program?' then you should probably read the refund policy in advance and be an informed buyer.\"\" Trying to understand these policies will allow you to get the rep's help finding wiggle room within them. And for more people you should be sure to respect, here are 20 Things You Should Never Say to Someone in the Military . 5. \"\"You don't know what you're talking about.\"\" Sometimes what seems like a defective product or bad service might just be confusion on your part, which is hard to realize when you're caught up in a fit of frustration. But before you accuse the customer service person with whom you're speaking of not understanding your situation, consider that they speak with many people who use their products and services daily, and might have some insight that you do not. For example, one Reddit user offered up a particularly hilarious experience they had while working at a supermarket. A customer came in angry about the terrible shrimp she had purchased that disgusted her guests and was even rejected by her dog. \"\"She comes back about five minutes later and said that she spoke with someone at the counter, who evidently put her in her place,\"\" wrote the Redditor. \"\"She had purchased fresh, uncooked shrimp that she thought was precooked. She just plopped it out on the table and served it. Raw, uncooked shrimp.\"\" 6. \"\"Isn't the customer always right?\"\" This cliché still gets trotted out every so often usually by customers who are definitely in the wrong. \"\"Customers are not always right,\"\" writes Alexandra Sakellariou among her list of \"\" Awful Things Customer Service Workers Know to Be True .\"\" \"\"The customer is more than often mistaken or confused. Whether they misread the price tag of a product or don't understand the small print of your return policy, whenever a customer is unhappy, it generally has to do with a miscommunication or error on their end.\"\" And for more phrases that shouldn't pass your lips, here are the 25 Worst Things You Can Say to Your Kids . 7. \"\"Let me speak to your manager.\"\" This line tells the person on the other end, \"\"You aren't going to be able to help me.\"\" And while sometimes the manager can do more than the person you are speaking with, it also has the potential to backfire. \"\"This will immediately make the agent you're speaking with uneasy,\"\" says Ollie Smith , serial entrepreneur and CEO of energy-comparison site EnergySeek . \"\"If the manager does show up, they will develop a negative opinion of you before they speak with you and will be less inclined to go the extra mile to resolve your issue.\"\" Instead, find a way to get the rep themselves to suggest escalating the call if needed. For example, ask, \"\"What other options do we have to fix this?\"\" or \"\"Is there anyone else who might be able to help us?\"\" Approach it as a collaboration rather than a confrontation. 8. \"\"How hard can your job be?\"\" When you're frustrated, it can be tempting to try and make the customer service person you're speaking with feel small by insulting the work they are doing. That was the experience one Reddit user who works at Chili's described in a thread about putting angry customers in their place. When a customer was furious that the restaurant did not have his order, he said the \"\"usual things,\"\" like \"\"How hard it your job?\"\" \"\"How could you screw up?\"\" and \"\"What is wrong with you?\"\" The Chili's employee asked him to say what he ordered and, \"\"as soon as he got to the ahi tuna salad, I told him with the straightest face I could muster that he had ordered from the Outback next door. He said nothing, not even an apology and just turned around and walked out. I still get a nice laugh about it today.\"\" Speaking of what not to utter at work, here are the 40 Things You Should Never Say to Your Boss . 9. \"\"I won't pay that!\"\" You might be upset when you get your cable bill and see a charge on there you're convinced must be a mistake. But starting your call with customer service with that line probably isn't going to help your effort. \"\"In most cases, the individual customer service representative doesn't gain anything if you do or don't pay,\"\" says Teel Lidow , an attorney and founder of the consumer claims service Radvocate . \"\"These companies aggressively pursue unpaid bills they won't hesitate to send you to a collections agency or hit your credit report, even if you claim the bill is wrong.\"\" 10. \"\"I'm going to sue you.\"\" If things go really badly with the customer service rep or if you're particularly upset about an inaccurate charge and are unable to resolve it, threatening to sue can sometimes seem an attractive option or at least, it might give you a sense of power in the exchange. But in most situations, it's not a great idea. \"\"Threatening legal action won't necessarily have the impact you intend,\"\" says Lidow. \"\"Companies have legal departments to handle actual legal actions. Raising the possibility of a lawsuit is a good excuse for an individual customer service representative to say, 'Not my problem,' and end the conversation.\"\" Want to know more legal situations to avoid? Here are 15 Things You Should Never Do When You Get Pulled Over . 11. \"\"I'm calling because I'm angry.\"\" Usually you're calling customer service because something is not working or is frustrating you. But conveying that to the person on the other end of the line within seconds of greeting them might not be the wisest tactic. \"\"When you're calling customer service, chances are you're annoyed because a product or service isn't working properly and there might have been a long wait time on the phone to boot,\"\" says Kolbaba. \"\"When you do finally get someone, it's completely understandable if you sound angry however, make sure you're not directing your anger to them, as this would very likely make them feel defensive, and sets the tone of the call to 'hostile' for both parties.\"\" 12. \"\"I'm taking my business elsewhere!\"\" While this threat might seem like the ultimate trump card any customer can lay out, threatening to pull their business is rarely as effective as it might feel in the moment. For one thing, you actually have to mean it. Often these are empty threats that y...",
+        "word_count": 1723,
+        "publish_time": "2025-05-19T04:18:43Z",
+        "source": "The Guardian",
+        "tags": [
+          "lifestylesmartliving",
+          "policy",
+          "market",
+          "ai",
+          "report",
+          "lifestyle",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "金融",
+          "股票",
+          "体育",
+          "篮球",
+          "新闻",
+          "政治"
+        ],
+        "engagement_score": 0.18
+      },
+      "interaction_data": {
+        "scroll_depth": 0.55,
+        "clicks_count": 1,
+        "shares_count": 0,
+        "comments_count": 3,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.11,
+        "topic_keywords": [
+          "lifestylesmartliving",
+          "policy",
+          "market"
+        ],
+        "viral_potential": 0.37,
+        "trend_score": 0.85,
+        "recommendation_relevance": 0.7,
+        "content_quality": 0.05,
+        "user_profile_match": 0.63
+      }
+    }
+  ],
+  "metadata": {
+    "source": "web_portal",
+    "version": "1.0",
+    "processed_time": "2025-06-12T19:28:29.113569Z"
+  }
+}

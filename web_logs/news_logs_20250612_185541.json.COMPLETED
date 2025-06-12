@@ -1,0 +1,747 @@
+{
+  "batch_id": "batch_20250612_185541_1b5550b6",
+  "events": [
+    {
+      "timestamp": "2019-06-16T04:55:22Z",
+      "user_id": "U296924",
+      "news_id": "N118909",
+      "action_type": "click",
+      "session_id": "session_8f9b7f844f1f",
+      "dwell_time": 90,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Judge in upstate New York dies after a heart attack on the bench",
+        "content": "\"A judge in upstate New York died after suffering a heart attack in his courtroom. Putnam County Court Judge James Reitz had just finished a case on the bench Friday morning when he asked a court officer for help. \"\"They were getting ready to call the next case when Reitz said to the court officer that was with him, 'John, I think I need you to help me here,'\"\" Putnam County Executive MaryEllen Odell told CNN. Reitz then collapsed. The officer performed CPR on the judge until he was taken by ambulance to the hospital, Odell said. The hospital worked on him for about 30 to 45 minutes before he was pronounced dead. He was 57. Reitz had been a judge in Putnam County since 2007, according to the New York Law Journal . Before that, he was a lawyer with a private practice. Reitz was known for his drug court program, which offered people whose crimes were related to addiction an opportunity to seek treatment and avoid prison. Terrence Murphy, a former New York state senator, told CNN he worked with Reitz often on the drug court. Murphy was chair of the New York State Senate Task Force on Heroin and Opioid Addiction. \"\"He ran the best drug court in New York state,\"\" Murphy said. \"\"He literally saved people's lives. He's an iconic person and will be sorely missed. Our professional relationship went beyond, into personal friendship, with him and his wife Barbara. I'm still in shock.\"\" Odell said the death of Reitz was a loss to the community. \"\"He was a giant among men in this community. We will be feeling his loss for a very long time,\"\" Odell said. \"\"I personally lost a dear friend and Putnam County lost a dedicated public servant whose passion was helping anyone who needed help.\"\"\"",
+        "word_count": 304,
+        "publish_time": "2025-06-01T21:08:59Z",
+        "source": "The Guardian",
+        "tags": [
+          "ai",
+          "news",
+          "treatment",
+          "newsus",
+          "senate"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "night",
+        "is_weekend": true,
+        "user_interests": [
+          "手机",
+          "金融",
+          "经济"
+        ],
+        "engagement_score": 0.48
+      },
+      "interaction_data": {
+        "scroll_depth": 0.58,
+        "clicks_count": 9,
+        "shares_count": 3,
+        "comments_count": 4,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.39,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "treatment"
+        ],
+        "viral_potential": 0.92,
+        "trend_score": 0.19,
+        "recommendation_relevance": 0.62,
+        "content_quality": 0.22,
+        "user_profile_match": 0.12
+      }
+    },
+    {
+      "timestamp": "2019-06-15T05:37:51Z",
+      "user_id": "U371934",
+      "news_id": "N86930",
+      "action_type": "skip",
+      "session_id": "session_65a86bcd26d9",
+      "dwell_time": 5,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Windows",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "travel",
+        "topic": "traveltripideas",
+        "headline": "The 20 Best Beaches on the East Coast",
+        "content": "\"Whether you're looking for somewhere posh, stylish, and steamy, or you've got your heart set on a quaint and down-to-earth spot in New England, there's an East Coast oceanside town that can fit the bill. From Maine's Bar Harbor to Florida's Miami Beach, these East Coast beaches could make Californians jealous. SAND HOLLERS When it comes to the country's most scenic and coveted coastlines , Americans tend to look west to California. But the East Coast is home to plenty of gems of its own. From family-friendly havens to wild party sands, don't miss these underrated Atlantic Coast hot spots. CAPE MAY, NJ One of the best things about Cove Beach in Cape May is the lighthouse. The historic structure still lights up the beach to create oceanside enchantment each evening. It's a charming footnote to a full day of swimming, hunting seashells, and exploring the dunes. What's more, the entire town is a National Historic Landmark thanks to its exceptionally well-preserved Victorian buildings, built mainly during the late 19th century. BETHANY BEACH, DE The Diamond State might not be the first to come to mind when planning a beach vacation, but Bethany Beach in the Delaware town of the same name more than fills the bill. The town is small and quiet, but the beach is expansive and has a boardwalk for picking up souvenirs or grabbing lunch. The waves can get big enough for surfing. MYRTLE BEACH, SC With 60 miles of beach, a subtropical climate, and one of the best boardwalks on the East Coast, Myrtle Beach is among the most famous summer destinations on the Atlantic. This something-for-everyone hotspot is a mecca for art enthusiasts, golf lovers, and even symphony aficionados. OCEAN CITY, MD When visiting Ocean City Beach, be sure to make time for the 3-mile boardwalk, with all its shops, rides, carousel, and places to eat. Bring the dog, too -- pets are allowed on the beach and boardwalk. Visitors may even spot a few dolphins. There are 10 miles of beaches -- all free -- and two are reserved for surfers. Fishing is permitted year-round, while horseback riding is allowed off season. DUCK, NC \"\"Quaint\"\" is the name of the game on the island of Duck, tucked away in the scenic Outer Banks. On one side of the island is the ocean coast; on the other is scenic Currituck Sound. The town's clean beaches span seven miles and are all walkable from the village center's sound-front park, restaurants, and shops. MARTHA'S VINEYARD, MA Martha's Vineyard is one of America's classic summer beach colonies. It's known for hosting a who's who of celebrities and socialites, from the Kennedys to Reese Witherspoon, but is charming and low-key compared with the pomp and glitz of its East Coast celebrity beach rival the Hamptons. REHOBOTH BEACH, DE Rehoboth Beach is especially popular with families. The beaches are clean and scenic, though crowded during peak season. The boardwalk, which runs a full mile, is hyped as another of the East Coast's best. BAR HARBOR, ME Leave sunbathing to the Southeast. Bar Harbor, which embodies New England's rugged coastline, is all about action and adventure. Rocky, rustic, and natural, the beach is nestled between the North Atlantic and the mountains, lakes, and rugged coastline of Acadia National Park. DAYTONA BEACH, FL The Daytona 500 is one of the most famous names in the world of automotive speed, but the \"\"Original American Beach,\"\" as Daytona Beach bills itself, is surprisingly relaxing, carpeted with white sand that brushes against warm, bright blue water. MIAMI BEACH, FL It had to be on the list: Miami Beach , haven for the rich and beautiful. Beyond imported sports cars and well-tanned eye candy, however, the beach is about as close as you'll get to the Caribbean without leaving the states, and surrounded by Art Deco architecture and tempting nightclubs. FLYING POINT BEACH | SOUTHAMPTON, NY This Hampton beach is secluded, clean, and fun -- lots of fun. It features miles of mostly empty dunes and the culture of Flying Point has allowed scantily clad beachgoers of both genders to roam, stay all night, and even light bonfires over the years. OCEAN CITY, NJ From the bustling, boardwalk-lined beaches on the north end of the island to the secluded stretches of sand near a wildlife reserve on the south, Ocean City's beaches are clean, family-friendly, and bustling. On clear days, you can see Atlantic City, or at least what's left of it. CHINCOTEAGUE ISLAND, VA Chincoteague Island lures visitors and Virginians alike as an alternate to its better-known, more crowded cousin, Virginia Beach -- and better for its lack of high-rises, tourist bustle, boardwalks, and traffic. EMERALD ISLE, NC Emerald Isle barred hotels along its coast and stayed pristine. Instead of lodging, this hideaway provides plenty of picnic areas, pavilions, and recreation spots right off the sand. It's also one of few hot spots that still allows beach driving during the busy season. TYBEE ISLAND, GA Savannah is the Hostess City of the South, and its signature beach is Tybee Island -- so well known for its cuisine that celebrity chef Paula Deen has a beach house there. Its nearby salt marshes teem with birds and other wildlife unique to the area. BOWMAN'S BEACH | SANIBEL, FL The coastline is void of hotels and other human clutter, and reaching the beach requires walking a quarter-mile footbridge. The reward is pristine white sand and all the shells a collector can carry. FOLLY BEACH, SC Folly Beach gives Southern California a run for its sun. The average temperatures are 85 degrees in summer, 65 in fall, 75 in spring, and 55 in winter. The beaches are expansive, the sunsets painted, and landmarks include a local lighthouse and pier. JONES BEACH, NY Jones Beach is less than 20 miles from New York City -- but a million miles away. Part of a state park by the same name, Jones Beach boasts 6.5 miles of white beaches made of raised barrier islands, the brainchild of legendary New York builder and planner Robert Moses. NAGS HEAD, NC Nags Head keeps its beaches clean and full through a dual program of sand relocation and public education on beach conservation called \"\"leave only your footprints in the sand.\"\" The beach, a tourist hotspot, keeps it fun by issuing permits for pit fires on the beach. FIRE ISLAND, NY Fire Island has been a haven for New Yorkers for generations, attracting an easygoing and unpretentious crowd of local surfers and tourists thanks not just to pristine beaches, but campings spots, hiking trails, the Sunken Forest, and famous Fire Island Lighthouse.\"",
+        "word_count": 1107,
+        "publish_time": "2025-06-12T01:04:45Z",
+        "source": "ESPN",
+        "tags": [
+          "travel",
+          "ai",
+          "traveltripideas",
+          "celebrity"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N114588",
+          "N14376"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "国际",
+          "新闻",
+          "互联网",
+          "保险",
+          "音乐"
+        ],
+        "engagement_score": 0.42
+      },
+      "interaction_data": {
+        "scroll_depth": 0.71,
+        "clicks_count": 8,
+        "shares_count": 2,
+        "comments_count": 4,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.15,
+        "topic_keywords": [
+          "travel",
+          "ai",
+          "traveltripideas"
+        ],
+        "viral_potential": 0.61,
+        "trend_score": 0.9,
+        "recommendation_relevance": 0.93,
+        "content_quality": 0.12,
+        "user_profile_match": 0.43
+      }
+    },
+    {
+      "timestamp": "2019-06-13T18:55:24Z",
+      "user_id": "U367466",
+      "news_id": "N119976",
+      "action_type": "like",
+      "session_id": "session_56018674fa87",
+      "dwell_time": 163,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Hubei",
+        "city": "Wuhan"
+      },
+      "news_details": {
+        "category": "movies",
+        "topic": "movies-celebrity",
+        "headline": "Cuba Gooding Jr. surrenders to NYPD on groping allegation, charged with 'forcible touching'",
+        "content": "\"(Video provided by ETOnline.com) Sought for three days for questioning on a sexual-misconduct allegation , Cuba Gooding Jr. voluntarily surrendered Thursday to New York police, was arrested and charged with a misdemeanor count of \"\"forcible touching\"\" involving an accusation he groped a woman's breast in a New York bar on Sunday. Det. Martin Brown, a spokesman for the NYPD, told USA TODAY Gooding was charged by the Special Victims unit after he turned himself in and was questioned at a police precinct. Gooding is expected to be arraigned shortly. News video posted on Twitter showed police walking a cuffed, smiling Gooding out what appeared to be a back door of the precinct. #BREAKING - Cuba Gooding Jr. leaves in handcuffs after surrendering to NYPD on groping allegation. He's been charged with 'forcible touching'. @etnow #EntertainmentNews #CubaGoodingJr pic.twitter.com/Ljox7KbqDG Charles A. O'Keefe (@CharlesAOKeefe) June 13, 2019 Mark Heller, one of Gooding's attorneys who arranged for Gooding to turn himself in to the sex-crime detectives, told USA TODAY he expected Gooding to be arrested and charged with \"\"forcible touching,\"\" commonly known as groping. But Heller insisted prosecutors should decline to prosecute Gooding for lack of evidence of wrongdoing. \"\"I have viewed the footage (of video surveillance) of the entire evening and did not see one scintilla of criminal culpability on the part of Cuba Gooding,\"\" Heller said. News videos posted on Twitter showed Heller defending Gooding as innocent. He said Gooding would plead not guilty. \"\"I am completely confident that he will be totally exonerated,\"\" Heller said. The plan for Gooding to surrender was up in the air earlier on Thursday after Heller watched the surveillance video from the bar and hesitated, unable to contact the Manhattan District Attorney's office to discuss whether a prosecution was possible or warranted. Cuba Gooding Jr.'s lawyer: \"\"I am completely confident that he will be totally exonerated\"\" https://t.co/u5ackWE4Gs pic.twitter.com/bqbC43FAXs CBS News (@CBSNews) June 13, 2019 But Gooding alluded to a video tape when he declared himself innocent of the accusation late Tuesday, as he was preparing to board a flight from Los Angeles to New York. He was stopped by a paparazzo who asked him if he was guilty of the accusation. \"\"No, absolutely not,\"\" Gooding said, smiling affably. In the video of the interview posted by TMZ , Gooding said he was at the bar, met people, took pictures with fans but rejected any suggestion he touched someone inappropriately on purpose or by accident. \"\"I trust the system, let the process speak for itself,\"\" Gooding said as he walked into the terminal, interrupted by a fan seeking a picture. \"\"There's a tape that shows what really happened.\"\" The Oscar-winning actor was accused of drunkenly groping a woman's breast while partying and drinking with her at the Magic Hour Rooftop Bar and Lounge in midtown Manhattan on Sunday night. At least one video posted online (and later deleted) by someone who was in the bar showed Gooding was there that night, holding a microphone and raucously singing with others. It did not show him groping anyone. Police had been seeking to talk to Gooding, 51, since early Monday to question him about the allegation of \"\"forcible touching\"\" at the bar. Heller said the misdemeanor charge could lead to a potential jail sentence of one year. The accuser, 29, called police hours after the alleged encounter in the early hours of Monday. So far, she has not been identified, nor has anyone claiming to be the accuser spoken to the media. Heller told USA TODAY his legal team negotiated an arrangement to allow Gooding to turn himself in to police on Thursday, but that was before he viewed the surveillance video from the bar. Gooding, who won an Oscar for best supporting actor for 1996's \"\"Jerry Maguire,\"\" more recently received plaudits for playing O.J. Simpson on FX's \"\"The People v. O.J. Simpson.\"\" Prior to the current era of widespread #MeToo wariness, which gained force in the fall of 2017, Gooding was criticized for his hard-partying and his behavior towards women. In March 2017, he was slammed on social media when he lifted up the dress of Golden Globe winner Sarah Paulson when he appeared on stage at Los Angeles PaleyFest with his co-stars of \"\"American Horror Story.\"\"\"",
+        "word_count": 709,
+        "publish_time": "2025-06-09T03:41:02Z",
+        "source": "Bloomberg",
+        "tags": [
+          "entertainment",
+          "ai",
+          "news",
+          "movies-celebrity",
+          "breaking",
+          "movies"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N76930"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "科技",
+          "经济",
+          "金融"
+        ],
+        "engagement_score": 0.38
+      },
+      "interaction_data": {
+        "scroll_depth": 0.3,
+        "clicks_count": 8,
+        "shares_count": 1,
+        "comments_count": 1,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.12,
+        "topic_keywords": [
+          "entertainment",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.69,
+        "trend_score": 0.16,
+        "recommendation_relevance": 0.25,
+        "content_quality": 0.83,
+        "user_profile_match": 0.89
+      }
+    },
+    {
+      "timestamp": "2019-06-20T12:43:44Z",
+      "user_id": "U222668",
+      "news_id": "N53781",
+      "action_type": "read",
+      "session_id": "session_a9d0f08300de",
+      "dwell_time": 178,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsworld",
+        "headline": "Trump says public will 'find out' about U.S. response to Iran downing American drone",
+        "content": "\"WASHINGTON President Donald Trump on Thursday said the public will \"\"find out\"\" about a U.S. response to Iran shooting down an American military drone in the Persian Gulf that the president insisted was in international territory. Asked at the White House about a U.S. response, Trump said, \"\"Obviously, you know were not going to be talking too much about it,\"\" before adding, \"\"You're going to find out.\"\" \"\"Iran made a very bad mistake,\"\" the president continued. \"\"The drone was in international waters clearly. We have it documented.\"\" Trump has invited Senate Majority Leader Mitch McConnell, R-Ky., Senate Minority Leader Chuck Schumer, D-N.Y., House Speaker Nancy Pelosi, D-Calif., and House Minority Leader Kevin McCarthy, R-Calif., to a briefing at the White House at 3:00 p.m. Thursday on Iran, Senate Armed Services Committee Ranking Member Jack Reed, D-R.I., and multiple congressional sources told NBC News. Trump's comments, made at the White House during an appearance with Canadian Prime Minister Justin Trudeau, came hours after Iran said it downed drone and claimed it was in Iranian air space. While Trump said the Iranian action was \"\"a new fly in the ointment\"\" and a \"\"very foolish move,\"\" he also said it might have been a \"\"mistake.\"\" \"\"I have a feeling that someone under the command of that country made a big mistake,\"\" he said. \"\"I find it hard to believe it was intentional. It could have been someone who was loose and stupid who did it.\"\" Trump added that it would have made a \"\"big difference\"\" if there had been a person in the drone. The president's earlier statement on Twitter that Iran had made a \"\"big mistake\"\" was the first official White House response to the downing of the drone, which occurred around 4 a.m. Thursday morning in Iran (just after 7:30 pm ET Wednesday evening). A meeting was set at the White House for Thursday morning to discuss the U.S. response, according to two administration officials. Outgoing acting Defense Secretary Patrick Shanahan and his replacement, Mark Esper, were among those expected to attend. At roughly the same time, House and Senate leaders and key committee chairs were scheduled to attend an Iran briefing to discuss their concerns and hear about the situation from officials, Pelosi told reporters Thursday. Later in the day, Pelosi planned to hold a briefing for the House Democratic caucus with Wendy Sherman, who helped negotiate the Iran nuclear agreement that Trump withdrew from, and former CIA Director John Brennan. Pelosi said Thursday that \"\"high-tension wires are up in the region\"\" and cautioned against any \"\"reckless\"\" moves by the U.S. \"\"We have to be strong and strategic about how we protect our interests. We also cannot be reckless in what we do. I don't think the president wants to go to war. There's no appetite for going to war in our country,\"\" she said at her weekly news conference on Capitol Hill. \"\"This is a dangerous neighborhood. A miscalculation on either side could provoke something that could be very bad in terms of security and our interests.\"\" Although both nations have acknowledged that the U.S. military drone was downed, they disagreed on whether it had violated Iranian airspace: Iranian's Revolutionary Guard said it did, but U.S. officials disputed that, saying it was in international airspace.\"",
+        "word_count": 546,
+        "publish_time": "2025-05-24T15:44:44Z",
+        "source": "CNN",
+        "tags": [
+          "congress",
+          "newsworld",
+          "ai",
+          "news",
+          "report",
+          "senate"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N75943",
+          "N121928"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "旅行",
+          "生活",
+          "明星",
+          "足球",
+          "篮球",
+          "新闻"
+        ],
+        "engagement_score": 0.65
+      },
+      "interaction_data": {
+        "scroll_depth": 0.75,
+        "clicks_count": 1,
+        "shares_count": 2,
+        "comments_count": 2,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.59,
+        "topic_keywords": [
+          "congress",
+          "newsworld",
+          "ai"
+        ],
+        "viral_potential": 0.68,
+        "trend_score": 0.41,
+        "recommendation_relevance": 0.29,
+        "content_quality": 0.74,
+        "user_profile_match": 0.91
+      }
+    },
+    {
+      "timestamp": "2019-06-14T13:42:38Z",
+      "user_id": "U179457",
+      "news_id": "N109049",
+      "action_type": "skip",
+      "session_id": "session_2b9392fbf255",
+      "dwell_time": 67,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "foodanddrink",
+        "topic": "restaurantsandnews",
+        "headline": "The best all-you-can-eat deal in every state",
+        "content": "\"All-you-can-eat deals, buffet-borne or otherwise, should be more than just tests of endurance. They should also be delicious. These 51 are. The Best All-You-Can-Eat Deal in Every State In America, we believe that it's our God-given right to eat as much as we want, whenever we want to. And thanks to all-you-can-eat deals and buffets, there are plenty of great places to live out that dream. There's something about an all-you-can-eat buffet that makes us feel like royalty. Having an unlimited amount of food at our disposal has been a goal of humans for thousands upon thousands of years, and achieving that goal by simply forking over some cash and grabbing a plate satisfies us in a way that can best be described as primal. With grumbling bellies, we plan our strategy , survey our domain, and commence the feast. You're guaranteed to leave full, satisfied, and maybe a little ashamed of your stomach capacity. But anything in moderation is fine, right? In order to assemble our list, we tracked down a bevy of beloved deals from every state, then judged them according to food selection, décor, ratings on review sites, level of local renown, and variety. We also made sure that even when these deals are on the pricier side, you'll always feel that you're getting your money's worth. The deals included in our ranking run the gamut from Sunday brunch extravaganzas to Las Vegas and Atlantic City palaces, from Old Country smorgasbords to classic Chinese buffets, from Indian lunch deals to all-you-can-eat seafood or barbecue specials. But no matter the style of food served, these all-you-can-eat deals all have a couple things in common: They've attained legendary status, and it's all but impossible to eat at these restaurants and go home hungry. Alabama: Barnyard Buffet (Saraland) At the popular down-home Southern-style Barnyard Buffet in Saraland, Alabama , you'll find more than 30 offerings from three hot bars, with something new every day of the week. There's always fried chicken and fish, hushpuppies, pot roast, mac and cheese, mashed potatoes, honey-glazed sweet potatoes, and cornbread, along with a wide variety of meats, soups, fried treats, and vegetables. Friday night means steak and baked potatoes; Saturday means ribs with house-made barbecue sauce; and Sunday brings a traditional Southern Sunday supper with chicken and dumplings, turkey and gravy, and all the fixins. The weekend breakfast buffet is also popular, with eggs, bacon, sausage, biscuits and gravy, French toast, pancakes, and fresh-cut fruit. The price tops out at $13.19. Alaska: Gold Creek Salmon Bake (Juneau) Since 1978, Gold Creek Salmon Bake has been bringing hungry travelers to a campsite at Salmon Creek Falls in an old-growth forest, where they can pan for gold, check out old mining relics, enjoy the wilderness, and partake in an all-you-can-eat feast of the freshest salmon you'll find anywhere (this is Alaska , after all). The salmon is grilled over an alderwood fire, and served with a variety of side dishes and blueberry cake for dessert. The adventure costs $55 for adults and $41 for children. Arizona: Wandering Horse Buffet (Scottsdale) Located at Scottsdale, Arizona 's Talking Stick Resort, Wandering Horse Buffet offers a huge variety of Italian, Asian, Mexican, Mediterranean, and American cuisines, and really has something for everybody. There's fresh sushi, a carving station, brick oven pizza, a huge dessert spread, a $34.95 Champagne Sunday brunch, a $23.95 prime rib feast on Wednesdays, and unlimited king crab legs on Friday and Saturday nights, when the price tops out at $36.95. Arkansas: Brown's Country Store and Restaurant (Benton) In business since 1973, the fun and kitschy Brown's Country Store and Restaurant is a Benton, Arkansas , landmark. The country store sells loads of toys, knickknacks, candies, chili mixes, and other Southern products, but the restaurant is what put this place on the map. Run by Philip and Cissy Brown, the buffet is 100 feet of down-home country cookin'. Baked chicken, fried chicken, fried catfish, pot roast, chicken and dumplings, peel-and-eat shrimp, hushpuppies, mac and cheese, banana pudding… It's all here, it's all tasty, it's all-you-can-eat, and it'll only set you back $11.95. California: Hae Jang Chon (Los Angeles) California is a big state with no shortage of all-you-can-eat deals, but you'd be hard-pressed to find a better one than what's offered at Hae Jang Chon , located in LA's Koreatown. At this super-popular Korean barbecue spot, you can choose from a mind-boggling assortment of 27 menu options including meats both marinated and unmarinated (brisket, short rib, bulgogi, and pork belly are especially popular), seafood, vegetables, and even beef tripe, which you can cook yourself on tabletop Korean stone grills. The feast costs $23.99 for lunch and $25.99 for dinner, and it's open daily until 2 a.m. Colorado: Los Cabos II (Denver) The quaint Los Cabos II is bringing authentic Peruvian cuisine to Denver, Colorado , and their lunch buffet, served daily from 11 to 2, is the state's best. For $8.95 ($15 on Sundays), you can enjoy a traditional Peruvian feast of lomo saltado (beef strips with peppers, onions, and tomatoes), cau cau de mariscos (curry seafood stew), and a variety of soups and salads. Connecticut: Evergreens at the Simsbury Inn (Simsbury) Evergreens is one of Connecticut 's finest restaurants, located inside the upscale Simsbury Inn, and its Sunday brunch buffet is nothing short of astounding. Crêpes Suzette, made-to-order Belgian waffles and omelets, carved sirloin and turkey, cheese blintzes, lobster mac and cheese, smoked seafood, cheeses, sesame-crusted salmon, veal scallopini, poached eggs with grilled steak, and a massive variety of desserts (among plenty of other rotating specialties) are yours for the taking. Delaware: Deerfield (Newark) The Sunday brunch served at popular Newark, Delaware , golf club and wedding venue Deerfield is nothing short of spectacular. Served from late September through early May, this 111-foot brunch spread features a seafood station (don't miss the crab cakes and oysters Rockefeller); made-to-order omelets and eggs Benedict; a carving station with lamb, strip loin, and salmon; a pasta station; a vegetarian stir-fry station; soups and salads; bagels and breakfast pastries; a yogurt parfait station; a kids' buffet with fun foods like chicken tenders, mini pizzas, and a \"\"doughnut wall\"\"; and a huge dessert spread. And if you want to make your own mimosas, they'll be happy to supply a bottle of the good stuff and juice. Florida: The Circle, The Breakers (Palm Beach) The Italian Renaissance-style Breakers Palm Beach has been one of the country's premier high-end destinations since tycoon Henry Flagler had it built in Palm Beach, Florida , back in 1896 (the current incarnation was completed in 1926). There's no shortage of spectacular dining options at this luxurious retreat, but for brunch, one option rises head and shoulders above the rest (and above every brunch option in the state): Sunday Brunch in The Circle 's splendid and opulent dining room (think ocean views, 30-foot frescoed ceilings, and oval murals depicting Renaissance-era landscapes) a tradition for more than 25 years. Alaskan king crab legs, sushi, caviar, smoked fish, lamb chops, carved-to-order ham and beef tenderloin, Belgian waffles, eggs Benedict, fresh-baked pastries and muffins, omelets, cheeses, pâté, and more than 30 desserts are all for the taking, with a harpist strolling from table to table to boot. The Champagne, mimosas, and bloody marys are free-flowing. Come hungry, and it'll be well worth the expense. Georgia: Nori Nori (Atlanta) The super-popular Nori Nori brings an absolutely massive assortment of all-you-can eat sushi and other Japanese and fusion dishes to Georgia . Along with more than 20 varieties of nigiri sushi and more than 30 creative rolls, diners can treat themselves to a spread of dishes including Asian black noodle salad, shrimp cocktail, barbecue pork, blue crab in sesame sauce, beef rib-eye, lobster and clam cakes, oysters Rockefeller, tempura shrimp and vegetables, udon noodles, and a huge assortment of desserts ranging from Oreo cheesecake to green tea ice cream. It ranges in price from $18.25 to $33.95 and is worth every penny. Hawaii: 100 Sails (Honolulu) 100 Sails is Honolulu's best buffet restaurant, offering five different buffets in total: breakfast, brunch, lunch, Hawaiian lunch on Saturdays, and dinner, ranging in price from $32 to $58. The buffet is heavily influenced by Chinese cuisine, but the native cuisine of Hawaii is certainly represented as well, and local ingredients are used whenever possible. Drop in for lunch on Saturday and you'll encounter a Hawaiian feast of specialties including kalua pig, pork lau lau, chicken long rice, sushi, and haupia; on the dinner menu, look out for lomi-lomi salmon, ahi poke, Chinatown-style steamed crab, Dungeness crab, salt and pepper Kauai shrimp, crispy garlic soy chicken, and the build-your-own ramen station. And like all great buffets should, this one has a carving station with prime rib au jus. Idaho: China Grand Buffet (Boise) Going strong for more than 10 years, this beloved Boise, Idaho , institution China Grand Buffet serves all the Chinese and Japanese classics, more than 200 items in total. Along with just about every Chinese-American dish you can dream of, the restaurant also recently added a hibachi grill as well as a full-service sushi bar, which would easily be worth the price of admission alone: Eight bucks for lunch, and $11.25 for dinner. Illinois: Red Apple Buffet (Chicago) Chicago, Illinois ' sprawling Red Apple Buffet is home to three full rooms' worth of buffets, and while there are plenty of American and international specialties, for all intents and purposes Red Apple is a Polish buffet. Pierogis, potato pancakes, schnitzel, Polish sausage, blintzes, pork stew, roast beef, stuffed cabb...",
+        "word_count": 1595,
+        "publish_time": "2025-05-22T12:19:31Z",
+        "source": "CNN",
+        "tags": [
+          "ai",
+          "restaurantsandnews",
+          "election",
+          "foodanddrink",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N123008",
+          "N43827"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "网球",
+          "经济",
+          "股票"
+        ],
+        "engagement_score": 0.19
+      },
+      "interaction_data": {
+        "scroll_depth": 0.36,
+        "clicks_count": 8,
+        "shares_count": 3,
+        "comments_count": 5,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.12,
+        "topic_keywords": [
+          "ai",
+          "restaurantsandnews",
+          "election"
+        ],
+        "viral_potential": 0.14,
+        "trend_score": 0.58,
+        "recommendation_relevance": 0.67,
+        "content_quality": 0.02,
+        "user_profile_match": 0.53
+      }
+    },
+    {
+      "timestamp": "2019-07-02T06:41:45Z",
+      "user_id": "U211751",
+      "news_id": "N89649",
+      "action_type": "comment",
+      "session_id": "session_4f65c62a40e5",
+      "dwell_time": 81,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shaanxi",
+        "city": "Xi'an"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Lawmakers condemn 'vulgar' posts in secret border agent Facebook group",
+        "content": "\"EL PASO Congressional Democrats on Monday condemned postings made in a secret Facebook group for U.S. Border Patrol agents that targeted migrants and some prominent lawmakers with attacks that the chairman of the Congressional Hispanic Caucus called \"\"vulgar, disgusting and vile.\"\" The posts sparked special outrage among a delegation of more than a dozen House members who had just started a tour of federal immigration facilities in Southwest Texas when ProPublica broke the story . Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post Some of the Facebook posts discussed throwing burritos at the visiting lawmakers, while others joked in profane language about the deaths of migrants and included a vulgar illustration of Rep. Alexandria Ocasio-Cortez (D-N.Y.) being forced to engage in a sexual act by President Trump, according to images of the posts obtained by ProPublica. Before they toured two Border Patrol stations Monday, several members asked their hosts in a private briefing whether they would be safe inside, said Rep. Pete Aguilar (D-Calif.). The airing of the private attacks, Aguilar said, made it even more difficult for congressional overseers to trust the Border Patrol as the federal government works to address the surge of migrants at the U.S.-Mexico border. \"\"It's very tough to back them up when their active and retired members are part of this Facebook page,\"\" he said in an interview. \"\"Even if it's a very small percentage, it's unfortunate they harbor some very dark imagery and very dark thoughts about migrants and members of Congress.\"\" Border Patrol Chief Carla Provost, who responded to the ProPublica report, described the online group as \"\"completely inappropriate and contrary to the honor and integrity I see and expect from our agents day in and day out\"\" and she vowed to hold accountable any employee found to have violated the agency's rules of conduct. A separate statement from Customs and Border Protection, the patrol's parent agency, said the inspector general of the Department of Homeland Security would conduct an independent investigation. The Washington Post was not able to confirm the existence of the group, called \"\"I'm 10-15,\"\" after the law enforcement code for \"\"aliens in custody,\"\" as the group is not visible to people who aren't members. The lawmakers visited Border Patrol stations in El Paso and Clint, Tex., as well as a facility in El Paso for children operated by the Department of Health and Human Services. The Congressional Hispanic Caucus organized the trip after conditions at the Clint facility prompted an outcry last month, with lawyers who visited describing scenes of hundreds of sick and dirty children without their parents and inconsolable toddlers in the care of other children. During Monday's visit to Clint, lawmakers saw only about two dozen migrant children being held there, down from about 700 in May, Aguilar said. Members expressed more pointed concerns about the El Paso facility, where they said several hundred people are still detained. They described a visit with a group of more than a dozen Cuban women housed in a crowded cell without running water who reported going weeks without showers. Ocasio-Cortez said one woman said she was told by Border Patrol officers to drink out of a toilet. \"\"And that was them knowing that a congressional visit was coming,\"\" the visibly angry lawmaker said in an interview. \"\"This is CBP on their best behavior, telling people to drink out of the toilet.\"\" Rep. Judy Chu (D-Calif.), another member of the delegation, echoed Ocasio-Cortez's description in an account posted to Twitter and said the conditions at the facility were \"\"appalling and disgusting.\"\" Rep. Madeleine Dean (D-Pa.) called them indicative of a \"\"human rights crisis.\"\" A Department of Homeland Security official, who was not authorized to discuss the visit and spoke on the condition of anonymity, insisted that no Border Patrol agent would make a migrant in their custody drink from a toilet and said there was water available. Aguilar and others said the revelations surrounding the Facebook group which came to light during the morning visit to the HHS facility colored the visits later in the day to the Border Patrol sites. \"\"It shocks the conscience that these agents are entrusted with the lives of anybody in their custody, much less vulnerable people,\"\" said Rep. Joaquin Castro (D-Tex.), the caucus's chairman. \"\"And the vulgar xenophobia and sexism is clearly pervasive.\"\" Rep. Veronica Escobar (D), who represents the El Paso area, wondered to reporters how many current Border Patrol members and supervisors belonged to the group and tolerated the rhetoric on display there: \"\"Anyone who views vulnerable human lives in this way should have absolutely no access to a badge or a gun,\"\" she said. Castro told reporters in Clint that lawmakers will investigate the Facebook posts. House Homeland Security Chairman Bennie G. Thompson (D-Miss.), who did not participate in Monday's border visits, said in a statement that the Facebook group is \"\"truly abhorrent and shameful\"\" and that those who participated in the attacks \"\"seem empowered by President Trump and seem all too willing to take his anti-immigrant rhetoric to the next level when they think no one is watching.\"\" As the furor over the posts mounted, Trump supporters gathered outside the Clint detention center while the Democrats were inside. At a news conference afterward, the lawmakers struggled to be heard as protesters shouted them down. \"\"Build a wall; deport 'em all,\"\" one shouted. \"\"That's the way we get rid of this problem!\"\" When Rep. Rashida Tlaib (D-Mich.), one of three Muslim members of Congress, stood at the event, a protester shouted: \"\"We care about Jesus Christ. We don't care about Sharia law.\"\" \"\"I will outlove your hate,\"\" Tlaib replied, choked with emotion. \"\"You can all scream at me. I will never stop speaking truth to power.\"\" The visit came just days after a bitterly divided House approved $4.6 billion in emergency aid for the border. Liberal Democrats, many of whom made the trip to Texas, wanted strict limits on how Trump could spend the money. Other Democrats were intent on getting the money to the administration as quickly as possible, agreeing to a measure that would pump billions of dollars into the budgets of agencies, including the Department of Health and Human Services, that have been overwhelmed by the influx of Central American migrants at the border. In an interview last week, Trump defended conditions at migrant detention facilities during his tenure. \"\"No, the conditions are much better than they were under President Obama,\"\" he told the Hill newspaper. john.wagner@washpost.com mike.debonis@washpost.com\"",
+        "word_count": 1087,
+        "publish_time": "2025-06-04T23:34:50Z",
+        "source": "Associated Press",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "health",
+          "report",
+          "newsus",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N46246",
+          "N32327"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "经济",
+          "股票",
+          "理财",
+          "银行",
+          "AI",
+          "生活"
+        ],
+        "engagement_score": 0.81
+      },
+      "interaction_data": {
+        "scroll_depth": 0.97,
+        "clicks_count": 2,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.18,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.46,
+        "trend_score": 0.11,
+        "recommendation_relevance": 0.96,
+        "content_quality": 0.73,
+        "user_profile_match": 0.37
+      }
+    },
+    {
+      "timestamp": "2019-06-24T10:01:53Z",
+      "user_id": "U258960",
+      "news_id": "N114664",
+      "action_type": "click",
+      "session_id": "session_ed381077671d",
+      "dwell_time": 39,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tv-celebrity",
+        "headline": "Beth Chapman's Daughter Gives Fans An Update On The 'Dog' Star's Condition",
+        "content": "\"Bonnie Chapman, the daughter of Dog the Bounty Hunter's wife, Beth Chapman, has given a quick update to fans after the news that Beth was put in a medically induced coma over the weekend. Scant Details In an Instagram Story, Bonnie was brief: \"\"There's not much of an update I can give, I can say she's getting good care. I know you guys wanted more, but y'know it's a coma, much much [sic] can be updated.\"\" Beth In Coma For 'Choking Incident' Over the weekend, Beth Chapman experienced a \"\"choking incident\"\" at her home in Honolulu and was rushed to Queen's Medical Center. Wife of reality TV bounty hunter Duane \"\"Dog\"\" Chapman is in a medically induced coma. Beth Chapman was diagnosed with lung cancer in September 2017 and said in November that the cancer had returned despite surgery. https://t.co/fW5p83tWBL AP West Region (@APWestRegion) June 24, 2019 Duane Chapman Reached Out Yesterday, Duane Chapman tweeted a plea for fans to say a prayer for Beth: \"\"Please say your prayers for Beth right now thank you love you.\"\" Please say your prayers for Beth right now thank you love you Duane Dog Chapman (@DogBountyHunter) June 23, 2019 Chapman Has Stopped Chemotherapy Chapman received a throat cancer diagnosis in 2017 and was later declared cancer-free. But the cancer returned in November, 2018. According to popculture.com , Chapman has stopped her chemotherapy treatments. (via GeoBeats)\"",
+        "word_count": 232,
+        "publish_time": "2025-06-08T04:29:48Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "medical",
+          "tv-celebrity",
+          "ai",
+          "news",
+          "treatment",
+          "tv",
+          "update"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N42805",
+          "N88971"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "网球",
+          "电视",
+          "新闻",
+          "旅行",
+          "生活"
+        ],
+        "engagement_score": 0.91
+      },
+      "interaction_data": {
+        "scroll_depth": 0.69,
+        "clicks_count": 3,
+        "shares_count": 2,
+        "comments_count": 1,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.79,
+        "topic_keywords": [
+          "medical",
+          "tv-celebrity",
+          "ai"
+        ],
+        "viral_potential": 0.35,
+        "trend_score": 0.89,
+        "recommendation_relevance": 0.77,
+        "content_quality": 0.85,
+        "user_profile_match": 0.59
+      }
+    },
+    {
+      "timestamp": "2019-06-24T05:53:14Z",
+      "user_id": "U15036",
+      "news_id": "N103004",
+      "action_type": "like",
+      "session_id": "session_cf3d00e00eab",
+      "dwell_time": 186,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "foodanddrink",
+        "topic": "beverages",
+        "headline": "Ryan Reynolds wrote a fake Amazon review for his own gin. And then he wrote about that on Twitter",
+        "content": "\"Okay, Ryan Reynolds, you got us. We were all excited about the endless possibilities of what could happen if we drank Aviation American Gin -- until the actor, and owner of the brand, admitted he was behind the product's crazy Amazon review tale all along. On Saturday, \"\"Champ Nightengale\"\" posted he \"\"loved\"\" and \"\"hated\"\" the gin. \"\"As soon as I tried the Gin I knew right away, it was amazing,\"\" the user wrote on Amazon. \"\"It was the smoothest Gin I'd ever tried and went down really easily.\"\" But then, things got weird. \"\"I had a lot,\"\" the user wrote. \"\"When I woke up the next day, I mentioned to my wife Linda that last night must have been a REAL blowout because I slept in my clothes. Even my shoes! I also noticed it was really hard to look out the window at the Seattle skyline. Partly because of the bright sun (I've always been sensitive to light) but also because I don't live in Seattle). I live in Coral Gables, Florida. Also, it's important to note, until that morning, I'd never met anyone named Linda.\"\" Well, don't try the drink in hopes of relocating across the country. Reynolds admitted on Twitter he was the one who wrote the review. \"\"I loved this review of Aviation Gin someone sent me after I wrote it,\"\" he said. I loved this review of Aviation Gin someone sent me after I wrote it. pic.twitter.com/YZN4KI0ATD Ryan Reynolds (@VancityReynolds) June 22, 2019 One thing is for sure. We're talking about it now. Aviation American Gin was first produced in Portland by bartender Ryan Magarian and distiller Christian Krogstad. In a video posted on the product's website, Reynolds says he loved the gin so much he bought the company.\"",
+        "word_count": 294,
+        "publish_time": "2025-05-24T12:59:13Z",
+        "source": "USA Today",
+        "tags": [
+          "foodanddrink",
+          "ai",
+          "beverages"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N91753",
+          "N58193"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "时尚",
+          "金融",
+          "财经",
+          "奥运会"
+        ],
+        "engagement_score": 0.78
+      },
+      "interaction_data": {
+        "scroll_depth": 0.32,
+        "clicks_count": 9,
+        "shares_count": 0,
+        "comments_count": 0,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.51,
+        "topic_keywords": [
+          "foodanddrink",
+          "ai",
+          "beverages"
+        ],
+        "viral_potential": 0.09,
+        "trend_score": 0.51,
+        "recommendation_relevance": 0.48,
+        "content_quality": 0.73,
+        "user_profile_match": 0.89
+      }
+    },
+    {
+      "timestamp": "2019-06-21T09:12:17Z",
+      "user_id": "U267403",
+      "news_id": "N68456",
+      "action_type": "comment",
+      "session_id": "session_3711dc3e458a",
+      "dwell_time": 126,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Hubei",
+        "city": "Wuhan"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "Jerry Nadler Repeatedly Called Hope Hicks 'Ms. Lewandowski' in House Hearing",
+        "content": "\"Former White House communications director Hope Hicks testified in a closed-door hearing this week before the House Judiciary committee, and the transcript of that meeting was released by the committee on Thursday. In that hearing, as CNN's Abby Phillip discovered and shared on Twitter, Chairman Rep. Jerry Nadler repeatedly referred to Hicks as \"\"Ms. Lewandowski,\"\" the last name of former Trump campaign manager Corey Lewandowski , with whom Hicks has been romantically linked and about whom many of the committee's questions inquired. Nadler repeatedly calls Hope Hicks \"\"Ms. Lewandowski\"\" until she finally corrects him. \"\"My name is Ms. Hicks\"\": pic.twitter.com/oMAkqfNFNw Abby D. Phillip (@abbydphillip) June 20, 2019 Just to be clear, it wasn't unclear that they were speaking with Hope Hicks. Here she is stating her name for the record in response to Rep. Nadler. Hicks let it go the first time, but as you can see in the above tweet, she ultimately had to correct him. In the screenshots below, from the transcript, it's clear that they pressed the subject of Lewandowski in addition to accidentally referring to Hicks as Ms. Lewandowski. On Fox News on Thursday morning, Rep. Devin Nunes criticized the hearing and the questions that were asked of Hicks, for their personal nature. \"\"I think that's very bizarre to have a bunch of old, pervy congressmen asking somebody who has no new information about her love life,\"\" said Nunes. \"\"I think the American people would be ashamed.\"\" [ Featured photo by Alex Wong/Getty Images ]\"",
+        "word_count": 249,
+        "publish_time": "2025-06-03T07:00:11Z",
+        "source": "Forbes",
+        "tags": [
+          "congress",
+          "news",
+          "ai",
+          "newspolitics"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N46704",
+          "N21824"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "篮球",
+          "网球",
+          "电影",
+          "明星"
+        ],
+        "engagement_score": 0.98
+      },
+      "interaction_data": {
+        "scroll_depth": 0.73,
+        "clicks_count": 2,
+        "shares_count": 1,
+        "comments_count": 5,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": 1.0,
+        "topic_keywords": [
+          "congress",
+          "news",
+          "ai"
+        ],
+        "viral_potential": 0.15,
+        "trend_score": 0.35,
+        "recommendation_relevance": 0.68,
+        "content_quality": 0.88,
+        "user_profile_match": 0.8
+      }
+    },
+    {
+      "timestamp": "2019-06-14T20:21:55Z",
+      "user_id": "U396469",
+      "news_id": "N82050",
+      "action_type": "comment",
+      "session_id": "session_d4cf2f5b6dd0",
+      "dwell_time": 43,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tv-celebrity",
+        "headline": "'Housewives' alum Meghan King Edmonds: 'I don't trust' husband anymore",
+        "content": "\"(Video provided by Us) Former \"\"Real Housewives of Orange County\"\" star Meghan King Edmonds is speaking out after reports claimed her husband, Jim Edmonds, was unfaithful. She admitted that she can no longer trust him and said she's \"\"ruined.\"\" On Thursday, the former baseball great told Us Weekly that he \"\"had a lapse in judgment\"\" and had an \"\"inappropriate conversation\"\" with a woman, but he contends that there was never a physical relationship. How did Meghan found out about this? In the tabloids, she said in a lengthy post on her blog on Friday. \"\"I never left a voicemail for the other woman. I called Jimmy and he confessed to me that he had exchanged lewd photos with this woman over the course of several months and a physical relationship never existed,\"\" Meghan wrote. \"\"He paid her off to protect me so I'd never find out.\"\" She continued, \"\"Do I believe him? I don't know. Because I don't trust him anymore. Physical or not, he still had an affair and he admits this to me.\"\" The scandal came to light after a website published alleged intimate conversations Jim had with a woman known as \"\"baseball madame.\"\" Jim, who shares three children with Meghan, threatened legal action, said in his Us Weekly statement that he made a \"\"very poor decision to expose myself and my family to this type of person.\"\" It's going to take time for the former reality TV star to get over it... that is, if she ever can. \"\"I'm a simple girl. I wanted a solid marriage. I'm as loyal as they come and I wanted the vows we made when we exchanged our rings to be acted upon. Now my wedding ring symbolizes fraud,\"\" she wrote. \"\"I refuse to be humiliated by this. Marriage is hard, we've been through our ups and downs, I've talked about it openly. A relationship takes two but it doesn't take two to cheat.\"\" Each text message, Meghan wrote, \"\"represents his decision to throw our marriage in the trash.\"\" \"\"I don't care about my stupid massive house, I don't care about my new car, I don't care about \"\"my diamonds. What does any of that mean when I can't have the most basic needs met? It means nothing. Smoke and mirrors,\"\" she said. \"\"How can one person decide to utterly ruin me? It's not fair.\"\" Meghan lamented that her children aren't getting a \"\"devoted\"\" mother right now while she deals with the scandal, while revealing their son Hart might have a neurological disorder. \"\"I do not fault any other person except my husband. There are so many people out there with bad intentions and it's our responsibility to ignore and rise above. One slimy person doesn't make another person cheat. And there are a million more slimy people to take \"\"slimy person #1's\"\" place,\"\" she wrote. \"\"Marriage is a choice, every. damn. day. On the days I hate him, on the days I want to run from him, on the days I get approached by some hot dude on instagram luring me with trips or money or whatever the hell else the slimy people do. So yes, marriage is a choice on the bad days. And on the good days marriage is easy and beautiful. No one said it would be easy, I just didn't think it would be this hard.\"\"\"",
+        "word_count": 560,
+        "publish_time": "2025-05-15T04:25:36Z",
+        "source": "Reuters",
+        "tags": [
+          "tv-celebrity",
+          "ai",
+          "report",
+          "baseball",
+          "tv"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "音乐",
+          "金融",
+          "财经"
+        ],
+        "engagement_score": 0.66
+      },
+      "interaction_data": {
+        "scroll_depth": 0.39,
+        "clicks_count": 4,
+        "shares_count": 2,
+        "comments_count": 3,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.08,
+        "topic_keywords": [
+          "tv-celebrity",
+          "ai",
+          "report"
+        ],
+        "viral_potential": 0.69,
+        "trend_score": 0.93,
+        "recommendation_relevance": 0.37,
+        "content_quality": 0.25,
+        "user_profile_match": 0.59
+      }
+    }
+  ],
+  "metadata": {
+    "source": "web_portal",
+    "version": "1.0",
+    "processed_time": "2025-06-12T18:55:41.604164Z"
+  }
+}

@@ -1,0 +1,768 @@
+{
+  "batch_id": "batch_20250612_192813_3c4e567d",
+  "events": [
+    {
+      "timestamp": "2019-06-14T10:22:59Z",
+      "user_id": "U167237",
+      "news_id": "N95202",
+      "action_type": "like",
+      "session_id": "session_af6873639077",
+      "dwell_time": 66,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newscrime",
+        "headline": "Report: Grandparents fought off man who tried to abduct 6-year-old girl",
+        "content": "\"Video by WXIN-TV Indianapolis An Indiana man is behind bars, accused of attempting to kidnap a 6-year-old girl from her grandparents' home. According to WTHR , Benjamin Dillon, 37, faces a slew of charges including counts of burglary, intimidation and resisting law enforcement. Witnesses told WTHR that Dillon kicked his way into a Lebanon apartment in the middle of the night. The girl's grandparents, Martin Roth and Patricia Roth, reportedly fought him off and kept him away from the girl until police arrived. The Roths told officers that Dillon, who they had never seen before, told them he was \"\"taking the child.\"\" \"\"I was sound asleep in my bedroom and this guy came kicking in and said, 'You have my daughter,'\"\" Patricia Roth told Fox 59. \"\"I was nervous, very nervous. I was shaking so bad.\"\" A police report states that officers found Dillon outside \"\"shirtless and very agitated, insisting there was a little girl in the apartment being raped\"\" and \"\"that the little girl was his daughter.\"\" Officers shocked Dillon with a Taser but it had no effect. When finally handcuffed, officers said he \"\"then kept kicking us and screaming.\"\" The man was taken to the Boone County Jail. The 6-year-old girl was very frightened, but unhurt. \"\"I wouldn't want him walking back in my apartment again. He will regret it the next time,\"\" Patricia Roth said. Dillon attempted to clarify the incident in a jailhouse phone call with WTHR. \"\"I was under the impression that maybe my daughter might be over there in that apartment complex,\"\" he said. Dillon denies threatening to take the 6-year-old girl and even denies kicking in the Roth's door. While jailed on bonds totaling $75,000, Dillon said he's enrolled in a substance abuse treatment program. READ MORE: Report: Grandparents fought off man who tried to abduct 6-year-old girl CHECK OUT WPTZ: Get the latest Plattsburgh and Burlington news of the day. See the stories making headlines, and get the latest weather report online, anytime.\"",
+        "word_count": 331,
+        "publish_time": "2025-06-05T21:55:59Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "ai",
+          "news",
+          "treatment",
+          "report",
+          "tv",
+          "newscrime"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "健康",
+          "银行",
+          "财经",
+          "新闻",
+          "政治",
+          "互联网",
+          "科技"
+        ],
+        "engagement_score": 0.62
+      },
+      "interaction_data": {
+        "scroll_depth": 0.21,
+        "clicks_count": 4,
+        "shares_count": 3,
+        "comments_count": 2,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.85,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "treatment"
+        ],
+        "viral_potential": 0.9,
+        "trend_score": 0.91,
+        "recommendation_relevance": 0.26,
+        "content_quality": 0.92,
+        "user_profile_match": 0.49
+      }
+    },
+    {
+      "timestamp": "2019-06-27T09:18:44Z",
+      "user_id": "U52926",
+      "news_id": "N122242",
+      "action_type": "skip",
+      "session_id": "session_f57191a576b1",
+      "dwell_time": 240,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "soccer_fifa_wwc",
+        "headline": "Is a FIFA ruling giving France an advantage over the USWNT?",
+        "content": "\"PARIS ⁠ In a clearing of the thick Rambouillet forest some 30 miles southwest of Paris sits Clairefontaine, the legendary training grounds of the French Football Federation. It is home to seemingly endless, perfectly manicured practices pitches (including some indoors), not to mention medical and fitness buildings, locker rooms, state of the art coaching technology, plush dormitories, cafeterias and anything else a soccer team trying to win a World Cup could dream up. The weather is cooler. The isolation invites focus. It is a best-in-world facility. \"\"The training ground it is beautiful, I've played there before,\"\" said American forward Tobin Heath, who has competed as a professional in France. \"\"I think it is magnificent for a country to have the resources that they do in order to have such a beautiful training ground that has such a rich history.\"\" It is the pride and joy of French soccer, perhaps a reason they are the reigning men's world cup champions. And for much of this tournament, including this week in preparation for a massive Women's World Cup quarterfinal match-up Friday (3 p.m. ET) between France and the United States, Clairefontaine has also served as a central training ground and base camp for France's women's team. It makes sense. Why wouldn't you train there? Except Clairefontaine is exactly the kind of place that FIFA tried to eliminate from this Women's World Cup. Due to the vast disparity in funding between top teams and developing teams, FIFA banned countries from establishing base camps during the tournament a common practice during the men's World Cup. Essentially, it stopped wealthy countries such as the United States or Germany from renting out a modern, opulent facility of a French professional team to set up shop for six weeks, because doing so was deemed an unfair advantage over less-wealthy (or committed) federations such Thailand, who might be stuck just renting a municipal park or some other inferior grounds. It was a reasonable attempt to take money (at least a little bit) out of the competition. Yet in a pre-tournament ruling, FIFA allowed the French to use their national training grounds for the duration of the Women's World Cup. Part of the argument is that this is what they own, not what they are renting out. Essentially, it's a host nation benefit. It certainly gives them the exact type of consistent camp that everyone else was barred from seizing. Is this a big deal? It's hard to say. The Americans have lobbied no known complaints are trying to remain focused on preparing for Friday's game. If they think it matters, they either aren't acknowledging it or at least don't want the French to know they feel that way. However, a French assistant coach meanwhile has deemed it, \"\"an advantage\"\" in part because of temperatures have soared into the mid-90s all week. \"\"Yes it's an advantage over a team in the center of Paris, especially with the weather,\"\" Philippe Joly, an assistant coach on the team, told reporters this week. \"\"We have Clairefontaine over five days to prepare for this match ... It's an advantage, because we are at home, it's our home. We have our benchmarks, we have all the tools to recover.\"\" And the French media are discussing it. Tobin Heath was even asked about it at a press availability on Wednesday she didn't really understand the question and essentially had no comment. In a game that is expected to be as close as the U.S. vs. France (these are the two favorites to win the tournament), isn't any \"\"advantage\"\" a big advantage? Maybe. The Americans have had to take their camps on the road, training for a few days in whatever city their next game was scheduled to take place. All that moving presents logistical challenges, for sure. A central base would be preferable, especially since the Americans' first five games have all been either in Paris or within a two-and-a-half-hour drive of it. However, the U.S. is very well-funded and very well-organized, especially by women's soccer standards. They note they have everything they need. This week they have been staying at a four-star hotel and spa on the outskirts of Paris and training at quite suitable facilities nearby. The disparity can't be that great. Can it? That remains to be seen if it's even possible to quantify. What's clear though is even if the Americans are saying nothing, the French are quite pleased that FIFA granted them the opportunity, and perhaps the sliver of an advantage, to use their hallowed and preferred grounds in the long, grueling tournament. \"\"We take Clairefontaine willingly,\"\" Philippe Joly said. More from Yahoo Sports: USWNT needs Alex Morgan to step up vs. France Report: Celtics are the favorite to land Walker Sources: Hill meets with NFL over child abuse charges Heath not a fan of European women's soccer: 'Boring' Related Slideshow: Best of the 2019 Women's World Cup (Provided by imagn)\"",
+        "word_count": 821,
+        "publish_time": "2025-05-22T15:02:08Z",
+        "source": "Associated Press",
+        "tags": [
+          "tech",
+          "ai",
+          "soccer_fifa_wwc",
+          "technology",
+          "report",
+          "sports",
+          "football",
+          "soccer"
+        ],
+        "entities": {
+          "persons": [
+            "{'FIFA': 'FIFA', 'France': 'France', 'USWNT': ",
+            "}"
+          ],
+          "locations": [],
+          "organizations": [
+            "United States women's national soccer team"
+          ]
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N18788",
+          "N79778"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "足球",
+          "体育",
+          "手机"
+        ],
+        "engagement_score": 0.6
+      },
+      "interaction_data": {
+        "scroll_depth": 0.21,
+        "clicks_count": 0,
+        "shares_count": 2,
+        "comments_count": 0,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.01,
+        "topic_keywords": [
+          "tech",
+          "ai",
+          "soccer_fifa_wwc"
+        ],
+        "viral_potential": 0.83,
+        "trend_score": 0.1,
+        "recommendation_relevance": 0.46,
+        "content_quality": 0.46,
+        "user_profile_match": 0.14
+      }
+    },
+    {
+      "timestamp": "2019-06-19T05:28:19Z",
+      "user_id": "U16752",
+      "news_id": "N39685",
+      "action_type": "comment",
+      "session_id": "session_4637c9564a63",
+      "dwell_time": 203,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsworld",
+        "headline": "Iranian military official claims country's missiles can take out aircraft carrier",
+        "content": "\"One of Iran 's top military commanders reiterated longstanding claims that the country has ballistic missiles capable of taking out an aircraft carrier, as President Hassan Rouhani said the country did not seek to wage war against any nation. Maj. Gen. Hossein Salami, the head of Iran's Revolutionary Guards Corps, said the country's development of ballistic missile technology had changed \"\"the balance of power\"\" in the region. According to Salami, the Revolutionary Guards began tests using ballistic missiles as \"\"a way to end the story of American aircraft carriers in the area\"\" some 12 years ago. \"\"If we got this technology, we could target the enemies,\"\" said Salami. \"\"We tested it at sea to hit the target precisely, and that day we were able to change the balance of power.\"\" He later added that \"\"diplomacy is not known without power and we are safe when we are powerful.\"\" Salami made the comments in a televised speech, a transcript of which was made available on semi-official FARS news. The comments come as tensions between the United States and Iran have increased in recent days. The US announced Monday it would send 1,000 additional troops and more military resources to the Middle East in response to what Washington called \"\"hostile behavior by Iranian forces that threaten United States personnel and interests across the region.\"\" Key officials in the Trump administration blame Iran for conducting attacks against oil tankers in the Gulf of Oman, and the US President himself last week accused Iran of being behind the provocation, telling Fox News: \"\"It was them that did it.\"\" Tehran has categorically denied the accusations. Rouhani, speaking at the inauguration of a new terminal at Tehran's international airport Tuesday, said the current conflict was a \"\"war of hopes and wills\"\" between Iran and its enemies. \"\"Through their plots and dastardly plans, they plan to sow the seeds of hopelessness in the Iranian nation. But our great nation is determined to show its hopefulness and vitality and defeat the enemy's plots,\"\" Rouhani said. Iran's Ministry of Intelligence claimed to \"\"deal a heavy blow against America's international spy network\"\" on Tuesday, though a US official disputed the ministry's claim to CNN. Iran also announced this week that it would resume nuclear enrichment activities, a move that threatens to torpedo the 2015 nuclear deal it struck with world powers. The United States left the deal in May 2018, reimposing sanctions on Tehran that have negatively affected the country's economy. Rouhani announced last month that it would reduce its \"\"commitments to the deal,\"\" but not fully withdraw from it. He also said drastic measures would be implemented unless the remaining signatories of the deal -- Britain, China, France, Germany and Russia -- eased restrictions on Iran's banking and oil sectors. Under the nuclear deal, Iran was permitted to stockpile limited amounts of enriched uranium and heavy water produced in that process, exporting any excess. Doing so has become extremely difficult after the US revoked waivers that allowed Iran to export those excess stockpiles, effectively forcing Iran to halt enrichment or ignore the limits, which it is now doing. Iran announced Monday it will accelerate uranium enrichment to 3.7% -- above the 3.67% mandated by the nuclear deal. Enrichment at this level is enough to continue powering parts of the country's energy needs, but not enough to ever build a nuclear bomb.\"",
+        "word_count": 562,
+        "publish_time": "2025-06-05T10:48:19Z",
+        "source": "New York Times",
+        "tags": [
+          "tech",
+          "newsworld",
+          "ai",
+          "news",
+          "technology",
+          "economy",
+          "stock"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N28072",
+          "N31230"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "体育",
+          "股票",
+          "娱乐",
+          "明星"
+        ],
+        "engagement_score": 0.8
+      },
+      "interaction_data": {
+        "scroll_depth": 0.27,
+        "clicks_count": 9,
+        "shares_count": 2,
+        "comments_count": 0,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.12,
+        "topic_keywords": [
+          "tech",
+          "newsworld",
+          "ai"
+        ],
+        "viral_potential": 0.51,
+        "trend_score": 0.18,
+        "recommendation_relevance": 0.9,
+        "content_quality": 0.67,
+        "user_profile_match": 0.85
+      }
+    },
+    {
+      "timestamp": "2019-06-19T14:51:17Z",
+      "user_id": "U23110",
+      "news_id": "N46765",
+      "action_type": "skip",
+      "session_id": "session_294055e7e724",
+      "dwell_time": 9,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Cracker Barrel turns away Grayson Fritts, detective who called for LGBTQ executions in Tennessee",
+        "content": "\"CLEVELAND, Tenn. A Cracker Barrel in Cleveland, Tennessee, refused to host Knox County Sheriff's Office Detective Grayson Fritts and his church group, citing the restaurant chain's zero-tolerance policy for \"\"discriminatory treatment or harassment of any sort.\"\" Fritts and his independent Baptist church in Knoxville had planned a meeting at the Cracker Barrel on June 29. Cracker Barrel said it is not affiliated in any way with Fritts his church \"\"and we disagree strongly with their statements of hate and divisiveness,\"\" the Tennessee-based national restaurant chain said in a statement posted to Twitter Tuesday. The chain said it told the church its event will not be allowed. \"\"We serve everyone who walks through our doors with genuine hospitality, not hate, and require all guests to do the same,\"\" the restaurant said. In early June, Fritts thrust himself and his church into the spotlight with a series of recorded sermons in which he advocated for government authorities including Knox County Sheriff's Office where he works to execute LGBTQ people. Knox County Sheriff Tom Spangler said Fritts would not be fired for his comments citing a fear of lawsuits. Fritts remains on paid sick leave with the county sheriff's office until he collects his buyout in July. Previously: Tennessee detective's church sermon calls for execution of LGBTQ people Response: Sheriff: Fear of lawsuits is why Tennessee detective won't be fired over LGBTQ comments Backlash: Tennessee detective responds after backlash for hate-filled sermon Cracker Barrel said its corporate policy \"\"strictly prohibits\"\" any type of protest or public demonstration on their property or in their stores. \"\"At Cracker Barrel, we work hard to foster a culture that is welcoming and inclusive we have a zero-tolerance policy for discriminatory treatment or harassment of any sort,\"\" the release said. \"\"We take pride in serving as a home away from home for all guests and in showing our communities and our country that the hospitality we practice is open to everyone.\"\" Cracker Barrel is not affiliated in any way with Mr. Fritts or All Scripture Baptist, and we are not hosting any event on June 29th. Please see our full statement below. pic.twitter.com/3PIfND8xiJ Cracker Barrel (@CrackerBarrel) June 18, 2019 Protestors brought event to restaurant chain's attention David Tierney, of Knoxville said they spoke to the restaurant and organized a demonstration outside of Cracker Barrel for the event. \"\"It is a small victory for our community and it took a lot of work for us to even get this accomplished,\"\" Tierney said, who identifies as gay and genderqueer. The Tennessee Democratic Party also sent the restaurant a letter, asking Cracker Barrel to turn Fritts away. In the letter , Mary Mancini, party chair, urged Cracker Barrel Chief Executive Sandra Cochrane to uphold the inclusivity and diversity pledges listed on the restaurant's website. \"\"This is all started as an online campaign and action, organized by direct message (online), then grew into a real action, and then got picked up by the states Democratic Party.\"\" Tierney said. \"\"It really just spread like wildfire over the course of 5 days.\"\" Follow Brittany Crocker on Twitter: @brittcrocker This article originally appeared on Knoxville News Sentinel: Cracker Barrel turns away Grayson Fritts, detective who called for LGBTQ executions in Tennessee\"",
+        "word_count": 536,
+        "publish_time": "2025-06-01T01:19:32Z",
+        "source": "BBC",
+        "tags": [
+          "policy",
+          "ai",
+          "news",
+          "treatment",
+          "newsus",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N51567",
+          "N63252"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "网球",
+          "体育",
+          "旅行",
+          "商业"
+        ],
+        "engagement_score": 0.63
+      },
+      "interaction_data": {
+        "scroll_depth": 0.45,
+        "clicks_count": 7,
+        "shares_count": 3,
+        "comments_count": 1,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.79,
+        "topic_keywords": [
+          "policy",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.81,
+        "trend_score": 0.12,
+        "recommendation_relevance": 0.99,
+        "content_quality": 0.62,
+        "user_profile_match": 0.48
+      }
+    },
+    {
+      "timestamp": "2019-06-14T05:47:50Z",
+      "user_id": "U51091",
+      "news_id": "N31398",
+      "action_type": "click",
+      "session_id": "session_5d8625c40a49",
+      "dwell_time": 167,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "autos",
+        "topic": "autosclassics",
+        "headline": "This Mustang Came With Its Previous Owner Included",
+        "content": "\"Unlike any other car sales story, this Fastback 390 GT came with a rather unusual addition to the sale. We've seen all manner of things being included with used cars at Motorious. Some things legal, some things less legal, some things that were evidently forgotten under seats and some things that perhaps make you regret your purchase. We're looking straight at our Editors Ford Contour with its thriving carpet replacing ecosystem… This, on the other hand, is unlike any story we have seen so far. It wasn't mould, or a Mcdonald's wrapper dated 1973 that came with the car, it was in fact a person. Research the Ford Mustang on MSN Autos | Find a Ford Mustang near you More Mustang content: 1967 Ford Mustang Keeps Things Authentic Near Delivery Mileage 2005 Saleen Mustang Is Insane Value The car in question is a 1968 Mustang Fastback that is not only a rare 'S-Code' car with the 390 cubic-inch motor mated to a manual transmission, but it's also recently been sold with its former owner, James. Zach, a family member of the Napa Auto Parts business in Georgia, found the car on Craigslist in the Summer of 2017. Having eventually got in touch with the vendor, a visit was set up. Upon viewing the car, Zach noticed an odd looking item on the passenger seat. We'll allow the MustangFanClub to depict the scenario: 'While Zach was looking over the interior of the Mustang, he noticed a jar full of something that looked like powder. Zach, asked the owner, \"\"What's up with the jar on the inside?\"\" The current owner replied, \"\"That's James!\"\" Zach took a moment to gather his thoughts and understand everything that was just said. After a brief pause, Zach responded with \"\"Well, does James come with the car?\"\"' A rather odd scenario may have resulted in Zach leaving empty handed, or perhaps it was simply down to price. What we do know is that both Bruce and Zach remained in touch for the following 16 months until Zach finally bought the Fastback for $7,000 in November 2018. Having realized quickly that the car was beyond economical repair from his viewpoint, the car was fitted with some GT hubcaps that were missing, cleaned the interior as best he could, leaving the previous owner (James') remains intact, and consequently listed the car on eBay. An English buyer won the auction to the tune of $23,000 and the car is now undergoing a shell replacement in England. Whilst admittedly sad that the original bodywork may be too far gone to salvage, there is something heartwarming about the car remaining with its original owner. We wish James plenty more adventures with his Mustang once the car is rebuilt. Source: Jalopnik and MustangFanClub Follow MSN Autos on Facebook and Twitter\"",
+        "word_count": 467,
+        "publish_time": "2025-05-24T18:50:58Z",
+        "source": "NBC News",
+        "tags": [
+          "research",
+          "ai",
+          "autosclassics",
+          "autos",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N49500"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "音乐",
+          "娱乐",
+          "理财",
+          "银行",
+          "时尚",
+          "美食"
+        ],
+        "engagement_score": 0.29
+      },
+      "interaction_data": {
+        "scroll_depth": 0.21,
+        "clicks_count": 9,
+        "shares_count": 0,
+        "comments_count": 5,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.95,
+        "topic_keywords": [
+          "research",
+          "ai",
+          "autosclassics"
+        ],
+        "viral_potential": 0.26,
+        "trend_score": 0.97,
+        "recommendation_relevance": 0.95,
+        "content_quality": 0.58,
+        "user_profile_match": 0.48
+      }
+    },
+    {
+      "timestamp": "2019-06-20T09:59:20Z",
+      "user_id": "U76796",
+      "news_id": "N83241",
+      "action_type": "comment",
+      "session_id": "session_017470352f69",
+      "dwell_time": 607,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shaanxi",
+        "city": "Xi'an"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "'My Whole Life Is a Bet.' Inside President Trump's Gamble on an Untested Re-Election Strategy",
+        "content": "\"'My whole life is a bet,' the President of the United States says, resting his forearms on the edge of the Resolute desk in the Oval Office. It's a steamy evening in mid-June, and Trump is facing a set of high-stakes tests around the world. Tensions rising with Iran . Tariffs imposed by India. Protesters flooding the streets of Hong Kong . But Trump is confident, ready to joust. He has invited a group of TIME journalists for an interview, blown past the allotted time and settled in for a wide-ranging discussion. Along the way, he orders a Diet Coke with ice with the push of a small red button set into a wooden box on the desk, and directs an aide to fetch a copy of a hand-delivered birthday letter sent from Kim Jong Un. Politics is rarely out of mind for any man who wills his way into this rarefied sanctum. Especially not one who calls his campaign manager on many days by 7 a.m., and certainly not now, the day before Trump formally kicks off his 2020 re-election bid. So it doesn't take much prodding for the President, a former casino magnate, to start making book on the sprawling field of Democratic challengers. A \"\"progressive\"\" will probably win the primary, Trump predicts, running down the competition with evident relish. Joe Biden \"\"is not the same Biden,\"\" he says, adding later, \"\"Where's the magic?\"\" Kamala Harris, he notes, \"\"has not surged.\"\" Bernie Sanders is \"\"going in the wrong direction.\"\" Elizabeth Warren's \"\"doing pretty well,\"\" he allows, but Pete Buttigieg \"\"never\"\" had a chance. Why? \"\"I just don't feel it,\"\" Trump says. \"\"Politics is all instinct.\"\" Photo gallery by photo services Once again, Trump is putting his own instincts at the center of his campaign. The political mercenaries who tried to discipline his impulses in 2016 have been shown the door. The 2020 campaign is unmistakably Trump's show. \"\"We all have our meetings,\"\" the President says. \"\"But I generally do my own thing.\"\" Campaign staff have been hired to follow Trump's lead, and the President has made it known that when he tweets a new policy or improvises an attack at a rally, everyone had better be ready to follow along. \"\"He blows the hole and everyone runs into the breach,\"\" says an aide. Gone is the rickety operation that eked out an upset victory over Hillary Clinton. In its place, advisers boast, is a state-of-the-art campaign befitting an incumbent President. Trump's campaign is gearing up to spend $1 billion, and may well get there. His team has spent more money, earlier in the campaign, than any re-election bid in recent history. Campaign staff sit in slick offices in a glass-skinned tower overlooking the Potomac River in Arlington, Va. And Trump has won total control of the Republican National Committee, which fought against him for much of 2016. Despite the trappings of convention, however, Trump has for the most part thrown out the playbook for incumbency. The last three two-term Presidents were lifted in important ways by a bipartisan message. Bill Clinton ran on the 1994 crime bill and tax reform. George W. Bush ran on keeping America safe in the wake of 9/11. Barack Obama reminded voters that Osama bin Laden was dead and General Motors was alive. Trump, who lost the popular vote in 2016 and is the only President in the history of Gallup polling never to crack 50% approval, says he's ready to defy that legacy. \"\"I think my base is so strong, I'm not sure that I have to do that,\"\" he tells TIME, after being asked whether he should reach out to swing voters. The mantra of Trump 2020 is \"\"turnout, turnout, turnout,\"\" as campaign manager Brad Parscale puts it. \"\"People all think you have to change people's minds. You have to get people to show up that believe in you.\"\" Insiders know it's a tough path. In 2016, Trump flipped three Democratic bastions Michigan, Pennsylvania and Wisconsin by a combined 79,646 votes, capitalizing on Hillary Clinton's liabilities and energizing disaffected voters. Trump drew an \"\"inside straight,\"\" says his 2016 campaign chief executive Steve Bannon. He can't count on that luck in 2020. \"\"You have to get every f-cking deplorable,\"\" Bannon says, using his own Clinton-inspired term for Trump's ardent supporters. \"\"Everybody's got to show up.\"\" The key is making Trump's instinct for America's sore spots the engine of a political machine designed to inflame supporters. At its core, his campaign is a kind of a perpetual outrage machine. It uses algorithms automated settings on Internet platforms like Google and Facebook to place massive digital ad buys anytime Trump creates a firestorm. The cycle is simple: Trump says something controversial or offensive; that drives a surge of search interest in the topic; and that gives his campaign an opening to serve up online ads. The ads encourage supporters to text the campaign, take single-question campaign-generated polls, and buy Trump hats, yard signs, beer coolers and WITCH HUNT decals from the campaign online store, all of which rakes in voter contact data. Never before has an incumbent President run a campaign this way. \"\"It is a strategy built for the new partisan era,\"\" says Princeton University presidential historian Julian Zelizer. \"\"Candidates are always doing things to turn out their supporters. What has not been tested, at least in modern times, is a strategy in which all the rhetoric and all the policy is just tailored around the turnout crowd and there is no effort to go beyond it.\"\" Which brings us to the wager on which the gambler has staked a second term. Trump has already smashed the norms of American politics, remade the Republican Party into his cheering gallery and taken the national news cycle hostage. Can he win a second term on the basis that's he's governed in the first, by playing to his base? Nowhere has the machine adapted to the President as it has in the Oval Office. Over the course of TIME's 57-minute interview, the case for Trump's re-election unspools through a series of set-piece requests made to his assistants. Pressed over his commitment to get the U.S. out of foreign wars, he has a ready reply. \"\"We defeated ISIS,\"\" he says. \"\"Maybe you could ask somebody to bring me those maps,\"\" he adds, speaking to one of his staff. Soon enough, an aide brings in three printed sheets showing the Islamic State held territory in Syria shrinking to zero. When asked whether the latest attacks against oil tankers near the Strait of Hormuz, which U.S. officials blame on Iran, threaten to draw America toward a new, dangerous intervention in the Middle East, he requests favorable data once more. \"\"Do me a favor, will you get the information I had yesterday?\"\" he says to an aide in the next room. \"\"The companies, the countries that benefit from the strait? I want to show you something. China gets 60% of their oil there. Japan gets 25% of their oil. We get very little.\"\" Of course, ISIS continues to launch attacks. \"\"We've taken back the caliphate,\"\" Trump says. \"\"That doesn't mean one of the crazies doesn't walk into a store all bombed up.\"\" And it's not impossible to imagine the world economy or the Middle East descending into chaos if Trump fulfills his wish \"\"to get out\"\" of the region. Even as he downplays Iran's alleged attack as \"\"very minor,\"\" his outgoing Acting Secretary of Defense announced a deployment of 1,000 more U.S. troops to the Gulf to bolster U.S. installations against what the Pentagon calls an escalation of threats from Iran. The core of Trump's pitch to voters as well as visiting journalists is that there's been great progress around the world on his watch. The collapse of Chinese trade talks and a mounting tariff fight that the Oxford Economics research firm says will shave 0.3% off GDP in 2020 and potentially cost the economy $62 billion in lost output over the next year is not a failure, it's a success, he claims. \"\"I give them a lot of credit, but we've helped create China. You look at what's happened over the last period of time, and China wants to make a deal,\"\" he says. \"\"I'm very happy now collecting 25% on $250 billion, which is what we're doing.\"\" Few trade experts see Trump gaining the upper hand in his tariff battle, but in his telling, multiple countries are looking to make deals with the U.S., thanks to his unconventional approach. He lists some, only off the record, again calling for a document that provides rather weak support. Eventually, Trump just cuts to the chase. \"\"Look, I think I've done so much could you bring me the list of things, please, give me four of them,\"\" he shouts through the door. \"\"I've done more in 2½ years than any President in the history of this country.\"\" Three printed pages with 72 bullet points emerge: Economic growth is up, and unemployment has stayed at or below 4% for 15 months. He signed tax cuts into law, opened up Alaska's Arctic National Wildlife Refuge to oil drilling, recognized Jerusalem as the capital of Israel, canceled the Clean Power Plan, withdrew from the Iran deal and the Paris Agreement, issued an order to make a space force the sixth branch of the military. He's aggrieved by the perception that he doesn't get credit for what he's done. The Oval Office isn't the natural venue for Trump's brand of politics. Campaigning is where he really feels at home. So Trump has merged the two to an unprecedented degree filing for re-election on the first day of his presidency, naming a 2020 campaign manager just a year into his first term and banking at least $100 million for the effort so far. In June, an independent government agency found that senior White House adviser Kelly-anne Conway had violated a law prohibiting federal employees from engaging in partisan politics by repeatedly slamming Trump's 2020 opponents in media interviews and on Twitter. (\"\"Let me know when the jail sentence starts,\"\" Conway scoffed in May.) Even as Trump sat with TIME, his Administration was tossing red meat out the back of the campaign wagon in the form of a pledge to deport \"\"million...",
+        "word_count": 1715,
+        "publish_time": "2025-06-06T16:18:38Z",
+        "source": "Washington Post",
+        "tags": [
+          "policy",
+          "politics",
+          "ai",
+          "news",
+          "election",
+          "digital",
+          "newspolitics",
+          "government"
+        ],
+        "entities": {
+          "persons": [
+            "Trump's",
+            ": 'Donald Trump'}"
+          ],
+          "locations": [],
+          "organizations": [
+            "{'President': 'President of the United States', "
+          ]
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N100802",
+          "N69542"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "社会",
+          "电脑",
+          "互联网"
+        ],
+        "engagement_score": 0.11
+      },
+      "interaction_data": {
+        "scroll_depth": 0.17,
+        "clicks_count": 8,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.35,
+        "topic_keywords": [
+          "policy",
+          "politics",
+          "ai"
+        ],
+        "viral_potential": 0.57,
+        "trend_score": 0.17,
+        "recommendation_relevance": 0.51,
+        "content_quality": 0.5,
+        "user_profile_match": 0.03
+      }
+    },
+    {
+      "timestamp": "2019-06-14T14:13:33Z",
+      "user_id": "U305622",
+      "news_id": "N116638",
+      "action_type": "comment",
+      "session_id": "session_a43ff4029be0",
+      "dwell_time": 117,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Police pulled gun on parents of girl accused of stealing doll",
+        "content": "\"A Phoenix couple has filed a $10 million lawsuit against the city after a video showed police officers arresting and drawing a gun on them after their 4-year-old daughter allegedly stole a doll. Dravon Ames and his fiancee, Iesha Harper, had just left a dollar store on May 29 with their daughters, ages 1 and 4, and where in their car when they realized that the older girl had taken a doll from the store, according to a notice of claim filed Wednesday with the city. The couple drove the girls to their babysitter at an apartment complex nearby, where they were stopped and confronted by police in the parking lot. Phoenix police, who said they are conducting an internal probe of the incident, on Tuesday released a video, shot by a bystander, showing an officer appearing to push a handcuffed man believed to be Ames against the side of a car and kicking his legs. Other officers could be seen handcuffing Harper after an unidentified woman came to take care of her two small children. \"\"When I tell you to do something, you f------ do it!\"\" an officer could be heard screaming at the handcuffed Ames. The cuffed man appeared to be complying as he was picked off the ground and thrown against a police vehicle. \"\"I'm sorry, I'm sorry,\"\" the man said. The officer repeated: \"\"When tell you to do something, you f------ do it!\"\" Footage from another, ground-level angle, showed an officer with a drawn gun repeatedly yelling: \"\"Get your f------ hands up!\"\" Harper said at a news conference this week that she was trying to tell the officers that she was in a backseat with her kids and couldn't immediately get out of the car. \"\"We're yelling out, 'The door doesn't open that side. It doesn't open.' Obviously I don't have a gun with two kids in my hands,\"\" Harper said. One of the officers told Harper, \"\"I could have shot you in front of your f------ kids,\"\" according to the claim filed by the family's lawyer, Thomas Horne, a former attorney general for the state. The Phoenix Police Department confirmed that officers had taken \"\"two individuals into custody while investigating a shoplifting incident.\"\" \"\"The Phoenix Police Department takes all allegations of misconduct seriously and for this reason, this incident is currently being investigated by the Professional Standards Bureau,\"\" a police statement said. Horne said the officers acted against the family based on an anonymous tip, and not from information from any employee at the dollar store. The claim alleges that the officers committed battery, unlawful imprisonment, false arrest and other civil rights violations. The family is asking for $2.5 million for each parent and each child, according to the notice of claim.\"",
+        "word_count": 457,
+        "publish_time": "2025-06-02T13:01:53Z",
+        "source": "USA Today",
+        "tags": [
+          "ai",
+          "news",
+          "newsus"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N114190",
+          "N107248"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "电影",
+          "新闻",
+          "旅行",
+          "美食"
+        ],
+        "engagement_score": 0.71
+      },
+      "interaction_data": {
+        "scroll_depth": 0.8,
+        "clicks_count": 9,
+        "shares_count": 0,
+        "comments_count": 1,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.37,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "newsus"
+        ],
+        "viral_potential": 0.14,
+        "trend_score": 0.58,
+        "recommendation_relevance": 0.61,
+        "content_quality": 0.88,
+        "user_profile_match": 0.55
+      }
+    },
+    {
+      "timestamp": "2019-06-14T14:11:16Z",
+      "user_id": "U389087",
+      "news_id": "N52935",
+      "action_type": "comment",
+      "session_id": "session_f4bde8c45c03",
+      "dwell_time": 44,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "football_nfl",
+        "headline": "Ex-Giants WR Hakeem Nicks will tryout for XFL",
+        "content": "The XFL will continue its Summer Showcase on Friday in New York as the league looks to populate itself with top-end talent ahead of its 2020 relaunch, and you can now add another former member of the New York Giants to their long list of tryouts. Only days removed from several other former Giants giving it a go, wide receiver Hakeem Nicks will step up to the plate as he continues to work his way back into professional football. Super Bowl champion @hakeemnicks will be putting his talents on display in front of #XFL coaches and scouts at tomorrow's @XFLNY Summer Showcase. #XFL2020 pic.twitter.com/hqCpeURTd5 - XFL (@xfl2020) June 13, 2019 Nick last appeared in the NFL in 2015 as a member of the Giants - his second stint with the team - but at that point he was a shell of his former self, recording just seven receptions for 54 yards over a six-game span. Since that time, Nicks has focused on getting healthy and was recently spotted in New Jersey running routes for Eli Manning. The 31-year-old is attempting an NFL comeback, but that may go through the XFL. In 92 career games, which included a brief stop with the Indianapolis Colts, Nicks hauled in 356 receptions for 5,081 yards and 31 touchdowns. MORE: NBA world reacts to news that Klay Thompson tore his ACL in Game 6 loss Roundup: Sarah Huckabee Sanders Leaving; Taylor Swift's New Song; Darren Rovell Hit Piece Top of Packers WR depth chart takes shape following minicamp NBA trade rumor rankings: Rockets on the move? Report: 14th overall pick may be on table for Rockets' Clint Capela",
+        "word_count": 273,
+        "publish_time": "2025-05-28T10:34:43Z",
+        "source": "USA Today",
+        "tags": [
+          "news",
+          "health",
+          "report",
+          "football_nfl",
+          "sports",
+          "football"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N15992",
+          "N116638"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "经济",
+          "股票",
+          "财经",
+          "银行"
+        ],
+        "engagement_score": 0.89
+      },
+      "interaction_data": {
+        "scroll_depth": 0.21,
+        "clicks_count": 10,
+        "shares_count": 2,
+        "comments_count": 0,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.33,
+        "topic_keywords": [
+          "news",
+          "health",
+          "report"
+        ],
+        "viral_potential": 0.64,
+        "trend_score": 0.72,
+        "recommendation_relevance": 0.9,
+        "content_quality": 0.62,
+        "user_profile_match": 0.89
+      }
+    },
+    {
+      "timestamp": "2019-06-19T07:05:01Z",
+      "user_id": "U438651",
+      "news_id": "N42583",
+      "action_type": "like",
+      "session_id": "session_4de294ad9c52",
+      "dwell_time": 73,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tv-celebrity",
+        "headline": "Why Gloria Vanderbilt Did Not Leave an Inheritance for Son Anderson Cooper",
+        "content": "\"Anderson Cooper has always been content making his own money. The 52-year-old journalist's mother, artist and heiress Gloria Vanderbilt, died on Monday after a battle with stomach cancer. But although Vanderbilt was wealthy due to her successful business ventures as well as her late father being financier Reginald Vanderbilt, the heir to a railroad fortune, Cooper made it clear in a 2014 interview that his mother was not leaving him a trust fund. \"\"My mom's made clear to me that there's no trust fund. There's none of that,\"\" Cooper told a shocked Howard Stern during his appearance on the host's Sirius XM show. \"\" ... I'm doing fine on my own. I don't need any.\"\" He went on to explain why he didn't mind his mother not leaving him her considerable fortune. \"\"I don't believe in inheriting money,\"\" he said. \"\"I think it's an initiative sucker, I think it's a curse. Who's inherited a lot of money that has gone on to do things in their life? From the time I was growing up, if I felt like there was some pot of gold waiting for me, I don't know if I would have been so motivated.\"\" Cooper also pointed out that his mom made more money by herself than she inherited. \"\"We believe in working,\"\" he noted. \"\"She's the coolest person I know. She really is.\"\" Vanderbilt inherited a trust fund that was worth $5 million in 1925 (roughly $70 million today) after her father's death, and according to celebritynetworth.com , was worth $200 million at the time of her death. The late heiress made it clear throughout her life that she valued making her own money. In a 1985 interview with The New York Times , she said, \"\"I'm not knocking inherited money, but the money I've made has a reality to me that inherited money doesn't have.\"\" In a 2016 interview with CBS This Morning , Cooper said that both he and his mother didn't have much of a connection to the wealthy Vanderbilts. \"\"That name Vanderbilt has such baggage with it, such history, and I'm very glad I don't have that name, and my mom never felt much connection to the Vanderbilt family and I certainly didn't,\"\" Cooper said, noting that he always identified more with his late father, writer Wyatt Emory Cooper's, more down-to-earth roots in Mississippi. \"\"One of the happiest days for my mom, she called me and said, 'Somebody just referred to me as Anderson Cooper's mom.' Very happy that she's reached that stage of life.\"\" In Cooper's moving on-air eulogy for his mother, he talked about her complicated past. \"\"Gloria Vanderbilt lived her entire life in the public eye,\"\" he said while narrating a touching video. \"\"Born in 1924, her father, Reginald Vanderbilt, was heir to the Vanderbilt railroad fortune, but gambled away most of his inheritance, and died when my mom was just a baby. Gloria Morgan Vanderbilt, her mother, wasn't ready to be a mom or a widow.\"\" \"\"My mom grew up in France, not knowing anything about the Vanderbilt family or the money that she would inherit when she turned 21,\"\" he continued. \"\"She had no idea the trouble that money would create.\"\" Her family name continued to affect her as she grew up, after a judge granted custody to her aunt when she was 10 years old -- whom she barely knew at the time -- and fired her beloved nanny, whom she was close to. The intense custody battle was dubbed \"\"The Trial of the Century.\"\" \"\"As a teenager, she tried to avoid the spotlight, but reporters and cameramen would follow her everywhere,\"\" Cooper shared. \"\"She was determined to make something of her life, determined to make a name for herself and find the love and family that she so desperately craved.\"\" For more on Vanderbilt's extraordinary life as well as her and Cooper's unconventional mother-son relationship , watch the video below: Related slideshow: In Memoriam 2019: Remembering the stars we lost (Provided by Photo Services):\"",
+        "word_count": 669,
+        "publish_time": "2025-05-30T05:58:25Z",
+        "source": "USA Today",
+        "tags": [
+          "tv-celebrity",
+          "ai",
+          "report",
+          "tv",
+          "celebrity",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N104096",
+          "N55159"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "美食",
+          "生活",
+          "电影"
+        ],
+        "engagement_score": 0.01
+      },
+      "interaction_data": {
+        "scroll_depth": 0.38,
+        "clicks_count": 10,
+        "shares_count": 0,
+        "comments_count": 1,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.43,
+        "topic_keywords": [
+          "tv-celebrity",
+          "ai",
+          "report"
+        ],
+        "viral_potential": 0.73,
+        "trend_score": 0.44,
+        "recommendation_relevance": 0.09,
+        "content_quality": 0.72,
+        "user_profile_match": 0.59
+      }
+    },
+    {
+      "timestamp": "2019-06-18T10:30:04Z",
+      "user_id": "U142720",
+      "news_id": "N54647",
+      "action_type": "skip",
+      "session_id": "session_9db422862acd",
+      "dwell_time": 615,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "Paul Manafort Seemed Headed to Rikers. Then the Justice Department Intervened.",
+        "content": "\"[What you need to know to start the day: Get New York Today in your inbox .] Paul J. Manafort, President Trump's former campaign chairman who is serving a federal prison sentence, had been expected to be transferred to the notorious Rikers Island jail complex this month to await trial on a separate state case. But last week, Manhattan prosecutors were surprised to receive a letter from the second-highest law enforcement official in the country inquiring about Mr. Manafort's case. The letter, from Jeffrey A. Rosen, Attorney General William P. Barr's new top deputy, indicated that he was monitoring where Mr. Manafort would be held in New York. And then, on Monday, federal prison officials weighed in, telling the Manhattan district attorney's office that Mr. Manafort, 70, would not be going to Rikers. Instead, he will await his trial at a federal lockup in Manhattan or at the Pennsylvania federal prison where he is serving a seven-and-a-half-year sentence for wide-ranging financial schemes, according to people with knowledge of the matter. A senior Justice Department official said that the department believed Mr. Manafort's treatment was appropriate, but several former and current prosecutors said the decision was highly unusual. Most federal inmates facing state charges are held on Rikers Island. The intervention of Mr. Rosen was just the latest twist in the case of Mr. Manafort, whose campaign work for Mr. Trump and political consulting in Ukraine put him in the cross hairs of a two-year investigation into Russian influence in the 2016 election. He was convicted last year of financial fraud in two separate federal cases that came out of the investigation, which was led by the former special counsel, Robert S. Mueller III. While that might have been the end of his criminal problems, in March, he was indicted on 16 New York state felonies , including mortgage fraud and falsifying records to obtain millions of dollars in loans. The indictment, which was based on some of the same actions in one of the federal cases, was brought by the office of the Manhattan district attorney, Cyrus R. Vance Jr., in an effort to ensure Mr. Manafort would still face prison time if Mr. Trump pardoned him for his federal crimes. Mr. Manafort is set to be arraigned next week in State Supreme Court in Manhattan. He had been expected to be held on Rikers Island, which has long been plagued by violence and mismanagement, prompting efforts to close it. Officials there had said Mr. Manafort likely would have been held in protective custody for his own safety, isolated from the general population and under heavy guard. Federal prison officials told Manhattan prosecutors on Monday that Mr. Manafort had been transferred to the Metropolitan Correctional Center , a federal detention center in Lower Manhattan, in anticipation of his arraignment, according to a person with knowledge of the matter. He could be held there while he awaits trial, or he could return to the federal prison in Loretto, Penn., where he is serving his sentence, and be brought to New York for pretrial hearings, according to the people with knowledge of the matter. The former Justice Department officials and current state prosecutors, who regularly handled the transfer of federal inmates to state custody, said they were surprised that the second-highest official in the Justice Department would take an interest in the case. The decision is usually made by the warden at the prison where the inmate is being held. Justice Department officials were unable to say who made the decision in Mr. Manafort's case; the Bureau of Prisons, which is part of the Justice Department, did not respond to a request for comment. Todd Blanche, a lawyer for Mr. Manafort, acknowledged that the involvement of the deputy attorney general and the decision not to hold his client on Rikers was atypical. But he said the case itself was also unusual: Mr. Manafort, he argued, should not be facing state charges for behavior that was the subject of two federal convictions. \"\"You'll find no example of someone like Mr. Manafort being prosecuted by the feds and then by the district attorney for exactly the same conduct,\"\" Mr. Blanche said. A spokesman for Mr. Vance's office declined to comment. The question of Mr. Manafort's detention was one of the first high-profile matters to be undertaken by Mr. Rosen, who was confirmed as the deputy attorney general on May 16, one day before Mr. Manafort's attorney asked the Bureau of Prisons to keep his client out of Rikers. In the weeks after his client was charged, Mr. Blanche objected to Mr. Manafort being held at Rikers. In a May 17 letter, he asked the warden at the federal prison in Pennsylvania not to approve New York's request that Mr. Manafort be transferred to state custody, citing his age and health issues. In the letter, a copy of which was reviewed by The New York Times, Mr. Blanche also criticized the charges against his client, arguing that they were \"\"a blatant violation\"\" of New York's double jeopardy laws and calling the case \"\"politics at its worst.\"\" The district attorney's office has said it is confident the charges will stand. Mr. Blanche also said in his letter that the New York prosecutors were \"\"insisting that Mr. Manafort remain on Rikers Island, likely in solitary confinement, pending trial.\"\" While Mr. Blanche's letter indicated that copies were sent to Mr. Vance by email and registered mail, other correspondence and people with knowledge of the matter indicated Mr. Vance's office did not receive the letter. Instead, Mr. Rosen wrote to Mr. Vance last week, asking whether his office was going to respond. A senior Justice Department official said that the Bureau of Prisons had been keeping the Justice Department apprised of Mr. Manafort's situation, given the high-profile nature of his case. Mr. Rosen sought Mr. Vance's response largely because of these briefings, the official said. Mr. Vance replied on Friday, dismissing what he called Mr. Blanche's \"\"gratuitous claims\"\" that the prosecution was politically motivated and violated double jeopardy protections. He said those arguments were irrelevant to a routine discussion about where Mr. Manafort would be held. In his letter, Mr. Vance said New York prosecutors took no position on whether Mr. Manafort should be held at Rikers, but that keeping him in Pennsylvania did not appear to be a legitimate option under the law and was not consistent with how other inmates had been treated.\"",
+        "word_count": 1076,
+        "publish_time": "2025-05-21T02:13:46Z",
+        "source": "NBC News",
+        "tags": [
+          "ai",
+          "news",
+          "health",
+          "treatment",
+          "election",
+          "newspolitics",
+          "politics"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N79662",
+          "N123258"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "足球",
+          "音乐"
+        ],
+        "engagement_score": 0.09
+      },
+      "interaction_data": {
+        "scroll_depth": 0.77,
+        "clicks_count": 5,
+        "shares_count": 1,
+        "comments_count": 5,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.12,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "health"
+        ],
+        "viral_potential": 0.43,
+        "trend_score": 0.16,
+        "recommendation_relevance": 0.96,
+        "content_quality": 0.3,
+        "user_profile_match": 0.71
+      }
+    }
+  ],
+  "metadata": {
+    "source": "mobile_app",
+    "version": "1.0",
+    "processed_time": "2025-06-12T19:28:13.119095Z"
+  }
+}

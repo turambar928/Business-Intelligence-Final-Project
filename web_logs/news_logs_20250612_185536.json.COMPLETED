@@ -1,0 +1,779 @@
+{
+  "batch_id": "batch_20250612_185536_84d2446e",
+  "events": [
+    {
+      "timestamp": "2019-06-25T06:19:13Z",
+      "user_id": "U444356",
+      "news_id": "N25251",
+      "action_type": "like",
+      "session_id": "session_b4f79445c017",
+      "dwell_time": 279,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "soccer_fifa_wwc",
+        "headline": "Women's World Cup 2019: Spain gets appropriate punishment for foul play against USWNT",
+        "content": "\"Video by Yahoo Sports Editor's note: The opinions in this article are the author's, as published by our content partner, and do not necessarily represent the views of MSN or Microsoft. You did not need to look hard to find descriptions of Spain's women's national team as playing a beautiful brand of soccer: lots of possession, lots of precise passing, maybe not so many goals but the voyage to that errant shot is generally lovely. Was that going to be the style that would end the United States' reign at the FIFA Women's World Cup ? The answer is no, but not just because the U.S. earned a 2-1 victory with two penalty-kick goals from veteran winger Megan Rapinoe. The answer is no because Spain chose to battle the U.S. with a physical style borrowed from the likes of Rick Pitino: Foul so many times the ref can't call them all. It was a cynical approach that left American forward Alex Morgan prone on the grass throughout the early evening at Stade Auguste-Delaune in Reims; though she was the most frequent target of Spain's central defenders, she was not alone. MORE WORLD CUP: Full bracket, schedule for knockout stage So it was somewhat fitting that Spain departed the Women's World Cup as the result of two penalty calls against them , the second coming with the score tied in the 71st minute when U.S. midfielder Rose Lavelle was pursuing a drop-off from Alex Morgan near the top of the box and Spain's Virginia Torricella kicked her in the right shin. Lavelle went to the ground, and referee Katalin Kulcsar signaled toward the penalty spot. \"\"I did get kicked. I didn't flop,\"\" Lavelle told Goal.com's Seth Vertelney. \"\"So I figured if she saw the contact, then it would be a foul.\"\" After a VAR review of roughly three minutes, Kulcsar returned from the pitch-side video monitor and affirmed her decision to award the penalty. Initially, before the monitor review, Morgan had indicated she wanted to take the decisive penalty. Afterward, it was Rapinoe who was standing over the ball and ready to fire. She launched a sizzling shot inside the left post, the same spot she had picked out for her first attempt, and goalkeeper Sandra Panos couldn't stop it even though she'd chosen to dive toward the correct side. \"\"Pinoe is our '1' on PKs. So I said to her: Did you give it to Alex? She said, 'Yeah,'\"\" Coach Jill Ellis said following the match. \"\"I said, 'I want you to take it.' No problem, no issue there, and obviously she tucked them both away. It was great.\"\" MORE: Megan Rapinoe, Alex Morgan explain penalty kick change This became the second consecutive game in which midfielders Lavelle and Samantha Mewis dominated play with their ability to advance the ball, although neither was able to connect comfortably with Morgan or Rapinoe to generate goals from the run of play. Rapinoe looked at times as though she was picking her spots on when to make runs, and that often allowed meaningful opportunities to lapse. Morgan struggled with timing her runs against a high defensive line from Spain, which led to Lavelle and Mewis frequently holding back passes to avoid likely offside calls. But Morgan's biggest problem was a Spain defense that treated her like a tackling dummy throughout regulation. Spain committed 17 fouls, five against Morgan, and there was not a single yellow card issued for persistent infringement. There was only one yellow issued to Spain, in the 85th minute against Irene Paredes for a foul against Rapinoe along the left sideline. \"\"The heart and the grit and the resolve, that's a big part of World Cup soccer,\"\" Ellis said. \"\"No game is ever easy in this tournament. We know that, we learned that, and so part of it is the mental piece. And I thought they were great tonight.\"\" MORE: Three takeaways from the USWNT's win over Spain Because the second penalty was not a total hatchet job by Torricella, just a clear foul in a circumstance that should have been avoided with her team in a tie game, there already are some complaints that the officiating favored the U.S. This is preposterous. The Americans committed five fouls in the game. That's one every 18 minutes. They played a clean game and were rewarded for it. Spain not only avoided the yellows they were earning, they also got away with a possible third penalty during a 90th-minute corner kick, when midfielder Jennifer Hermoso put a choke-hold on Rapinoe when she was making a near-post run. Kulcsar was behind the play and shielded by Hermoso's back, and the assistant referee on the near sideline did not help out. Ellis was criticized by some in the media afterward for choosing to withhold midfielder Lindsay Horan from the starting lineup ostensibly to protect her from picking up a yellow card that would exclude her from a quarterfinal matchup with France and then sending her into the game late. It was dicey, given that midfielder Allie Long could have done the same work risk-free. She also kept Morgan (85 minutes) and Rapinoe (90 +7) on for longer than might have been expected after the tie was broken. But Rapinoe was brilliant in helping the Americans to control the ball down the stretch. The U.S. could have been better, but they also defeated a widely praised team that trampled the laws of the game to gain a tactical advantage. It worked, until it didn't. \"\"I'm glass half-full,\"\" Ellis said. \"\"So I'm like, 'Holy (crap), that was awesome.'\"\" Related slideshow: Best of the Women's World Cup (Provided by imagn)\"",
+        "word_count": 943,
+        "publish_time": "2025-05-21T13:57:39Z",
+        "source": "ESPN",
+        "tags": [
+          "soccer_fifa_wwc",
+          "ai",
+          "sports",
+          "soccer"
+        ],
+        "entities": {
+          "persons": [
+            "{'Spain': 'Spain', 'USWNT': ",
+            "}"
+          ],
+          "locations": [],
+          "organizations": [
+            "United States women's national soccer team"
+          ]
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N116180",
+          "N110328"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "明星",
+          "电影",
+          "手机",
+          "电脑",
+          "时尚"
+        ],
+        "engagement_score": 0.69
+      },
+      "interaction_data": {
+        "scroll_depth": 0.33,
+        "clicks_count": 0,
+        "shares_count": 0,
+        "comments_count": 3,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.44,
+        "topic_keywords": [
+          "soccer_fifa_wwc",
+          "ai",
+          "sports"
+        ],
+        "viral_potential": 0.25,
+        "trend_score": 0.78,
+        "recommendation_relevance": 0.29,
+        "content_quality": 0.16,
+        "user_profile_match": 0.47
+      }
+    },
+    {
+      "timestamp": "2019-06-25T09:45:42Z",
+      "user_id": "U277796",
+      "news_id": "N90005",
+      "action_type": "read",
+      "session_id": "session_459952d2e91e",
+      "dwell_time": 119,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shanghai",
+        "city": "Shanghai"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestyle-news-feature",
+        "headline": "I gave back my adopted babies when I got pregnant",
+        "content": "\"No parent ever forgets that first proud procession from the car to the family home. Ali Sanders remembers every tiny detail of the day she brought her twins home the baby seats \"\"took up the whole of the back seat,\"\" she says. She watched as her husband, Michael already \"\"head over heels in love\"\" clumsily fussed over the straps and buckles, like the excited novice dad he was. Then, inside the house, came the other big family milestone: meeting the \"\"over-the-moon\"\" new grandparents. \"\"I remember Michael's dad meeting them,\"\" says Ali, 35. \"\"He said: 'Here's Grandad!' He was so happy. Everyone was. My parents were thrilled, too.\"\" Of course they were: this was the fairytale ending to Ali and Michael's struggle to start a family. Told they were infertile early in their marriage with issues on both sides the couple, from Staffordshire, England threw all their efforts into the adoption process. Just after Christmas in 2014, their prayers were answered. They were approved to adopt adorable, eight-month-old identical twin boys who even looked like Michael. \"\"They were chunky and squidgy, with huge brown eyes,\"\" says Ali. \"\"Absolutely gorgeous.\"\" The couple spent the next six weeks gradually getting to know their babies, visiting them at the foster home where they had been placed, decorating their nursery and preparing for the big \"\"take-home day.\"\" Life could not have been more perfect in theory. Only something was wrong with Ali. She wasn't \"\"getting it',\"\" she says. Instead of bathing in a maternal glow of excitement, Ali, a school librarian, felt numb and flat. \"\"It felt like I was playing that it wasn't real,\"\" she says. \"\"What made it worse was that Michael bonded with the babies immediately. He already felt like Daddy.\"\" She would watch him changing nappies and cooing during visits... but felt absolutely nothing. She remembers taking the boys to the park for the first time in the beautiful new double buggy she had \"\"obsessed\"\" over for months. \"\"It sounds daft now, but so much effort had gone into getting the perfect buggy. It was an iCandy double and cost more than £1,000. But even when I was sitting with my beautiful buggy containing these gorgeous babies, I just wanted the process to stop. I'd never felt so lonely in my life.\"\" Motherhood often feels overwhelming, and adoptive parents are not spared the waves of panic. There is even a condition called post-adoptive depression. But Ali says this was something else. \"\"My overriding memory is of sitting there praying that the twins wouldn't wake up, because when they did, I'd have to go back to pretending to be a mother again,\"\" Ali recalls. Seeing her obvious misery and panic, her husband begged her to go to the doctor only a day after they brought the twins home. He knew something was wrong. She had felt \"\"out of sorts\"\" for weeks. The doctor asked for a urine sample, left the room and returned with astonishing news: Ali was pregnant. She was dumbstruck. \"\"I said: 'I just can't be,' and he asked: 'Why?' I said: 'Because we are infertile and we've just adopted baby twins.'\"\" Legally, however, they hadn't. The adoption process takes months to finalize through the courts. But, as far as everyone involved was concerned, they were already Mom and Dad. The couple drove home in stunned silence, then Ali sent her husband out to buy another pregnancy test \"\"the most expensive one he could find. I was convinced the GP had got it wrong.\"\" But he hadn't. Shocked, Ali and Michael called their social workers. And that was that. By the end of the day, the adoption process was off. \"\"I told the social worker I didn't think we would be able to keep the twins,\"\" says Ali, tearfully. The babies went back to their foster parents that very evening. \"\"It was the last time I saw them. I cried and cried. I hadn't expressed any emotion until then, but when they were taken from my arms for the last time, something inside me broke and I don't think it will ever be fixed again,\"\" she says. \"\"I don't think the guilt will ever go. I let down these babies who had already been let down.\"\" Some will never be able to fathom how a woman so far into the adoption process could backtrack \"\"they will think: 'How evil,'\"\" Ali concedes. Some, though, may sympathize with a woman who, in impossible circumstances, made a terribly difficult decision that she considered best for everyone. Now, with the benefit of hindsight, Ali thinks that from the moment she was pregnant, the adoption was doomed, because her body simply refused to allow her to bond with babies that were not genetically hers. \"\"I think it was a physical thing. The way I couldn't connect with the twins was completely out of character. I'd always been really maternal and desperately wanted those babies. \"\"I think it was my body saying: 'Concentrate on your baby.' I put my biological baby first and will have to live with that for the rest of my life.\"\" Four years on, and that baby is now a three-year-old whirlwind called Jacob. And Ali is expecting again another pregnancy that has defied the odds. Her baby girl is due in October. She and Michael couldn't be happier. Yet, neither has been able to forget the baby boys who were so nearly theirs. Ali rises to get two hanging toys from the sideboard. They are gingerbread men, Christmas decorations purchased when they received the news that they had been matched with the twins: \"\"We put them on the tree that Christmas, thinking there would be a lifetime of decorating the tree.\"\" These are the only mementos of the twins left in this house. As soon as the adoption process was halted, the couple were asked to erase all correspondence and photos of the twins, who have since been adopted (happily, it seems) by another couple. Memories are harder to wipe, though. Ali has written a book about her difficult journey to motherhood one that took her through not only a failed adoption, but also severe depression. At one point, she says she even contemplated suicide. Quite understandably, she is concerned that she will be judged. \"\"I would hate people to think I was like a child, handing back a toy when I didn't want it any more. What we did broke my heart.\"\" -- Ali had always wanted to be a mother. From a happy family herself, her earliest recollections are of playing with dolls. When she married her university sweetheart, Michael, in 2012, they were keen to start a family. After trying for a year with no luck, they went for tests. The results were distressing. The chances of them conceiving naturally were \"\"impossible,\"\" says Ali. \"\"Tests revealed I wasn't ovulating. Even when I went on Clomid [a fertility drug], the fertile phase of my cycle wasn't long enough to result in a pregnancy.\"\" Meanwhile, tests on Michael revealed issues with sperm count and motility. Devastated, the couple immediately ruled out invasive fertility treatments such as IVF and went straight down the adoption route. \"\"I'd seen friends go through fertility treatment unsuccessfully,\"\" says Ali. \"\"I'd also never been hung up on having a child that was biologically mine. To me, it didn't matter. If there were children out there who needed a loving home, we could provide it.\"\" They went through an extensive vetting process, which included assessments, interviews and home inspections. Friends and family were interviewed, too. While some couples wait for years to be paired with a baby, Ali and Michael received a call just a few weeks after their approval, telling them they were being considered to adopt not one baby, but two. They were given information about why the babies had ended up in care, which Ali cannot share. She admits that parts of the official report \"\"made us both weep.\"\" The twins had been born prematurely, and while there were no major health issues, there were developmental delays and they would need more care than most babies of their age. RELATED VIDEO: Adopting older children: What it's like to adopt a teenager [Provided by Today] It is now obvious to her that during her very first meeting with the babies at the foster caregiver's house, Ali was suffering morning sickness. \"\"The first time I saw them they were lying on the floor. Michael went straight to them. The room was reeling, and I didn't. I look back and think: 'That was not me. The old me would have been down on the floor without a doubt.'\"\" That early introduction was supposed to be joyful, but Ali felt an odd detachment, \"\"as if watching someone else. I held them, of course. I could coo over them and see how lovely they were, but I couldn't feel it.\"\" She put her unease down to the feeling of being 'watched' by the foster carer and social workers. Over the next month, there were regular visits, each longer than the last, culminating in the couple looking after the twins for a whole day. Michael took the lead in doing all the feeds and changes. Ali says she \"\"chipped in,\"\" but had to force herself to engage. \"\"I was feeling so sick. All I wanted to do was lie down.\"\" Was Michael concerned? \"\"Yes. He knew I wasn't myself,\"\" Ali says. \"\"But he also thought that it was just the stress of the situation. We both thought it would settle down when we got them home.\"\" The day before they were due to collect the twins for good, they had an argument. \"\"Michael couldn't understand. He said: 'This is what you have always wanted why aren't you more excited?' That made it worse, because I didn't know why.\"\" When Michael forced her to go to the doctor, she only gave in \"\"so I could get away from the babies for a while.\"\" Michael went, too, and burst into tears as news of the pregnancy was broken. \"\"Happy tears,\"\" she clarifies. \"\"But we were both reeling.\"\" They drove home in silence and then told Ali's mother and sister, who had been babysitting the twins. \"\"Everyone was stunned. No one knew what to say,\"\" says Ali. Eventually, Michael said: \"\"We have to talk about this. Do you want to go through with the adoption or do we need to reconsider?\"\" One might imagine that such...",
+        "word_count": 1743,
+        "publish_time": "2025-06-07T13:57:50Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "lifestyle-news-feature",
+          "ai",
+          "news",
+          "health",
+          "treatment",
+          "report",
+          "lifestyle"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N84485",
+          "N22108"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "AI",
+          "国际",
+          "电视",
+          "经济",
+          "投资"
+        ],
+        "engagement_score": 0.61
+      },
+      "interaction_data": {
+        "scroll_depth": 0.99,
+        "clicks_count": 4,
+        "shares_count": 0,
+        "comments_count": 0,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.13,
+        "topic_keywords": [
+          "lifestyle-news-feature",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.23,
+        "trend_score": 0.73,
+        "recommendation_relevance": 0.86,
+        "content_quality": 0.27,
+        "user_profile_match": 0.59
+      }
+    },
+    {
+      "timestamp": "2019-06-20T06:18:10Z",
+      "user_id": "U368057",
+      "news_id": "N32360",
+      "action_type": "share",
+      "session_id": "session_b86724a7d526",
+      "dwell_time": 333,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "entertainment",
+        "topic": "entertainment-celebrity",
+        "headline": "30 celebrities you might not know are LGBTQ",
+        "content": "\"Stacker highlights 30 celebrities in no particular order whose LGBTQ+ status may not be as widely known. 30 celebrities you didn't know were LGBTQ The LGBTQ+ community has been integral to the performing arts since the dawn of entertainment itself. That said, celebrities who identify as being LGBTQ+ haven't always been able to speak freely about their status. In fact, it wasn't too long ago that the entertainment industry took every conceivable measure to keep the sexual orientation of its foremost stars under wraps. Look no further than Old Hollywood actor Rock Hudson, whose homosexuality remained a tightly guarded secret during the height of his fame. Many of today's LGBTQ+ celebrities are overall less pressured into keeping their status a secret. Likewise, both the entertainment industry and society have made strides since the heyday of Rock Hudson, at least in terms of how both those entities approach and accept one's sexual identity. Although there is still quite a way for civilization to go when it comes to inclusion of LGBTQ+ individuals, it's becoming more and more apparent that a celebrity's sexual orientation is not necessarily the career detriment it may have been in the past. Proving as much are a number of celebrities who have come out as LGBTQ+ in recent years. Stacker is highlighting 30 celebrities in no particular order whose LGBTQ+ status may not be as widely known. You may also like: Harvey Milk, Mayor Pete, and 30 other LGBTQ politicians who broke barriers #30. Miley Cyrus Since graduating from the role of Hannah Montana in 2011, actress and singer Miley Cyrus hasn't shied away from expressing her sexuality through performance art sometimes to downright scandalous effect. However, it wasn't until 2015 that Cyrus announced she was gender-fluid, meaning she doesn't exclusively identify with one particular gender. In the time since then, she's become a passionate and vocal advocate for various LGBTQ+ issues. #29. Ellen Page Those who know Ellen Page by name are probably aware that she's been openly gay since 2014, when she declared her LGBTQ+ identity during a powerful speech at a human rights conference. #28. Tim Cook As the CEO of Apple, Tim Cook is easily among the most powerful men in the world. He's also been openly gay since 2014, after coming out in a poignant Bloomberg editorial. While Cook doesn't consider himself an activist, he did once tell Stephen Colbert that he felt a \"\"tremendous responsibility\"\" to speak up about his LGBTQ+ status, particularly on behalf of all the young people who are bullied or even disowned because of their sexuality. #27. Drew Barrymore Actress Drew Barrymore is famous for many things, and yet her LGBTQ+ status is hardly one of them. In 2003, the \"\"Santa Clarita Diet\"\" star told Contact Music, \"\"I have always considered myself bisexual.\"\" However the thrice-divorced celebrity has stuck to the gents when it comes to holy matrimony at least so far. #26. Billie Joe Armstrong After bursting onto the mainstream in 1994, rock band Green Day has more or less been a fixture in pop culture ever since. And while frontman Billie Joe Armstrong is no stranger to headlines, it's not widely known that he's been openly bisexual since 1995. That was when he told The Advocate: \"\"I think I've always been bisexual… I think people are born bisexual, and it's just that our parents and society kind of veer us off into this feeling of, 'Oh, I can't.' They say it's taboo. It's ingrained in our heads that it's bad, when it's not bad at all. It's a very beautiful thing.\"\" #25. Clive Davis A powerful music mogul, Clive Davis is best known as the man who helped launch or revive the careers of Whitney Houston, Barry Manilow, and Billy Joel among numerous other superstars. In 2013, the twice-married executive released an autobiography, \"\"The Soundtrack of My Life,\"\" in which he detailed two long-term relationships with other men. Still identifying as bisexual, in a 2013 interview with Katie Couric, Davis said, \"\"You don't have to be only one thing or another. For me, it's the person.\"\" #24. Fergie Between her former gig with the Black-Eyed Peas, her prior marriage to actor Josh Duhamel, and her unpopular 2018 performance of the National Anthem, Fergie definitely manages to stay in the public consciousness year after year. What's lesser known about the singer, however, is that she's identified as bisexual since the early naughts, even if the press acted like it was new information in 2009. She addressed the discrepancy in an interview with The Advocate, saying, \"\"The funny thing is that I was very open and honest about that from the very beginning, and everyone was acting like it was some new trend. Go back four or five years, people, and you'll see the same answer.\"\" #23. Kristen Stewart While a certain percentage of Kristen Stewart's fan base probably prefers to think of her as the perennial soulmate of \"\"Twilight\"\" co-star Robert Pattinson, the edgy actress has definitely moved on to new partners from both sides of the gender spectrum. Of course, that hasn't stopped the fans from clamoring for a reunion with Pattinson, or at least trying to box Stewart in as far as her sexual identity is concerned. In response, she's done not one, but two poignant interviews with Nylon, in which she makes it quite clear that she's openly bisexual, and definitely not confused about it. #22. Kate McKinnon It wasn't until she began watching sci-fi TV series \"\"The X-Files\"\" that \"\"SNL's\"\" first openly gay female, Kate McKinnon, realized she had a thing for the ladies. Specifically, McKinnon found herself swooning over actress Gillian Anderson in the 1990s. Even decades later, McKinnon continues to describe Anderson as the \"\"queen of my heart.\"\" #21. Gillian Anderson Could Kate McKinnon have a chance with Gillian Anderson after all? In 2015, Anderson told The Telegraph that she'd previously engaged in same-sex relationships, and was open to doing so again. Anderson is currently a star in the popular Netflix series, \"\"Sex Education.\"\" #20. Lady Gaga With her open-minded performance style, provocative lyrics, and massive LGBTQ+ fan base, it was not terribly shocking when pop star Lady Gaga identified as bisexual in a 2009 interview with Barbara Walters. However, in the time since, the pop star has been accused of possibly making up her LGBTQ+ status for marketing purposes. She addressed the accusations head-on during an album release party and Q&A session in 2013, stating, \"\"It's not a lie that I am bisexual and I like women ...This is who I am and who I have always been.\"\" #19. Aubrey Plaza In yet another scoop by LGBTQ+ outlet The Advocate, Aubrey Plaza confessed to having intense feelings for both sexes back in 2016. Specifically, the former \"\"Parks and Recreation\"\" actress declared, \"\"I fall in love with girls and guys. I can't help it.\"\" She was also quick to point out that she emanates \"\"masculine energy,\"\" and subsequently draws in both males and females alike. #18. Kristian Nairn All the \"\"Game of Thrones\"\" fans out there will recognize actor Kristian Nairn as Hodor, a burly hero who says nothing but his own name when speaking. In a 2014 interview with Winteriscoming.net, Nairn professed, \"\"I've never hidden my sexuality from anyone, my whole life in fact, and I've been waiting for someone to ask about it in an interview, cos it's not something you just blurt out.\"\" Look for Nairn in an upcoming big screen adaptation of \"\"Robin Hood,\"\" or even in a DJ booth. #17. Frank Ocean A member of hip-hop collective Odd Future as well as a breakout solo star, Frank Ocean is among the biggest names in contemporary music. In 2012, he posted a statement on his Tumblr account, in which he seemed to declare his love for another man. A few years later, Ocean released his album, \"\"Blonde,\"\" to substantial acclaim and healthy sales numbers. As famous and respected now as he ever was, Ocean occasionally uses his celebrity status to help spread LGBTQ+ awareness. #16. Jason Collins Given the outward sense of machismo that permeates both professional sports and its overzealous fan base, it's no surprise that most LGBTQ+ athletes keep their sexuality a secret. Helping to change that is former NBA player Jason Collins, who became the first openly gay man to play in one of the four major professional team sports. In a 2014 Sports Illustrated article written by Collins, he expressed a desire to see more of his fellow athletes come out without facing repercussions, but ultimately conceded that we're \"\"not there yet.\"\" #15. Angelina Jolie Actress and director Angelina Jolie has been openly LGBTQ+ for so long that some folks might have forgotten about it. When asked in 2003 if she was bisexual, Jolie replied, \"\"Of course. If I fell in love with a woman tomorrow, would I feel that it's OK to want to kiss and touch her? If I fell in love with her? Absolutely! Yes!\"\" #14. Victor Garber An actor more recognizable by face than by name, Victor Garber has starred in films like \"\"Titanic\"\" and \"\"Argo,\"\" along with TV shows like \"\"Alias\"\" and \"\"The Flash.\"\" In 2013, Garber confirmed that he was gay, though he hadn't exactly been hiding his LGBTQ+ status or his more than 20-year relationship with Rainer Andreesen for that matter. At the time, Garber said of his sexual orientation, \"\"I don't really talk about it, but everybody knows.\"\" #13. Raven Symone According to a 2016 video for \"\"It Gets Better,\"\" actress and singer Raven Symone knew she was sexually attracted to other females as early as the age of 12, but hid the fact from others so that it wouldn't harm her brand. In the time since, Raven hasn't exactly become Hollywood royalty, but that might have more to do with her critiques of various hip-hop figures than it does her LGBTQ+ status. #12. Wanda Sykes She might have been engaged to Krazee Eyez Killa on HBO's \"\"Curb Your Enthusiasm,\"\" but in reality, Wanda Sykes prefers partners of the feminine persuasion. After coming out at a Pro...",
+        "word_count": 1683,
+        "publish_time": "2025-05-20T10:45:01Z",
+        "source": "NBC News",
+        "tags": [
+          "entertainment-celebrity",
+          "exclusive",
+          "music",
+          "entertainment",
+          "market",
+          "ai",
+          "health",
+          "celebrity"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N79600",
+          "N21407"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "明星",
+          "电视",
+          "社会",
+          "互联网",
+          "电脑",
+          "投资"
+        ],
+        "engagement_score": 0.28
+      },
+      "interaction_data": {
+        "scroll_depth": 0.4,
+        "clicks_count": 8,
+        "shares_count": 3,
+        "comments_count": 0,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.44,
+        "topic_keywords": [
+          "entertainment-celebrity",
+          "exclusive",
+          "music"
+        ],
+        "viral_potential": 0.51,
+        "trend_score": 0.42,
+        "recommendation_relevance": 0.11,
+        "content_quality": 0.68,
+        "user_profile_match": 0.68
+      }
+    },
+    {
+      "timestamp": "2019-06-17T11:01:52Z",
+      "user_id": "U27007",
+      "news_id": "N90215",
+      "action_type": "like",
+      "session_id": "session_be97bcbc3a74",
+      "dwell_time": 317,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shanghai",
+        "city": "Shanghai"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newscrime",
+        "headline": "He said he would pay $9 million for a murder. So five friends plotted to kill a teenager, police say.",
+        "content": "\"Cynthia Hoffman thought that Denali Brehmer was her best friend. The two teenagers had met while attending the same high school in Anchorage, and on her Instagram account Cynthia posted photos of the two of them, striking goofy poses at a school dance. \"\"My bff,\"\" she captioned one picture , according to the Anchorage Daily News. But after Cynthia disappeared, it became clear that the 19-year-old had been tragically wrong. On June 4, two days after her family reported her missing, police found Cynthia's body on the bank of the Eklutna River, near a hiking trail on the outskirts of Anchorage. Her feet were duct-taped together, and she had been shot in the back of the head. Authorities said Friday that Brehmer, 18, orchestrated the murder and recruited four friends to help her, thinking that a man who she met on the Internet would pay her $9 million or more for filming it. While officials haven't said why Cynthia, who went by \"\"CeeCee,\"\" was targeted, her family told the Daily News that she had a developmental disability that caused her to operate intellectually at a seventh-grade level, and likely made her vulnerable. \"\"Her disability just made her want to have friends,\"\" her father, Timothy Hoffman, said. \"\"That's all she wanted, was just to be her friend.\"\" Hoffman, a handyman who had taught his daughter to be his \"\"right-hand man,\"\" knew something was wrong when his daughter didn't show up on June 2 to collect the money he owed her from a recent job, he told KTUU . It was unlike her to stop picking up her phone, and to not call and say where she was. \"\"In this family, you all have phones,\"\" he said. \"\"When dad calls, you answer. I don't care if you're at church and the holy pastor is preaching. I don't care if you're at school taking the high school diploma test. If dad calls, you answer.\"\" The next morning, when Cynthia still hadn't showed up, Hoffman notified the police. But he was burning with nervous energy and not content to sit still while they looked for his daughter. \"\"I put out search parties,\"\" he told the station. \"\"I drove my motorcycle through woods and bike paths. I floored it all over town doing speed limits I should not have been doing looking for my kid.\"\" It was too late. On June 4, a knock on the door confirmed his worst fears: Cynthia was dead. While he searched for his missing daughter, Hoffman had been trading text messages with Cynthia's best friend, who he knew as \"\"Angela.\"\" The teenager had been with his daughter right before she vanished, and told him that she had dropped Cynthia off at a local park at her request. In messages that Hoffman provided to KTUU , Angela sounded distraught over Cynthia's disappearance, writing, \"\"I hope she comes home safely she's my best friend.\"\" In fact, as Hoffman soon learned, Angela's real name was Denali Brehmer. And she knew a lot more than she was letting on. According to court documents obtained by the Daily News, Brehmer had formed an online relationship with a man who called himself \"\"Tyler\"\" and claimed to be from Kansas. He had convinced her that he was a millionaire, and offered to pay her $9 million or more to \"\"rape and murder someone in Alaska,\"\" then send him videos and photographs. Brehmer agreed to the arrangement, court documents say. She allegedly recruited four of her friends to help her, offering them a cut of the money if they helped orchestrate and carry out the murder. On June 2, Brehmer and 16-year-old Kayden McIntosh borrowed a friend's car to pick up Cynthia and drove with her to the northern outskirts of Anchorage, claiming that they were going to go hiking, authorities allege. They brought the 19-year-old to the Thunderbird Falls trail, a popular hiking path that cuts through a mile of birch forest before reaching a spectacular 200-foot waterfall. But instead of heading for the falls, they abandoned the trail and followed another path that ran alongside the Eklutna River, walking until they found an isolated clearing. The teenagers bound Cynthia's hands, feet and mouth with duct tape, according to prosecutors. Once she was restrained, McIntosh allegedly took Brehmer's 9mm handgun and shot her in the back of the head. They left her body in the river. \"\"I'm sorry everybody, my family, my friends,\"\" Brehmer reportedly said in a video that she posted on Snapchat afterward. \"\"I guess you will hear from me when you hear from me, but I won't be back for a long time. I'm sorry, I didn't mean to do it.\"\" It wasn't until later that Brehmer learned that she had been catfished, prosecutors say. All along, she had been sending photos and videos to \"\"Tyler,\"\" not knowing that his real name was Darin Schilmiller a 21-year-old who lived in Indiana instead of Kansas, looked nothing like the photo he had sent her online and wasn't a millionaire. When first questioned by police on June 6, two days after Cynthia's body was found, Brehmer allegedly claimed that the three teenagers Cynthia, McIntosh and herself had gone to Thunderbird Falls to take pictures of each other wrapped in duct tape. She said that she had no idea that McIntosh planned to shoot the 19-year-old. Further investigation yielded a stomach-churning discovery. Police got a search warrant for Brehmer's iPhone and found child pornography \"\"in plain view,\"\" court records obtained by Alaska Public Media said. In a text message conversation with Schilmiller, who was identified as \"\"Babe\"\" in her contact list, she had detailed her plans to sexually assault a teenage girl and film it for him. \"\"Gonna go buy weed first,\"\" Brehmer wrote, according to court documents. \"\"I wanna get her high for it so she doesn't fight me.\"\" Later in the conversation, Schilmiller allegedly told Brehmer that he wished he had never \"\"made a deal\"\" with her in the first place. \"\"[W]e can meet but once I see a cop I'm telling him or her that I made you rape people and killed cece,\"\" he wrote, apparently referencing Cynthia's nickname. Once she learned that she had been duped, Brehmer admitted that Schilmiller had recruited her to commit a murder, prosecutors said . She also said that he had directed her to sexually assault two minors, one who was 8 or 9 years old, and another who was 15. FBI agents were unable to find videos of the younger child, though they did find that she had sent Schilmiller child pornography that featured the 15-year-old victim, according to court documents. Investigators have also not found evidence that Cynthia Hoffman was raped, as Schilmiller allegedly requested. Schilmiller, Brehmer and McIntosh were indicted Friday on murder and conspiracy charges, according to the Alaska Department of Law. So were 19-year-old Caleb Leyland, who allegedly lent Brehmer and McIntosh his car in exchange for a promised $500,000, and two juveniles, whose names have not been released. Authorities have shared few details about the involvement of two juveniles because of their ages, but KTVA reports that the juvenile female told police that she was present when the murder was being planned, while the juvenile male admitted that he had agreed to help kidnap and murder Cynthia. According to the Daily News, Schilmiller also faces federal child pornography charges and is awaiting extradition to Alaska. The investigation is ongoing, and it's not yet clear if Brehmer will face separate child pornography and sexual assault charges, the paper reported. It wasn't immediately clear whether any of the six defendants had an attorney. \"\"I have one thing on my mind, and that's to send all six of them to hell,\"\" Timothy Hoffman told KTUU on Thursday, as hundreds gathered for a memorial service in Cynthia's honor. \"\"And I ain't gonna rest until it's done.\"\" More from Morning Mix: Trump, a self-professed germaphobe, told his chief of staff to leave the room during an interview to cough An 11-year-old fought off a home invader with a machete. Then the suspect escaped from the hospital. 'I'll call your bluff any day of the week': Ocasio-Cortez rejects Trump quoting her to defend against his impeachment\"",
+        "word_count": 1369,
+        "publish_time": "2025-05-20T22:29:51Z",
+        "source": "Fox News",
+        "tags": [
+          "ai",
+          "news",
+          "report",
+          "tv",
+          "newscrime",
+          "film"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N41286",
+          "N39990"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "财经",
+          "理财",
+          "商业",
+          "健康",
+          "篮球"
+        ],
+        "engagement_score": 0.33
+      },
+      "interaction_data": {
+        "scroll_depth": 0.24,
+        "clicks_count": 4,
+        "shares_count": 2,
+        "comments_count": 1,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.82,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "report"
+        ],
+        "viral_potential": 0.08,
+        "trend_score": 0.7,
+        "recommendation_relevance": 0.3,
+        "content_quality": 0.15,
+        "user_profile_match": 0.93
+      }
+    },
+    {
+      "timestamp": "2019-06-18T11:23:48Z",
+      "user_id": "U97018",
+      "news_id": "N120954",
+      "action_type": "comment",
+      "session_id": "session_2de6a13750c8",
+      "dwell_time": 13,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shaanxi",
+        "city": "Xi'an"
+      },
+      "news_details": {
+        "category": "music",
+        "topic": "musicnews",
+        "headline": "Here's every celebrity in Taylor Swift's star-studded 'You Need to Calm Down' music video",
+        "content": "\"Ahead of the release of her \"\"Lover\"\" album, the singer gathered popular celebrities (like Ellen DeGeneres and Ryan Reynolds) for the video. Taylor Swift released her colorful music video for her latest song, \"\"You Need to Calm Down.\"\" The video is packed with tons of celebrities, like Laverne Cox, Ellen DeGeneres, Ryan Reynolds, and the stars of \"\"Queer Eye.\"\" Swift and Katy Perry also embraced while dressed as fries and a burger, respectively, following years of feuding. Visit INSIDER's homepage for more stories. Taylor Swift dropped her highly-anticipated music video for her new song \"\"You Need to Calm Down,\"\" and it's filled with plenty of celebrities. The track is an ode to LGBTQ rights, and the 29-year-old singer reiterated her message in the vibrant music video. She recruited familiar faces like Ellen DeGeneres, Ryan Reynolds, and the stars from Netflix's \"\"Queer Eye.\"\" The singer included former enemy and fellow singer Katy Perry as the stars dressed as food items and hugged. Keep reading to see every star who makes an appearance in the \"\"You Need to Calm Down\"\" music video. YouTube star Hannah Hart rocked a shirt with a fruit pattern. She also held up a boombox. Model Dexter Mayfield wore a rainbow outfit and a pink visor. He also sprinkled water on himself. \"\"Orange Is the New Black\"\" star Laverne Cox wore a sparkling pink dress and held a watering can. Cox was also surrounded by fake flamingos. Musician Chester Lockhart fainted after Cox waved at him. Lockhart released an EP in 2016 called \"\"Roses.\"\" Swift was also joined by BFF Todrick Hall. Hall coexecutive-produced the video. Singer Hayley Kiyoko hit the bullseye in the video. Kiyoko rose to fame for her role in the Disney Channel movie \"\"Lemonade Mouth.\"\" Ciara officiated Jesse Tyler Ferguson and Justin Mikita's wedding. In real life, the \"\"Modern Family\"\" star married Mikita in 2013. Swift had a fashionable tea party with Hall and the stars from \"\"Queer Eye.\"\" Bobby Berk, Jonathan Van Ness, Antoni Porowski, and Karamo Brown were seen at the table. Fellow \"\"Queer Eye\"\" star Tan France wasn't at the table, but he walked around with his own teapot. France is the fashion expert of the group. Figure skater Adam Rippon gave out out snow cones. In addition to being a decorated Olympian, Rippon also won ABC's \"\"Dancing With the Stars.\"\" Adam Lambert gave Ellen DeGeneres a tattoo. Fans have speculated that the tattoo phrase \"\"Cruel Summer\"\" is a song on her upcoming album. \"\"Pose\"\" star Billy Porter strutted past protesters and made a grand entrance. Porter rocked a blue lip color and multicolored eye-shadow. Swift was joined by several drag queens who dressed in signature outfits that closely resembled Ariana Grande, Lady Gaga, Adele, Cardi B, Beyoncé, Katy Perry, and Nicki Minaj. Tatianna, Trinity the Tuck, Delta Work, Trinity K. Bonet, Jade Jolie, Riley Knoxx, Adore Delano, and A'keria C. Davenport were part of a \"\"pop queen pageant.\"\" RuPaul held a bedazzled crown. Rather than pick one winner, all the contestants were deemed queens. Katy Perry dressed as a burger and embraced Swift. Swift called them \"\"a happy meal.\"\" Ryan Reynolds painted his own version of NYC's iconic Stonewall Inn. Reynolds and his wife, Blake Lively, are good friends with Swift.\"",
+        "word_count": 541,
+        "publish_time": "2025-06-04T03:58:05Z",
+        "source": "Washington Post",
+        "tags": [
+          "movie",
+          "music",
+          "ai",
+          "musicnews",
+          "celebrity"
+        ],
+        "entities": {
+          "persons": [
+            "{",
+            "Taylor Swift's",
+            ": 'Taylor Swift'}"
+          ],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N51008",
+          "N18071"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "电视",
+          "美食",
+          "新闻",
+          "国际",
+          "篮球",
+          "足球"
+        ],
+        "engagement_score": 0.03
+      },
+      "interaction_data": {
+        "scroll_depth": 0.14,
+        "clicks_count": 4,
+        "shares_count": 1,
+        "comments_count": 2,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.55,
+        "topic_keywords": [
+          "movie",
+          "music",
+          "ai"
+        ],
+        "viral_potential": 0.53,
+        "trend_score": 0.02,
+        "recommendation_relevance": 0.21,
+        "content_quality": 0.75,
+        "user_profile_match": 0.3
+      }
+    },
+    {
+      "timestamp": "2019-06-19T14:55:11Z",
+      "user_id": "U43526",
+      "news_id": "N58331",
+      "action_type": "like",
+      "session_id": "session_c26de922382c",
+      "dwell_time": 50,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "movies",
+        "topic": "movienews",
+        "headline": "'Kindergarten Cop' Villain Is Unrecognizable In Mugshot After Public Intoxication Arrest",
+        "content": "\"Kindergarten Cop star Richard Tyson was behind bars after getting busted for harassment and public intoxication. According to law enforcement, Tyson, who played Cullen Crisp in the 1990 Arnold Schwarzenegger flick, was arrested Wednesday morning in Mobile, Alabama. Cops say Tyson was involved in a dispute with another person around 2:45 AM. He was eventually booked on misdemeanor charges of harassment or harassing communications and public intoxication. 58-year-old Tyson was booked just before 5 AM, and cops tell us the actor shortly bonded out for $1,000. Interestingly enough, Tyson is also the brother of former Mobile County District Attorney John Tyson, Jr. According to Tyson's mugshot, the actor is also sporting a pretty awesome mullet. Tyson, who also appeared in \"\"Black Hawk Down,\"\" is famous for his role as the villain in \"\"Kindergarten Cop,\"\" but he's been steadily working in Hollywood over the years and has a ton of projects currently in production. He has also been a favorite actor of the Farrelly brothers over the years, and appeared in \"\"Kingpin\"\", \"\"Me, Myself & Irene\"\" and \"\"There's Something About Mary\"\". According to his IMDB page, Tyson also regularly performs Shakespeare works onstage, and also is looking to direct and produce his own films while continuing to seek interesting and challenging roles to play. Tyson, who originally hails from Mobile, Alabama, was previously married to Tracy Kristofferson, the daughter of famous actor Kris Kristofferson. The two split in 2017, and have one daughter. Related slideshow: Celebrity mugshots (via Photo Services)\"",
+        "word_count": 249,
+        "publish_time": "2025-05-27T12:14:52Z",
+        "source": "The Guardian",
+        "tags": [
+          "ai",
+          "movienews",
+          "movies",
+          "celebrity",
+          "film"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N94906",
+          "N53549"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "股票",
+          "商业",
+          "时尚"
+        ],
+        "engagement_score": 0.73
+      },
+      "interaction_data": {
+        "scroll_depth": 0.48,
+        "clicks_count": 6,
+        "shares_count": 3,
+        "comments_count": 2,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.32,
+        "topic_keywords": [
+          "ai",
+          "movienews",
+          "movies"
+        ],
+        "viral_potential": 0.71,
+        "trend_score": 0.22,
+        "recommendation_relevance": 0.88,
+        "content_quality": 0.61,
+        "user_profile_match": 0.74
+      }
+    },
+    {
+      "timestamp": "2019-06-18T13:33:54Z",
+      "user_id": "U293378",
+      "news_id": "N30579",
+      "action_type": "share",
+      "session_id": "session_91e564e3c435",
+      "dwell_time": 61,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shaanxi",
+        "city": "Xi'an"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "Acting defense secretary bows out of running to be confirmed as Pentagon chief",
+        "content": "\"Acting defense secretary Patrick Shanahan withdrew from consideration to be confirmed to the job permanently, President Trump said Tuesday, plunging the Pentagon into leadership upheaval for the second time in six months. In a message on Twitter , Trump said that Shanahan, a former Boeing executive who has led the Pentagon on an acting basis since early this year, had \"\"decided not to go forward with his confirmation process so that he can devote more time to his family.\"\" Trump thanked Shanahan for his \"\"outstanding service\"\" and said that Mark T. Esper, who has served as Army secretary since 2017, would become his new acting Pentagon chief. Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post A former top lobbyist with Raytheon and a U.S. Military Academy classmate of Secretary of State Mike Pompeo, Esper served 25 years in the Army and the Virginia National Guard and was a deputy assistant secretary of defense under President George W. Bush. He was also national security adviser to then-Senate Majority Leader Bill Frist (R-Tenn.) and legislative director to then-Sen. Chuck Hagel (R-Neb). Esper will officially take over responsibilities on Monday, Pentagon spokesman Jonathan Hoffman said in a statement. But it was uncertain whether Trump intends to nominate Esper to be confirmed in the job. Individuals familiar with the conversations said other people were also being discussed, including Veterans Affairs Secretary Robert Wilkie and retired Army Gen. Jack Keane. Sen. Tom Cotton (R-Ark.) has been considered previously, but it's unclear whether he would leave the Senate for the post. Shanahan pulled himself out of the running Tuesday morning as media organizations including The Washington Post published reports shedding light for the first time on details of his contentious divorce, including an incident in which his son attacked his ex-wife with a baseball bat. In a statement, Shanahan said it was \"\"unfortunate that a painful and deeply personal family situation from long ago is being dredged up and painted in an incomplete and therefore misleading way in the course of this process.\"\" Shanahan said he had decided \"\"after significant reflection\"\" to remove himself from the confirmation process and resign. \"\"I would welcome the opportunity to be secretary of defense, but not at the expense of being a good father,\"\" he said. Shanahan's decision upends what had been expected to be an imminent confirmation process, injecting a new element of uncertainty into the Pentagon's highest levels at a moment when officials are scrambling to retain a technological edge over China and respond to recent threats from Iran. The turmoil atop the Pentagon comes amid a broader leadership vacuum across the Trump administration, where many of the political positions remain unfilled or occupied by people serving in an acting capacity. In addition to the Pentagon, the Department of Homeland Security, the Small Business Administration, the Federal Emergency Management Agency, Immigration and Customs Enforcement and the Federal Aviation Administration are also being run by individuals serving in acting capacities. Several other positions, including White House chief of staff, assistant secretary of defense for international security affairs and United Nations ambassador, are filled by those functioning in an acting role. Relative unknown When Shanahan joined the Trump administration as deputy defense secretary in 2017, he was seen as an experienced businessman who could oversee a massive military budget and advance reforms in acquisition, technology and space issues. When Trump tapped him in late 2018 to become acting secretary after his predecessor, Jim Mattis, resigned over differences with the president, Shanahan remained a relatively unknown figure outside the Pentagon. As Pentagon chief, he faced a Washington establishment skeptical that he had the chops to oversee the world's most powerful military at a time of transformation. At times, he fueled those concerns by deferring to subordinates during congressional testimony or taking a back seat to other officials when publicly addressing international crises. Critics faulted Shanahan for failing to stand up to the president on issues that many within the Pentagon view as overly political, including using the military budget to fund the president's border wall. Even as Shanahan traveled the world, authorized military operations and met with his counterparts, his six-month tenure remained clouded by uncertainty about his fate. During his first months in the job, speculation mounted about whether Trump would pick him to be confirmed. In May, White House press secretary Sarah Sanders said he would be nominated. The announcement came just after the Pentagon's inspector general cleared him of wrongdoing in a probe related to his ties to Boeing, his former employer and a major defense contractor. But even then the White House failed to formally nominate him, despite the fact he had initially been expected to appear before the Senate Armed Services Committee for a confirmation hearing in mid-June. Shanahan's decision to step aside appeared to have come together quickly in the space of a few days, even as a team of officials responsible for helping him prepare for his confirmation process predicted he would go forward. When Shanahan met with Trump at the White House on Monday to discuss Iran, said a defense official who spoke on the condition of anonymity to discuss internal conversations, a potential decision to step aside did not come up. As late as Monday night, White House officials were telling reporters Shanahan would be confirmed. On Tuesday morning, as additional media outlets prepared to publish stories about his family, Shanahan returned to the White House and told Trump he would withdraw, officials said. Trump tweeted the announcement shortly afterward from the Oval Office. Senators from both political parties questioned why they did not have advance notice of the allegations and criticized the White House vetting process . \"\"I don't understand it,\"\" said Sen. Lisa Murkowski (R-Alaska). \"\"These names, once they are out there, before they get made public, there has been a level of vetting that has gone on so it does cause you to wonder.\"\" Speaking to reporters before departing for his reelection rally in Orlando, Trump said he did not ask Shanahan to withdraw his nomination and considered it \"\"a tough time\"\" for him. Trump also defended his administration's vetting, calling it \"\"very good.\"\" \"\"You take a look at our cabinet and our secretary; it's very good,\"\" Trump said. \"\"We have a great vetting process, but this is something that came up a little bit over the last short period of time, and as you know, Pat was acting. Acting gives you much greater flexibility, a lot easier to do things. So that's the way it is. Too bad.\"\" 'Critical' challenges Two Republicans familiar with White House discussions, who spoke on the condition of anonymity because they were not authorized to comment publicly, said Shanahan had hoped to soldier through the process but recognized after discussions with White House officials that a confirmation process would likely unspool his family's past. The two Republicans said that Trump is now looking for a reliable, well-known nominee someone who can be easily confirmed. The president wants to avoid drama and is being told by senators that he doesn't have capital to spend on a tough nomination fight, they said. Potentially introducing a further complication to the situation, the Federal Vacancies Reform Act will not permit Esper to be the Pentagon chief nominee while holding the job of acting defense secretary, said Arnold Punaro, a retired Marine general who has assisted in defense secretary confirmations, including Shanahan's. He said Shanahan did not face the Vacancies Act as deputy defense secretary because under a different law organizing the U.S. military, he was allowed to fill the acting Pentagon chief position under succession guidelines. Army officials did not respond to requests for comment Tuesday afternoon. Sen. James M. Inhofe (R-Okla.), chairman of the Senate Armed Services Committee, praised Esper, saying he had \"\"shown excellent judgment\"\" as Army secretary, but urged the rapid confirmation of a nominee. \"\"For the sake of our national security, we need a confirmed Secretary of Defense not just an acting and I hope we can get to that point as quickly as possible,\"\" he said in a statement. The top Democrat on the committee, Sen. Jack Reed (R.I.), said that Shanahan's departure means \"\"we'll have another acting secretary of defense as the White House continues to struggle to fill key positions.\"\" \"\"At a time when we face critical national security and budgetary challenges, it is imperative that we have a confirmed civilian leader atop the Pentagon who is accountable to the president, Congress and the American people,\"\" he said. The Army's No. 2 political appointee, Undersecretary Ryan D. McCarthy, previously was acting Army secretary until Esper took over and probably will step into that role again. missy.ryan@washpost.com dan.lamothe@washpost.com paul.sonne@washpost.com Josh Dawsey, Robert Costa and Lisa Rein contributed to this report.\"",
+        "word_count": 1465,
+        "publish_time": "2025-05-27T00:19:56Z",
+        "source": "TechCrunch",
+        "tags": [
+          "congress",
+          "news",
+          "technology",
+          "election",
+          "newspolitics",
+          "report",
+          "baseball",
+          "senate"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N17421",
+          "N20802"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "电影",
+          "明星",
+          "互联网",
+          "政治",
+          "商业"
+        ],
+        "engagement_score": 0.9
+      },
+      "interaction_data": {
+        "scroll_depth": 0.69,
+        "clicks_count": 5,
+        "shares_count": 1,
+        "comments_count": 1,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.05,
+        "topic_keywords": [
+          "congress",
+          "news",
+          "technology"
+        ],
+        "viral_potential": 0.95,
+        "trend_score": 0.37,
+        "recommendation_relevance": 0.51,
+        "content_quality": 0.0,
+        "user_profile_match": 0.4
+      }
+    },
+    {
+      "timestamp": "2019-06-18T06:08:05Z",
+      "user_id": "U212945",
+      "news_id": "N96151",
+      "action_type": "read",
+      "session_id": "session_0b232e29aae9",
+      "dwell_time": 1,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "video",
+        "topic": "animals",
+        "headline": "Cat loves to wash owner's hair",
+        "content": "When Liam Sheelan lies down on the couch in his home in Manchester, England, his cat can't resist creeping up on him and washing his hair by licking his head.",
+        "word_count": 30,
+        "publish_time": "2025-05-15T05:50:01Z",
+        "source": "ESPN",
+        "tags": [
+          "ai",
+          "animals",
+          "video"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N75407",
+          "N104248"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "时尚",
+          "旅行",
+          "经济",
+          "投资",
+          "足球",
+          "网球",
+          "保险",
+          "理财"
+        ],
+        "engagement_score": 0.49
+      },
+      "interaction_data": {
+        "scroll_depth": 0.58,
+        "clicks_count": 9,
+        "shares_count": 3,
+        "comments_count": 5,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.97,
+        "topic_keywords": [
+          "ai",
+          "animals",
+          "video"
+        ],
+        "viral_potential": 0.44,
+        "trend_score": 0.23,
+        "recommendation_relevance": 0.21,
+        "content_quality": 0.37,
+        "user_profile_match": 0.11
+      }
+    },
+    {
+      "timestamp": "2019-06-21T13:37:07Z",
+      "user_id": "U345533",
+      "news_id": "N62413",
+      "action_type": "like",
+      "session_id": "session_d51399666333",
+      "dwell_time": 61,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "travel",
+        "topic": "traveltips",
+        "headline": "How to Travel Safely While LBGTQ",
+        "content": "\"All over the globe, countries are celebrating Pride Month, but the LGBTQ community at large remains in peril. In April, the sultan of Brunei imposed a death penalty for gay sex (which he later rescinded after backlash ). Earlier this month, a lesbian couple in London was assaulted and robbed; one of the women posted a photo of their faces covered in blood on Facebook, which later made headlines. In the U.S., two gay men and a transgender woman were recently killed in a home in East Detroit; in a separate incident, a gay man was killed in Decatur, Georgia, representing an overall uptick in hate crimes directed at LGBTQ individuals, according to some activists. Traveling while queer often comes with a set of dangers, particularly in nations that continue to criminalize and discriminate against same-sex relationships or transgender or gender non-conforming individuals. \"\"Queer people have always been very reluctant to travel and to be out because they could be arrested, harassed or worse,\"\" Ed Salvato, founder of ManAboutWorld which provides travel guides and resources for LGBTQ individuals, said in an email. \"\"Even now in NYC there are parts of the city where I wouldn't walk hand-in-hand with my same-sex partner.\"\" Before going overseas, it's important to do your research, find queer-friendly accommodations, and have a basic understanding of local customs when visiting a country that may not recognize the rights of the LGBTQ community. Research your destination's LGBTQ policies When traveling internationally, research is key, particularly if you're visiting a place you haven't been to before; you should educate yourself on local social customs and LGBTQ policies at your destination. At least 69 countries still have laws that criminalize sex between two members of the same gender and at least six discriminate against transgender and gender non-conforming individuals, so it's important to have a basic understanding of the place you're headed. \"\"I always say do your due diligence,\"\" Jack Suwanlert, Director of Risk Management at Marriott International, told ManAboutWorld . \"\"If it's not the local culture to have public display of affection, then be discreet while in the country.\"\" Still, this shouldn't necessarily dissuade you from visiting a place, unless you're seriously at risk for something as simple as holding a partner's hand. The State Department's website has a brief list of travel recommendations and resources for LGBTQ people. The Human Rights Watch and Equaldex also have several maps on their websites which spell out the kinds of anti-LGBTQ laws that exist across the globe, which should give you a better sense of a country's progressiveness (or lack thereof). Of course, social media is helpful in your research, too; you can look up local LGBTQ organizations on Facebook and reach out for any recommendations. It's also important you know your rights while traveling, particularly for trans individuals; both the TSA and National Center for Transgender Equality provide travel and safety resources for transgender travelers. As CNN writes, you should have copies of any court name change certificates and any other legal documents while traveling; also, be sure your name and gender on reservations match the ID you're traveling with to avoid any problems at check-in, for example. If you're traveling with children, you should also be mindful of any of their documentation that might contain a different last name than your own. In an interview with Conde Nast Traveler , the State Department recommended that you have supporting legal documents to prove you are their parent, as some countries might scrutinize this. While traveling with any medication, it's important you research that nation's laws in advance to make sure your medicine won't be confiscated at the airport, too. Use LGBTQ organizations or those that support them As the New York Times writes, organizing trips through LGBTQ companies can better ensure your safety while traveling overseas. Using the International Gay & Lesbian Travel Association's website , you can find tours operated by LGBTQ or LGBTQ-friendly guides; you can also find a number of queer-friendly hotel accommodations and local events at your destination using their recommendations. Mister B&B is another useful resource in finding a place to stay for gay travelers (though options are generally more limited than you'd find on Airbnb). A quick look through some of Hotels.com or TripAdvisor's reviews can also give you a good sense of what to expect from some LGBTQ-friendly accommodations. You don't have to come out When you're traveling overseas, you are not obligated to come out regarding your sexual orientation or gender identity, especially if it endangers you. For this reason and to reiterate, researching your destination is important . You should gauge whatever social environments you're in and whether choosing to come out might result in harassment or violence. \"\"Most queer people have finely tuned antennae knowing when it's probably ok to express themselves and probably not,\"\" Ed Salvato said. \"\"Many brave people especially gender non-conforming people may have no choice but to go bravely about their business when traveling since they can't conveniently go back in the closet like a more gender-normative person could.\"\" If you do intend to come out while traveling, you should feel comfortable and not forced into it. If you don't have that option, it might be worth reconsidering your destination. Check on travel advisories There are some general safety precautions you should take before traveling abroad. For one, signing up for the Smart Traveler Enrollment Program will allow any family or friends to contact you in the event of an emergency and if you've become unreachable. You can also check the CDC's website to research any vaccinations you might need before a trip. (You could purchase traveler's health insurance and compare policies using InsureMyTrip in case you want to be protected in the event of an illness.) It might be helpful to check any travel advisorie s as recommended by the State Department, too; while there, you should select your destination's \"\"country information page\"\" and scroll down to \"\"Local Laws and Special Circumstances.\"\" Under this section, you'll often find information for LGBTQ travelers, so you can better guarantee your safety while going abroad. For more from Lifehacker, be sure to follow us on Instagram @lifehackerdotcom .\"",
+        "word_count": 1030,
+        "publish_time": "2025-06-08T02:32:00Z",
+        "source": "Associated Press",
+        "tags": [
+          "traveltips",
+          "research",
+          "travel",
+          "ai",
+          "health",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N120358",
+          "N79670"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "新闻",
+          "社会",
+          "股票",
+          "生活",
+          "健康",
+          "音乐",
+          "电影"
+        ],
+        "engagement_score": 0.54
+      },
+      "interaction_data": {
+        "scroll_depth": 0.37,
+        "clicks_count": 0,
+        "shares_count": 1,
+        "comments_count": 2,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.71,
+        "topic_keywords": [
+          "traveltips",
+          "research",
+          "travel"
+        ],
+        "viral_potential": 0.5,
+        "trend_score": 0.24,
+        "recommendation_relevance": 0.79,
+        "content_quality": 0.96,
+        "user_profile_match": 0.26
+      }
+    },
+    {
+      "timestamp": "2019-06-17T06:42:59Z",
+      "user_id": "U420796",
+      "news_id": "N25041",
+      "action_type": "read",
+      "session_id": "session_cfc7498c01e2",
+      "dwell_time": 608,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "foodanddrink",
+        "topic": "quickandeasy",
+        "headline": "Insanely Easy Skillet Dinners That'll Make You Forget All About Takeout",
+        "content": "\"Mad skillz. Easy clean-up plus quick cook times make one pan dinners a winner any night of the week. With these recipes, you can make your favorite pastas, shrimps, and chicken dishes in a single skillet. Want even more easy dinners? Try these fall-apart chicken slow-cooker ideas and easy one pot meals ! Chicken Fajitas You won't be able to resist that sizzle. Get the recipe from Delish . BUY NOW Delish Cookbook, booksamillion.com Garlicky Lemon Mahi Mahi Mahi Mahi was made for summer. Get the recipe from Delish Lemon Asparagus Chicken Pasta This pasta tastes like spring! Get the recipe from Delish . Balsamic Glazed Chicken So simple but SO good. Get the recipe from Delish . BUY NOW Delish Cookbook, booksamillion.com Cilantro-Lime Chicken We can't get enough of cilantro and lime. Get the recipe from Delish . Mongolian Beef Ramen Instant ramen noodles never tasted so good. Get the recipe from Delish . General Tso's Shrimp 'n Broccoli There's more to life than chicken. Get the recipe from Delish . Shrimp Alfredo Skip the Italian restaurant and make this instead. Get the recipe from Delish . BUY NOW Delish Cookbook, booksamillion.com Best Goulash You need this cheesy dish in your life. Get the recipe from Delish . Bruschetta Shrimp Pasta You're going to be making this satisfying shrimp pasta all summer long. Get the recipe from Delish . Beef & Broccoli Noodles If soy sauce wasn't addicting enough, we also added Sriracha. Get the recipe from Delish . Taco Skillet Tortillas, who? Get the recipe from Delish . Chicken Alfredo This is the easiest, creamiest chicken alfredo you will ever make. Get the recipe from Delish . BUY NOW Delish Cookbook, booksamillion.com Best-Ever Pepper Steak When you need to switch up beef and broccoli, here's your dish. Get the recipe from Delish . Crispy Balsamic Chicken Everything is crisp in the fall-chicken included. Get the recipe from Delish . BUY NOW Delish Cookbook, booksamillion.com Garlic Parm Chicken & Potatoes A creamy one pot dish that we are absolutely here for. Get the recipe from Delish . BUY NOW Delish Cookbook, booksamillion.com Ramen Noodle Skillet with Steak Love ramen? Start incorporating the noodles into a stir-fry with this easy weeknight dinner. Get the recipe from Delish . Greek Gyro Skillet Everything you love about gyros made in one easy skillet recipe. Get the recipe from Delish . BUY NOW Delish Cookbook, booksamillion.com Teriyaki Chicken This is so much faster and healthier than takeout. Get the recipe from Delish . Mongolian Meatball Ramen Turn that instant ramen into a real meal. Get the recipe from Delish . Garlicky Greek Chicken Garlic lovers, this chicken is for you. Get the recipe from Delish . Creamy Steak Fettuccine It's meant to be. Get the recipe from Delish . BUY NOW Delish Cookbook, booksamillion.com Fettuccine Alfredo A staple recipe that you should know like the back of your hand. Get the recipe from Delish . Apple Cider Glazed Chicken The perfect chicken recipe for fall. Get the recipe from Delish . Pad Thai Save the takeout guy a trip and make this instead. Get the recipe from Delish . BUY NOW Delish Cookbook, booksamillion.com Shrimp Fried Rice Takeout fried rice pales in comparison to this. Get the recipe from Delish . Thai Peanut Skillet Chicken Feel free to add in whatever veggies you have on hand! Get the recipe from Delish . Creamy Tuscan Sausage Pasta This quick and easy linguine recipe will become a new weeknight favorite. Get the recipe from Delish . Easy Chicken Parm The idiot-proof way to make chicken parm. Get the recipe from Delish . Skillet Chicken Pot Pie On repeat all winter. Get the recipe from Delish . Cilantro-Lime Shrimp Pasta The garlicky butter sauce is out-of-this-world. Get the recipe from Delish . BUY NOW Stainless Steel Skillet, $26, amazon.com Creamy Tuscan Chicken Bonus: Way cheaper than a trip to Italy. Get the recipe from Delish . BUY NOW Le Creuset Signature Iron Handle Skillet, $200, amazon.com Shrimp 'n Broccoli Lo Mein Takeout? This is better. Get the recipe from Delish . Shepherd's Pie The ultimate comfort dish. Get the recipe from Delish . BUY NOW Le Creuset Cast Iron Skillet, $200, amazon.com Five-Cheese Marinara The cheese limit does not exist. Get the recipe from Delish . Chicken Parm Meatball Skillet All the flavors you love in chicken Parm in a super-delicious, juicy meatball. Get the recipe from Delish . French Onion Chicken Unbelievably addicting. Get the recipe from Delish . BUY NOW Le Creuset Cast Iron Skillet, $170, amazon.com Skillet Chicken Piccata This one-pan lemony chicken is a total winner. Get the recipe from Delish . BUY NOW Le Creuset Cast-Iron 12\"\" Skillet, $200, amazon.com Cheesy Tex-Mex Cauli Rice Instant weeknight fav. Get the recipe from Delish . Caprese Chicken Pasta Go ca-prazay! Get the recipe from Delish . Bacon Shrimp Pasta This is all we're making from now until forever. Get the recipe from Delish . Sloppy Joe Tamale Pie A Tex-Mex take on sloppy joes. Get the recipe from Delish . Greek Chicken Pasta Our big fat Greek pasta. Get the recipe from Delish . Sesame-Ginger Beef This is the most flavorful a stir-fry could ever be. Get the recipe from Delish . Cajun Butter Pasta No further explanation needed. Get the recipe from Delish . BUY NOW Le Creuset Cast Iron Skillet, $200, amazon.com Tuscan Mac & Cheese All that's missing is a bottle of red. Get the recipe from Delish . Jalapeño Popper Chicken This chicken is POPPIN' OFF! Get the recipe from Delish . Chicken Cordon Bleu Skillet All the French, none of the fussiness. Get the recipe from Delish . BUY NOW Le Creuset Cast Iron Skillet, $170, amazon.com Caprese Chicken Tomatoes cooked in balsamic vinegar are the perfect sweet-tart compliment to this cheesy chicken. Get the recipe from Delish . Cajun Shrimp Take a trip to the South in the comfort of your own kitchen. Get the recipe from Delish . Spinach Pesto Penne with Shrimp and Peas Pesto nuts will love this fresh spring combo of spinach, basil, and sweet peas. Get the recipe from Delish . Mongolian Shrimp & Broccoli Shrimp it up. Get the recipe from Delish . Baked Chili and Biscuits When you want a hearty dinner but don't want to spend all night in the kitchen. Get the recipe from Delish . Crab Alfredo Red Lobster fans, you can thank us later. Get the recipe from Delish . Caprese Stuffed Chicken This is the most flavorful chicken ever. Get the recipe from Delish . Shrimp Boil Pasta This is how you have a shrimp boil in the winter. Get the recipe from Delish . Pizza Mac & Cheese Just when you thought you couldn't love pizza any more. Get the recipe from Delish . BUY NOW Kuhn Rikon Silicone Rainbow Whisk, $20, amazon.com Ramen Carbonara Give instant ramen noodles a very classy makeover. Get the recipe from Delish . Garlic Butter Shrimp Pasta This pasta is truly heaven sent. Get the recipe from Delish . Mongolian Beef & Broccoli The sauce in this Mongolian beef is fire. Get the recipe from Delish . BUY NOW Le Creuset Cast-Iron 9\"\" Skillet, $140, amazon.com Chicken Enchilada Quinoa Get on that quinoa train. Get the recipe from Delish . Skillet Biscuit Pot Pie Biscuits>puff pastry. Get the recipe from Delish . BUY NOW Silicone Oven Mitt, $12, amazon.com Sloppy Joe Mac and Cheese Bolognese was too high-brow for a busy weeknight. Get the recipe from Delish . Garlic Sriracha Pork Stir Fry When you want to zest it up, Sriracha is always the answer. Get the recipe from Delish . Tuscan Shrimp Penne Shrimp, spinach, tomatoes, garlic? Yes, this is the pasta of your dreams. Get the recipe from Delish . Caesar Angel Hair Pasta>>>>salad. Get the recipe from Delish . Cajun Rice Bake Zest it up. Get the recipe from Delish . BUY NOW Pepper Mill, $38, amazon.com Chicken Piccata Pasta You'll love the lemony butter sauce on this killer chicken pasta. Get the recipe from Delish . Santa Fe Skillet Chicken Tex-Mex at its finest: This skillet chicken is topped with melty cheddar and a delicious black bean-red onion mixture. Get the recipe from Delish . Spaghetti With Turkey Ragu Anything beef can do, turkey can do better. Get the recipe from Delish . BUY NOW Le Creuset Cast-Iron 12\"\" Skillet, $200, amazon.com Angel Hair Primavera Celebrate spring with one taste of this veggie-loaded pasta. Get the recipe from Delish . Chicken, Bacon, and Spinach Spaghetti We dare you to find someone who does not fall instantly in love with this spaghetti skillet. Get the recipe from Delish . Super-Creamy Three-Cheese Spaghetti If you're only using one kind of cheese, you're cheating yourself. Get the recipe from Delish . BUY NOW Le Creuset Pepper Mill, $38, amazon.com Skillet Pork Chops with Pineapple Salsa Topped with an insanely delish-and easy-pineapple salsa, these pork chops take on a fresh, tropical flavor. Get the recipe from Delish . Chicken and Rice with Broccoli Pesto Broccoli pesto is the easiest way to upgrade seared chicken thighs. Get the recipe from Delish .\"",
+        "word_count": 1533,
+        "publish_time": "2025-06-08T20:16:39Z",
+        "source": "The Guardian",
+        "tags": [
+          "foodanddrink",
+          "health",
+          "ai",
+          "quickandeasy"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N13818",
+          "N90693"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "经济",
+          "股票",
+          "国际",
+          "社会"
+        ],
+        "engagement_score": 0.4
+      },
+      "interaction_data": {
+        "scroll_depth": 0.37,
+        "clicks_count": 6,
+        "shares_count": 2,
+        "comments_count": 4,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.31,
+        "topic_keywords": [
+          "foodanddrink",
+          "health",
+          "ai"
+        ],
+        "viral_potential": 0.56,
+        "trend_score": 0.62,
+        "recommendation_relevance": 0.86,
+        "content_quality": 0.13,
+        "user_profile_match": 0.55
+      }
+    }
+  ],
+  "metadata": {
+    "source": "mobile_app",
+    "version": "1.0",
+    "processed_time": "2025-06-12T18:55:36.202601Z"
+  }
+}

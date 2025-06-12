@@ -1,0 +1,757 @@
+{
+  "batch_id": "batch_20250612_192823_e26f8ff5",
+  "events": [
+    {
+      "timestamp": "2019-07-02T15:50:10Z",
+      "user_id": "U288300",
+      "news_id": "N73870",
+      "action_type": "read",
+      "session_id": "session_bab1b3e1be1f",
+      "dwell_time": 8,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestyleroyals",
+        "headline": "Kate Middleton's Wimbledon Outfit Comes With Some Very Meaningful Accessories",
+        "content": "Kate Middleton used her appearance at day two of the Wimbledon Tennis Championships to make a statement with her outfit. Kate Middleton used her appearance at day two of the Wimbledon Tennis Championships to make a statement with her outfit . Yup, leave it to Kate the Great. She arrived at the All England Lawn Tennis and Croquet Club in a white button-front Suzannah dress that comes equipped with a matching belt. But that's where things get interesting. Kate added on her own black Alexander McQueen bow belt instead, which accented the details on her custom woven Alexander McQueen bag, her go-to Ray-Ban sunglasses, and, hey, that second bow that's pinned to her lapel. What's that about?! Kate is an official patron of Wimbledon , and dark green and purple are the traditional Wimbledon colors, so it makes sense that she'd attract attention to her badge of honor with her accessories. The duchess appeared enthusiastic, cheering and talking to those in the stands, revealing her gorgeous gold Catherine Zoraida fern hoop earrings every so often. Kate finished her meaningful ensemble with a pair of Gianvito Rossi Piper suede pumps . We know that, despite the quirky little add-ons here, you're probably still focused on picking up a similar modest midi for outdoor events this season - and we can't say we blame you. We've put in work and rounded up some lightweight styles that fit the bill; you've just got to admire Kate from all angles first. What, like it's hard? Kate Middleton Wearing a White Suzannah Dress at Wimbledon Shop White Dresses Like Kate Middleton's Something Navy Puff-Sleeve Dress (Nordstrom Exclusive) ($99) Paul & Joe JBiche Twill Dress Paul & Joe JBiche Twill Dress ($333, originally $475) Dolan Rigby Topstitch Detail Button-Front Midi Dress Dolan Rigby Topstitch Detail Button-Front Midi Dress ($218) AYR The Flat White Dress AYR The Flat White Dress ($225) Mango Embroidered Midi Dress Mango Embroidered Midi Dress ($40, originally $80) Mara Hoffman Pamela Dress Mara Hoffman Pamela Dress ($525) ASOS Design Petite Button Through Twist-Front Maxi Tea Dress in Seersucker ASOS Design Petite Button Through Twist-Front Maxi Tea Dress in Seersucker ($64) Reformation Clearwater Dress Reformation Clearwater Dress ($248)",
+        "word_count": 364,
+        "publish_time": "2025-05-23T12:08:21Z",
+        "source": "NBC News",
+        "tags": [
+          "tennis",
+          "exclusive",
+          "ai",
+          "lifestyleroyals",
+          "lifestyle"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N44141"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "股票",
+          "金融",
+          "银行",
+          "财经"
+        ],
+        "engagement_score": 0.43
+      },
+      "interaction_data": {
+        "scroll_depth": 0.12,
+        "clicks_count": 7,
+        "shares_count": 1,
+        "comments_count": 3,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.69,
+        "topic_keywords": [
+          "tennis",
+          "exclusive",
+          "ai"
+        ],
+        "viral_potential": 0.67,
+        "trend_score": 0.29,
+        "recommendation_relevance": 0.07,
+        "content_quality": 0.42,
+        "user_profile_match": 0.1
+      }
+    },
+    {
+      "timestamp": "2019-06-14T10:36:29Z",
+      "user_id": "U2582",
+      "news_id": "N58081",
+      "action_type": "read",
+      "session_id": "session_46ee26ac8337",
+      "dwell_time": 200,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "iOS",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "entertainment",
+        "topic": "entertainment-celebrity",
+        "headline": "The honeymoon is (literally) over for newlywed Jude Law, plus more news",
+        "content": "\"Kylie Jenner and Jordyn Woods could be on the road back to friendship, plus more celebrity news for June 13, 2019. Jude Law and Phillipa Coan say 'goodbye' to Italy as honeymoon comes to a close Aw, the honeymoon appears to be over for Jude Law and his new wife, Phillipa Coan -- the actual honeymoon, that is. The couple was spotted leaving Italy after enjoying time together on the beach and on the water in Sardinia, according to JustJared . The couple, who flew back to London on Monday, June 10, from the Province of Olbia-Tempio, Italy, got married in London in April. Their civil ceremony was reportedly held at civil ceremony at Old Marylebone Town Hall; Jude is said to have asked everyone to keep the whole thing top-secret. The actor, 46, and 32-year-old business psychologist, had been dating for four years before they tied the knot . Can Kylie Jenner and Jordyn Woods patch things up? When Kylie Jenner spotted her former best friend, Jordyn Woods at Bootsy Bellows over the weekend, she made an effort to approach her, say \"\"hello,\"\" smile and share a few moments of conversation. Whether that means the two can overcome the feud that erupted between Jordyn and Kyllie's family after they learned Jordyn had hooked up with Khloe Kardashian's then-boyfriend, Tristan Thompson, remains to be seen, though. A source tells ET : \"\"Kylie is open to having a relationship with Jordyn Woods again, but is cautious. She's in a tough place because Jordyn was Kylie's best friend and rock for a very long time, but Kylie is loyal to her sister, Khloe.\"\" The insider continued: \"\"Kylie was nice to Jordyn over the weekend and it brought back old feelings of the fun they use to have together. As of now the girls aren't hanging out and they aren't nearly as close as they once were, but both girls are hoping in the future they can be friends. Probably not as close as they once were, but figuring out what works for them.\"\" Jordyn admitted on \"\"Red table Talk\"\" that she and Tristan kissed but told host Jada Pinkett Smith she never slept with him and does not believe she's \"\"the reason that Tristan and Khloe are not together.\"\" Katherine Schwarzenegger shows off her new diamond wedding band Just a few days after she and Chris Pratt said \"\"I do\"\" in Montecito, Calif., Katherine Schwarzenegger stepped out for some shopping in the Venice section of Los Angeles on Wednesday, June 12, sporting her new pave wedding band, which Page Six notes is similar to the one on her engagement ring. Now that the wedding is behind her, the newly minted Mrs. Pratt is back to working on her new podcast, \"\"The Dog That Changed Me.\"\" In a May Instagram post, she described the show at a collection of \"\"interviews with some of my friends, all inspiring pet parents, where I will be talking with them about the importance of pet adoption and the positive impact dogs have on our lives.\"\" Ariana Grande pays tribute to Mac Miller in his hometown When Ariana Grande performed in Pittsburgh, Penn., on Wednesday, June 12, her heart was never too far from her late love , Mac Miller, who grew up there. JustJared reports that she played some of his most recognizable hits for the crowd before she began her show. Then, she opened with \"\"Raindrops (An Angel Cried),\"\" which most fans believe was written about her split from Mac. She reportedly got emotional during the tune. When she got to \"\"Thank U, Next,\"\" JustJared reports she stopped singing at the line about Mac. Instead, the crowd took over, singing the lyric, \"\"Wish I could say, 'Thank you' to Malcolm / 'Cause he was an angel.\"\" Mac died in September from mixed drug toxicity involving fentanyl, cocaine and alcohol. He was 26. Selena Gomez celebrates the 45th anniversary of Roe v. Wade with a charity necklace For the past three weeks, the newest post on Selena Gomez 's Instagram has been a large black and white text image that reads, \"\"STOP TELLING WOMEN WHAT TO DO WITH THEIR BODIES.\"\" Now, she's wearing a similar directive around her neck. Us Weekly reports that when Selena stopped by \"\"Live with Kelly and Ryan\"\" on Wednesday, June 12, that tiny gold necklace she was wearing had a not-so-tiny message behind it. The gold necklace reads, \"\"1973,\"\" the year Roe v. Wade legalized abortion in the United States, giving women the right to choose whether to carry a child to term. Artist Sophie Ratner created the piece, which also comes in a silver and a diamond studded version, in collaboration with Physicians for Reproductive Health. Thirty percent of each necklace sale goes to support the reproductive health group, according to Us. The pieces are relatively affordable, too -- the gold version Selena has on is $380, but the silver is just $115. The diamond version is $850. When Selena posted about women's right to choice, she accompanied her image with this caption : \"\"To see what is happening right now in Alabama, Georgia, Mississippi and several other states in our country is not only deeply upsetting but seems that it can't possibly be real in 2019. It's no one's business what a woman chooses to do with her body. End of story. If you want to help fight this, click on the link in my bio to find out how you can volunteer or make a donation.\"\" Ashley Benson moves in with Cara Delevingne: Report Cara Delevingne and Ashley Benson are reportedly taking the next step in their relationship. A source tells Us Weekly Ashley, 29, \"\"sold her house in Los Angeles\"\" and \"\"moved into Cara's place there.\"\" The pair were first linked romantically last April when they left Kylie Jenner 's birthday together, according to Us. It wasn't long after that before an insider confirmed they were \"\"dating\"\" to Us. \"\"This is the first girl she's ever dated,\"\" the source said of Ashley. \"\"This relationship with Cara is the first time she's been in a healthy relationship and she feels as if it's really easy with her.\"\" This past April, Cara was forced to defend her relationship on social media when critics blasted her for dating a woman. \"\"If you have a problem with true love then come and say this s--- to my face instead [of] pathetically hating through Instagram,\"\" the 26-year-old model posted. \"\"I genuinely feel sorry for you both, you are clearly not happy with your lives and have far too my time on your hands. Maybe get a hobby that doesn't involve being homophobic and hating others for being happy.\"\" Grassroots support builds for George Clooney to win Nobel Peace Prize There's now a growing list of supporters who want this to be the next winner of the Nobel Peace Prize -- and we're not talking about international human rights attorney, Amal Clooney , though there's probably a case to be made there, too, given her fight to hold members of ISIS accountable for reported acts of sexual violence against women in Syria and Iraq. According to The Hollywood Reporter , a campaign to award the esteemed prize to George Clooney has gotten underway courtesy of a petition tied to his op-ed pieces in support of the boycott against the Beverly Hills Hotel. Like other hotels in the Dorchester Collection group, the longtime industry favorite is owned by the Sultan of Brunei. (According to Wikipedia , the Sultan \"\"spearheaded\"\" the implementation of the Sharia law penal code, including death by stoning, severing of limbs and flogging for adultery, homosexual acts and abortions, among other \"\"crimes.\"\") The group campaigning for George's nomination is asking people to email postmaster@nobel.no asking to add George as a write-in candidate. \"\"We ask this be done in the name of personal freedom; free from brutal prosecution, free from discrimination of any sort; but most of all in the name of hope, as we very much feel that hope is a quality rather lacking in the world these days,\"\" Courtney Love says she saw Kurt Cobain as a ghost once In the new issue of Interview, Courtney Love sits down to answer 20 questions from a wide variety of musicians, actors, writers directors -- even a Kris Jenner. Among the highlights are her tale of watching the Motley Crue movie, \"\"The Dirt\"\" and \"\"groaning\"\" collectively with her girlfriends (\"\"'I was like when's Ozzy gonna snort the ant?' Then, within seconds, he snorted the ant\"\"); her reply to Debbie Harry's question about potential musical partners (\"\"I straddle it all babe ...,\"\" she says, noting that because Kanye West 's \"\"Yeezus-Jesus\"\" Sunday service is \"\"gospel, I have time for it\"\"); and what she tells Gwyneth Paltrow about the misperceptions around grief (\"\"you get over it when you get over it, which is probably never\"\"). The standout, though, may be the interesting -- if annoyingly detail-free -- response she gave to actor Joshua Boone when he asked if she's ever seen a ghost. \"\" When I moved to Hancock Park from Seattle with Frances and Edward [Norton], I saw Kurt in a chair for a moment,\"\" she says, \"\"... and he said hi to me and then he left.\"\" Jamie Lynn Sigler opens up about talking to her kids about MS Like Selma Blair, who's been diligently documenting her health ups and downs on social media, Jamie Lynn Sigler has multiple sclerosis. She's been living with the diagnosis and disease for more than a decade -- much longer than Selma, who just revealed her condition last year. And with two small children at home -- Jamie's eldest son Beau is 5, her youngest, Jack, is 16 months -- she's working through how to share what she's going through with the little ones. \"\"My oldest son is five and so he has awareness,\"\" she told Us Weekly on Wednesday, June 12. \"\"Only in the past year have I used the words MS to explain things. I think I just follow his lead, what he wants to know. Then I will tell him. I don't need to offer the information. … If he's inquiring about something, I'm happy to talk about it and don't force it on him. It doesn't need to be the topic all the time because it's only a small part of me. He's well aware of my abilities and disabilities and he knows no other mom, and so he has no judgment about that, which I ap...",
+        "word_count": 1754,
+        "publish_time": "2025-05-22T13:54:52Z",
+        "source": "Forbes",
+        "tags": [
+          "movie",
+          "entertainment-celebrity",
+          "entertainment",
+          "ai",
+          "news",
+          "health",
+          "report",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N67649"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "政治",
+          "美食",
+          "旅行"
+        ],
+        "engagement_score": 0.22
+      },
+      "interaction_data": {
+        "scroll_depth": 0.54,
+        "clicks_count": 9,
+        "shares_count": 0,
+        "comments_count": 3,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.23,
+        "topic_keywords": [
+          "movie",
+          "entertainment-celebrity",
+          "entertainment"
+        ],
+        "viral_potential": 0.16,
+        "trend_score": 0.31,
+        "recommendation_relevance": 0.64,
+        "content_quality": 0.31,
+        "user_profile_match": 0.44
+      }
+    },
+    {
+      "timestamp": "2019-06-14T06:43:14Z",
+      "user_id": "U92676",
+      "news_id": "N58081",
+      "action_type": "like",
+      "session_id": "session_1609aa272339",
+      "dwell_time": 30,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Windows",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "entertainment",
+        "topic": "entertainment-celebrity",
+        "headline": "The honeymoon is (literally) over for newlywed Jude Law, plus more news",
+        "content": "\"Kylie Jenner and Jordyn Woods could be on the road back to friendship, plus more celebrity news for June 13, 2019. Jude Law and Phillipa Coan say 'goodbye' to Italy as honeymoon comes to a close Aw, the honeymoon appears to be over for Jude Law and his new wife, Phillipa Coan -- the actual honeymoon, that is. The couple was spotted leaving Italy after enjoying time together on the beach and on the water in Sardinia, according to JustJared . The couple, who flew back to London on Monday, June 10, from the Province of Olbia-Tempio, Italy, got married in London in April. Their civil ceremony was reportedly held at civil ceremony at Old Marylebone Town Hall; Jude is said to have asked everyone to keep the whole thing top-secret. The actor, 46, and 32-year-old business psychologist, had been dating for four years before they tied the knot . Can Kylie Jenner and Jordyn Woods patch things up? When Kylie Jenner spotted her former best friend, Jordyn Woods at Bootsy Bellows over the weekend, she made an effort to approach her, say \"\"hello,\"\" smile and share a few moments of conversation. Whether that means the two can overcome the feud that erupted between Jordyn and Kyllie's family after they learned Jordyn had hooked up with Khloe Kardashian's then-boyfriend, Tristan Thompson, remains to be seen, though. A source tells ET : \"\"Kylie is open to having a relationship with Jordyn Woods again, but is cautious. She's in a tough place because Jordyn was Kylie's best friend and rock for a very long time, but Kylie is loyal to her sister, Khloe.\"\" The insider continued: \"\"Kylie was nice to Jordyn over the weekend and it brought back old feelings of the fun they use to have together. As of now the girls aren't hanging out and they aren't nearly as close as they once were, but both girls are hoping in the future they can be friends. Probably not as close as they once were, but figuring out what works for them.\"\" Jordyn admitted on \"\"Red table Talk\"\" that she and Tristan kissed but told host Jada Pinkett Smith she never slept with him and does not believe she's \"\"the reason that Tristan and Khloe are not together.\"\" Katherine Schwarzenegger shows off her new diamond wedding band Just a few days after she and Chris Pratt said \"\"I do\"\" in Montecito, Calif., Katherine Schwarzenegger stepped out for some shopping in the Venice section of Los Angeles on Wednesday, June 12, sporting her new pave wedding band, which Page Six notes is similar to the one on her engagement ring. Now that the wedding is behind her, the newly minted Mrs. Pratt is back to working on her new podcast, \"\"The Dog That Changed Me.\"\" In a May Instagram post, she described the show at a collection of \"\"interviews with some of my friends, all inspiring pet parents, where I will be talking with them about the importance of pet adoption and the positive impact dogs have on our lives.\"\" Ariana Grande pays tribute to Mac Miller in his hometown When Ariana Grande performed in Pittsburgh, Penn., on Wednesday, June 12, her heart was never too far from her late love , Mac Miller, who grew up there. JustJared reports that she played some of his most recognizable hits for the crowd before she began her show. Then, she opened with \"\"Raindrops (An Angel Cried),\"\" which most fans believe was written about her split from Mac. She reportedly got emotional during the tune. When she got to \"\"Thank U, Next,\"\" JustJared reports she stopped singing at the line about Mac. Instead, the crowd took over, singing the lyric, \"\"Wish I could say, 'Thank you' to Malcolm / 'Cause he was an angel.\"\" Mac died in September from mixed drug toxicity involving fentanyl, cocaine and alcohol. He was 26. Selena Gomez celebrates the 45th anniversary of Roe v. Wade with a charity necklace For the past three weeks, the newest post on Selena Gomez 's Instagram has been a large black and white text image that reads, \"\"STOP TELLING WOMEN WHAT TO DO WITH THEIR BODIES.\"\" Now, she's wearing a similar directive around her neck. Us Weekly reports that when Selena stopped by \"\"Live with Kelly and Ryan\"\" on Wednesday, June 12, that tiny gold necklace she was wearing had a not-so-tiny message behind it. The gold necklace reads, \"\"1973,\"\" the year Roe v. Wade legalized abortion in the United States, giving women the right to choose whether to carry a child to term. Artist Sophie Ratner created the piece, which also comes in a silver and a diamond studded version, in collaboration with Physicians for Reproductive Health. Thirty percent of each necklace sale goes to support the reproductive health group, according to Us. The pieces are relatively affordable, too -- the gold version Selena has on is $380, but the silver is just $115. The diamond version is $850. When Selena posted about women's right to choice, she accompanied her image with this caption : \"\"To see what is happening right now in Alabama, Georgia, Mississippi and several other states in our country is not only deeply upsetting but seems that it can't possibly be real in 2019. It's no one's business what a woman chooses to do with her body. End of story. If you want to help fight this, click on the link in my bio to find out how you can volunteer or make a donation.\"\" Ashley Benson moves in with Cara Delevingne: Report Cara Delevingne and Ashley Benson are reportedly taking the next step in their relationship. A source tells Us Weekly Ashley, 29, \"\"sold her house in Los Angeles\"\" and \"\"moved into Cara's place there.\"\" The pair were first linked romantically last April when they left Kylie Jenner 's birthday together, according to Us. It wasn't long after that before an insider confirmed they were \"\"dating\"\" to Us. \"\"This is the first girl she's ever dated,\"\" the source said of Ashley. \"\"This relationship with Cara is the first time she's been in a healthy relationship and she feels as if it's really easy with her.\"\" This past April, Cara was forced to defend her relationship on social media when critics blasted her for dating a woman. \"\"If you have a problem with true love then come and say this s--- to my face instead [of] pathetically hating through Instagram,\"\" the 26-year-old model posted. \"\"I genuinely feel sorry for you both, you are clearly not happy with your lives and have far too my time on your hands. Maybe get a hobby that doesn't involve being homophobic and hating others for being happy.\"\" Grassroots support builds for George Clooney to win Nobel Peace Prize There's now a growing list of supporters who want this to be the next winner of the Nobel Peace Prize -- and we're not talking about international human rights attorney, Amal Clooney , though there's probably a case to be made there, too, given her fight to hold members of ISIS accountable for reported acts of sexual violence against women in Syria and Iraq. According to The Hollywood Reporter , a campaign to award the esteemed prize to George Clooney has gotten underway courtesy of a petition tied to his op-ed pieces in support of the boycott against the Beverly Hills Hotel. Like other hotels in the Dorchester Collection group, the longtime industry favorite is owned by the Sultan of Brunei. (According to Wikipedia , the Sultan \"\"spearheaded\"\" the implementation of the Sharia law penal code, including death by stoning, severing of limbs and flogging for adultery, homosexual acts and abortions, among other \"\"crimes.\"\") The group campaigning for George's nomination is asking people to email postmaster@nobel.no asking to add George as a write-in candidate. \"\"We ask this be done in the name of personal freedom; free from brutal prosecution, free from discrimination of any sort; but most of all in the name of hope, as we very much feel that hope is a quality rather lacking in the world these days,\"\" Courtney Love says she saw Kurt Cobain as a ghost once In the new issue of Interview, Courtney Love sits down to answer 20 questions from a wide variety of musicians, actors, writers directors -- even a Kris Jenner. Among the highlights are her tale of watching the Motley Crue movie, \"\"The Dirt\"\" and \"\"groaning\"\" collectively with her girlfriends (\"\"'I was like when's Ozzy gonna snort the ant?' Then, within seconds, he snorted the ant\"\"); her reply to Debbie Harry's question about potential musical partners (\"\"I straddle it all babe ...,\"\" she says, noting that because Kanye West 's \"\"Yeezus-Jesus\"\" Sunday service is \"\"gospel, I have time for it\"\"); and what she tells Gwyneth Paltrow about the misperceptions around grief (\"\"you get over it when you get over it, which is probably never\"\"). The standout, though, may be the interesting -- if annoyingly detail-free -- response she gave to actor Joshua Boone when he asked if she's ever seen a ghost. \"\" When I moved to Hancock Park from Seattle with Frances and Edward [Norton], I saw Kurt in a chair for a moment,\"\" she says, \"\"... and he said hi to me and then he left.\"\" Jamie Lynn Sigler opens up about talking to her kids about MS Like Selma Blair, who's been diligently documenting her health ups and downs on social media, Jamie Lynn Sigler has multiple sclerosis. She's been living with the diagnosis and disease for more than a decade -- much longer than Selma, who just revealed her condition last year. And with two small children at home -- Jamie's eldest son Beau is 5, her youngest, Jack, is 16 months -- she's working through how to share what she's going through with the little ones. \"\"My oldest son is five and so he has awareness,\"\" she told Us Weekly on Wednesday, June 12. \"\"Only in the past year have I used the words MS to explain things. I think I just follow his lead, what he wants to know. Then I will tell him. I don't need to offer the information. … If he's inquiring about something, I'm happy to talk about it and don't force it on him. It doesn't need to be the topic all the time because it's only a small part of me. He's well aware of my abilities and disabilities and he knows no other mom, and so he has no judgment about that, which I ap...",
+        "word_count": 1754,
+        "publish_time": "2025-05-22T13:54:52Z",
+        "source": "Forbes",
+        "tags": [
+          "movie",
+          "entertainment-celebrity",
+          "entertainment",
+          "ai",
+          "news",
+          "health",
+          "report",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N123225",
+          "N11255"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "科技",
+          "美食",
+          "股票",
+          "金融"
+        ],
+        "engagement_score": 0.85
+      },
+      "interaction_data": {
+        "scroll_depth": 0.71,
+        "clicks_count": 0,
+        "shares_count": 3,
+        "comments_count": 2,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.95,
+        "topic_keywords": [
+          "movie",
+          "entertainment-celebrity",
+          "entertainment"
+        ],
+        "viral_potential": 0.68,
+        "trend_score": 0.19,
+        "recommendation_relevance": 0.52,
+        "content_quality": 0.0,
+        "user_profile_match": 0.03
+      }
+    },
+    {
+      "timestamp": "2019-06-14T18:44:48Z",
+      "user_id": "U193564",
+      "news_id": "N102644",
+      "action_type": "comment",
+      "session_id": "session_cc5b1163feb0",
+      "dwell_time": 31,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "iOS",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Inside the NRA's finances: Deepening debt, increased spending on legal fees and cuts to gun training",
+        "content": "\"The National Rifle Association spent growing sums on overhead in 2018 even as it cut money for core activities such as gun training and political efforts, ending the year deeper in debt, new financial documents show. The gun rights group's 2018 financial report, which was obtained by The Washington Post, portrays the longtime political powerhouse as spending faster than its revenue rose. The records show that the NRA froze its pension plan for employees at the end of last year, a move that saved it close to $13 million, and obtained a $28 million line of credit by borrowing against its Virginia headquarters. Despite that, the nonprofit group, four affiliated charities and its political committee together ended the year $10.8 million in the red. In 2017, the six groups ended the year with a $1.1 million shortfall. Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post Brian Mittendorf, an Ohio State University accounting professor who has studied nonprofits, including the NRA, and examined the 2018 report for The Post, said it depicted \"\"a bad year for them financially.\"\" He compared the NRA to a person living paycheck to paycheck, leaning on credit cards with very little cushion. \"\"They've never exhibited extreme financial conservatism,\"\" Mittendorf said. \"\"They've largely spent what they could.\"\" NRA spokesman Andrew Arulanandam declined to address the group's financial trends but said the annual report shows the organization making \"\"financial and administrative decisions that work in the best interests of its members.\"\" \"\"In the last three years, the NRA has raised more than a billion dollars, played an important role in getting President Trump elected and continued to successfully defend the freedoms of gun owners everywhere,\"\" he said. \"\"That is the true measure of the organization.\"\" In a letter in May to NRA members, a group of board members and past presidents said the organization is on budget for 2019. \"\"Our financial house is in order,\"\" they wrote. The new details about the NRA's finances come as the 2020 White House race gets underway; the organization is expected to be a key ally once again for Trump. But the group is also facing pressure on multiple fronts. The New York attorney general is investigating the NRA's tax- exempt status amid recent revelations of lavish spending by chief executive Wayne LaPierre and top vendors. Among the expenditures were nearly $275,000 in personal charges at a Beverly Hills men's store and more than $253,000 in luxury travel to locations such as Italy, Budapest and the Bahamas. NRA officials have said the expenses were made over a long period of time and were necessary for LaPierre's fundraising and public appearances. The Post reported this week that money also flowed to 18 members of the group's 76-member board of directors, which is tasked with overseeing the NRA's finances. The allegations have infuriated many longtime NRA members, who are demanding transparency about how their dues are being spent. Amid last year's financial crunch, the organization cut funds for gun training, a key purpose spelled out in the NRA charter. Spending for educating gun owners about safety and marksmanship dropped by nearly a quarter from 2017 to 2018, from $42.6 million to $32.7 million. The group also pulled back from politics, spending just $9.4 million during the 2018 midterm elections, down from $27 million in the 2014 midterms, according to campaign finance filings compiled by the nonpartisan Center for Responsive Politics. At the same time, the NRA's spending last year on legal fees, travel, entertainment and office supplies rose making up about 12 percent of the budget. The group and its associated entities reported spending roughly $8.7 million in 2017 and $10.1 million in 2018 on travel and entertainment. They spent nearly $69 million on fundraising, up from $55 million in 2017. Professor Howard E. Abrams, a tax expert at Harvard Law School, said the NRA's spending on overhead was \"\"extraordinarily high.\"\" \"\"It is surprising that an organization as well-known as the NRA would have to spend that much on administrative and fundraising costs,\"\" he said. \"\"That is money that isn't going to legislative programs, safety and training programs, and other core activities. It is sort of a cost of running the business. But it is a big cost.\"\" Steve Hoback, an NRA life member who used to work in safety and training at the organization's Virginia headquarters, said he was angry that the group cut back on what is supposed to be its central service to members: gun safety and training. \"\"For administrative costs to go up at the same time that one of the core missions of the NRA is going down, that has me incensed,\"\" he said. \"\"I'm livid at that.\"\" In 2018, the organization benefited from an increase in money from its members. The NRA recorded $170 million in dues last year, up from $128 million the prior year, according to the 2018 annual report, which was prepared by the NRA's outside auditors. The report noted that the NRA recorded as revenue some memberships before they were collected. Overall, the spending of the NRA and its associated groups outpaced revenue. In 2018, the NRA and its affiliates brought in $412 million and spent $423 million. In 2017, they had revenue of $378 million and spent $379 million. The annual report, together with state filings, shows that the NRA has run a deficit for the past three years. Despite spending more than it took in, Abrams and other tax law experts noted, the NRA has reserves: It reported nearly $145 million in total net assets. From 2017 to 2018, legal and audit spending jumped from $12.9 million to $33.5 million. Legal expenses for administrative purposes rose nearly 400 percent, accounting for the largest increase, from $4.6 million to $21.9 million, the records show. The rise in legal fees came as the NRA was contending with congressional inquiries into its ties with Russia, as well as various state investigations. The NRA's spending on legal fees has been questioned by board member Oliver North, who detailed his concerns in a memo this spring in which he said \"\"extraordinary\"\" legal expenses paid to the group's outside lawyers, the Brewer law firm, were \"\"draining NRA cash at mind- boggling speed.\"\" North was ousted from his post as president of the board in April after LaPierre accused him of attempting to extort him and the organization. His attorneys have declined to comment. Arulanandam said the NRA's legal expenses have increased \"\"as the NRA defends the interests of its members against attacks like those orchestrated by New York Governor Andrew Cuomo and Michael Bloomberg,\"\" a major backer of gun-control efforts. \"\"Our members expect the NRA to stand and fight when it comes to advocating for their constitutional rights,\"\" he added. \"\"They certainly don't expect us to back down and bank their membership dues.\"\" A spokesman for the Brewer law firm declined to comment. The annual report obtained by The Post was made available to board members at the NRA's annual convention in the final week of April, according to people familiar with its distribution. Details in the report were first reported by the Washington Free Beacon. The report was prepared by the NRA's longtime independent auditor, RSM, which submitted a letter to the board describing the financial statement on March 13, according to the document. The detailed financial statement combines the yearly expenses and revenue of the NRA, which is set up as a nonprofit social welfare organization; its PAC, the NRA Political Victory Fund; and four affiliated charitable groups: the Special Contribution Fund, the Civil Rights Defense Fund, the NRA Foundation and the NRA Freedom Action Foundation. The consolidated statements in the 2018 annual report mask some of the challenges facing the main group, Mittendorf said. For example, in 2017, the six groups together had $6.5 million in unrestricted net assets to use as they chose while the NRA alone had a $31.8 million deficit in that category, according to the annual report and tax filings. The NRA has borrowed against its Fairfax headquarters, which has an assessed value of $40.4 million, the report and public filings show. As of December, the NRA owed $25.4 million on the line of credit it negotiated in September and is paying interest of 3 percent, according to the annual report. That debt must be repaid in 2021. The NRA also owes $17 million on a 2017 credit agreement that comes due in October of this year. Tax experts said nonprofits' revenue often fluctuates year to year, particularly if they are affected by the election cycle. But most organizations that have high volatility in their revenue have cover for the off-years, Mittendorf said. \"\"The NRA doesn't have that cushion, and we're seeing the consequences,\"\" he said. carol.leonnig@washpost.com katie.zezima@washpost.com tom.hamburger@washpost.com Alice Crites contributed to this report.\"",
+        "word_count": 1470,
+        "publish_time": "2025-06-08T08:57:12Z",
+        "source": "CNN",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "election",
+          "report",
+          "newsus",
+          "politics",
+          "business"
+        ],
+        "entities": {
+          "persons": [
+            "{",
+            "NRA's",
+            ": 'National Rifle Association', 'debt': 'Debt', 'legal': 'Law'}"
+          ],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N27093",
+          "N24612"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "经济",
+          "股票",
+          "互联网",
+          "手机"
+        ],
+        "engagement_score": 0.71
+      },
+      "interaction_data": {
+        "scroll_depth": 0.23,
+        "clicks_count": 4,
+        "shares_count": 2,
+        "comments_count": 3,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.25,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.92,
+        "trend_score": 0.57,
+        "recommendation_relevance": 0.34,
+        "content_quality": 0.82,
+        "user_profile_match": 0.49
+      }
+    },
+    {
+      "timestamp": "2019-06-24T13:08:26Z",
+      "user_id": "U10003",
+      "news_id": "N47934",
+      "action_type": "share",
+      "session_id": "session_a95d6810a462",
+      "dwell_time": 55,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestylesmartliving",
+        "headline": "15 Things You Should Never Do When You Get Pulled Over",
+        "content": "\"We're laying down the law and exposing the things you should never do when getting pulled over by the police. For your sake, we hope you take our advice. 15 Things You Should Never Do When You Get Pulled Over Every year, roughly 20 million drivers are pulled over by law enforcement officials in America, according to Stanford University's Open Policing Project . That's around 10 percent of Americans with valid driver's licenses so it's not crazy to think that you could experience a run-in with the law the next time you hit the open road . And really, is there anything worse than hearing that siren and seeing those red, white, and blue lights in your rearview mirror? Luckily, we have some tips to ensure that any potential interaction with the police goes as smoothly as possible. Within, we lay down the law and expose the worst things to do when you get pulled over. 1. Don't panic. When you see those lights start to flash behind you, Farid Yaghoubtil, Esq., a partner at Downtown L.A. Law Group , says it's best to remain calm and avoid panicking. \"\"Generally officers are on high alert after pulling you over. You should always remain calm and comply to avoid any issues,\"\" he says. Remember: The police officer is merely doing their job by enforcing the law, and panicking is only going to make the situation that much more tense. 2. Don't remove your seatbelt. Until the police officer can clearly see what you're doing, do not take off your seatbelt. Though it might be a force of habit when stopping your vehicle, removing your seatbelt before the police officer comes to speak with you could give them a reason to assume that you were never wearing one in the first place, forcing them to issue a ticket for that violation as well. And for ways to ensure your safety behind the wheel, This Is the Safest Seat in Your Car . 3. Don't speak unless spoken to. According to former civil litigator Clinton M. Sandvick , you should always wait to speak until the police officer tells you why they pulled you over. \"\"Let the officer approach the car and let them take the lead,\"\" he says. Being the first to speak in this situation just makes it appear as though you're guilty or are attempting to be combative two things that could spell trouble for you in the long-run. 4. Don't argue. Even if you disagree with your alleged violation, being obedient will make the whole ordeal go far more smoothly, says Thomas J. Simeone , managing partner at Simeone & Miller, LLP in Washington, D.C. \"\"Do not lose your temper because the officer will record that in his or her notes. Then, when you go to court and try to reach a plea deal for a lesser sentence, the prosecutor or judge will ask the officer for their recollection of when you were pulled over,\"\" Simeone explains. \"\"If the officer reports that you were hostile or said inappropriate things, the judge or prosecutor will be less likely to offer or approve a lesser plea.\"\" (And hey, who knows? A kind and upbeat demeanor may even get you out of the ticket in the first place!) 5. Don't reach for your license before telling the officer what you're doing. To a police officer approaching a vehicle, sudden hand movements can be perceived as a possible threat. That means reaching for items before you're prompted to do so even if it's just your license and registration is a potentially life-threatening move, says Fred Brewington of The Law Offices of Frederick K. Brewington in Hempstead, New York. \"\"If you reach for a wallet, etc., tell the officer what you are doing first,\"\" Brewington says. \"\"Roll your car window down only several inches, enough to pass your license and insurance card to the officer.\"\" And for more ways to get on the good side of law enforcement, check out these 15 Police-Approved Excuses for Speeding . 6. Don't move your hands out of sight. Generally, Simeone strongly suggests keeping your hands where the officer can see them. \"\"Police officers are often nervous when they approach a car they do not know the intentions of the occupants or whether they have any weapons,\"\" he explains. \"\"So, keep your hands on the steering wheel or otherwise in sight.\"\" 7. Don't admit guilt. When the officer asks if you know why you've been pulled over, your only answer should be \"\"no,\"\" according to Simeone. Believe it or not, even an innocent response like, \"\"Was I speeding?\"\" can get you into quite a bit of hot water. \"\"When they ask you, 'Do you know why I pulled you over?' their goal is for you to admit that you were speeding or doing something else illegal,\"\" explains Simeone. \"\"Then, they record the question and your answer and you have basically admitted fault.\"\" 8. Don't leave your car. \"\"One thing you should absolutely never do is to get out of your car and approach the officer,\"\" says Justin Lovely of The Lovely Law Firm in Myrtle Beach, South Carolina. \"\"While this may seem innocent enough, remember that an officer has no idea what he is walking upon when he or she initiates a traffic stop.\"\" The reason why an officer takes a bit to approach your car is because they are \"\"running the tag of the stopped vehicle,\"\" Lovely adds. \"\"A person can sometimes become impatient and get out of his car and approach the officer's vehicle. Do not do this. This could be perceived as a threat by the officer.\"\" And for more ways to stay safe, here are 27 Amazing Personal Safety Tips That Will Change Your Life . 9. Don't resist. As Brewington points out, disobeying a police officer's instructions will only make him or her more likely to write you a ticket or use force to ensure that you aren't putting their lives in danger. \"\"Don't resist. You could get arrested, beaten, or worse,\"\" Brewington says. \"\"You are far better off fighting for your rights in court.\"\" 10. Don't pull over in a potentially dangerous spot. Though it's rare, police officer impersonations do happen so taking extra steps to ensure your own safety is incredibly important. According to Gainesville, Florida, law firm Meldon Law , you can protect yourself by only pulling over in a well-lit or populous areas. No police officer will fault you for wanting to ensure your own safety on the side of the road. If a stretch of road feels especially unsafe, you can request for the police officer to take you to the nearest police station. If the police officer appears in plainclothes or something just doesn't feel right, you can also always ask to see their badge or some form of identification that clearly displays that they are an active officer. 11. Don't encroach on an officer's personal space. Though you may see it as a friendly action, when you touch a police officer or encroach on their personal space, they are likely to either become suspicious of your actions or label you as an immediate threat, notes the New York Civil Liberties Union (NYCLU). 12. Don't do anything before understanding your rights. When you are pulled over by the police, there are certain rights you have as a driver and passenger to keep in mind before uttering a single word. According to the ACLU, both drivers and passengers retain the right to remain silent during traffic stops. Additionally, if you're a passenger at a traffic stop, you have the right to ask the police officer if you may leave. Additionally, as Brewington explains, you do not have to consent to a search of your car or property by the police during a traffic stop. \"\"Never agree to a search of your car,\"\" he says. \"\"If an officer has to ask to search the car, search your belongings, or pat you down, then you are not being detained or arrested. Always say politely but firmly, 'I do not consent to this search.' Don't just nod or shake your head. You don't have to explain why you refuse a search. Just say, 'I don't want to be searched,' or, 'I don't consent to any form of search.'\"\" 13. Don't refuse to sign a traffic ticket. If the police officer does decide to write you a traffic ticket, you may be required to sign it on the spot. Rest assured, though, that signing your traffic ticket is not an admission of guilt, according to Hochman & Goldin, P.A. , a Miami-based law firm. By signing the ticket, you're simply acknowledging that you've received the ticket, therefore making it impossible to argue to the court that you never had it in your possession. And at the end of the day, not signing the ticket at the traffic stop could get you in more trouble, seeing as a police officer could choose to arrest you for your refusal. 14. Don't get distracted. Listen carefully to what the officer is saying and doing during the traffic stop. Try to memorize or jot down the officer's name or badge number, along with any information that they disclose about your case. 15. Don't try to outrun the police. Though this piece of advice should exist in the realm of common sense, attempting to outrun the police poses extreme dangers to yourself, the officers, and anyone on the road. Plus, once you're inevitably caught at the end of your pursuit, you could find yourself facing even more serious charges. \"\"Do not drive off or attempt to avoid being pulled over,\"\" says Falen O. Cox of Cox, Rodman, & Middleton, LLC in Georgia. \"\"An officer may have already provided your tag number to dispatch before he or she pulls you over. If so, the police have much of the information necessary to identify you (or at least the person who the car is registered to).\"\" Cox adds that \"\"driving off or eluding police can very well lead to a pursuit, which can be life-threatening for the driver, passengers, the police, and anyone else who happens to be on the road.\"\" And for more ways to remain safe on the road, This Is the Safest Way to Change a Flat Tire .\"",
+        "word_count": 1723,
+        "publish_time": "2025-06-10T04:56:34Z",
+        "source": "Bloomberg",
+        "tags": [
+          "lifestylesmartliving",
+          "lifestyle",
+          "ai",
+          "report"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N49515",
+          "N103951"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "社会",
+          "新闻",
+          "娱乐",
+          "奥运会",
+          "手机",
+          "互联网"
+        ],
+        "engagement_score": 0.95
+      },
+      "interaction_data": {
+        "scroll_depth": 0.6,
+        "clicks_count": 2,
+        "shares_count": 0,
+        "comments_count": 4,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.17,
+        "topic_keywords": [
+          "lifestylesmartliving",
+          "lifestyle",
+          "ai"
+        ],
+        "viral_potential": 0.93,
+        "trend_score": 0.4,
+        "recommendation_relevance": 0.32,
+        "content_quality": 0.68,
+        "user_profile_match": 0.42
+      }
+    },
+    {
+      "timestamp": "2019-06-22T08:10:09Z",
+      "user_id": "U101398",
+      "news_id": "N122803",
+      "action_type": "comment",
+      "session_id": "session_572a0095ff78",
+      "dwell_time": 367,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "finance-savemoney",
+        "headline": "10 things everyone should own that cost less than $100",
+        "content": "\"1 10 things everyone should own that cost less than $100 It's important to save money , of course. But you also need to know when to plunk down some cash to get the proper gadget that will do what you need it to. It's undeniable that the right tool for the job can make life so much easier . Whether you're looking for a gift for a friend or loved one, or you just feel that your own life could use a bit more convenience, here are 10 items everyone should own that cost less than $100. 1. A good pillow Don't underestimate the power of a good night's sleep. Research shows that being well-rested will help you concentrate better during the day, improve your mood, reduce chronic pain and even boost your sex life. If you're waking up with neck, back, or shoulder pain, or if you find that your eyes are itchy or your nose is stuffy in the morning, your pillow may be to blame. Depending on whether you sleep on your front, back or side, your pillow needs to support your head and respond to your neck position properly. You may even be allergic to your pillow's stuffing material and not realize it. Spending less than $100 on a high quality, hypo-allergenic pillow that supports your head and neck properly can help you achieve a deeper, more restful sleep. Given that you spend a third of your life in bed, upgrading to a good pillow can literally change your life. 2. A 6-inch chef's knife Never underestimate the power of using the right tool in the kitchen. Easily avoid slipping, chipping, and accidentally adding your fingers to a meal by using a high-quality chef's knife. The sky is practically the limit on how much you can spend on a chef's knife (Germany's Nesmuk made one that retailed for about $96,000!), but you can pay under $100 for a great blade from a brand such as Wustof, Henckels or Shun that will last a lifetime with proper care. A high-quality knife will pay for itself many times over in time and effort saved in the kitchen. Shop for your knife using a cash-back credit card and get an even better value. 3. A garment steamer It's smart to look neat and wrinkle-free for work, important dinners, dates and most other places that aren't your sofa on a Sunday morning. Still, ironing can be hard on your clothes, and there's a learning curve if you want to avoid adding creases. Save your clothes and your sanity by investing in a garment steamer. Plenty of models on the market cost less than $100 and store compactly and conveniently in even the smallest of closets. In a minute or two, you can steam wrinkles out of shirts, jackets, dresses and pants. A garment steamer can save you a fortune on dry-cleaning fees. 4. A slow cooker The simplest slow cooker you can get for less than $100 will be a miracle worker in the kitchen. Just chop veggies and meat (or buy everything precut), toss the ingredients in the cooker, and turn it on \"\"low.\"\" When you come home from work, dinner is served! Whether you're cooking for just for yourself or for a whole family, a slow cooker does the job right, with far less effort than cooking from scratch after work. Buying the raw ingredients for a hearty soup, stew or homemade, grandma-approved pasta sauce will save you a lot of money versus buying takeout for dinner, and the meals will be much healthier, too. 5. A cast-iron skillet It's rare that something costing less than $100 can last generations. But cast-iron skillets are so tough that, with proper care, your grandkids might inherit yours one day. With a little practice, this amazing pan will become your favorite tool in the kitchen. A cast-iron skillet makes it easy to cook up your favorite meals, from perfect steaks to succulent pork chops, from amazing frittatas to legendary casseroles. Often, you start out cooking on the stove, then toss the skillet in the oven to finish the process. Cast-iron skillets heat evenly and can handle all the varying temperatures you need to create restaurant-worthy meals at home for a third of the price. 6. A small safe As the years go by, we all accumulate more and more important documents, media and precious items like jewelry. If these papers or objects are lost, stolen or damaged, it can be a real pain trying to replace them or claim the insurance money . Keep these most important items in a small fireproof and waterproof safe, in case anything ever happens to your home. For less than $100, you can get a safe with an electronic lock, or you might want to opt for a key or combination lock, so you won't have to worry about changing batteries. A small safe can be an essential item for just about anyone, but that's especially true if you live in an area that's more prone to crime or natural disasters. 7. A HEPA air purifier You might not realize that a HEPA (high-efficiency particulate air) purifier can cost under $100 or that you need one. They're priced as low as $70. If you find yourself having an inexplicably stuffy nose, scratchy eyes or regular headaches at home or the office, there's a good chance the air quality is to blame. HEPA purifiers can clear the air of dust mites, allergens, chemicals from cleaning products, and pet odors and other unpleasant smells to help you breathe easier. A HEPA purifier can seriously improve your quality of life at home, especially if you or your kids have asthma or other respiratory sensitivities. You'll also be likely to notice far less dust settling on your electronics and shelves. 8. An instant-read thermometer An instant-read thermometer is another essential kitchen tool that's often overlooked. For as little as $10, this little gadget can quickly show whether you've reached the correct cooking temperature. That can make all the difference when you're trying to whip up the perfect steak, roast chicken, baked goods, candy and even that bird for Turkey Day. If you spend any time in your kitchen, you need an instant-read thermometer. Want more MoneyWise? Sign up for our newsletter. 9. A rechargeable battery backup Your car battery can die unexpectedly for several reasons. Maybe the lights were left on and the battery drained, or maybe the battery is old and weak. It also can happen if your car is hit with extreme temperatures, or if there are issues with the charging system. In short, at some point you're very likely to find yourself stuck in a parking lot with a car that won't start. If you have really bad luck, it'll happen in the middle of a snowstorm. This is why it's essential to own a lithium-ion rechargeable battery pack that can jump-start a car. It won't help with every kind of car trouble . But for about $30 to $50, you can have peace of mind that no matter where your battery decides to stop, you can get it going quickly. 10. A countertop convection oven For under $100, this magical gadget toasts and bakes meals fast, using a fraction of the energy of a regular-sized oven. Because these ovens are small, they reach the desired temperature more quickly, too. Countertop convection ovens are perfect for heating up a one-person meal, a snack, a quick breakfast, or baking anything that will fit inside. Overall, this is a fantastic and super-convenient kitchen component that will make fast-food stops a thing of the past.\"",
+        "word_count": 1277,
+        "publish_time": "2025-05-14T02:47:09Z",
+        "source": "New York Times",
+        "tags": [
+          "research",
+          "market",
+          "ai",
+          "news",
+          "health",
+          "finance-savemoney",
+          "finance"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N41392",
+          "N98516"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "足球",
+          "体育",
+          "音乐",
+          "生活",
+          "商业",
+          "股票"
+        ],
+        "engagement_score": 0.83
+      },
+      "interaction_data": {
+        "scroll_depth": 0.49,
+        "clicks_count": 5,
+        "shares_count": 1,
+        "comments_count": 2,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.75,
+        "topic_keywords": [
+          "research",
+          "market",
+          "ai"
+        ],
+        "viral_potential": 0.32,
+        "trend_score": 0.27,
+        "recommendation_relevance": 0.55,
+        "content_quality": 0.49,
+        "user_profile_match": 0.39
+      }
+    },
+    {
+      "timestamp": "2019-06-21T14:21:53Z",
+      "user_id": "U46343",
+      "news_id": "N98516",
+      "action_type": "skip",
+      "session_id": "session_aadfec1d248e",
+      "dwell_time": 280,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Android",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "George Conway renews attacks on Trump, calls on president to resign",
+        "content": "\"White House counselor Kellyanne Conway's husband unleashed another attack on President Trump on Friday, blasting his \"\"incompetence\"\" and calling on him to resign after, at the last minute, he backed away from strikes on Iran . \"\"Resign. If you didn't know this until it was almost too late, you're even more of an idiot than people think you are,\"\" Conway tweeted. \"\"Do the country and the world a favor. Go back to real estate, where the worst you can do is kill banks.\"\" The barrage came after Trump had just explained his decision to call off retaliation against Iran, saying that he reneged after learning how many people would die. GEORGE CONWAY CALLS TRUMP A CANCER THAT NEEDS TO BE REMOVED IN BLISTERING OP-ED TRUMP GOES NUCLEAR ON KELLYANNE SPOUSE GEORGE CONWAY: 'HUSBAND FROM HELL!' Conway seemed flabbergasted that Trump didn't receive a casualty assessment earlier in the planning process, saying that it was unclear if he did because Trump \"\"lies about everything.\"\" Related video by FOX News \"\"Incompetent and misleading that's our president in a nutshell,\"\" he said in another tweet. At one point, Conway seemed to express remorse for initially supporting the president. \"\"I didn't realize how incompetent and ill he was. I couldn't have dreamed he was this bad. He's actually worse than many of his critics said he would be.\"\" GEORGE CONWAY HITS BACK AT SARAH SANDERS AFTER MUELLER REPORT FINDINGS RELEASED Conway has been an outspoken critic of the president during his term especially at the beginning of 2019 despite the fact that his wife works in the White House and managed Trump's 2016 campaign. In March, Trump hit back at Conway, describing him as \"\"VERY jealous of his wife's success.\"\" \"\"George Conway, often referred to as Mr. Kellyanne Conway by those who know him, is VERY jealous of his wife's success & angry that I, with her help, didn't give him the job he so desperately wanted. I barely know him but just take a look, a stone cold LOSER & husband from hell!\"\" Trump tweeted at the time. CLICK HERE TO GET THE FOX NEWS APP Around that time, Conway accused Trump of \"\"brazen, pathological mendacity\"\" and called one of his speeches \"\"incoherent.\"\" He continued attacking Trump in June when the president suggested that he received positive press coverage. When Trump tweeted his claim about positive coverage, Conway responded with a long list of negative articles about him.\"",
+        "word_count": 405,
+        "publish_time": "2025-06-01T22:04:04Z",
+        "source": "USA Today",
+        "tags": [
+          "ai",
+          "news",
+          "report",
+          "newspolitics"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N41392",
+          "N87253"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "生活",
+          "时尚",
+          "AI"
+        ],
+        "engagement_score": 0.91
+      },
+      "interaction_data": {
+        "scroll_depth": 0.41,
+        "clicks_count": 9,
+        "shares_count": 0,
+        "comments_count": 5,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.23,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "report"
+        ],
+        "viral_potential": 0.91,
+        "trend_score": 0.77,
+        "recommendation_relevance": 0.59,
+        "content_quality": 0.08,
+        "user_profile_match": 0.93
+      }
+    },
+    {
+      "timestamp": "2019-06-26T08:38:49Z",
+      "user_id": "U335396",
+      "news_id": "N95365",
+      "action_type": "skip",
+      "session_id": "session_628024de95e0",
+      "dwell_time": 113,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shanghai",
+        "city": "Shanghai"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "House Passes $4.5 Billion Border Package, Faces Tough Negotiations With Senate",
+        "content": "\"Video by ABC News The Democratic-led House passed a $4.5 billion supplemental bill for humanitarian aid and border operations, setting up tough negotiations with the Senate as lawmakers race against the clock before the holiday recess. In a nearly party-line 230-195 vote, the House approved the supplemental border package to handle a surge in Central American migrants crossing at the southern border and improve the harsh, unsanitary conditions for children held in detention centers. The passage is a victory for House Speaker Nancy Pelosi of California, who faced fierce pushback from liberal and Hispanic lawmakers that the legislation needed to include stronger protections for detained migrant children. In light of those concerns, Democratic leaders made revisions to the bill and spent two days negotiating with them to unite the caucus. \"\"The president would love for this bill to go down today. A vote against this bill is a vote for Donald Trump and his inhumane, outside-the-circle-of-civilized attitude toward the children,\"\" Pelosi said Tuesday. President Donald Trump has threatened to veto the House bill. The only Democrats who opposed the legislation were freshman progressive Reps. Alexandria Ocasio-Cortez of New York, Ilhan Omar of Minnesota, Rashida Tlaib of Michigan and Ayanna Pressley of Massachusetts. And only three Republicans joined Democrats in supporting the bill: Reps. Will Hurd of Texas, Chris Smith of New Jersey and Brian Fitzpatrick of Pennsylvania. The revised House bill strengthens protections for unaccompanied children in the custody of U.S. Customs and Border Protection, setting certain standards for meeting water, hygiene, nutrition and sanitation needs. The bill addresses training for personnel who interact with the children as well as access to translation services. The legislation also reduces the amount of time migrant children can stay at arrival shelters to 90 days unless Congress is notified that they can't be transferred to a state-licensed facility due to lack of space. Lawmakers are seeking to move fast before they head out of town on Thursday night for the weeklong July 4 recess. The GOP-led Senate has a competing supplemental border package that Republicans are pushing to potentially bring up before lawmakers depart for home. Senate Republicans are hoping that the House will drop its version and support the bill in the upper chamber, which has gotten bipartisan backing. But House Democrats argue the Senate bill doesn't go far enough on protections for migrant children. And Democrats are likely to seek a compromise if the Senate also passes legislation. \"\"The idea here is to get a signature,\"\" said Senate Majority Leader Mitch McConnell, R-Ky. He added that after the Senate passes its own bill, \"\"I'm hoping that the House will conclude that's the best way to get the problem solved, which can only happen with a signature.\"\" But it's unclear, at this point, if and when Trump would sign it into law. The president gave Congress a two-week timeline to overhaul asylum laws or he'll resume deportation raids that he called off over the weekend. But neither bill addresses those requested changes.\"",
+        "word_count": 500,
+        "publish_time": "2025-06-01T09:57:59Z",
+        "source": "TechCrunch",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "newspolitics",
+          "senate"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N72944",
+          "N18804"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "电影",
+          "明星",
+          "电脑",
+          "新闻",
+          "政治"
+        ],
+        "engagement_score": 0.73
+      },
+      "interaction_data": {
+        "scroll_depth": 0.2,
+        "clicks_count": 7,
+        "shares_count": 1,
+        "comments_count": 5,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.95,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.3,
+        "trend_score": 0.04,
+        "recommendation_relevance": 0.97,
+        "content_quality": 0.81,
+        "user_profile_match": 0.42
+      }
+    },
+    {
+      "timestamp": "2019-06-14T11:16:12Z",
+      "user_id": "U171990",
+      "news_id": "N103854",
+      "action_type": "like",
+      "session_id": "session_1ea86d0f1f1a",
+      "dwell_time": 25,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "'It's a fascist statement': Trump swipes back at Pelosi over charges of criminal conduct",
+        "content": "\"Video by FOX News P resident Trump hit back at Speaker of the House Nancy Pelosi, calling her statement fascist after she said he was involved in a \"\"criminal cover-up.\"\" \"\"It's a fascist statement, it's a disgraceful statement,\"\" Trump said Friday in an interview on \"\"Fox & Friends.\"\" \"\"For her to make a statement like that, it's outrageous.\"\" Trump's comments were in response to Pelosi saying the president is involved in a criminal cover-up. \"\"I believe that he has been involved in a criminal cover-up. I've said that before, and our investigation is showing that,\"\" the California Democrat said at a Thursday press conference. Trump continued his criticism of Pelosi in the interview, saying that the Democrats were involved in criminal behavior. \"\"Her party got caught spying, if you look at what happened, Hillary Clinton with the money that ultimately went to Russia for the fake dossier that total fake pile of stuff. That money gets paid by the way the amount of money that was paid and it was paid by Hillary Clinton and the DNC and went to Russia. That's the criminal, and when you look at what happened in terms of the campaign, when you look at what happened in terms of the spying, she never mentions that.\"\" \"\"[S]he's allowing drug dealers and gang members into our country, maybe that's criminal when you talk about it,\"\" Trump added. Since the April conclusion of special counsel Robert Mueller's investigation, which found Trump's 2016 election campaign did not conspire with the Russian government, top Democrats have claimed the president is engaged in a cover-up after Trump stonewalled requests for information and witness cooperation in connection with congressional investigations. \"\"The big issue that I think needs to be made to the American people is that this president is conducting one of the biggest cover-ups of any administration in the history of the United States,\"\" House Majority Leader Steny Hoyer said in May in response to the Trump administration refusing to comply with congressional investigations. Trump has said he will be \"\"fighting all subpoenas\"\" from House Democrats.\"",
+        "word_count": 346,
+        "publish_time": "2025-06-05T15:52:14Z",
+        "source": "The Guardian",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "election",
+          "newspolitics",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "足球",
+          "网球",
+          "社会"
+        ],
+        "engagement_score": 0.62
+      },
+      "interaction_data": {
+        "scroll_depth": 0.74,
+        "clicks_count": 1,
+        "shares_count": 1,
+        "comments_count": 4,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.37,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.35,
+        "trend_score": 0.66,
+        "recommendation_relevance": 0.59,
+        "content_quality": 0.26,
+        "user_profile_match": 0.24
+      }
+    },
+    {
+      "timestamp": "2019-06-18T12:38:32Z",
+      "user_id": "U417753",
+      "news_id": "N23681",
+      "action_type": "comment",
+      "session_id": "session_118b71c59fbe",
+      "dwell_time": 241,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Android",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shanghai",
+        "city": "Shanghai"
+      },
+      "news_details": {
+        "category": "health",
+        "topic": "healthnews",
+        "headline": "How Bad Is It to Not Wash Your Bath Towels Every Week?",
+        "content": "\"Your bath towel is hiding a dirty little secret a weekly wash isn't enough to keep it clean. Your sheets might be hiding the same secret since this is how bad it is not to wash your sheets every week . Bacteria multiplies on towels You only use your towel after scrubbing off in the shower, so it can't get all that dirty, right? Not so fast. \"\"When you say you wash off bacteria, you're partially correct you wash off some bacteria,\"\" says Philip Tierno, PhD, clinical professor of pathology and microbiology at NYU School of Medicine. But others will stick around, and they get on your towel during your post-shower rubdown. Once those bacteria are on there, they'll start to multiply. \"\"It keeps building up as you use the towel again day after day,\"\" says Chuck Gerba, PhD, a microbiology professor at the University of Arizona. A study led by Dr. Gerba found that used hand towels have 1,000 times more coliform bacteria than newly bought ones. Bacteria love dark, moist environments, so they'll thrive in a steamy bathroom with the door closed. Towels are one of the top germiest spots in your bathroom and your toilet isn't number one . The worst case scenarios are infection and acne Rubbing down with a dirty towel, and you could be at risk for infection. \"\"When you use a towel vigorously, you scratch your skin,\"\" says Dr. Gerba. Those tiny breaks in your skin which are too small to notice give bacteria an entryway to get in your body. Still, it's \"\"extremely unusual\"\" to actually pick up a disease from your bath towel, says infectious disease specialist Aaron Glatt, MD, FACP, FIDSA, FSHEA, spokesperson for the Infectious Diseases Society of America and chairman of medicine and hospital epidemiologist at South Nassau Communities Hospital. Your own germs won't make you sick, but you increase your chance of picking up a disease when you share towels, says Dr. Gerba. It's one of the 12 things you're sharing that germ experts wouldn't . If you're acne-prone, you might want to wash your towel every time you use it, says Dr. Tierno. As you rub your skin especially open pustules with a dirty towel, bacteria could get on your skin and give you zits. Here's how to keep your towels as clean as possible Even if you don't let anyone else touch your towel, Dr. Gerba and Dr. Tierno recommend washing bath towels every two or three days. Hold out longer than that, and all those microorganisms will make your towel grungy. \"\"You may not get sick after using a towel for two weeks, but that's not the point,\"\" says Dr. Tierno. \"\"Would you put on dirty underwear (unless there's an emergency) after you've taken a clean bath? It's very similar to what you're doing after the first couple of drying episodes.\"\" While you're at it, don't forget to wash these other items you don't clean enough . Between washes, cut down bacteria growth by letting your towel air-dry fully, says Dr. Tierno. Instead of folding it, drape open on the rod. The more surface area is open to the air, the better it will dry. If you have a heated towel rack that speeds up dry time, you might only need to wash after four uses but that's \"\"pushing it,\"\" says Dr. Tierno. Even though you might need to do more laundry, don't get lazy. Bacteria aren't in a rush to leave a thick cotton towel. \"\"It's really hard to clean those towels,\"\" says Dr. Gerba. \"\"Even with hot water, you have to go through a full cycle to remove them all.\"\" Once it's out, leave it in the dryer for at least 45 minutes to make sure all the moisture is gone, he says. Now that you know how often to clean your towels, learn how to clean the 16 other dirtiest items in your home . Related video: The Dirtiest Places in Your Gym! (Provided by The Doctors)\"",
+        "word_count": 666,
+        "publish_time": "2025-05-23T02:34:34Z",
+        "source": "Washington Post",
+        "tags": [
+          "healthnews",
+          "health",
+          "study",
+          "ai"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "国际",
+          "科技",
+          "健康",
+          "美食"
+        ],
+        "engagement_score": 0.32
+      },
+      "interaction_data": {
+        "scroll_depth": 0.71,
+        "clicks_count": 2,
+        "shares_count": 1,
+        "comments_count": 5,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.15,
+        "topic_keywords": [
+          "healthnews",
+          "health",
+          "study"
+        ],
+        "viral_potential": 0.54,
+        "trend_score": 0.4,
+        "recommendation_relevance": 0.95,
+        "content_quality": 0.91,
+        "user_profile_match": 0.41
+      }
+    }
+  ],
+  "metadata": {
+    "source": "news_app",
+    "version": "1.0",
+    "processed_time": "2025-06-12T19:28:23.736427Z"
+  }
+}

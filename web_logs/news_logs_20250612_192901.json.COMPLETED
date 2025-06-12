@@ -1,0 +1,769 @@
+{
+  "batch_id": "batch_20250612_192901_5c085de2",
+  "events": [
+    {
+      "timestamp": "2019-06-21T06:42:54Z",
+      "user_id": "U317071",
+      "news_id": "N43334",
+      "action_type": "like",
+      "session_id": "session_e58b3b0f1e5e",
+      "dwell_time": 49,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Windows",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestylesmartliving",
+        "headline": "This Product Will Whiten Your Laundry Without Bleach and It's Probably In Your Fridge!",
+        "content": "Everybody loves their laundry to be sparkling white and using bleach is a common way to achieve this. But, bleach is not the only or the best option. Bleach can be harmful to your health and the environment. Why is bleach a bad option? It can be dangerous. Curious kids will sometimes spill or even drink bleach check out these tips for making your home safer for young children. If bleach is mixed with other substances (such as vinegar), it produces toxic fumes. Passive exposure to bleach is also a problem. A 2015 study by European researchers found that having bleach in the home resulted in a higher rate of childhood illnesses like tonsillitis, flu and breathing conditions. And, bleach lingers in the environment once it's washed away. But, it is possible to whiten without bleach and the miracle cleaning ingredient is ... lemon juice! Lemon juice is a natural, environmentally friendly whitener. Lemon juice can be used to clean a whole heap of household items without the use of harsh chemicals. It can even be used to remove stains from leather furniture. How does lemon-juice whitening work? Lemon juice contains high levels of citric acid. The enzymes in the acid react with stains on your laundry to loosen and remove them naturally, leaving fabrics beautifully white. (This whitening effect also works on other things, like your skin, hair and teeth, but it should be used with great care to avoid damage.) Lemon-juice whitening is best reserved for white laundry as colored items could fade more quickly if exposed to lemon juice. How to whiten clothes when hand-washing This video tutorial by eHowHome shows you exactly how to hand-wash your laundry with lemon juice. Combine two cups of lemon juice with one cup of salt. Soak the clothes in the solution, rinse them out well, and leave them to dry in the sun. The sunlight also acts as a natural whitener. How to whiten clothes in a washing machine Using lemon juice to whiten without bleach is even simpler in a washing machine. Just add a cup of lemon juice along with your detergent and wash as usual. Again, drying the clothes in the sunshine will enhance the whitening effect. So by using lemon juice instead of bleach in your laundry, you can relax in the knowledge that your clothes will be beautifully white without damaging your health or the environment. Related video: How to Fix a Stuck Zipper [via Lifehacker]",
+        "word_count": 411,
+        "publish_time": "2025-06-04T22:16:26Z",
+        "source": "NBC News",
+        "tags": [
+          "lifestylesmartliving",
+          "research",
+          "ai",
+          "health",
+          "study",
+          "lifestyle"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N80819",
+          "N105712"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "国际",
+          "社会",
+          "足球",
+          "生活",
+          "电影",
+          "电视"
+        ],
+        "engagement_score": 0.76
+      },
+      "interaction_data": {
+        "scroll_depth": 0.84,
+        "clicks_count": 10,
+        "shares_count": 2,
+        "comments_count": 1,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.41,
+        "topic_keywords": [
+          "lifestylesmartliving",
+          "research",
+          "ai"
+        ],
+        "viral_potential": 0.53,
+        "trend_score": 0.11,
+        "recommendation_relevance": 0.63,
+        "content_quality": 0.25,
+        "user_profile_match": 0.11
+      }
+    },
+    {
+      "timestamp": "2019-06-23T12:56:51Z",
+      "user_id": "U263686",
+      "news_id": "N73377",
+      "action_type": "click",
+      "session_id": "session_9494cc12b1e1",
+      "dwell_time": 398,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Windows",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "Former congressman Joe Sestak enters 2020 White House race",
+        "content": "\"Former congressman Joe Sestak (D-Pa.) announced Sunday that he is running for president, joining 23 earlier entrants in the presidential race. Sestak made the announcement in a video posted to his campaign website. \"\"I'm Joe Sestak, and I wore the cloth of the nation for over 31 years in peace and war, from the Vietnam and Cold War eras to Afghanistan and Iraq and the emergence of China,\"\" Sestak said in the video. \"\"Born and raised in Pennsylvania, I grew up in this global canvas of service in the United States Navy.\"\" Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post Sestak served two terms in the House, from 2007 to 2011. A retired Navy admiral, he also pursued two unsuccessful bids for the Senate, each time drawing the ire of national Democrats, who chafed at Sestak's go-it-alone style and quirky personality. Sestak first drew national attention in 2010 when he waged a primary challenge against then-Sen. Arlen Specter, who had switched parties to run for reelection as a Democrat. The Obama White House, in an effort to dissuade Sestak from running, dispatched former president Bill Clinton to offer Sestak an unpaid position on a presidential advisory board if he dropped out of the race. Sestak said no. He bested Specter in the primary and later lost to Republican Pat Toomey in the general election. Sestak pursued another Senate bid against Toomey in 2016, during which he walked alone across the state of Pennsylvania . Sestak lost in the Democratic primary to former Pennsylvania Environmental Protection Secretary Katie McGinty, who had been endorsed by then-President Obama and was boosted by more than $4 million in spending by outside liberal groups. In his announcement video Sunday, Sestak touted his anti-establishment credentials, citing his 2010 Senate race and, in particular, Specter's 1991 cross-examination of Anita Hill on the Senate Judiciary Committee. \"\"I disagreed that a Senator should be our party's nominee who had humiliated Anita Hill, allowed to do so by members of our party as she testified about her sexual harassment by now-Supreme Court Justice Clarence Thomas,\"\" Sestak said in the video. Sestak also acknowledged that his entry into the White House race comes later than the other announced candidates. He said the reason for the delay was so that he could be with his daughter, Alexandra, after her brain cancer had returned. \"\"Throughout this past year, Alex again showed she is stronger than me, heroically beating the single digit odds once more, drawing on the fortitude of her mom,\"\" Sestak said. Sestak's late entry comes with disadvantages: The first Democratic debates are this week, and the Pennsylvania Democrat will not be on the stage. According to the Democratic National Committee, deadlines for donations and polling are on midnight on July 16, and campaigns have until the morning of July 17 to provide certification. Asked about qualifying for the debates, Chris Baker, a Sestak spokesman, said Sunday that the campaign is \"\"going to follow all possible avenues to reach the American public.\"\" \"\"What Joe believes is important is reaching the American people with a message that will resonate with them,\"\" he said. Baker added that Sestak planned to visit an African-American church in Iowa in the morning followed by an event later in the day at the Sullivan Brothers Iowa Veterans Museum in Waterloo. felicia.sonmez@washpost.com Colby Itkowitz and Dave Weigel contributed to this report.\"",
+        "word_count": 568,
+        "publish_time": "2025-05-17T06:58:20Z",
+        "source": "Reuters",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "election",
+          "newspolitics",
+          "report",
+          "senate"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N114733",
+          "N34589"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": true,
+        "user_interests": [
+          "电影",
+          "政治",
+          "健康",
+          "金融"
+        ],
+        "engagement_score": 0.27
+      },
+      "interaction_data": {
+        "scroll_depth": 0.15,
+        "clicks_count": 4,
+        "shares_count": 2,
+        "comments_count": 3,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.27,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.72,
+        "trend_score": 0.42,
+        "recommendation_relevance": 0.32,
+        "content_quality": 0.22,
+        "user_profile_match": 0.47
+      }
+    },
+    {
+      "timestamp": "2019-06-18T17:56:35Z",
+      "user_id": "U434993",
+      "news_id": "N47341",
+      "action_type": "share",
+      "session_id": "session_84a9f7cffbab",
+      "dwell_time": 326,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "Trump's empty Cabinet",
+        "content": "\"A little more than a year ago, moments after he fired former Secretary of State Rex Tillerson by tweet, President Donald Trump looked ahead optimistically to reshaping his Cabinet. Standing on the White House driveway, the president told reporters, \"\"I'm really at a point where we're getting very close to having the Cabinet and other things that I want.\"\" It hasn't quite worked out that way. Instead, Trump has a Cabinet-by-default, many of whose members were simply the last man or woman standing after others pulled out of the running, declined the president's job offers or couldn't get through their nomination hearings. In just the latest instance of a Trump official going down amid the harsh glare of an invigorated Washington press corps, acting defense secretary Pat Shanahan withdrew from consideration for the top Pentagon job on Tuesday as news outlets published lurid accounts of his divorce. Shanahan was never even formally nominated by the White House, but at least he managed to serve in his post for several months. Others made it slightly farther before being ground up by Trump's Washington. Labor secretary nominee Andy Puzder saw his support evaporate in the Senate when POLITICO published allegations of domestic abuse from his ex-wife, and threw in the towel before he even sat for a hearing. Ronny Jackson, the White House physician Trump picked to run the VA, withdrew after accusations of misconduct on the job. If there's a thread running through them all, it's a president with a penchant for choosing many top appointees based on instinct and without regard to prior government experience plus a White House whose vetting operation is far from thorough and a thin Republican Senate majority with little room for error. The result is that the Trump administration's senior ranks are comprised largely of individuals who were not, in many cases, the president's first or even second choice to fill the post, but instead became the only logical choice after the competition evaporated. They include the acting White House chief of staff, Mick Mulvaney, who accepted his position after several others bowed out, including Rep. Mark Meadows (R-N.C.) and former New Jersey Gov. Chris Christie; the president's pick to be the ambassador to the United Nations, Kelly Knight Craft, who was tapped after the former State Department spokeswoman, Heather Nauert, quietly pulled herself out of the running; and Attorney General Bill Barr, who turned down the White House before finally accepting the job after other candidates he himself had recommended said no. Add to these woes an administration with abnormally high turnover, as well as the usual churn in Washington, and Trump is presiding over a government run in many cases by acting officials from the Cabinet level on down. The president on Tuesday brushed aside those concerns, telling reporters before boarding Air Force One en route to Orlando, where he was set to kick off his 2020 re-election campaign, that he was pleased with the composition of his Cabinet. \"\"We have a very good vetting process. You take a look at our Cabinet and our secretary it's very good,\"\" Trump said. \"\"But we have a great vetting process.\"\" And he reiterated his oft-stated preference for appointing acting Cabinet chiefs and avoiding the Senate confirmation process. \"\"As you know Pat was acting,\"\" he said. \"\"Acting gives you much greater flexibility, a lot easier to do things.\"\" Others, however, said the composition of Trump's Cabinet was the logical result of the president's haphazard management style. \"\"There are a lot of qualified people out there but not a lot who would want to work in this administration given the brevity of tenure that most of these folks face,\"\" said Jeremy Bash, who served as chief of staff to former Defense Secretary Leon Panetta. \"\"It's always a gamble when you select people for very senior jobs who have zero experience in government.\"\" Shanahan, a former Boeing executive, had not previously served in government before being tapped to run the Pentagon, a sprawling and notoriously difficult agency to manage. \"\"Government service tends to weed out those who are unqualified and those who cannot pass vetting,\"\" Bash added. \"\"When you reach for people who have no government service you are taking a huge risk.\"\" Trump, who likewise had no government experience before assuming the most powerful job in the world, gravitates toward nontraditional hires, compounding the risks. One Cabinet official, former Pentagon chief Jim Mattis, resigned in protest. Several Tom Price, Scott Pruitt and Ryan Zinke were effectively forced out amid scandal. A few, Kirstjen Nielsen, Jeff Sessions, David Shulkin and Rex Tillerson, fell afoul of a president accustomed to getting his own way. Just two, Nikki Haley and Linda McMahon, left the administration on their own terms. Shanahan wasn't the president's first choice for the Pentagon job. Trump said he would nominate him after the retired Army Gen. Jack Keane and former Arizona Sen. Jon Kyl said they were not interested in the position, POLITICO reported in January . Shanahan has served as acting secretary of defense since Mattis' departure in early January. Though the president has said repeatedly that he prefers cabinet members who are serving in an acting capacity, Trump had faced mounting pressure from lawmakers on Capitol Hill to nominate a permanent defense chief. Senate confirmation for the Pentagon post is considered particularly important because the secretary of Defense is a part of the chain of command and bears responsibility for deploying troops. \"\"Since the SecDef is supposed to assert civilian control over the military and all the generals who report to SecDef are confirmed by the Senate, he is at a disadvantage exercising authority over them when their positions have more political grounding than his,\"\" said Paul Wolfowitz, who served as deputy secretary of defense in the George W. Bush administration. The calls for a nominee did not abate on Tuesday, when Trump announced that Army Secretary Mark Esper would replace Shanahan as the acting secretary of Defense. \"\"I do think we'd be better off by far to have a secretary of defense who is actually confirmed by the Senate,\"\" said Senate Majority Leader Mitch McConnell. Minority Leader Chuck Schumer said it was \"\"appalling\"\" not to have the position filled in a permanent capacity and that \"\"it shows the chaos in this administration.\"\" Former Sen. Chuck Hagel, a Republican who served as President Barack Obama's secretary of Defense, said it was in Esper's interest to go through the formal Senate process. \"\"That really gives that position and that individual legitimacy going forward,\"\" he said. \"\"When you are not confirmed you're just kind of swinging out there in the wind.\"\"\"",
+        "word_count": 1105,
+        "publish_time": "2025-06-02T20:41:33Z",
+        "source": "New York Times",
+        "tags": [
+          "ai",
+          "news",
+          "election",
+          "newspolitics",
+          "report",
+          "senate",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N42583",
+          "N112765"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "股票",
+          "金融",
+          "美食",
+          "旅行",
+          "财经",
+          "银行",
+          "奥运会",
+          "体育"
+        ],
+        "engagement_score": 0.2
+      },
+      "interaction_data": {
+        "scroll_depth": 0.33,
+        "clicks_count": 4,
+        "shares_count": 0,
+        "comments_count": 1,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.21,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "election"
+        ],
+        "viral_potential": 0.73,
+        "trend_score": 0.88,
+        "recommendation_relevance": 0.36,
+        "content_quality": 0.22,
+        "user_profile_match": 0.29
+      }
+    },
+    {
+      "timestamp": "2019-06-21T20:03:53Z",
+      "user_id": "U235420",
+      "news_id": "N75514",
+      "action_type": "read",
+      "session_id": "session_c1ccd2814d46",
+      "dwell_time": 39,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "Trump says impeachment would help him win re-election",
+        "content": "\"President Donald Trump said he believes impeachment proceedings could help him retain the White House in 2020. \"\"I think I win the election easier. But, you know, I'm not sure that I like having it,\"\" Trump told Chuck Todd on NBC's \"\"Meet the Press\"\" in an interview set to be released Sunday, when asked by the host if he thinks impeachment would be politically beneficial. Trump also said that he believes House Speaker Nancy Pelosi has cautioned against impeachment because she also \"\"feels that I will win much easier.\"\" Pelosi has so far refused to consider impeaching the president without Republican support despite a growing tide of Democrats publicly calling for proceedings to begin against Trump. The president went on to repeat his assertion that the FBI's counterintelligence investigation into his 2016 campaign was illegal. \"\"Look, I did nothing wrong. I was spied on. What they did to me was illegal. It was illegal on the other side,\"\" Trump continued. \"\"So impeachment's a very unfair thing because nothing that I did was wrong.\"\" The Justice Department is currently investigating the 2016 counterintelligence probe. The president's supporters have been trying to use impeachment talks to their advantage, even though Trump called impeachment a \"\"dirty, filthy, disgusting word\"\" late last month.\"",
+        "word_count": 209,
+        "publish_time": "2025-06-09T22:01:24Z",
+        "source": "The Guardian",
+        "tags": [
+          "election",
+          "ai",
+          "news",
+          "newspolitics"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N63716",
+          "N13892"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "股票",
+          "理财"
+        ],
+        "engagement_score": 0.17
+      },
+      "interaction_data": {
+        "scroll_depth": 0.41,
+        "clicks_count": 0,
+        "shares_count": 1,
+        "comments_count": 3,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.42,
+        "topic_keywords": [
+          "election",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.57,
+        "trend_score": 0.58,
+        "recommendation_relevance": 0.65,
+        "content_quality": 0.84,
+        "user_profile_match": 0.84
+      }
+    },
+    {
+      "timestamp": "2019-06-17T11:21:54Z",
+      "user_id": "U141546",
+      "news_id": "N100679",
+      "action_type": "comment",
+      "session_id": "session_a4a4d361b643",
+      "dwell_time": 94,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Suspect Brian Clyde Dead After Shooting At Dallas Federal Building",
+        "content": "\"DALLAS (CBSDFW.COM) Officials in Dallas have identified the masked man who they say opened fire at the Earle Cabell Federal Building in downtown Dallas. The FBI says Brian Isaack Clyde, 22, was killed after a gunfight with federal officials outside the building. As a result of the investigation, streets around the courthouse will remain closed for the next couple of days. The FBI in Dallas tweeted, \"\"According to federal authorities, the Earle Cabell Federal Building located at 1100 Commerce Street in downtown Dallas will be open for employees Tuesday, but not for business. That means no hearings or public services.\"\" According to federal authorities, the Earle Cabell Federal Building located at 1100 Commerce Street in downtown Dallas will be open for employees Tuesday, but not for business. That means no hearings or public services. @ pic.twitter.com/QfiUkXToWk FBI Dallas (@FBIDallas) June 17, 2019 Dozens of Dallas Police Department squad cars and emergency vehicles from Dallas Fire-Rescue were on the scene after the active shooter situation at the building in the 1100 block of Commerce Street. More than 300 federal employees were in the building during the incident. One employee suffered minor injuries as she was taking cover from the shooter, according to U.S. Attorney Erin Nealy Cox. FBI Dallas Special Agent in Charge Matthew DeSarno explained, \"\"Shortly after the incident began this morning officers from the Federal Protective Service engaged the shooter Brian Isaack Clyde. He was taken to Baylor hospital and pronounced deceased on scene.\"\" Clyde was discharged from the Army in 2017. \"\"Private 1st Class Clyde served as an infantryman in the Army from August 2015 to February 2017,\"\" according to the Army Public Affairs Office. The FBI said he was not the subject of any investigations up to Monday's shooting. FBI agents are deployed across the state, speaking to relatives and associates and trying to get to the bottom of what the motive was. \"\"He had more than five 30-round magazines on his person. That's a lot of rounds at his disposal. A large powerful weapon at his disposal,\"\" said DeSarno. \"\" As far as what he was trying to do, we don't know that yet completely. We're reviewing videos. But for the actions of the federal protection office this likely would've been a deadly incident.\"\" U.S. Attorney Cox wanted to calm the fears of those in the area. \"\"The federal building was shot on by an active shooter,\"\" she said. \"\"Law enforcement responded immediately and I want to assure the community, especially our downtown community, that the community is safe.\"\" Video captured on cell phone by Dallas resident Tim Brown shows a masked person outside, armed with some type of long-rifle, firing near an entrance to the building. Bullets shattered panes of glass in a revolving door of the building. The sounds of gunshots can be heard and smoke can be seen coming from several feet away, as the gunman runs across the street into a parking lot and collapses. Witnesses say authorities performed CPR on active shooter after he was shot by officers outside Downtown Dallas federal courthouse and taken to a hospital pic.twitter.com/bnvZ7Pgje6 J.D. Miles (@jdmiles11) June 17, 2019 Clyde was given medical attention at the scene and then taken to a local hospital where he was pronounced dead. Clyde's vehicle was found nearby and a police bomb squad examined it \"\"for precautionary reasons.\"\" Several minutes after examining the car with a robot police decided to perform a controlled explosion of the vehicle. EOD is still concerned about possible device in the vehicle. Working to determine its potential danger as quickly and safely as possible. Streets remain closed and scene is active. Maj. Max Geron (@MaxDPD) June 17, 2019 After the shooting, witness Don Myles told CBS 11, \"\"I just saw a burst of people running out and a round of shots. It was just shots, maybe 10 to 15 shots all rapid shooting, and I just ran across the street into the traffic.\"\" Downtown Dallas Residents Ducked For Cover, Recorded Video Of Federal Courthouse Shooting All of the streets surrounding the federal building Commerce, South Field, Jackson and South Griffin Streets have all been closed. Because the shooting happened on government property, the investigation has been handed off to the FBI. They will be assisted by the ATF, Federal Protective Service, U.S. Marshals and the Dallas Police Department. Clyde graduated from Del Mar College in Corpus Christi in May 2019 with an Associate in Applied Science degree in Nondestructive Testing Technology, the college confirms. Dallas ISD confirms Clyde attended Woodrow Wilson High School as a freshman. He withdrew March 1, 2012 when his family apparently moved. The FBI asking people who recorded events connected with the shooting to send them in. Anyone with information or video should call 1-800-CALL-FBI or submit information, video and tips online here . Newly-sworn in Dallas Mayor Eric Johnson released the following statement on the shooting: \"\"I have been briefed by Chief Hall regarding the shooting at the Earle Cabell Federal Courthouse this morning. I am glad no civilians or officers were harmed, and I commend our law enforcement for their swift response to contain the situation.\"\"\"",
+        "word_count": 858,
+        "publish_time": "2025-05-15T23:59:08Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "tech",
+          "medical",
+          "ai",
+          "news",
+          "technology",
+          "newsus",
+          "government",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N115495",
+          "N83830"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "社会",
+          "新闻",
+          "电脑",
+          "保险",
+          "银行",
+          "投资"
+        ],
+        "engagement_score": 0.68
+      },
+      "interaction_data": {
+        "scroll_depth": 0.29,
+        "clicks_count": 5,
+        "shares_count": 1,
+        "comments_count": 0,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.72,
+        "topic_keywords": [
+          "tech",
+          "medical",
+          "ai"
+        ],
+        "viral_potential": 0.77,
+        "trend_score": 0.26,
+        "recommendation_relevance": 0.96,
+        "content_quality": 0.81,
+        "user_profile_match": 0.36
+      }
+    },
+    {
+      "timestamp": "2019-06-25T10:53:22Z",
+      "user_id": "U228672",
+      "news_id": "N49558",
+      "action_type": "click",
+      "session_id": "session_02625406ad24",
+      "dwell_time": 178,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestylebuzz",
+        "headline": "Mom Is Furious at SIL for Getting a Tattoo of Her Kids' Names Without Her 'Permission'",
+        "content": "\"iStock.com A tattoo can be such a special way to let someone know just how much you love them. But instead of feeling special, one mom found a relative's recent tattoo to be a bit creepy . As she explained online, her sister-in-law recently got a tattoo of her children's names ... without bothering to tell her about the gesture first. Sure, it's a nice idea, but the mom argued that her SIL doesn't spend much time with her kids, and she only found out about the tattoo after her SIL posted about it on social media. So now the mom is torn: Is this sweet, or does she have a right to be upset? The mom explained that she found the tattoo \"\"disturbing\"\" and is fuming that her SIL would get the permanent mark about her kids, without her knowing. Reddit The mom explained on Reddit that her SIL never asked her or her husband about the tattoo before she got it. She \"\"just posted a picture on social media once it was done,\"\" and now the mom is fuming. \"\"She is not a close beloved aunt of my children they see her once a year and talk to her briefly on holidays,\"\" the mom wrote. \"\"They never talk about her or ask about her between those times. They like her well enough, but she likes to lecture them and attempt to parent them, so a little of her goes a long way.\"\" The mom believes her SIL was hoping to get a little praise for the gesture, but \"\"I have nothing nice to say.\"\" \"\"Instead of the cost of a tattoo (this tattoo is huge by the way), how about a plane ticket to visit the children you claim to love so much?\"\" she wrote. \"\"She talks about my children taking care of her when she's in a nursing home... why would they? They will be busy with their own families, and taking care of their parents!\"\" And that's not all. The mom admitted that she was so angry over the tattoo that she told her husband to cancel their upcoming vacation to visit her SIL and her husband's parents. \"\"I have been taking my anger out on him, which is probably unfair but I feel his lack of communication with them leads to this kind of crazy,\"\" she added. \"\"Am I supposed to feel flattered? I feel like if anyone is going to tattoo my kids' names on their body it should be me or my husband!\"\" Online, some people agreed that the gesture was strange and see where the mom is coming from. \"\"The tattooing is weird,\"\" one commenter wrote. \"\"Going limited or no contact with the offender makes sense to establish boundaries.\"\" \"\"That's some strange social media attention whoring,\"\" another commenter agreed . \"\"I have to wonder if the tattoo is real,\"\" someone else wrote. \"\"She seems like the kind of person to fake a tattoo for attention on social media.\"\" Other people were more upset with how the mom is handling her emotions and thought her \"\"payback\"\" went too far. \"\"Stopping them from seeing their grandparents? What did they even do?\"\" one commenter asked her. \"\"That seems like a severe overreaction; it's a tattoo of a name. It doesn't even affect her.\"\" \"\"The only one really hurting someone with intent is the original poster for taking it out on her husband and punishing her own kids by not letting them see their family,\"\" another commenter added. \"\"She hasn't once asked how anyone but her seems to feel about it. There's nothing wrong at all with her feeling weirded out by it, because it is weird, but I don't understand why she's getting so angry at it.\"\" A third person had a different idea of what was going on. \"\"The whole bit where she mentions aunt has no children of her own but was still in childbearing range is where I decided OP (original poster) was an (expletive),\"\" the person wrote. \"\"She just doesn't like SIL.\"\" Ultimately, the mom felt that sharing her story had been \"\"so cathartic.\"\" \"\"I feel like I released steam and got validation from people who recognized the narcissistic nature of the tattoo, and I've also calmed down,\"\" she wrote. \"\"Most of the people calling me out are assuming things that aren't true and that's ok.\"\" She added that she agrees that her SIL has a right to do whatever she wanted to with her body, but \"\"I also feel I have a right to be mad and think it's weird. I'm still annoyed by the narcissism of it, but feel sad for her because she doesn't have her own kids and maybe she never will,\"\" she added. \"\"It's too bad she doesn't choose to get to know my kids for real, and generate a real relationship with them,\"\" she wrote. This story was originally published on Mom.me sister site CafeMom.\"",
+        "word_count": 820,
+        "publish_time": "2025-05-16T16:14:37Z",
+        "source": "Associated Press",
+        "tags": [
+          "ai",
+          "lifestylebuzz",
+          "lifestyle",
+          "stock"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N74276",
+          "N114439"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "商业",
+          "电视",
+          "足球",
+          "奥运会"
+        ],
+        "engagement_score": 0.17
+      },
+      "interaction_data": {
+        "scroll_depth": 0.27,
+        "clicks_count": 7,
+        "shares_count": 3,
+        "comments_count": 0,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.88,
+        "topic_keywords": [
+          "ai",
+          "lifestylebuzz",
+          "lifestyle"
+        ],
+        "viral_potential": 0.76,
+        "trend_score": 0.24,
+        "recommendation_relevance": 0.16,
+        "content_quality": 0.93,
+        "user_profile_match": 0.19
+      }
+    },
+    {
+      "timestamp": "2019-06-19T13:50:00Z",
+      "user_id": "U261936",
+      "news_id": "N115626",
+      "action_type": "like",
+      "session_id": "session_c1e40677816b",
+      "dwell_time": 3,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Hubei",
+        "city": "Wuhan"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "finance-career",
+        "headline": "Here Are the Salaries of Disney Princesses, Mascots and More",
+        "content": "\"Find out if odd occupations are dream jobs or nightmares. Here Are the Salaries of Disney Princesses, Mascots and More Many children dream of being princesses and mermaids and for some, those dreams actually come true. But are these supposed \"\"dream jobs\"\" really worth the rigorous training, often low pay and other drawbacks? If you're interested in a job that seems like a fantasy, it's time to learn what the realities of that job entail. 1. Mermaid If you grew up watching \"\"The Little Mermaid\"\" and always envied Ariel, you're in luck you can get paid to be a real-life mermaid. Mermaids can perform at private parties as a weekend job or as a side gig to boost income, or as a regular job at places such as Florida's Weeki Wachee Springs State Park. But you usually can't just throw on a tail and get the role. Weeki Wachee holds multiple rounds of auditions for its \"\"mermaid squad.\"\" Those tryouts involve completing a timed, 300-yard endurance swim, swimming both with and against the water's current and treading water for 10 to 15 minutes, the Tampa Bay Times reported. Aspiring mermaids who make it past the first round of auditions then must demonstrate their underwater theatrical skills for the theater manager. The women who make the cut will perform underwater ballet in a 400-seat auditorium. Shows take place year-round. How Much It Pays To Be a Mermaid Weeki Wachee mermaid pay starts at $10 an hour, and mermaids must be able to perform at least four days a week. Mermaids who work private parties can earn more: One mermaid advertising her services on Gig Salad charges $375 and up to perform at children's and adult parties and says her events typically last one to two hours. Mermaid Perks and Negatives For people who love swimming, entertaining and being around children, being a mermaid could be a dream job. \"\"Interacting with children in the water and sharing the magic of our oceans with them is my favorite [thing about being a mermaid],\"\" Mermaid Linden, a mermaid performer, wrote on her website. However, it's not all dress-up and fun, as there are occupational hazards in the job. The Weeki Wachee mermaids perform in 72-degree water, so being cold comes with the job. And depending on the type of water you're swimming in, performing could lead to stinging eyes, Linden said. There also are additional risks that come from performing with sea creatures. \"\"I have been stung in the eyes by jellyfish,\"\" Linden said. 2. Disney Princess Being a professional Cinderella or Belle at Disney World, Disneyland or another Disney park might be an easier way to princess-hood than marrying a member of the royal family but not by much. Princesses must audition for their roles, and auditions can include singing, dancing and acting. If you're auditioning for a specific character, you're judged more on your ability to portray the character based on attitude and gesture than on how you recite lines, according to the Disney Auditions website. \"\"It's pretty hard,\"\" a former Disney cast member said of the princess audition process. \"\"There are multiple auditions across the country. Sometimes thousands of people show up. You have to dance and read lines, depending on how far you go.\"\" You're then filtered for the various roles based on how well you fit into the costume. \"\"They cut you based on need, and height and face obviously matter,\"\" the cast member said. \"\"Ninety percent is, can you fit in the costume?\"\" Characters with accents must undergo dialect training, and even women who portray American characters must practice doing their princess voice, which often is higher than their natural speaking voice, Buzzfeed reported. Princesses must be in character and in costume the whole time they are in the park and must perfect their character's signature. Duties include performing in parades and signing autographs for guests. How Much It Pays To Be a Disney Princess Character performers at Disney parks and resorts make an average of $11 an hour, according to Glassdoor. Full-time performers work 40 hours a week, but Disney has part-time performers too, Buzzfeed reported. Of course, there are better-paying part-time jobs out there, but this might be one you just love to do. Learn: How to Change Careers and Land Your Dream Job Disney Princess Perks and Negatives Getting adored by Disney fans, especially young girls, is one of the best aspects of the job, one former princess told Buzzfeed. \"\"So many little girls are obsessed with Snow White and look at you in awe,\"\" she said. \"\"Being dressed up and seeing little girls in the same costume as you, who really think you're her that's special.\"\" But you need to have thick skin to apply for the job and even to stay in the job. Current and former employees told Buzzfeed that aspiring princesses were disqualified for \"\"being too 'ethnic'-looking,\"\" aging or gaining weight. And princesses are evaluated monthly on how they look in the costume. Those who don't maintain Disney's standards are given other roles. 3. Santa Claus Most malls and shopping centers have a Santa Claus during the Christmas season, and being a mall Santa can be one of the best side jobs for making extra holiday cash. So how do you get to be St. Nick? Although some malls hire directly, many go through event agencies and photo companies, Monster reported. Having a real beard no longer is a requirement since many fake beards look just as natural, the job site stated, but it is important that you like working with children. Many Santas get professional training to get the gig, during which they learn how to communicate basic things in sign language and Spanish, how to answer difficult questions and even how to work around reindeer. Santa's responsibilities include talking with children about their Christmas wishes and answering their sometimes-tricky questions. How Much It Pays To Be Santa Claus Compared to other character actors, Santa Claus gets paid pretty well. A mall Santa can make $15 to $20 an hour, Monster reported. However, the shifts can be long. Because malls don't want children to see Santa switching shifts, the same Santa usually works the entire day. Depending on the employer's hours, shifts can range from six to 12 hours. Santa Claus Perks and Negatives For many people in the Santa role, the feeling of making a child's day is the best part of the job. \"\"It's definitely more rewarding for the Santas than the children,\"\" one Santa told Monster. But it also can be a tough job. Santas sometimes have to be the one to place the kid on their lap, which can mean repeated heavy lifting. There's also the risk of getting sick from interacting with germy children all day. And it can be emotionally challenging if a child confides in Santa about difficulties at home or other hardships in their lives. 4. Pro Sports Team Mascot If you've dreamed about being a professional athlete but don't quite have the skills, you still can get the feeling of being important at the game and drawing the attention of adoring fans by being a professional sports team mascot. There is no formal training required to be a mascot, but you do need to audition, the Chicago Tribune reported. Desired skills include acrobatics, cheerleading and mascot training, which you can get in a specialty program such as the Pro Mascot School in San Antonio. If you do get the gig, you have to follow a script, perform choreographed routines and make appearances as an integral part of the team's marketing strategy. How Much It Pays To Be a Pro Sports Team Mascot Professional full-time mascots typically make $22,000 to $65,000 a year, but top mascots can earn six-figure salaries, Parade reported, and NBA mascots make more than MLB mascots, according to Job Monkey. The amount of hours you're expected to work depends on the team: About half of the professional sports teams hire full-time mascots, but other teams split mascot duties among more than one person. Pro Sports Team Mascot Perks and Negatives Mascots get to be front and center during professional sporting events, openly mock the opposing team and bask in the adoration of thousands of fans. But it can be hard to be \"\"on\"\" for hours on end, and you have to be willing to act silly and make a fool of yourself on a regular basis. Fortunately, in most cases your face is covered, so no one will know it's you doing outlandish things. 5. Rodeo Clown Were you the class clown in school? You can turn those skills into a profitable career if you want to join the rodeo circuit. The most important job of a rodeo clown is to protect the cowboys: Rodeo clowns are responsible for distracting the bull once the rider has fallen off so that the animal doesn't trample the fallen cowboy. Clowns also act as the entertainment between rides by bantering with the announcer and performing comedic skits. To get the gig, you have to work your way up, according to Salary.com. Aspiring rodeo clowns usually apprentice at local or youth rodeos, and some attend clown training school to gain extra skills. How Much It Pays To Be a Rodeo Clown Experienced rodeo clowns can earn as much as $2,000 per show, though less experienced entertainers earn less, the Houston Chronicle reported. Top rodeo clowns can make are you ready for this? between $150,000 and $200,000 a year! Clowns can either work full time or take jobs here and there. Rodeo Clown Perks and Negatives The biggest perk of being a rodeo clown is getting appreciation from the crowd and the cowboys you protect. \"\"It's a great feeling when the crowd applauds and appreciates your efforts. But the greatest is when the cowboys come to you and let you know how much they appreciate you being there for them night after night,\"\" one rodeo clown, who goes by the name of Scooter, told Salary.com. It's the ideal job for an adrenaline junkie who likes to goof around and make people laugh. But it's obviously extremely dangerous to work in close proximity to enraged bulls. \"\"It's not whether you're gonna get hurt, it'...",
+        "word_count": 1710,
+        "publish_time": "2025-05-28T23:44:51Z",
+        "source": "Bloomberg",
+        "tags": [
+          "entertainment",
+          "market",
+          "ai",
+          "finance",
+          "report",
+          "finance-career"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N50599",
+          "N80645"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "体育",
+          "奥运会",
+          "投资",
+          "国际"
+        ],
+        "engagement_score": 0.85
+      },
+      "interaction_data": {
+        "scroll_depth": 0.69,
+        "clicks_count": 0,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.03,
+        "topic_keywords": [
+          "entertainment",
+          "market",
+          "ai"
+        ],
+        "viral_potential": 0.58,
+        "trend_score": 0.9,
+        "recommendation_relevance": 0.97,
+        "content_quality": 0.46,
+        "user_profile_match": 0.95
+      }
+    },
+    {
+      "timestamp": "2019-06-14T14:45:31Z",
+      "user_id": "U144661",
+      "news_id": "N14869",
+      "action_type": "comment",
+      "session_id": "session_4932fd3ae128",
+      "dwell_time": 123,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Valedictorian rips school staff in graduation speech",
+        "content": "\"A San Diego high school valedictorian went scorched-earth on school staff during her graduation speech last week, airing her grievances against some faculty members in a highly public fashion. Her fiery remarks later went viral. Nataly Buhr, who attended San Ysidro High School, told CBS affiliate KFMB-TV Tuesday that she wanted to bring attention to what she felt was lack of support for students. Buhr began her speech thanking specific teachers who were \"\"invested\"\" in students' education and well-being. But then she called out other school employees for failing to live up to that standard. \"\"To my counselor, thank you for letting me fend for myself you were always unavailable,\"\" she said. \"\"You expressed to me your joy in having one of your students be valedictorian when you had absolutely no role in my achievements.\"\" She accused a teacher of showing up to school drunk. \"\"To the teacher that was regularly intoxicated during class this year, thank you for using yourself to teach these students about the dangers of alcoholism.\"\" Buhr sarcastically praised the main office staff for teaching her to be resourceful over apparent incompetence. \"\"Your negligence to inform me of several scholarships until the day before they were due potentially caused me to miss out on thousands of dollars,\"\" she said. \"\"When applying for a work permit, you repeatedly turned me away, despite confirming with my employer and my parents that all of my paperwork was filled out correctly.\"\" Manuel Rubio, a spokesperson for Sweetwater Union High School District, told KFMB that he could not comment on specific allegations, but offered his take on the speech. \"\"It's unfortunate that the words of a student like this are taking away from the positive,\"\" Rubio said. \"\"There are a lot of teachers working very hard for our students, it's unfortunate that she decided to air grievances.\"\" During Buhr's speech, the audience responded with audible gasps and roaring applause. Her mother also backed Nataly's bold move. \"\"I was proud that she spoke up and got it out,\"\" Monica Buhr told KFMB. \"\"It is something that takes a lot courage to do,\"\" Valedictorians around the country have used their speeches as a vehicle to put a spotlight on issues. Earlier this month, the speech of Dallas high school valedictorian Rooha Hagha ended abruptly as she began to list the names of black teens who were shot by police . Haghar said the school purposefully muted her mic.\"",
+        "word_count": 405,
+        "publish_time": "2025-05-26T14:50:11Z",
+        "source": "Fox News",
+        "tags": [
+          "ai",
+          "news",
+          "tv",
+          "newsus"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N112052",
+          "N85471"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "明星",
+          "电影",
+          "网球",
+          "生活"
+        ],
+        "engagement_score": 0.11
+      },
+      "interaction_data": {
+        "scroll_depth": 0.14,
+        "clicks_count": 10,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.95,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "tv"
+        ],
+        "viral_potential": 0.5,
+        "trend_score": 0.89,
+        "recommendation_relevance": 0.04,
+        "content_quality": 0.24,
+        "user_profile_match": 0.9
+      }
+    },
+    {
+      "timestamp": "2019-06-24T06:09:45Z",
+      "user_id": "U431067",
+      "news_id": "N26402",
+      "action_type": "share",
+      "session_id": "session_42383e461122",
+      "dwell_time": 186,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "markets",
+        "headline": "Farm deluge starts to seep into America's fragile rural economy",
+        "content": "\"Video by Reuters From 100 feet up in the air, Indiana crop duster Robert Sneberger gets a better view than most of how cornfields are faring. This season, the picture is bleak. Instead of the stretching green stalks he normally sees at this time of year, there's water. The wettest year in memory has stalled planting and stunted crops in the U.S. Midwest at a time when farmers are already struggling with low prices and a trade war with China. But they're not alone. The communities they live in and the businesses that supply them with seeds, fertilizer, equipment and services are struggling as credit conditions steadily deteriorate in a fragile rural economy. At Burrus Seed in Arenzville, Illinois, employees spend as much time trying to lift farmers' spirits as they do selling to them, according to the owner. \"\"If we experienced a year like this, I don't remember it,\"\" said Todd Burrus, whose family has run the company since 1935. \"\"When the farm economy is tough, it's going to be tough for all the suppliers.\"\" Another Illinois seed business owner, Kurt Barman, says he's trying not to curtail employee hours even as customers are returning product because they aren't able to plant. \"\"All of the seeds are coming back, so that's lost revenue for us,\"\" he said. The wet weather is presenting farmers with other purchasing dilemmas. Growers are weighing whether to trade up to the latest technology to protect crops and businesses, or use prior versions, according to Mark Patrick, chief financial officer of agro-chemical giant Syngenta AG. \"\"Couple that with less acres, you've got a very acute pressure going on at the moment,\"\" Patrick said in an interview with Bloomberg Television. The fertilizer business is already feeling the effects. Midwest urea premiums have been running at more than double normal levels. While that's good news for suppliers, the reason behind the price surge isn't. With the Mississippi River closed for much of the past month, the regular flow of crop-nutrient shipments has been disrupted with barges stacked up waiting to move, according to Alexis Maxwell, research director for Bloomberg Green Markets. Deerfield, Illinois-based CF Industries Holdings Inc. produces urea locally, while Nutrien Ltd. has urea it can bring in from the Canadian Prairies. Overseas providers have been the ones suffering as they try and get their product to the Midwest. The deluge is just the latest blow to the farm economy. Even the $28 billion in promised tariff aid may not be enough to rescue rural America from the onslaught of bad news. There's been a steady deterioration in agricultural credit conditions, the Kansas City Federal Reserve said in its May report. Farmer sentiment has plunged to levels not seen since October 2016, the month before Donald Trump's election victory, a Purdue University/CME Group index showed this month. Net farm income last year was about half of the $123 billion earned in 2013. The stalled planting this year only works to exacerbate fragility in rural areas, Curt Hudnutt, head of North American rural banking for Rabobank. \"\"If you want to liken it to the 2008 recession from a housing perspective, it's similar to that and it's really vulnerable to any disruptions,'' he said. Shawn Kelly, mayor of Missouri Valley, Iowa, says the weather is casting a shadow over the corn-driven local economy, where average incomes are already well below the national average. \"\"Any time you have a big economic impact from agriculture like that where people can't get their crops in, there's going to be less money for people to spend,\"\" Mayor Kelly said. The deluge has had a far more direct impact on Hamburg. The southwest Iowa town -- home to a John Deere dealership, a Manildra plant and Vogel Popcorn -- was inundated by Missouri River flooding and has had to take on debt to recover from the devastation and reconnect water and gas supply to homes. \"\"We used to have a really healthy bottom line,\"\" Mayor Cathy Crain said in an interview. \"\"As of two months ago, we have spent it all and are now living on and operating on borrowed dollars.\"\" Price 'Godsend' There are some bright spots. Chicago corn futures have rallied about 30% since early May, so farmers that were able to plant and get decent yields can expect better returns, Brad Moffitt , director of market development at the Ohio Corn & Wheat Association, said. Worries of a smaller corn harvest have prompted ethanol plants and animal feeders to bid more aggressively for supplies leftover from last year. In parts of Indiana and Ohio that had some of the biggest planting delays, so-called basis bids for corn are the highest in years. The basis is the amount below or above futures that buyers are willing to pay. That means elevators that still have corn can sell at higher prices. \"\"In terms of the effect on the old crop, both price and basis, it's been a godsend,'' Philip Luce, a grain merchandising specialist at advisory service White Commercial Corp. in Stuart, Florida, said by telephone. \"\"Unfortunately, usually you get these prices when there's a production problem.'' Read More: Cargill Weighs 'Long-Term Response' for U.S. Midwest Flooding The reason for this year's production problem is all too apparent for Sneberger, whose company Aerial Farmer sprays fertilizers and pesticides: \"\"I was just flying over the fields yesterday and I was completely depressed.\"\" Craig Woodley, a pilot who owns Woodley Aerial Spray in Walnut, Illinois, said he's trying to figure out how to save money, since he's still not sure how busy he'll be this summer. \"\"It's a scary picture,\"\" Woodley said. \"\"There's definitely going to be a lot of lives affected.\"\"\"",
+        "word_count": 948,
+        "publish_time": "2025-06-05T13:58:42Z",
+        "source": "BBC",
+        "tags": [
+          "tech",
+          "markets",
+          "ai",
+          "news",
+          "technology",
+          "election",
+          "finance",
+          "report"
+        ],
+        "entities": {
+          "persons": [
+            "{",
+            "America's"
+          ],
+          "locations": [],
+          "organizations": [
+            ": 'United States'}"
+          ]
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N89208",
+          "N27595"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "旅行",
+          "经济"
+        ],
+        "engagement_score": 0.1
+      },
+      "interaction_data": {
+        "scroll_depth": 0.84,
+        "clicks_count": 0,
+        "shares_count": 3,
+        "comments_count": 4,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.52,
+        "topic_keywords": [
+          "tech",
+          "markets",
+          "ai"
+        ],
+        "viral_potential": 0.17,
+        "trend_score": 0.62,
+        "recommendation_relevance": 0.9,
+        "content_quality": 0.99,
+        "user_profile_match": 0.17
+      }
+    },
+    {
+      "timestamp": "2019-06-16T09:23:29Z",
+      "user_id": "U139559",
+      "news_id": "N104854",
+      "action_type": "skip",
+      "session_id": "session_f16ca37f66b1",
+      "dwell_time": 11,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "How a retired couple won millions using a lottery loophole",
+        "content": "\"It was completely legal and it won them millions. Jon Wertheim reports on how Jerry Selbee and his wife Marge used \"\"basic arithmetic\"\" to crack the code on certain lottery games.\"",
+        "word_count": 31,
+        "publish_time": "2025-06-12T04:30:16Z",
+        "source": "CNN",
+        "tags": [
+          "ai",
+          "news",
+          "report",
+          "newsus"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N48218",
+          "N20763"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "国际",
+          "电视",
+          "电影",
+          "金融",
+          "旅行",
+          "美食"
+        ],
+        "engagement_score": 0.74
+      },
+      "interaction_data": {
+        "scroll_depth": 0.67,
+        "clicks_count": 5,
+        "shares_count": 2,
+        "comments_count": 1,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.4,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "report"
+        ],
+        "viral_potential": 0.89,
+        "trend_score": 0.1,
+        "recommendation_relevance": 0.76,
+        "content_quality": 0.6,
+        "user_profile_match": 0.49
+      }
+    }
+  ],
+  "metadata": {
+    "source": "news_app",
+    "version": "1.0",
+    "processed_time": "2025-06-12T19:29:01.268282Z"
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "batch_id": "batch_20250612_192834_899b5e97",
+  "events": [
+    {
+      "timestamp": "2019-06-16T10:40:59Z",
+      "user_id": "U296924",
+      "news_id": "N104138",
+      "action_type": "skip",
+      "session_id": "session_2f53aabe8428",
+      "dwell_time": 105,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Chief justice assures the Supreme Court is apolitical. He's facing his next big test.",
+        "content": "\"Chief Justice John G. Roberts Jr. began the Supreme Court's term last fall seeking to assure the American public that his court does not \"\"serve one party or one interest.\"\" He will end it playing a pivotal role in two of the most politically consequential decisions the court has made in years. One initiative is to include a citizenship question in the 2020 Census, which has fueled a partisan showdown on Capitol Hill. The other could outlaw the partisan gerrymandering techniques that were essential to Republican dominance at the state and congressional level over the past decade. The politically weighted decisions, by a court in which the five conservatives were chosen by Republican presidents and the four liberals were nominated by Democrats, threaten to undermine Roberts's efforts to portray the court as independent. Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post They are among two dozen cases the court must decide in the next two weeks, and never before has the spotlight focused so intently on the 64-year-old chief justice. Roberts sits physically at the middle of the bench in the grand courtroom and now, for the first time since he joined the court in 2005, at the center of the court's ideological spectrum. With the retirement of Justice Anthony M. Kennedy last summer, the most important justice on the Roberts Court became Roberts himself. Roberts in the past has shown himself to be far more conservative than Kennedy, and Justice Ruth Bader Ginsburg suggested recently that has not changed. Kennedy's retirement, she told a group of judges and lawyers in New York, was \"\"the event of greatest consequence for the current term, and perhaps for many terms ahead.\"\" Roberts has been on a mission to convince the public that if the court is ideologically split, it is about law, not politics. \"\"We do not sit on opposite sides of an aisle, we do not caucus in separate rooms, we do not serve one party or one interest, we serve one nation,\"\" Roberts told an audience at the University of Minnesota in October. He repeated the message at Belmont University in Nashville in February. \"\"People need to know we're not doing politics,\"\" he said. In between was the well-publicized spat with President Trump, who just before Thanksgiving criticized an \"\"Obama judge\"\" serving on a lower court who had ruled against his administration in a contentious case centered on immigration policy and border security. Roberts issued a rare public statement: \"\"We do not have Obama judges or Trump judges, Bush judges or Clinton judges. What we have is an extraordinary group of dedicated judges doing their level best to do equal right to those appearing before them.\"\" Trump shot back on Twitter: \"\"Sorry Chief Justice John Roberts, but you do indeed have 'Obama judges,' and they have a much different point of view than the people who are charged with the safety of our country.\"\" So the citizenship question and gerrymandering cases, which have generally split along party lines, do not come at an opportune time. The battle for Roberts has been joined. Brianne J. Gorod, chief counsel of the liberal Constitutional Accountability Center, said the many questions about whether Trump's citizenship question is intended to benefit Republicans should be a warning for Roberts. \"\"If Roberts votes to uphold this plainly unlawful administration action, it will give credence to Trump's claim that he can simply look to the conservative justices on the Supreme Court to save him,\"\" Gorod wrote on the Take Care blog . \"\"That would be a deeply troubling state of affairs both for the court and for the country.\"\" Lawyers challenging the census question seemed to make a similar overture in an unusual motion filed Wednesday, months after the case was argued. They asked the court to either affirm lower courts that have ruled the question can't be added to the census form, or delay a ruling until those courts can examine new evidence about a Republican political operative's role in Commerce Secretary Wilbur Ross's decision to add the citizenship question, which critics contend is discriminatory, politically motivated and will result in a significant undercount of the nation's immigrant population. \"\"This court should not bless the secretary's decision on this tainted record, under a shadow that the truth will later come to light,\"\" they said. The administration has said the new allegations are more like conspiracy theories than legal analysis. Conservatives said it was a familiar ploy to portray the court as apolitical only if one of the conservative members agrees with liberals, not the other way around. \"\"Whenever you read 'legitimacy' in a sentence about the court, you know it's a political missile aimed directly at Chief Justice John Roberts,\"\" wrote the conservative editorial board of the Wall Street Journal. Josh Blackman, a law professor at South Texas College of Law and a frequent conservative legal commentator, picked up the theme on Twitter: \"\"At some point, the 'legitimacy' missiles will begin to bear diminishing returns. Abortion: legitimacy. Census: legitimacy. Gerrymandering: legitimacy. Obamacare: legitimacy. Death penalty: legitimacy.\"\" The focus on Roberts is unsurprising, said Curt A. Levey of the conservative Committee for Justice. Although the jury is still out on Trump appointee Brett M. Kavanaugh, the justice who replaced Kennedy, Roberts is the conservative most likely to be in play, Levey said. \"\"I think it is a predicament for him,\"\" Levey said. The chief justice is the member of the court most sensitive \"\"to what history and the nightly news says about you.\"\" Levey recently wrote that proposals from Democratic presidential candidates and members of Congress to restructure the Supreme Court increasing the number of justices, for instance, or trying to impose term limits are better seen as attempts to push Roberts to more moderate outcomes in the court's decisions. \"\"Such a shift, after all, is progressives' only real hope of avoiding a conservative majority,\"\" Levey wrote . After arguments in the census case, it appeared the court's conservative majority would agree with the Trump administration that Congress has given it wide authority to add questions to the form. Lawyers for the government said Ross considered objections from his own experts who said the question would cause an undercount of those reluctant to disclose that noncitizens lived in their households but decided the additional information would still be worth the risk. Lower courts said Ross's stated reason for adding the question that it would aid enforcement of the Voting Rights Act was pretext. Challengers contended that adding the question would lead to undercounts in Democratic areas and be beneficial to future Republican redistricting plans. But the justices seemed more focused on whether Ross had the authority to add the question than his motivations. But since those April arguments, the case has gotten only more political. On Capitol Hill, the House Oversight Committee voted to hold Ross and Attorney General William P. Barr in contempt for not turning over documents about the administration's decision to add the question. The nearly party-line vote came hours after Trump asserted executive privilege to shield the materials from Congress. In the gerrymandering cases, the court's decision could have far-reaching results for how elections are conducted in the United States. The court often polices redistricting plans drawn by the states to ensure they do not discriminate based on race, but it has never found a plan so infected by politics that it violates voters' rights. On the surface, a decision that courts have no role in trying to decide when there has been too much partisan interference would not help Republicans more than Democrats. The court is considering a North Carolina plan drawn by Republicans to give the party a huge edge, and a Maryland congressional district drawn by Democrats to oust a longtime Republican incumbent. But as a practical matter, being able to draw districts to help the party in control currently benefits the GOP. The party is in control of both the governorship and legislature in 22 states, compared to 14 for Democrats. The Republican National Committee, the Republican National Congressional Committee and the National Republican Redistricting Trust filed briefs supporting North Carolina's plan. Democratic committees stayed out of the cases. Decisions in any of the 24 remaining cases on the court's docket could come as soon as Monday. robert.barnes@washpost.com\"",
+        "word_count": 1384,
+        "publish_time": "2025-06-05T04:03:15Z",
+        "source": "CNN",
+        "tags": [
+          "congress",
+          "policy",
+          "news",
+          "election",
+          "analysis",
+          "newsus",
+          "government",
+          "politics"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N118909"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "时尚",
+          "银行",
+          "保险",
+          "篮球"
+        ],
+        "engagement_score": 0.2
+      },
+      "interaction_data": {
+        "scroll_depth": 0.13,
+        "clicks_count": 7,
+        "shares_count": 3,
+        "comments_count": 4,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.06,
+        "topic_keywords": [
+          "congress",
+          "policy",
+          "news"
+        ],
+        "viral_potential": 0.13,
+        "trend_score": 0.65,
+        "recommendation_relevance": 0.23,
+        "content_quality": 0.51,
+        "user_profile_match": 0.67
+      }
+    },
+    {
+      "timestamp": "2019-06-14T20:55:27Z",
+      "user_id": "U371934",
+      "news_id": "N82050",
+      "action_type": "share",
+      "session_id": "session_868258ecf7a2",
+      "dwell_time": 355,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Android",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tv-celebrity",
+        "headline": "'Housewives' alum Meghan King Edmonds: 'I don't trust' husband anymore",
+        "content": "\"(Video provided by Us) Former \"\"Real Housewives of Orange County\"\" star Meghan King Edmonds is speaking out after reports claimed her husband, Jim Edmonds, was unfaithful. She admitted that she can no longer trust him and said she's \"\"ruined.\"\" On Thursday, the former baseball great told Us Weekly that he \"\"had a lapse in judgment\"\" and had an \"\"inappropriate conversation\"\" with a woman, but he contends that there was never a physical relationship. How did Meghan found out about this? In the tabloids, she said in a lengthy post on her blog on Friday. \"\"I never left a voicemail for the other woman. I called Jimmy and he confessed to me that he had exchanged lewd photos with this woman over the course of several months and a physical relationship never existed,\"\" Meghan wrote. \"\"He paid her off to protect me so I'd never find out.\"\" She continued, \"\"Do I believe him? I don't know. Because I don't trust him anymore. Physical or not, he still had an affair and he admits this to me.\"\" The scandal came to light after a website published alleged intimate conversations Jim had with a woman known as \"\"baseball madame.\"\" Jim, who shares three children with Meghan, threatened legal action, said in his Us Weekly statement that he made a \"\"very poor decision to expose myself and my family to this type of person.\"\" It's going to take time for the former reality TV star to get over it... that is, if she ever can. \"\"I'm a simple girl. I wanted a solid marriage. I'm as loyal as they come and I wanted the vows we made when we exchanged our rings to be acted upon. Now my wedding ring symbolizes fraud,\"\" she wrote. \"\"I refuse to be humiliated by this. Marriage is hard, we've been through our ups and downs, I've talked about it openly. A relationship takes two but it doesn't take two to cheat.\"\" Each text message, Meghan wrote, \"\"represents his decision to throw our marriage in the trash.\"\" \"\"I don't care about my stupid massive house, I don't care about my new car, I don't care about \"\"my diamonds. What does any of that mean when I can't have the most basic needs met? It means nothing. Smoke and mirrors,\"\" she said. \"\"How can one person decide to utterly ruin me? It's not fair.\"\" Meghan lamented that her children aren't getting a \"\"devoted\"\" mother right now while she deals with the scandal, while revealing their son Hart might have a neurological disorder. \"\"I do not fault any other person except my husband. There are so many people out there with bad intentions and it's our responsibility to ignore and rise above. One slimy person doesn't make another person cheat. And there are a million more slimy people to take \"\"slimy person #1's\"\" place,\"\" she wrote. \"\"Marriage is a choice, every. damn. day. On the days I hate him, on the days I want to run from him, on the days I get approached by some hot dude on instagram luring me with trips or money or whatever the hell else the slimy people do. So yes, marriage is a choice on the bad days. And on the good days marriage is easy and beautiful. No one said it would be easy, I just didn't think it would be this hard.\"\"\"",
+        "word_count": 560,
+        "publish_time": "2025-05-15T04:25:36Z",
+        "source": "Reuters",
+        "tags": [
+          "tv-celebrity",
+          "ai",
+          "report",
+          "baseball",
+          "tv"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N21530",
+          "N94166"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "投资",
+          "金融",
+          "篮球",
+          "AI",
+          "社会"
+        ],
+        "engagement_score": 0.44
+      },
+      "interaction_data": {
+        "scroll_depth": 0.14,
+        "clicks_count": 1,
+        "shares_count": 1,
+        "comments_count": 3,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.44,
+        "topic_keywords": [
+          "tv-celebrity",
+          "ai",
+          "report"
+        ],
+        "viral_potential": 0.37,
+        "trend_score": 0.9,
+        "recommendation_relevance": 0.56,
+        "content_quality": 0.11,
+        "user_profile_match": 0.43
+      }
+    },
+    {
+      "timestamp": "2019-06-13T18:55:24Z",
+      "user_id": "U367466",
+      "news_id": "N119976",
+      "action_type": "share",
+      "session_id": "session_0912eb9c9935",
+      "dwell_time": 163,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "movies",
+        "topic": "movies-celebrity",
+        "headline": "Cuba Gooding Jr. surrenders to NYPD on groping allegation, charged with 'forcible touching'",
+        "content": "\"(Video provided by ETOnline.com) Sought for three days for questioning on a sexual-misconduct allegation , Cuba Gooding Jr. voluntarily surrendered Thursday to New York police, was arrested and charged with a misdemeanor count of \"\"forcible touching\"\" involving an accusation he groped a woman's breast in a New York bar on Sunday. Det. Martin Brown, a spokesman for the NYPD, told USA TODAY Gooding was charged by the Special Victims unit after he turned himself in and was questioned at a police precinct. Gooding is expected to be arraigned shortly. News video posted on Twitter showed police walking a cuffed, smiling Gooding out what appeared to be a back door of the precinct. #BREAKING - Cuba Gooding Jr. leaves in handcuffs after surrendering to NYPD on groping allegation. He's been charged with 'forcible touching'. @etnow #EntertainmentNews #CubaGoodingJr pic.twitter.com/Ljox7KbqDG Charles A. O'Keefe (@CharlesAOKeefe) June 13, 2019 Mark Heller, one of Gooding's attorneys who arranged for Gooding to turn himself in to the sex-crime detectives, told USA TODAY he expected Gooding to be arrested and charged with \"\"forcible touching,\"\" commonly known as groping. But Heller insisted prosecutors should decline to prosecute Gooding for lack of evidence of wrongdoing. \"\"I have viewed the footage (of video surveillance) of the entire evening and did not see one scintilla of criminal culpability on the part of Cuba Gooding,\"\" Heller said. News videos posted on Twitter showed Heller defending Gooding as innocent. He said Gooding would plead not guilty. \"\"I am completely confident that he will be totally exonerated,\"\" Heller said. The plan for Gooding to surrender was up in the air earlier on Thursday after Heller watched the surveillance video from the bar and hesitated, unable to contact the Manhattan District Attorney's office to discuss whether a prosecution was possible or warranted. Cuba Gooding Jr.'s lawyer: \"\"I am completely confident that he will be totally exonerated\"\" https://t.co/u5ackWE4Gs pic.twitter.com/bqbC43FAXs CBS News (@CBSNews) June 13, 2019 But Gooding alluded to a video tape when he declared himself innocent of the accusation late Tuesday, as he was preparing to board a flight from Los Angeles to New York. He was stopped by a paparazzo who asked him if he was guilty of the accusation. \"\"No, absolutely not,\"\" Gooding said, smiling affably. In the video of the interview posted by TMZ , Gooding said he was at the bar, met people, took pictures with fans but rejected any suggestion he touched someone inappropriately on purpose or by accident. \"\"I trust the system, let the process speak for itself,\"\" Gooding said as he walked into the terminal, interrupted by a fan seeking a picture. \"\"There's a tape that shows what really happened.\"\" The Oscar-winning actor was accused of drunkenly groping a woman's breast while partying and drinking with her at the Magic Hour Rooftop Bar and Lounge in midtown Manhattan on Sunday night. At least one video posted online (and later deleted) by someone who was in the bar showed Gooding was there that night, holding a microphone and raucously singing with others. It did not show him groping anyone. Police had been seeking to talk to Gooding, 51, since early Monday to question him about the allegation of \"\"forcible touching\"\" at the bar. Heller said the misdemeanor charge could lead to a potential jail sentence of one year. The accuser, 29, called police hours after the alleged encounter in the early hours of Monday. So far, she has not been identified, nor has anyone claiming to be the accuser spoken to the media. Heller told USA TODAY his legal team negotiated an arrangement to allow Gooding to turn himself in to police on Thursday, but that was before he viewed the surveillance video from the bar. Gooding, who won an Oscar for best supporting actor for 1996's \"\"Jerry Maguire,\"\" more recently received plaudits for playing O.J. Simpson on FX's \"\"The People v. O.J. Simpson.\"\" Prior to the current era of widespread #MeToo wariness, which gained force in the fall of 2017, Gooding was criticized for his hard-partying and his behavior towards women. In March 2017, he was slammed on social media when he lifted up the dress of Golden Globe winner Sarah Paulson when he appeared on stage at Los Angeles PaleyFest with his co-stars of \"\"American Horror Story.\"\"\"",
+        "word_count": 709,
+        "publish_time": "2025-06-09T03:41:02Z",
+        "source": "Bloomberg",
+        "tags": [
+          "entertainment",
+          "ai",
+          "news",
+          "movies-celebrity",
+          "breaking",
+          "movies"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N76930"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "理财",
+          "保险",
+          "科技"
+        ],
+        "engagement_score": 0.42
+      },
+      "interaction_data": {
+        "scroll_depth": 0.89,
+        "clicks_count": 10,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.61,
+        "topic_keywords": [
+          "entertainment",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.48,
+        "trend_score": 0.9,
+        "recommendation_relevance": 0.94,
+        "content_quality": 0.81,
+        "user_profile_match": 0.71
+      }
+    },
+    {
+      "timestamp": "2019-06-19T10:39:51Z",
+      "user_id": "U222668",
+      "news_id": "N77212",
+      "action_type": "skip",
+      "session_id": "session_333483346440",
+      "dwell_time": 468,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Hubei",
+        "city": "Wuhan"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "Hope Hicks Declines to Answer Lawmakers' Questions on Transition and White House",
+        "content": "\"Video by The Associated Press WASHINGTON After weeks of simmering frustration, House Democrats took their first shot on Wednesday at questioning a key figure from Robert S. Mueller III's investigation into whether President Trump obstructed justice. They were not entirely happy with the results. Behind closed doors, lawmakers on the House Judiciary Committee pressed Hope Hicks, one of Mr. Trump's closest former aides, for nearly seven hours on her recollections of contacts between the Trump campaign and Russia, as well as on episodes documented by Mr. Mueller, the special counsel, in which Mr. Trump tried to assert control over investigations into those contacts. And they resurrected an older accusation against Mr. Trump: his role in an illegal scheme to make hush payments to two women during his 2016 campaign. Photo gallery by Reuters But if the hearing held out the promise of kick-starting Democrats' stalled investigations into Mr. Trump, it quickly veered toward an increasingly familiar outcome. It took place in private rather than public. And under the direction of the White House, Ms. Hicks declined to answer nearly every question about her time working in the administration, citing instructions from the president that she was \"\"absolutely immune\"\" from answering, lawmakers from both parties said. Sign Up For the Morning Briefing Newsletter At one point she refused, Democrats said, to even identify the location of her West Wing office. Ms. Hicks did engage in queries about her work on the campaign, which is not subject to executive privilege or claims of immunity, discussing what she knew about contacts between Trump associates and Russia. But there was no immediate evidence that those exchanges produced meaningful new revelations. The Judiciary Committee said it intended to release a full transcript of the interview within 48 hours. Democrats were displeased, if not altogether surprised. Several lawmakers threatened to take Ms. Hicks to court to enforce a subpoena for her full testimony. \"\"I'm watching obstruction of justice in action,\"\" said Representative Ted Lieu, Democrat of California. \"\"We're going to go to court. We're going to win and just make Hope Hicks come back again and actually answer the questions about her tenure in the White House.\"\" Republicans, for their part, called the session \"\"a complete waste of time,\"\" given Ms. Hicks's extensive past statements to other congressional committees and Mr. Mueller's investigators. They did not fully use their allotted time for questioning and accused Democrats of refusing to accept Mr. Mueller's decisions not to charge Mr. Trump or his campaign for either conspiracy with the Russians or obstruction of justice ignoring the special counsel's conclusion that he could not exonerate the president of obstruction, either. \"\"They are just trying to continue to make some hay out of the whole Russian collusion and obstruction of justice,\"\" said Representative Steve Chabot, Republican of Ohio. \"\"They seem to be bound and determined to keep this story alive about the president getting impeached.\"\" Mr. Trump seethed on Twitter , accusing Democrats of putting Ms. Hicks \"\"through hell\"\" and seeking a \"\"Do Over\"\" of the Mueller investigation. So sad that the Democrats are putting wonderful Hope Hicks through hell, for 3 years now, after total exoneration by Robert Mueller & the Mueller Report. They were unhappy with result so they want a Do Over. Very unfair & costly to her. Will it ever end? Why aren't they....... Donald J. Trump (@realDonaldTrump) June 19, 2019 ....asking Hillary Clinton why she deleted and acid washed her Emails AFTER getting a subpoena from Congress? Anybody else would be in jail for that, yet the Dems refuse to even bring it up. Rigged House Committee Donald J. Trump (@realDonaldTrump) June 19, 2019 The president's view has bedeviled House Democrats for weeks, as his aides have systematically tried to cut off potential witnesses and contain evidence that Democrats have requested. The stonewalling has prompted a growing number of lawmakers nearly a quarter of the Democratic caucus to support opening an impeachment inquiry. Some Democrats on the committee have begun arguing that they should reach down the witness list to Trump associates who may figure less prominently in Mr. Mueller's report Ms. Hicks was referred to more than 180 times but whom the White House cannot shield from testifying because they never worked in the administration. One such possibility is Corey Lewandowski, Mr. Trump's former campaign manager whom the president ordered in June 2017 to deliver a message to the attorney general at the time, Jeff Sessions, to reassert control over the special counsel investigation and to drastically limit its scope, according to the Mueller report. Another is Christopher Ruddy, a friend of Mr. Trump's, who recounted to the special counsel about being told during a White House meeting the same month that Mr. Trump was thinking hard about firing Mr. Mueller. But both men, and others like the former governor of New Jersey, Chris Christie, are also political allies of the president and savvy messengers capable with the help of House Republicans of upending a hearing to undermine Democrats. Another Democrat-controlled panel, the House Intelligence Committee, will quiz Felix Sater, a former Trump business associate, behind closed doors on Friday about his work on a proposed Trump Tower project in Moscow, Mr. Sater said. The project was discussed at length in Mr. Mueller's report. Under an agreement forged last week with the Justice Department, Judiciary Committee members have begun to get access to F.B.I. summaries of witness interviews and notes and other communications that Mr. Mueller collected. The documents could influence where the committee goes next and how quickly it goes to court to try to push back against defiant witnesses. Ms. Hicks's refusal to answer questions about her White House work was not entirely new. When she appeared for private questioning by the House Intelligence Committee in February 2018, she declined to answer questions about her work on the Trump presidential transition or in the White House. On Wednesday, she came armed with a letter from the White House counsel, Pat Cipollone, saying that she is \"\"absolutely immune\"\" from being forced to testify. \"\"The longstanding principle of immunity for senior advisers to the president is firmly rooted in the Constitution's separation of powers and protects the core functions of the presidency,\"\" he wrote in a letter to the committee's chairman, Representative Jerrold Nadler of New York. But the president stopped short of trying to assert executive privilege over his conversations with Ms. Hicks. The White House made the same argument to stop the former White House counsel Donald F. McGahn II, another key Mueller witness, from testifying before the Judiciary Committee. The claim of absolute immunity is separate from the concept of executive privilege. The Justice Department under both Republican and Democratic administrations has taken the position that the president's closest advisers have such immunity from congressional subpoenas so they cannot be forced to comply with demands for testimony. But the theory has not been fully proven in court, and Democrats believe it is unlikely to stand up when tested. In the closed hearing room, Democrats protested that stance. They have argued that any claims of executive privilege or immunity over information that Ms. Hicks had already shared with Mr. Mueller and was subsequently released in his redacted 448-page report were unlikely to stand up to scrutiny. Lawmakers also typically argue that communications from presidential transition periods are not subject to presidential protections. Democrats asked anyway about a litany of episodes Ms. Hicks knew about or witnessed given her proximity to Mr. Trump, and called up relevant passages of Mr. Mueller's report. They include a 2016 meeting at Trump Tower between campaign officials and a Russian lawyer offering damaging information on Hillary Clinton and the drafting of a misleading statement about the meeting. Mr. Mueller's report also mentioned Ms. Hicks's role in discussions of the firing of James B. Comey as F.B.I. director, the appointment of Mr. Mueller as special counsel and later attempts by Mr. Trump to fire the special counsel or curtail his inquiry. Because executive privilege does not apply to conversations and events that took place during Mr. Trump's campaign, there were signs that lines of questioning around the hush payments to a former Playboy model and pornographic film actress were at least somewhat more productive. Michael D. Cohen, Mr. Trump's former personal lawyer who arranged the payments, pleaded guilty to related campaign finance charges and other felonies and has told prosecutors that Mr. Trump was involved in the scheme. Democrats are expected to cover the same topics at a public hearing on Thursday before the Judiciary Committee. They have called legal experts from both parties to discuss the implications of the hush payments and Mr. Trump's boast last week to ABC that \"\"I'd take it\"\" if Russia again offered his campaign assistance in 2020. Maggie Haberman contributed reporting from New York. Correction: June 19, 2019 This article has been revised to reflect the following correction: An earlier version of this article mischaracterized how the House Judiciary Committee hearing was held on Wednesday. It was in private, not in public.\"",
+        "word_count": 1509,
+        "publish_time": "2025-05-22T01:04:27Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "finance",
+          "newspolitics",
+          "report",
+          "business",
+          "film"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N64362",
+          "N34483"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "新闻",
+          "政治",
+          "理财",
+          "明星"
+        ],
+        "engagement_score": 0.5
+      },
+      "interaction_data": {
+        "scroll_depth": 0.63,
+        "clicks_count": 6,
+        "shares_count": 0,
+        "comments_count": 0,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.45,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.72,
+        "trend_score": 0.71,
+        "recommendation_relevance": 0.85,
+        "content_quality": 0.56,
+        "user_profile_match": 0.04
+      }
+    },
+    {
+      "timestamp": "2019-06-14T13:22:52Z",
+      "user_id": "U179457",
+      "news_id": "N123008",
+      "action_type": "skip",
+      "session_id": "session_9857d1531d4e",
+      "dwell_time": 224,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestylebuzz",
+        "headline": "Serena Williams shares significance of braiding her daughter's hair",
+        "content": "\"Serena Williams posted a sweet photo with her daughter, Alexis Olympia Ohanian Jr. (who goes by Olympia), to Instagram Thursday morning, revealing how she sees styling her daughter's hair as an important bonding experience. \"\"Because of the time (braiding) would take people would often take time to socialize,\"\" she wrote. \"\"It began with the elders braiding their children, then the children would watch and learn from them. The tradition of bonding was carried on for generations, and quickly made its way across the world. I am honored to share this bonding experience with my own daughter and add another generation of historic traditions.\"\" View this post on Instagram Braiding started in Africa with the Himba people of Namibia. We have been braiding her hair for centuries. In many African tribes braided hairstyles were a unique way to identify each tribe. Because of the time it would take people would often take the time to socialize. It began with the elders braiding their children, then the children would watch and learn from them. The tradition of bonding was carried on for generations, and quickly made its way across the world. I am honored to share this bonding experience with my own daughter and add another generation of historic traditions. @olympiaohanian A post shared by Serena Williams (@serenawilliams) on Jun 13, 2019 at 6:00am PDT She also explained how the tradition of braiding hair had begun in Namibia centuries ago, and how African tribes often used braided hairstyles as a unique way of identification. In the comments, Instagram users supported Williams and cheered on how she's passing traditions down to her daughter . \"\"Our #African traditions are so precious,\"\" wrote one user. \"\"Passing this knowledge from generation to generation is the greatest form of love and respect for the continent that has given us so much.\"\" \"\"So beautiful,\"\" wrote another. \"\"#Passingonthehistory.\"\" Others were surprised that the 1-year-old looked so happy as her hair was braided. \"\"How do you get her to sit still and smile and not cry?\"\" asked one user, who said she constantly struggled whenever she attempted to style her daughter's hair . Another referred to it as the \"\"happiest black girl hair braiding session I've ever seen.\"\" This isn't the first time the Ohanian-Williams family has been public about their daughter's hair care. In May, husband Alexis Ohanian made a splash when he applied to multiple natural hair groups on Facebook. \"\"I hope they don't auto-reject my application when they see my profile photo,\"\" he wrote on Twitter, following it with the cry laughing emoji. \"\"I told them it was to keep getting better at doing my daughter's hair.\"\" Just applied to join 4 private Natural Hair facebook groups. I hope they don't auto-reject my application when they see my profile photo 😂 I told them it was to keep getting better at doing my daughter's hair. Alexis Ohanian Sr. 🚀 (@alexisohanian) May 16, 2019 Between both parents and their efforts, it seems like Olympia's hair is in good hands! RELATED VIDEO: Alexis Ohanian turned to the internet to learn to do his daughter's hair\"",
+        "word_count": 516,
+        "publish_time": "2025-05-20T06:26:10Z",
+        "source": "BBC",
+        "tags": [
+          "ai",
+          "lifestylebuzz",
+          "lifestyle"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N98578",
+          "N57844"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "生活",
+          "电影",
+          "娱乐"
+        ],
+        "engagement_score": 0.47
+      },
+      "interaction_data": {
+        "scroll_depth": 0.8,
+        "clicks_count": 9,
+        "shares_count": 2,
+        "comments_count": 5,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.81,
+        "topic_keywords": [
+          "ai",
+          "lifestylebuzz",
+          "lifestyle"
+        ],
+        "viral_potential": 0.29,
+        "trend_score": 0.95,
+        "recommendation_relevance": 0.25,
+        "content_quality": 0.58,
+        "user_profile_match": 0.27
+      }
+    },
+    {
+      "timestamp": "2019-06-30T07:39:09Z",
+      "user_id": "U211751",
+      "news_id": "N10279",
+      "action_type": "like",
+      "session_id": "session_45e9f6512051",
+      "dwell_time": 58,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "more_sports",
+        "headline": "After disqualification at Kentucky Derby, jockey Luis Saez blocked another horse Friday",
+        "content": "\"Luis Saez found himself in even more trouble on the racetrack on Friday. Saez who was disqualified from the Kentucky Derby in May after blocking the lane of another horse, which took away his win after a lengthy review was disqualified again on Friday at Belmont Park in New York after making a similar move in the final stretch. According to the Louisville Courier Journal , Saez was riding Anne Dupree in the seventh race of the day. When he made a move through the final turn and across the finish line first in the six-horse field, he cut off Enlisting and jockey Javier Castellano who was inside on the rail. Castellano, per the report , led Enlisting inside of Saez over the finish line, coming in second. A steward's inquiry determined that Saez and Anne Dupree did in fact block Enlisting, which disqualified Saez from the race. Enlisting and Castellano were awarded the win, while Saez was dropped to third place. Saez and Maximum Security crossed the finish line first at the Kentucky Derby in May, however were disqualified after a lengthy review determined that the horse stepped out from his line near the rail and veered in front of War of Will, blocking his path. Saez was disqualified and Country House was named the winner, marking the first time in Kentucky Derby history that the winner of the race did not finish first . Maximum Security's owners, Gary and Mary West, have since filed a lawsuit after repeatedly contesting the results of the race. Saez's actions on Friday, while unrelated, certainly won't help that cause any. \"\"We remain convinced that our horse, Maximum Security, was the best horse in the 145th Kentucky Derby and that his decisive win on Saturday, May 4, is clearly and convincingly supported by the actual video of the race,\"\" the Wests said in a statement days after the race . \"\"Those same videos underscore why Maximum Security never should have been disqualified.\"\" More from Yahoo Sports: Why Alex Morgan was key to USWNT despite not scoring Report: Kevin Durant's free agent wish list has four teams Rapinoe steals show as USWNT beats co-favorite France Report: Kawhi wants Magic involved in Lakers meeting\"",
+        "word_count": 369,
+        "publish_time": "2025-05-25T05:02:55Z",
+        "source": "Forbes",
+        "tags": [
+          "more_sports",
+          "report",
+          "sports",
+          "ai"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N13567",
+          "N36983"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "商业",
+          "电视",
+          "明星",
+          "财经",
+          "银行",
+          "体育"
+        ],
+        "engagement_score": 0.81
+      },
+      "interaction_data": {
+        "scroll_depth": 0.62,
+        "clicks_count": 1,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.16,
+        "topic_keywords": [
+          "more_sports",
+          "report",
+          "sports"
+        ],
+        "viral_potential": 0.35,
+        "trend_score": 0.46,
+        "recommendation_relevance": 0.08,
+        "content_quality": 0.46,
+        "user_profile_match": 0.53
+      }
+    },
+    {
+      "timestamp": "2019-06-17T10:49:41Z",
+      "user_id": "U258960",
+      "news_id": "N44108",
+      "action_type": "like",
+      "session_id": "session_ebae7fd43df5",
+      "dwell_time": 7,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "health",
+        "topic": "wellness",
+        "headline": "17 Surprising Signs Your Hair Will Go Gray",
+        "content": "\"In the best interest of your locks, we've uncovered hidden signs your hair will go gray and how to change your habits to save your hair color. 17 Surprising Signs Your Hair Will Go Gray While there is practically nothing you can do to prevent gray hairs from sprouting up on your head, there are certainly tell-tale signs to look for that will give you plenty of advanced warning that they're on the way. Are you constantly stressed? Are you soaking up too much sun? Do you have any lingering thyroid issues? If you answered yes to any of those, it's a good bet that there will be some salt-and-pepper in your future. So read on to learn all of the surprising warning signs that your hair, like the leaves in the fall, is destined to change its hue. And for some great tips on what to do with your newly gray locks, be sure to know the 40 Things You're Doing That Will Make You Look Older. 1. You're a natural redhead. Along with blondes, redheads are the most likely to gray (or, in reality, white) early on, since their hair already lacks the pigment. However, unlike blondes with light hair that can easily disguise newly forming gray hairs, redheads have a harder time disguising their grays, as their hair pigmentation makes it more resistant to hair dye. And for more ways to maintain the perfect head of hair well into your golden years, check out these 40 Ways to Have Your Best Hair After 40. 2. You're caucasian. According to Health Magazine , your ethnicity is one of the biggest factors that contributes to the graying process of your hair. Research shows that caucasians develop gray hairs earlier than other races, while Asians are the second and African Americans are the third. For what it's worth, doctors are still unsure about why this pattern occurs. 3. You've had chemotherapy. As Dr. Roopal Kundu, associate professor in dermatology at Northwestern University's Feinberg School of Medicine, told Good Housekeeping Magazine , receiving chemotherapy for any illness can trigger hair loss. But once people emerge from chemo treatments they're hair is far likely to return in shades of gray. 4. You're constantly stressed. Though stress itself hasn't yet been scientifically linked to graying, according to Dr. Kundu, the resulting condition from stress, called Telogen Effluvium, is a temporary disruption in the natural growth and rest cycle of your hair, causing your hair to shed excessively. When you're constantly stressed or struggling with an anxiety disorder, you're more likely to find gray hairs before your more zen peers. Furthermore, there is plenty of anecdotal evidence to suggest that stress is indeed related to the graying process. (See: Time's amazing look into the aging process of U.S. presidents.) 5. You smoke. Not so surprisingly, smokers greatly increase the chances of premature graying with their nasty habit, says Marie Jhin, MD, a board-certified dermatologist and director of Premier Dermatology in San Francisco, in an interview with Health. \"\"If you look at smokers, you can see the wrinkles in their skin. You may not be able to see wrinkles on the scalp, but it's still affecting all the follicles,\"\" she said. In fact, according to a study published in the Indian Dermatology Online Journal, smokers are two-and-a-half times more prone to premature graying. And for more great coverage of hair, check out these 15 Top Hair Tips from Top Hollywood Stylists. 6. You're missing key nutrients in your diet. If you have a poor diet or are missing key nutrients in your current health regimen, then you might be missing a key vitamin B12 that, according to Dr. Jihn, can help keep your hair healthy. As it turns out, vegans and vegetarians are the most likely to be missing out on this key vitamin, as it is most plentiful in dairy products, fish, poultry, and meat. To avoid going gray prematurely, either try to maintain a more balanced diet, or, if you're a vegan or vegetarian, take a B12 supplement. 7. You have diabetes, pernicious anemia, or thyroid problems. Yes, your health condition could also be causing you to go gray. This is especially the case if you suffer from diabetes, pernicious anemia, or thyroid problems, as these illnesses are known for directly attacking your hair follicles, says a study conducted by the Universidad Peruana Cayetano Heredia in Lima, Peru. In fact, hair follicle damage is shown to be one of the early markers for type 2 diabetes. 8. You're failing to care for your scalp. In general, you should try to take care of your hair every day, making sure that it's hydrated and healthy. As trichologist Madeleine Preston told Cosmopolitan Magazine , shampooing and massaging your scalp on a daily basis can also bring \"\"vital nutrients to the scalp via the blood supply and feeding our follicles.\"\" While failing to do this won't exactly result in a head full of gray hairs tomorrow, it can keep your follicles healthy, vibrant, and armed against the coming grays. 9. Your parents went gray early. Despite efforts to maintain a healthy lifestyle, gray hair may soon be an inevitable part of your appearance if your parents or other relatives went gray early on in their lives. According to Preston, \"\"Grey hair is an inherited trait if your parents went grey early there is a possibility that you will, too.\"\" In a study published in Nature Communications, researchers even found the primary gene involved with premature greying IRF4. This gene is in charge of regulating and producing melanin. When your body starts producing less melanin, it causes your hair to turn gray. 10. You have vitiligo. While the skin condition vitiligo is not life-threatening, it can greatly alter the appearance of your skin and hair, often causing premature graying in certain spots of your scalp. This is due to vitiligo's effects on the cells that produce melanin, that often causes them to die or stop functioning, according to the Mayo Clinic. 11. You have Alopecia areata. Unlike vitiligo, Alopecia areata is an autoimmune disease that actually attacks hair follicles, leaving sufferers of the illness with bald spots. Then, according to the Wimpole Clinic, regrowth of this lost hair on your scalp will most likely result in weaker hair follicles devoid of pigment meaning that your new hair will be gray. 12. You shed hair often. If you're over the age of 35 and you tend to shed your hair quite often, then there's a likely chance that the hair set to replace the old strands will most likely be gray. In fact, according to Women's Health , there are a number of factors that could damage your hair follicles and lead to prolonged excessive shedding, such as stress and using blow dryers, straighteners, and chemicals in the hair. In short, be kind to your hair and your hair will reward you with brighter strands. And for more great facts about your follicles, see the 20 Surprising Reasons Your Hair is Thinning. 13. You have heart disease. According to a study presented at the European Society of Cardiology's annual congress, the \"\"hardening and narrowing of one's arteries, called atherosclerosis, and the graying of hair both rely on similar mechanisms,\"\" which means that if you're at risk for developing a heart condition or if you already have been diagnosed with one your chances of developing gray hair are much greater. Additionally, the study pointed to the astonishing fact that graying hair could also signify a heart condition, as a large percentage of the 545 men tested with gray hair presented early signs of heart disease. 14. You're over the age of 50. To be fair, if you've already made it to 50 without a gray hair in sight, you should count yourself as lucky, since half of the population sees at least some graying up to this point, says Dr. Michael Eidelman, Medical Director of Chelsea Skin & Laser and Assistant Professor of Dermatology at Icahn School of Medicine at Mount Sinai. \"\"On average, 50 percent of the population will have 50 percent gray hair by the age of 50,\"\" he said. He also pointed out that men tend to begin noticing gray hairs around age 30, while women won't typically show signs of graying until age 35. 15. Your hair is more coarse than before. Due to their loss of pigmentation and the damaged nature of your hair follicles, the gray hair that assembles to replace the old, pigmented hair follicles tends to be more brittle and coarse. So, if you've begun to notice a change in the texture of your hair, this could be pointing to the impending doom of colored locks. 16. You've experienced trauma. According to Scientific American, a traumatic event can affect your whole body even damaging your hair follicles. Basically, an incredibly stressful event can generate a swarm of free radicals in your hair follicles, which travel along the hair shaft, destroying its pigment in a manner that appears similar to a bleaching effect. 17. You spend too much time in the sun. Fact: UV rays affect your hair follicles. In short, it's a bleaching effect on your hair that's incredibly damaging, leaving your follicles brittle and prone to breakage, resulting in the replacement of your healthy strands with gray ones. So, be careful in the sun and use a hair cream like this one , by Drybar, that will protect your hair from UVA/UVB exposure. And remember: If you're going gray, don't sweat it! Simply check out the 6 Keys for Nailing Perfect Silver Fox Hair. To discover more amazing secrets about living your best life, click here to sign up for our FREE daily newsletter !\"",
+        "word_count": 1625,
+        "publish_time": "2025-05-19T10:31:27Z",
+        "source": "Washington Post",
+        "tags": [
+          "congress",
+          "medical",
+          "research",
+          "wellness",
+          "ai",
+          "health",
+          "news",
+          "study"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N98288",
+          "N45864"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "电视",
+          "电影",
+          "生活",
+          "美食",
+          "奥运会"
+        ],
+        "engagement_score": 0.9
+      },
+      "interaction_data": {
+        "scroll_depth": 0.22,
+        "clicks_count": 10,
+        "shares_count": 0,
+        "comments_count": 3,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.72,
+        "topic_keywords": [
+          "congress",
+          "medical",
+          "research"
+        ],
+        "viral_potential": 0.79,
+        "trend_score": 0.14,
+        "recommendation_relevance": 0.44,
+        "content_quality": 0.8,
+        "user_profile_match": 0.92
+      }
+    },
+    {
+      "timestamp": "2019-06-18T12:23:40Z",
+      "user_id": "U15036",
+      "news_id": "N108433",
+      "action_type": "share",
+      "session_id": "session_1e9a76122341",
+      "dwell_time": 50,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shaanxi",
+        "city": "Xi'an"
+      },
+      "news_details": {
+        "category": "travel",
+        "topic": "travelnews",
+        "headline": "Terrible things tourists have done at Disney parks",
+        "content": "\"From a horrible YouTube stunt gone wrong to a person who dumped ashes on a ride, here are stories of tourists behaving badly at Disney Parks. Tourists are known for wreaking havoc on airplanes , in nature , and even in Disney parks. At Disney parks - some of the most popular tourist attractions in the world - people have acted inappropriately, broken the rules, and gotten banned or arrested proving that even Disney parks can be disappointing . From stunts that have gone wrong to more violent attacks, keep reading to find out what terrible things tourists have done at Disney parks. A man was found guilty of groping Minnie Mouse at Disney World. In 2009, a 60-year-old man was found guilty of groping Minnie Mouse while vacationing at Disney World, reported NBC 6. The woman who was playing the Disney character said that the man grabbed her breasts and buttocks. At the time, she could not do anything because she had to stay in character, but she reported the incident as soon as she could. The man was sentenced to supervised probation and 50 hours of community service, according to WESH. Splash Mountain has been dubbed \"\"Flash Mountain\"\" because of the number of women who flash the camera on the ride. Over the years, there have been a number of reports of people flashing the camera while on the Splash Mountain ride at Disney World. In fact, the park created a cast member role to evaluate each picture and filter out the inappropriate images before they went on display for the public. But in 2009, the park announced in a statement that it got rid of the position because \"\"we have determined that actual inappropriate behaviors by guests are rare.\"\" An intoxicated man snuck into the cast member tunnels in Epcot and allegedly hit three cast members In 2013, a Navy Academy graduate reportedly became intoxicated and snuck into the cast member tunnels that are off limits to Disney World guests during the International Food and Wine Festival in Epcot. According to the Orlando Sentinel, he punched two cast members in the face and struck another with a three-foot pipe. He was charged with aggravated battery and two counts of battery, reported the Sentinel. A woman found a loaded gun on a ride at Animal Kingdom after its owner accidentally dropped it. In 2013, a woman stepped onto the Dinosaur ride in Animal Kingdom to find a loaded gun on the seat. When the pistol was turned over to the park attendants, they learned the gun belonged to another park guest, reported CBS News . The owner of the gun said the weapon must have slipped from his pocket while on the ride, which he described as \"\"bumpy.\"\" He said he was not aware that guns were forbidden at the park. The gun was given to the Orange County Sheriff's Office, and the man was escorted out of the park. A man caused a disturbance in Disney Springs after fighting with management about having to wait a long time for his food to arrive. In 2015, a customer was waiting for his food at Bongos Cuban Café in Downtown Disney when he complained to management about the long wait time. The situation escalated, and the man reportedly attempted to punch one of the managers and knocked over tables, according to the Orlando Sentinel. The disturbance caused other restaurant patrons to flee without paying, reported the Sentinel. A couple held someone else's luggage hostage at a Disney resort after their Hello Kitty toothbrush broke. In 2016, a luggage mix-up at Disney's Animal Kingdom Villas led to a bizarre confrontation with two of the hotel guests. The hotel accidentally sent the luggage meant for one guest's room to another room instead. When hotel personnel knocked on the couple's door to retrieve the mixed-up luggage and amend the mistake, the couple yelled about a broken Hello Kitty toothbrush, according to the Orlando Sentinel . They demanded the hotel replace the toothbrush immediately. When the hotel workers did not oblige, the couple locked themselves in the room, holding the luggage hostage. Eventually, the hotel called the police, who forced their way into the hotel room. The couple then attacked the officers and were charged with battery on a law enforcement officer, grand theft, and resisting an officer without violence, according to the Sentinel. It's unclear how the Hello Kitty toothbrush was broken. A woman was accused of choking a teenager after the latter blocked her view of a fireworks show. In 2017, a woman was watching the nightly fireworks show at Disney's Magic Kingdom when a teenager and her friends stood up to watch the show. The woman repeatedly told the girls to sit down, according to the Orlando Sentinel . The woman then reportedly wrapped her hands around the teenager's neck and choked her. She was arrested and charged with felony child abuse, according to the Sentinel. A man caused a hotel to go on lockdown after telling people that there was an active shooter as a prank. In 2018, a 22-year-old reportedly ran up to guests at Disney's Contemporary Resort telling them there was an active shooter on the premise - when there wasn't. The resort went on lockdown. The man was reportedly trying to record their reactions as a prank so he could post the video on YouTube, according to the Orlando Sentinel . He was arrested and charged with disturbing the peace and disorderly intoxication, according to the Sentinel. A tourist climbed the Mayan Temple at the Mexico Pavilion in Epcot, and it was caught on camera. In 2015, a man climbed the Mayan Temple in the Mexico Pavilion of Epcot, reported NBC 6 . Someone caught this happening on video and posted it to Instagram with the caption, \"\"We saw this tonight. This man is going to ruin EPCOT for everyone.\"\" The man has not been identified. A woman reportedly dumped ashes in the \"\"Pirates of the Caribbean\"\" ride at Disneyland. Some people claim to have seen a woman dumping ashes into the water of the \"\"Pirates of the Caribbean\"\" ride at Disneyland in 2007, according to the Los Angeles Times . Although it was never confirmed, witnesses \"\"described the substance as a baby powder that quickly dissipated.\"\" The ride was immediately shut down as experts examined the contents. The ride was later reopened after it was determined the substance was not harmful to riders. There are also numerous reports of people dumping loved ones' ashes in the Haunted Mansion, the \"\"Pirates\"\" ride, and other famous Disney attractions, according to People .\"",
+        "word_count": 1105,
+        "publish_time": "2025-05-17T19:17:29Z",
+        "source": "ESPN",
+        "tags": [
+          "travel",
+          "ai",
+          "news",
+          "travelnews",
+          "report"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N42583",
+          "N91695"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "银行",
+          "理财",
+          "网球",
+          "电影"
+        ],
+        "engagement_score": 0.08
+      },
+      "interaction_data": {
+        "scroll_depth": 0.5,
+        "clicks_count": 6,
+        "shares_count": 2,
+        "comments_count": 0,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.17,
+        "topic_keywords": [
+          "travel",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.47,
+        "trend_score": 0.12,
+        "recommendation_relevance": 0.99,
+        "content_quality": 0.72,
+        "user_profile_match": 0.26
+      }
+    },
+    {
+      "timestamp": "2019-06-17T10:32:05Z",
+      "user_id": "U267403",
+      "news_id": "N112255",
+      "action_type": "read",
+      "session_id": "session_3ec6b1fb0623",
+      "dwell_time": 3,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "entertainment",
+        "topic": "entertainment-celebrity",
+        "headline": "Do You Remember the Child Star Everyone Was Obsessed With the Year You Were Born?",
+        "content": "\"Wow, what a throwback! Take a walk down memory lane as we look back at the most popular child star the year you were born. These kids made us laugh, cry, and basically were our idols growing up. On our list, you'll see young superstars such as Shirley Temple, the children from The Brady Bunch , Brooke Shields, Reese Witherspoon and other familiar faces that changed the film world forever. 1940: Shirley Temple Arguably the most popular child star of all time, Shirley's trademark golden curls, dimpled smile, darling personality and dancing skills made her the top box office draw from 1935 to 1938. Her popularity declined during the 40s. She eventually pursued a successful diplomatic career. 1941: Virginia Weidler Appearing in classic films including The Women and The Philadelphia Story , Virginia played in more than 40 films. She was known for the mischievous gleam in her eye and her comic timing and held her own alongside film greats such as Jimmy Stewart and John Barrymore. 1942: Joan Leslie Joan honed her singing, dancing, and mimicry skills in vaudeville. She was discovered by a talent scout during a performance in New York, which landed her a string of important roles while still a teen. In 1941, she appeared in High Sierra with Humphrey Bogart and Sergeant York with Gary Cooper, but her most memorable role was the lead female in Yankee Doodle Dandy with James Cagney in 1942. 1943: Roddy McDowall Roddy's gentle demeanor made him a hit in movies that featured animal co-stars, such as My Friend Flicka and Lassie Come Home . At the height of World War II, feel-good movies like these (Lassie does make it home, after all!) were a welcome escape for a war-weary nation. 1944: Margaret O'Brien Debuting with a one-minute scene in 1941's Babes in Broadway , Margaret went on to appear in one feature film after another during the 40s. In 1944, she won an Academy Award for Outstanding Child Actress for her role in Meet Me in St. Louis , alongside Judy Garland and Mary Astor. 1945: Elizabeth Taylor Long before she was a screen siren as Cleopatra or Maggie in Cat on a Hot Tin Roof , little Elizabeth co-starred alongside horses and dogs, and in fact, she was the girl who helps Lassie Come Home! As a child star, Elizabeth also played the lead in National Velvet and Courage of Lassie . 1946: Karolyn Grimes At six years old, Karolyn played the adorable Zuzu, the youngest child of George and Mary Bailey, in the beloved holiday classic, It's a Wonderful Life . Although she appeared in 15 other films during her career, she's most remembered for explaining to her daddy, played by Jimmy Stewart, that \"\"every time a bell rings, an angel gets its wings.\"\" 1947: Dean Stockwell Few child stars manage to maintain an acting career into adulthood, but Dean has worked in film, stage, and television since his first movie role in 1945. He's often remembered for the 1990s time-traveling TV series Quantum Leap , but he won a Golden Globe as a child for his role in the 1947 movie, Gentleman's Agreement , alongside stars Gregory Peck and Dorothy McGuire. 1948: Natalie Wood Before she became a screen legend as an adult in roles in Splendor in the Grass and West Side Story , Natalie was a child star. Her first memorable role was in the 1947 holiday classic, Miracle on 34th Street as the little girl who learns that believing in Santa isn't so silly after all. 1950: Bobby Driscoll Discovered in a barber shop at five years old, Bobby played in several big feature films including The Fighting Sullivans , So Dear to My Heart , and The Window , which earned him an Academy Award as outstanding juvenile actor in 1950. He's best remembered for his role as Jim Hawkins in the Disney hit, Treasure Island . 1951: Arlene McQuade Arlene was a radio and theater actress who is best known for her portrayal of the daughter of a New York City immigrant family in the TV series, The Goldbergs . The show ran from 1949 to 1957. 1952: David and Ricky Nelson Starring with their real-life parents on The Adventures of Ozzie and Harriet , David and Ricky grew up on this small screen series. Eventually, they became teen heartthrobs and got married on the show. The brothers appeared on 434 episodes during the show's long run from 1952 to 1966. 1953: George Winslow First appearing on Art Linkletter's radio show, George became an instant hit as the little boy with the gravelly voice (nicknamed \"\"Foghorn\"\") and deadpan delivery. His most memorable role was as a young admirer of Marilyn Monroe in Gentleman Prefer Blondes . He famously stole the scene when he tells Marilyn \"\"you've got a lot of animal magnetism.\"\" 1954: Elinor Donahue Starting out in vaudeville as a singing and dancing toddler, Elinor was cast in minor parts in feature films during the 40s. Her wholesome demeanor earned her the role as the eldest daughter in the classic TV show, Father Knows Best , which debuted in 1954. She was known for her pleasant \"\"girl-next-door\"\" appeal and appeared regularly on many TV series throughout the '60s and '70s. 1955: Annette Funicello Who knew mouse ears could have so much power? Discovered by Walt Disney at her spring dance recital, Annette auditioned for the role of Mouseketeer on the Mickey Mouse Club . She was an immediate star, receiving 6000 pieces of fan mail a month during the first season. She went on to appear in many 60s TV shows and movies while maintaining her wholesome image. 1956: Richard Keith Richard shot to fame on I Love Lucy as Lucy and Ricky's son, \"\"Little Ricky.\"\" Like his on-screen dad, Dezi Arnaz, he played the drums with confidence and flair. Actually, he had started playing at three-years-old and was on tour at the time of his audition for the show at age five! 1957: Tommy Kirk Tommy became a member of The Mickey Mouse Club in 1955, which led to roles in the Hardy Boys movies. But he earned teen idol fame for his part as the boy who loves Old Yeller in this classic 1957 tear-jerker about a boy and his heroic dog. Spoiler: The dog doesn't make it. He went on to play in many other popular movies including The Shaggy Dog and Swiss Family Robinson . 1958: Jerry Mathers Jerry's career kicked off when he appeared in a condensed milk commercial at age two. He also had small parts in several movies before earning the title role in the series, Leave it to Beaver , which debuted in 1957. The show became a huge hit, due in part to the brotherly dynamics between Jerry and his on-screen big brother, actor Tony Dow. 1959: Jay North Chosen from more than 500 kids who auditioned, Jay brought to life the comic strip imp, Dennis the Menace . The show, which ran for four seasons, followed his misadventures, which often involved upsetting his long-suffering neighbor, Mr. Wilson. 1960: Hayley Mills Winning an Academy Award and a Golden Globe for her lead role in the movie Pollyanna , Hayley went on to star in a number of hit comedies including The Parent Trap and That Darn Cat! She continued to work in film throughout the '60s and has had recurring roles on many different TV series. 1961: The boys from My Three Sons With an epic run from 1960 to 1972, My Three Sons followed the life of a widower raising his three boys with the help of his father-in-law. The boys: Tim Considine as Mike, Don Grady as Robbie, and Stanley Livingston as Chip, became household names as they grew up on the series. Ernie, played by Barry Livingston (Stanley's real-life brother), later joined the family. 1962: Mary Badham Unforgettable in the role of the tomboy Scout in To Kill a Mockingbird , Mary was nominated for an Academy Award as Best Actress in a Supporting Role. At the time, she was 10 years old and was one of the youngest people ever nominated for the award. 1963: Patty Duke Interestingly, the Best Supporting Actress Oscar that Mary had been nominated for went to Patty for her role as Helen Keller in The Miracle Worker . Her fame launched her TV series, called The Patty Duke Show . 1964: Butch Patrick Somehow, The Munsters never understood why other people reacted so outlandishly toward them. Eddie, played by Butch, starred in 71 episodes during the TV show's original two-season run, and he's probably the cutest werewolf you'll ever see. 1965: Bill Mumy Danger, Will Robinson! Bill plays the son of a family which must flee Earth due to overpopulation to colonize another planet. Unfortunately, their ship is sabotaged and they soon become Lost in Space . The TV series ran for three seasons with Bill and his family battling everything from evil spirits to aliens. 1966: Anissa Jones After some minor parts in movies, Anissa, with her trademark curly pigtails, won the role as the niece in the TV series Family Affair . The show debuted in 1966 and ran for five seasons, chronicling the life of a bachelor whose life changes when he becomes guardian of his brother's orphaned children. 1967: Darby Hinton Darby appeared in TV commercials and had minor parts on many popular '60s shows before winning the role of Israel Boone, the son on the hit series, Daniel Boone . The show ran for six seasons, with Darby and his dad, the ripping-est, roaring-est, fighting-est man the Frontier ever knew, battling the perils of the 18th century wilderness. 1968: Marc Copage In 1968, the series Julia followed the life of a young widowed nurse, actress Diahann Carroll, whose husband had been killed in Vietnam. Her young son was played by Marc, an adorable little boy who was a natural despite having no previous acting experience. The show ran for three seasons. 1969: Clint Howard The TV series Gentle Ben followed the adventures of an Everglades game warden, his wife, and their son, played by Clint, who just happens to have a tame brown bear as a pet. Although the series only lasted a few seasons, Clint has worked continuously in TV and film since then. And Clint's not the only Howard to make it big; you'll read about his big brother, Ron, later. 1970: Erin Murphy Erin was as cute as can be when she was cast as daughter Ta...",
+        "word_count": 1763,
+        "publish_time": "2025-05-13T01:50:40Z",
+        "source": "Associated Press",
+        "tags": [
+          "movie",
+          "entertainment-celebrity",
+          "entertainment",
+          "ai",
+          "stock",
+          "tv",
+          "film"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N88470",
+          "N61124"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "AI",
+          "美食",
+          "经济"
+        ],
+        "engagement_score": 0.51
+      },
+      "interaction_data": {
+        "scroll_depth": 0.19,
+        "clicks_count": 10,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.91,
+        "topic_keywords": [
+          "movie",
+          "entertainment-celebrity",
+          "entertainment"
+        ],
+        "viral_potential": 0.82,
+        "trend_score": 0.09,
+        "recommendation_relevance": 0.88,
+        "content_quality": 0.39,
+        "user_profile_match": 0.88
+      }
+    },
+    {
+      "timestamp": "2019-06-16T20:25:49Z",
+      "user_id": "U396469",
+      "news_id": "N65139",
+      "action_type": "read",
+      "session_id": "session_e11a919c430c",
+      "dwell_time": 94,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "finance-career-education",
+        "headline": "What it takes to be a $200,000-a-year nanny",
+        "content": "\"Child care positions aren't usually thought of as high-paying jobs . But with wealthier families seeking nannies that are trained in newborn care, child development or languages, it's becoming more common to see in-home caregivers earning six-figure salaries. In demand are top-tier career nannies who have specializations, certifications and loads of experience. \"\"We've seen a lot of requests for Mandarin and French speakers in the nanny role,\"\" says Keith Greenhouse, chief executive of the household staffing company Pavillion Agency. \"\"Lately more than ever people want someone who is tech savvy and nannies who can move into a family assistant role.\"\" Such nannies work long hours or overnights and may even travel with the family. But they can make between $150,000 to $180,000 a year in places like New York or Los Angeles. Sometimes even more in the Bay Area. \"\"Families are paying over $220,000 a year in San Francisco,\"\" says Anita Rogers, president and founder of British American Household Staffing. \"\"There's a value in paying well for your employees, especially in your household.\"\" The 6-figure nanny With more skills come higher rates. At Educated Nannies, a staffing agency in Los Angeles, nannies need to have college degrees and families appear to be most interested in candidates with backgrounds in child development. \"\"Many of our families don't want any screen time for the kids,\"\" says Ryan Jordan, founder of Educated Nannies. \"\"So that's the time the nanny needs to bring in preschool curriculum and adventures.\"\" But while a preschool teacher makes $13 to $15 an hour, or around $30,000 a year according to the Bureau of Labor Statistics, skilled nannies are commanding double that at $25 to $40 an hour. Some newborn care specialists in Los Angeles can even earn $70 an hour, says Ryan. At that rate, specialists working a schedule that some keep -- 9 or 10 hour shifts, six-days-a-week -- find it possible to earn $200,000, including overtime or travel pay. Heidi Joline has worked as a nanny for nearly 20 years. But she wasn't always so sure childcare was the right career for her. \"\"Saying you're a nanny doesn't get that 'Oh! You're a nanny? That's so exciting!' reaction from people,\"\" she says. \"\"It's like \"\"Oh, you're a nanny. When are you going to get a real job?\"\" But after trying office work for a bit, she returned to nannying and realized she could grow in a way that was interesting to her, valuable to her families and a lot more lucrative than teaching preschool. She has passed the International Nanny Association Exam, taken Yale courses on child rearing and Stanford courses on health across the gender spectrum. She has studied child psychology, newborn care and resilience following trauma. Currently working with a family in Los Angeles, Joline prepares a curriculum every month for the preschooler she cares for. This month's theme is bugs, and she has planned a lineup of songs, stories and activities along with learning words in Spanish, French and Mandarin. She and the child even released 3,000 ladybugs into the wild. \"\"In this field, things change all the time,\"\" Joline says. \"\"What we did with our children five years ago is not what we're doing now with regard to nutrition, socialization, education and overall well-being. You have to keep up with that to help inform the parents.\"\" And her skills have not gone unnoticed: she was named 2019 Nanny of the Year by the International Nanny Association. \"\"As a nanny you have to have those specialties and you have to continue your education,\"\" Joline says. \"\"In other places, it may be fine to just have CPR training, but if you're in the bigger markets, where you are expecting higher pay and working with higher-profile people, you need specialized skills to stand out.\"\" She earns at least $30 an hour with additional pay for overtime, overnights or travel, allowing her to earn more than $100,000 a year. And now, as the child is spending more time at school, Joline is transitioning into a family assistant role, handling the organizational side of the family's life including grocery shopping, cooking meals, picking up dry cleaning, handling pool cleaners and housekeepers and making sure the family's dog has vet visits and a stock of food. The newborn-care specialist For some affluent families, bringing home a new baby may involve not just a nanny or two, but also a lactation consultant and a newborn care specialist. That's where Marly Higgins Driskell comes in. After 23 years as a traditional nanny, she was looking to stay in a career she loved, but expand her work. Her full title is now, \"\"Certified Credentialed Master Newborn Care Specialist,\"\" and her expertise is with high-order multiples like triplets, quadruplets and even quintuplets. \"\"I come in and help empower and educate the parents,\"\" she says. \"\"If there are other caregivers in the house, I will take the lead. What happens during the day impacts what happens at night.\"\" Working with families for three to four months right after the birth, she sleep conditions the baby with gentle, non-cry-it-out methods. But don't confuse her with a night nanny, who is taking instructions from the parents. Higgins Driskell's role is more like a consultant. She says that after a couple of months she often has babies sleeping 10 to 12 hours through the night with no feedings. Her fees, which in Houston are lower than those in New York or Los Angeles, start at $35 an hour, and she will sometimes work up to 80 hours a week. Like many professionals earning six figures and working long hours, she has help. She has her own personal assistant for correspondence, a social media assistant and a housekeeper to clean her home. \"\"I run better when I have help,\"\" she says. Related video: Retail jobs are notoriously low-paid. For some, that may change\"",
+        "word_count": 976,
+        "publish_time": "2025-05-21T12:52:05Z",
+        "source": "BBC",
+        "tags": [
+          "tech",
+          "market",
+          "ai",
+          "health",
+          "finance",
+          "stock",
+          "finance-career-education"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N82050"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": true,
+        "user_interests": [
+          "新闻",
+          "政治",
+          "经济",
+          "金融"
+        ],
+        "engagement_score": 0.3
+      },
+      "interaction_data": {
+        "scroll_depth": 0.75,
+        "clicks_count": 4,
+        "shares_count": 1,
+        "comments_count": 1,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.46,
+        "topic_keywords": [
+          "tech",
+          "market",
+          "ai"
+        ],
+        "viral_potential": 0.69,
+        "trend_score": 0.49,
+        "recommendation_relevance": 0.08,
+        "content_quality": 0.85,
+        "user_profile_match": 0.4
+      }
+    }
+  ],
+  "metadata": {
+    "source": "mobile_app",
+    "version": "1.0",
+    "processed_time": "2025-06-12T19:28:34.454598Z"
+  }
+}

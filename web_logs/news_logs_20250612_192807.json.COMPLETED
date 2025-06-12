@@ -1,0 +1,756 @@
+{
+  "batch_id": "batch_20250612_192807_04577f78",
+  "events": [
+    {
+      "timestamp": "2019-06-24T07:22:41Z",
+      "user_id": "U285976",
+      "news_id": "N39614",
+      "action_type": "comment",
+      "session_id": "session_d54b00f88d7e",
+      "dwell_time": 125,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "video",
+        "topic": "lifestyle",
+        "headline": "CrossFit: Patrick Vellner, 2nd Fittest Man",
+        "content": "Canadian Patrick Vellner is the second fittest man on the planet, but does the chiropractor student think he can take down Mat Fraser at CrossFit Games?",
+        "word_count": 26,
+        "publish_time": "2025-05-17T01:54:19Z",
+        "source": "NBC News",
+        "tags": [
+          "lifestyle",
+          "video"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N51065",
+          "N17073"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "篮球",
+          "电脑",
+          "银行"
+        ],
+        "engagement_score": 0.45
+      },
+      "interaction_data": {
+        "scroll_depth": 0.4,
+        "clicks_count": 0,
+        "shares_count": 1,
+        "comments_count": 2,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.47,
+        "topic_keywords": [
+          "lifestyle",
+          "video"
+        ],
+        "viral_potential": 0.94,
+        "trend_score": 0.53,
+        "recommendation_relevance": 0.32,
+        "content_quality": 0.42,
+        "user_profile_match": 0.07
+      }
+    },
+    {
+      "timestamp": "2019-06-19T16:30:55Z",
+      "user_id": "U116027",
+      "news_id": "N54516",
+      "action_type": "click",
+      "session_id": "session_9ada57104a6b",
+      "dwell_time": 148,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "\"House confronts the \"\"inheritance of slavery\"\" in panel on reparations\"",
+        "content": "\"Sen. Cory Booker said in a panel that the U.S. needs to address \"\"persistent inequalities\"\" experienced by African Americans by discussing reparations, the idea that the descendants of slaves should be compensated for the injustices and cruelty their ancestors experienced. Booker said that the nation has \"\"yet to truly acknowledge and grapple with the racism and white supremacy that tainted this country's founding and continues to cause persistent and deep racial disparities and inequality. These disparities don't just harm black communities, they harm all communities.\"\" A House Judiciary subcommittee debated H.R. 40, a bill that would study how the U.S. would implement reparations to black Americans, amid a national conversation about what the federal government owes descendants of slaves. Booker, writer Ta-Nehisi Coates and actor Danny Glover were among the witnesses who testified before the panel. The panel took place on \"\"Juneteenth,\"\" a holiday which commemorates the day of emancipation for slaves in Texas on June 19, 1865, as well as the general emancipation of all slaves. A few hundred people lined up outside the doors of the hearing room before it began, including a line of people raising their fists in the black power symbol. Dozens of people were ushered into the overflow room to view the hearing on video. The audience in the hearing was vocal, often applauding or booing certain witnesses. The panel took place the day after Senate Majority Leader Mitch McConnell said that he believed rights for black Americans had advanced enough to render reparations unnecessary. \"\"I don't think that reparations for something that happened 150 years ago, for whom none of us currently living are responsible, is a good idea. We tried to deal with our original sin of slavery by fighting a Civil War, by passing land mark civil rights legislation. We elected an African American president,\"\" McConnell said. McConnell once made it his mission to make President Obama a one-term president, and worked to block legislation supported by Obama throughout his tenure. As the witness in the first panel, Booker emphasized the significance of H.R. 40. \"\"This is a very important hearing. It is historic. It is urgent,\"\" Booker, who has introduced the Senate version of the bill, said. He argued that black Americans deserve compensation not only for slavery, but for the legacy of domestic terrorism against black people post-Civil War, segregation, as well as for redlining, a practice used by mortgage providers that kept black people from obtaining mortgages. \"\"We as a nation must address these persistent inequalities,\"\" Booker said. \"\"It's about time we find common ground and common purpose to deal with this ugly history.\"\" Booker's proposed American Opportunity Accounts Act, commonly known as \"\"baby bonds,\"\" would provide every child born in the United States with a $1,000 savings bond, regardless of race. The child would receive an additional deposit from the government every year, with those in the poorest families receiving up to $2,000. The child would be able to access the account at age 18, and only for allowable uses, like education and home ownership. The idea of the proposal is to help reduce the racial income inequality gap. The second panel included several experts on reparations to testify. Coates wrote the seminal 2014 essay in The Atlantic, \"\"The Case for Reparations,\"\" which stirred interest in reparations among reporters and politicians. \"\"It's impossible to imagine America without the inheritance of slavery,\"\" Coates said, noting that much of the economy of the early United States was dependent on slavery, which required \"\"torture, rape and child trafficking.\"\" \"\"For a century after the Civil War, black people were subject to a relentless campaign of terror,\"\" Coates continued, saying that while \"\"it is tempting to divorce this modern campaign of terror, of plunder, from slavery,\"\" the legacy of slavery and discrimination were tied together and justified recompense. He also argued the \"\"federal government was deeply complicit\"\" not only in slavery, but in implementing policies like redlining and segregation. Coates specifically condemned McConnell, noting that the Senate majority leader was alive for much of the violence against black Americans during the civil rights movement, and so could not consider discrimination a problem of the past. \"\"Majority Leader McConnell cited civil-rights legislation yesterday, as well he should, because he was alive to witness the harassment, jailing, and betrayal of those responsible for that legislation by a government sworn to protect them. He was alive for the redlining of Chicago and the looting of black homeowners of some $4 billion,\"\" Coates said. \"\"Victims of that plunder are very much alive today. I am sure they'd love a word with the majority leader.\"\" Glover also testified, saying he was the great-grandson of a woman who was enslaved and freed by the emancipation proclamation, whom he met as a child. \"\"This hearing is yet another important step in the long and heroic struggle of African Americans\"\" to obtain equality, Glover said. \"\"White America must recognize that justice for black people can not be achieved without radical change to the structure of our society,\"\" Glover continued. Other witnesses included Katrina Browne, a white woman descended from the largest slave-trading family in the U.S. Browne said that most white Americans are unaware of how implicated the North and the Midwest were in slavery, and instinctually want to avoid a sense of shame connected to their ancestors and their countries. Another witness, black freelance writer Coleman Hughes, said that he was opposed to reparations for all descendants of slaves. He suggested reparations should be paid to those who lived under Jim Crow. \"\"The people who are owed for slavery are no longer here,\"\" Hughes said. His testimony received boos from the mostly black audience. After his testimony, one man in the audience stood up and loudly expressed his opposition as he left. \"\"It's time to go. I can't listen to that. That's garbage,\"\" the man said. Another black opponent of reparations, former NFL player Burgess Owens, argued it was possible to achieve the American dream through hard work. He also briefly alluded to the influx of illegal immigrants over the border, saying illegal immigration \"\"hurts our race.\"\" However, the Right Rev. Eugene Taylor Sutton, an Episcopal bishop for the diocese of Maryland, said it was important to have the debate between conflicting opinions. He noted his majority-white diocese had taken up discussing reparations for the role of the Episcopal Church in the area in abetting slavery, and if his community could have this debate, so could the nation. \"\"Reparations simply means to repair that which is broken. It is not just about monetary compensation,\"\" Sutton said. Coates later disagreed, saying that \"\"cutting a check\"\" should be part of the conversation. Sutton also pushed back against Owens' opinion that black Americans need to be in control of their own future, saying the idea that one only needs to pull themselves up by their bootstraps \"\"is a lie.\"\" Economist Julianne Malveaux argued that all white people benefited from the fruits of slavery, even if they or their ancestors were not involved. \"\"It's more than time for us to deal with the injustices that African Americans not only have experienced in history but continue to experience,\"\" Malveaux said. \"\"Enslavement is the foundation on which this country was built.\"\" Malveaux also argued that it wasn't enough to simply provide compensation to low-income Americans of all races, but to specifically focus on the racial economic inequality. \"\"Racism and slavery was our original sins, and we've got to deal with reparations by dealing exactly with that,\"\" Malveaux said, arguing that reparations needed to be a separate issue from just assisting all low-income Americans. \"\"Let's not forget that race is central to anything we do related to economic inequality.\"\" Malveaux later complained that not enough questions about racial inequality were being directed to experts like her, an economist with deep knowledge in the subject area. She also said that the tone of the hearing was too \"\"kumbaya.\"\" \"\"I want y'all Congress people to deal with economic structure,\"\" Malveaux said. \"\"I'm frustrated about the tone that some of this has taken.\"\" Marveaux told CBS News after the hearing that she believed it was \"\"a step forward,\"\" adding that she hoped that the discussion Wednesday would eventually lead to legislation to close the wealth gap. \"\"I was frustrated by some of the Republican witnesses who obviously were going to do the soft-shoe shuffling around, 'We pulled ourselves up' -- everyone has pulled themselves up. That's not the point. The point is to deal with issues of economic structure,\"\" she said. H.R. 40, which was named for the post-Civil War promise of \"\"40 acres and a mule\"\" as compensation for former slaves, has languished in the House since former Rep. John Conyers first introduced it in 1989. But Rep. Sheila Jackson Lee reintroduced the bill in January. Reparations used to be a fringe idea at least among white politicians but it's been receiving more attention from mainstream Democrats in the 2020 presidential campaign . Many of the declared Democratic presidential candidates have staked a position on reparations, or at least support having a national conversation about the issue. Jackson Lee said in her opening remarks that H.R. 40 would be a \"\"long overdue\"\" response to slavery. \"\"Slavery is the original sin. Slavery has never received an apology,\"\" Jackson Lee said, adding that \"\"black people in America are the descendants of Africans kidnapped and transported to the United States\"\" under the auspices of the federal government, as was segregation. Therefore, Jackson Lee said, it was up to the federal government to provide reparations. ...",
+        "word_count": 1594,
+        "publish_time": "2025-05-30T20:59:46Z",
+        "source": "Fox News",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "economy",
+          "newspolitics",
+          "report",
+          "senate",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N99572",
+          "N24662"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "足球",
+          "商业",
+          "国际",
+          "政治"
+        ],
+        "engagement_score": 0.11
+      },
+      "interaction_data": {
+        "scroll_depth": 0.37,
+        "clicks_count": 9,
+        "shares_count": 0,
+        "comments_count": 0,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.62,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.73,
+        "trend_score": 0.26,
+        "recommendation_relevance": 0.07,
+        "content_quality": 0.43,
+        "user_profile_match": 0.83
+      }
+    },
+    {
+      "timestamp": "2019-06-16T08:04:27Z",
+      "user_id": "U270814",
+      "news_id": "N99841",
+      "action_type": "read",
+      "session_id": "session_a1ac2211bb5b",
+      "dwell_time": 91,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "movies",
+        "topic": "movies-celebrity",
+        "headline": "Kate Hudson's Family Vacation in Italy Is What Pure Relaxation Looks Like",
+        "content": "\"Kate Hudson and her family are living it up on vacation in Italy. Kate Hudson's Family Vacation in Italy Is What Pure Relaxation Looks Like Kate Hudson and her family are living it up on vacation in Italy. The actress recently touched down in Sicily with boyfriend Danny Fujikawa , Goldie Hawn , and Kurt Russell, and they seem to be having a blast. On Tuesday, Kate - who welcomed a beautiful daughter named Rani with Danny in October - slipped into a pink bikini and enjoyed a day of yachting and kayaking in the ocean. She and Danny also snuck in a little PDA as they cuddled and kissed. Meanwhile, Goldie and Kurt appeared calm and relaxed as they explored the coast and took in the sights on their own kayak. Kate and Danny also squeezed in a date night when they attended the Bulgari High Jewelry Exhibition in Capri on Thursday. The following day, they returned to their yacht, where they sailed along the Amalfi coast with Kate's parents. Goldie and Kurt also seemed to be enjoying themselves as they went for a dip in the ocean and rode jet skis. Kate and Danny first began dating in December 2016 after being friends for 14 years. Earlier this week, the 40-year-old actress praised her other half in a loving Instagram tribute for his 33rd birthday. \"\"This man has given me the most beautiful gifts life can give and the depth of gratitude I feel for the day he was born is beyond any measured spoken word or post,\"\" she wrote. \"\"Thank you Mama Fuj and Papa Fuj for raising this beautiful roller coaster ride of a special human. The ups and downs and sideways were all worth it.\"\" Aw! While baby Rani is Kate and Danny's first child together, the actress also has two sons, 15-year-old Ryder Robinson and 7-year-old Bingham Bellamy, from her previous relationships with The Black Crowes' Chris Robinson and Muse frontman Matthew Bellamy. Keep reading to see more of Kate's adventure-filled family vacation!\"",
+        "word_count": 339,
+        "publish_time": "2025-05-27T07:08:06Z",
+        "source": "The Guardian",
+        "tags": [
+          "ai",
+          "movies",
+          "movies-celebrity"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N58338",
+          "N60541"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "音乐",
+          "电视",
+          "社会",
+          "新闻",
+          "科技",
+          "电脑"
+        ],
+        "engagement_score": 0.44
+      },
+      "interaction_data": {
+        "scroll_depth": 0.67,
+        "clicks_count": 6,
+        "shares_count": 3,
+        "comments_count": 4,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.81,
+        "topic_keywords": [
+          "ai",
+          "movies",
+          "movies-celebrity"
+        ],
+        "viral_potential": 0.45,
+        "trend_score": 0.72,
+        "recommendation_relevance": 0.65,
+        "content_quality": 0.07,
+        "user_profile_match": 0.44
+      }
+    },
+    {
+      "timestamp": "2019-06-24T12:37:23Z",
+      "user_id": "U94068",
+      "news_id": "N54036",
+      "action_type": "comment",
+      "session_id": "session_47cc9deedd2a",
+      "dwell_time": 175,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newscrime",
+        "headline": "She Joined the Military, and Became a Citizen. But Her American Dream Ended in Violence.",
+        "content": "\"[What you need to know to start the day: Get New York Today in your inbox .] On Independence Day in 2012, a 31-year-old woman who had moved to New York from Russia and joined the United States military fulfilled a lifelong dream when she became an American citizen in a ceremony at the White House. \"\"I still can't believe it, because I saw the president and he said that he was proud of me,\"\" the woman, Alla Victorovna Ausheva, told a reporter after the ceremony. \"\"That's of course unbelievable.\"\" Sign Up For the Morning Briefing Newsletter Seven years later, her American dream ended in tragedy when she and her two young children were found dead in their Staten Island home . On Sunday, the father of the children, Shane R. Walker, 36, was arrested on murder, arson and weapons charges, according to the police. Mr. Walker had been arrested in December and charged with assaulting Ms. Ausheva, the police said. She obtained a protective order against him, but it was no longer in effect when she and the children were found on Saturday morning, the police said. The incident stunned neighbors on Palisade Street, a cul-de-sac where the family had recently moved into a two-story house. On Sunday, it remained cordoned off with police tape. Ms. Ausheva moved from Saint Petersburg, Russia, to Bayside in Queens in 2011 and joined the New York Army National Guard in July of that year , according to an announcement issued at the time by the White House. She served as a maintenance technician in Company G of the 427th Brigade Support Battalion, the announcement said. \"\"All of you did something profound: You chose to serve,\"\" former President Barack Obama told Ms. Ausheva and 24 other immigrant service members during the naturalization ceremony on July 4, 2012. \"\"You put on the uniform of a country that was not yet fully your own. You displayed the values that we celebrate every Fourth of July duty, responsibility and patriotism.\"\" Ms. Ausheva enjoyed rock and jazz music and loved to sing. In 2012, she enrolled in a singing workshop, The Singing Experience, on the Upper East Side of Manhattan. \"\"She was a very determined young woman; she was charming and so enthusiastic,\"\" said Linda Amiel Burns, founder of The Singing Experience. \"\"This is just unbelievable what happened to her. I'm stunned.\"\" In the culmination of the workshop, where participants perform for each other, Ms. Ausheva appeared in a red cocktail dress and sang \"\"Over the Spanish Sky,\"\" mostly in Russian. At the end of the song, she gave a short speech. \"\"One year ago I moved from Russia, that's when my first dream came true,\"\" she said, still not completely fluent in English. \"\"Then in summer I joined U.S. Army that's when my second dream came true. Now I'm singing on the stage, on real stage not a shower. You know, my third dream came true and now I wonder what's next.\"\" The following year, Ms. Ausheva enrolled in the workshop again and took on a new challenge in her final performance: singing in English. \"\"When I first met her she was hesitant about her English, but then she came back and said, 'I want to sing \"\"Santa Baby,\"\" I want to be American,'\"\" Ms. Burns said. \"\"It was so courageous for her to do that and she was so proud to be American.\"\" In November 2014, Ms. Ausheva transferred to the Air National Guard, according to a military spokeswoman. She was serving full time on active duty with the homeland security force based at Fort Hamilton. The father of her children, Mr. Walker, also served in the Army National Guard and later joined the Air National Guard, officials said. He was working as a vehicle operator. The authorities said they were unsure whether Ms. Ausheva and Mr. Walker were married. Mr. Walker was taken into custody around 7:48 a.m. Saturday after being found walking along the Brooklyn Queens Expressway, according to the police. Around two and a half hours later, authorities responded to a 911 call at Ms. Ausheva's home on Palisade Street. When the police arrived, they said they found the house filled with smoke from a small fire. Ms. Ausheva and her two children, Ivan Walker, 2, and Elia Walker, 3, were found in the same room, according to Assistant Chief Kenneth Corey, the commanding officer of Staten Island. \"\"The New York National Guard acknowledges the loss of one of our traditional airmen in an apparent criminal homicide,\"\" said Colonel Richard Goldenberg, a public affairs officer for the Guard, in a statement. \"\"Our thoughts and prayers are extended to the families of those involved and the military members who served alongside Airman 1st Class Alla Ausheva.\"\" Records indicate that the family had moved into the home within the past year. It was unclear how much time Mr. Walker spent there; neighbors said they did not see him often and the family mostly kept to itself. \"\"It's a diverse neighborhood. Everyone gets along and tries to help each other out, but we didn't know who they were,\"\" said Graceann Pacifico, who has lived in the area for three decades. Still, participants of The Singing Experience remembered Ms. Ausheva as outgoing and energetic. \"\"We all know that one of the most wonderful feelings in the world is love,\"\" Ms. Ausheva said before she began to sing at her 2012 performance. \"\"Sometimes life separates us from the person we love and all we have are our memories.\"\" Will Dudding and Michael Schwirtz contributed reporting. Will Dudding and Michael Schwirtz contributed reporting.\"",
+        "word_count": 935,
+        "publish_time": "2025-05-26T00:23:45Z",
+        "source": "BBC",
+        "tags": [
+          "tech",
+          "music",
+          "ai",
+          "news",
+          "report",
+          "newscrime"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N47934",
+          "N41621"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "新闻",
+          "政治",
+          "商业",
+          "美食",
+          "生活",
+          "电脑"
+        ],
+        "engagement_score": 0.6
+      },
+      "interaction_data": {
+        "scroll_depth": 0.81,
+        "clicks_count": 1,
+        "shares_count": 1,
+        "comments_count": 0,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.85,
+        "topic_keywords": [
+          "tech",
+          "music",
+          "ai"
+        ],
+        "viral_potential": 0.96,
+        "trend_score": 0.35,
+        "recommendation_relevance": 0.95,
+        "content_quality": 0.59,
+        "user_profile_match": 0.17
+      }
+    },
+    {
+      "timestamp": "2019-06-17T18:29:35Z",
+      "user_id": "U399057",
+      "news_id": "N93306",
+      "action_type": "read",
+      "session_id": "session_823d399c915e",
+      "dwell_time": 80,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shanghai",
+        "city": "Shanghai"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "finance-companies",
+        "headline": "World's top bicycle maker says the era of 'Made in China' is over",
+        "content": "\"Giant Manufacturing Co. saw the writing on the wall early on. The world's biggest bicycle maker started moving production of U.S.-bound orders out of its China facilities to its home base in Taiwan as soon as it heard Donald Trump threaten tariff action in September. \"\"When Trump announced the plan of 25% tariffs, we took it seriously,\"\" Chairwoman Bonnie Tu said in an interview at Giant's Taichung City headquarters in Taiwan. \"\"We started moving before he shut his mouth.\"\" Giant is part of a growing number of global firms that are pivoting production out of China in reaction to the increasingly hostile trade relations between the two superpowers. Intel Corp. this week became the latest to say it's reviewing its global supply chain, while Li & Fung Ltd., the world's largest supplier of consumer goods, said the trade war is spurring it to diversify away from China. Read: Trade War Has Intel Reviewing Global Supply Chain, CEO Says \"\"Last year, I noticed that the era of Made In China and supplying globally is over,\"\" Tu said. The maker of mountain and racing bicycles closed one plant in China at the end of 2018 and shifted most U.S. orders out of the country. Giant announced last July it is setting up a factory in Hungary \"\"as moving production close to your market is a trend.\"\" Giant currently has one plant each in Taiwan and the Netherlands, and still has five remaining in China. The Taiwanese site will be working double shifts to keep up with the relocated orders. The company said it is seeking a partner in Southeast Asia. Not Level \"\"The world is no longer flat,\"\" said Tu, borrowing from Thomas Friedman's book \"\"The World Is Flat,\"\" whose title in a metaphor for viewing the world as a level playing field for companies and trade. \"\"The concept is no longer affordable in every place.\"\" Giant's willingness to quickly steer orders away from the tariff-hit Asian nation -- long regarded as the world's low-cost workshop -- has been noticed by investors and analysts. The stock, which doesn't carry a single sell rating from brokerages tracked by Bloomberg, has climbed 78% this year to become the top-performing company among global peers, after four straight years of decline. \"\"We see its global brand awareness as the main barrier for new entrants, and its flexible manufacturing sites as key to avoiding tariff risk on made-in-China products from the U.S. and Europe,\"\" Daiwa analysts Helen Chien and Anita Li wrote in a June 5 report, in which they initiated coverage of Giant with an outperform rating. Tariffs are adding $100 on average to the price of bicycles made in China and exported to the U.S., compared with those made in zero-tariff areas, Tu said, explaining the rationale for the switch to the Taiwanese site. The switch, however, comes with higher costs for employee payouts, automation and no China-like economy of scale for suppliers. Tu declined to peg the relocation costs beyond saying the company's \"\"bottom line would be better without the U.S.-China trade war.\"\" That's why Giant is open to reverting production to its Chinese plants if the U.S. and China are able to hammer out a trade deal. If America \"\"decides to remove the 25% tariff, we will move the production back to China right away,\"\" Tu said. Related video: Target, Walmart among 600 companies asking President Trump to end trade war with China (provided by CBS News)\"",
+        "word_count": 574,
+        "publish_time": "2025-05-30T17:22:56Z",
+        "source": "Associated Press",
+        "tags": [
+          "market",
+          "ai",
+          "news",
+          "finance",
+          "economy",
+          "stock",
+          "report",
+          "finance-companies"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N55509",
+          "N29427"
+        ],
+        "reading_time_of_day": "evening",
+        "is_weekend": false,
+        "user_interests": [
+          "美食",
+          "财经",
+          "保险",
+          "社会"
+        ],
+        "engagement_score": 0.33
+      },
+      "interaction_data": {
+        "scroll_depth": 0.68,
+        "clicks_count": 3,
+        "shares_count": 1,
+        "comments_count": 5,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.1,
+        "topic_keywords": [
+          "market",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.42,
+        "trend_score": 0.3,
+        "recommendation_relevance": 0.55,
+        "content_quality": 0.84,
+        "user_profile_match": 0.4
+      }
+    },
+    {
+      "timestamp": "2019-06-17T17:03:00Z",
+      "user_id": "U79887",
+      "news_id": "N14961",
+      "action_type": "like",
+      "session_id": "session_2c3dfb063859",
+      "dwell_time": 186,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "basketball_nba",
+        "headline": "Ex-NBA player Anthony Grundy charged in fatal hit and run",
+        "content": "LOUISVILLE, Ky. (AP) A former NBA player, Anthony Grundy, has pleaded not guilty in connection with a fatal hit-and-run crash in Kentucky. News outlets report the 40-year-old Grundy turned himself in Friday and appeared in court Saturday. He is charged with leaving the scene of an accident and failure to render aid. A police report says Grundy told police he knew he hit something on Dixie Highway in Louisville the night of June 7, but did not stop. Police say a woman trying to cross the road died after being struck. News outlets report that Grundy attended high school in Kentucky and played basketball at North Carolina State University from 1998 to 2002. He then played professionally in several countries and played briefly with the Atlanta Hawks in the 2005-06 season.",
+        "word_count": 131,
+        "publish_time": "2025-05-16T14:40:11Z",
+        "source": "Reuters",
+        "tags": [
+          "ai",
+          "news",
+          "basketball_nba",
+          "report",
+          "sports",
+          "basketball"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N20589",
+          "N72001"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "篮球",
+          "奥运会",
+          "投资"
+        ],
+        "engagement_score": 0.56
+      },
+      "interaction_data": {
+        "scroll_depth": 0.41,
+        "clicks_count": 0,
+        "shares_count": 0,
+        "comments_count": 3,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.91,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "basketball_nba"
+        ],
+        "viral_potential": 0.95,
+        "trend_score": 0.85,
+        "recommendation_relevance": 0.56,
+        "content_quality": 0.03,
+        "user_profile_match": 0.54
+      }
+    },
+    {
+      "timestamp": "2019-06-14T16:54:04Z",
+      "user_id": "U330991",
+      "news_id": "N90558",
+      "action_type": "skip",
+      "session_id": "session_d9cc4e006e89",
+      "dwell_time": 4,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tv-celebrity",
+        "headline": "Tarek El Moussa Says He 'Wasn't Expecting' to Divorce Christina Anstead",
+        "content": "\"Love lost. Tarek El Moussa got candid about his former marriage with ex-wife, Christina Anstead , during an appearance on RuPaul on Thursday, June 13. He revealed that he \"\"wasn't expecting\"\" for the pair's relationship to end. \"\"It was kind of not something I anticipated in my life, but you know, I've learned a lot from it,\"\" El Moussa, 37, told host RuPaul , 58. \"\" I can say I'm a much better person from going through what I went through. So I wouldn't change anything.\"\" The Flip or Flop star continued: \"\"It was my first marriage. So, we met when we were young. I was 24, she was 22. And then the day we met, we pretty much connected right away and, you know, we built a life together.\"\" When the RuPaul's Drag Race star asked El Moussa if he would consider getting married again, the reality personality confessed that \"\"if someone had asked me that question a few months ago, I would have said no.\"\" However, he admitted that he has \"\"hope\"\" that he will find love again. El Moussa and Anstead, 35, wed in 2009 before filing for divorce in 2017 citing \"\"irreconcilable differences\"\" as the reason for separation. The couple share daughter Taylor, 8, and son Brayden, 3 . In 2018, Anstead tied the knot with her now-husband, English television presenter Ant Anstead . It was announced in March that the couple are expecting their first child together . While El Moussa is still single, he is ready to mingle. The HGTV star told RuPaul on Thursday that he has dived back into the dating scene, but he admitted to having \"\"no luck yet.\"\" \"\"I have never been in such a good place mentally, financially, spiritually like, everything is perfect. So I am walking on eggshells when it comes to relationships right now, because everything is going so great,\"\" he revealed. \"\"My biggest feeling in life is that feeling of loss. I'm still scared to fall in love again, because I don't ever want to face that feeling.\"\" In April, El Moussa told Us Weekly that \"\"life's been going really well and everything's great.\"\" However, he admitted that the \"\"only thing missing in my life is a best friend, and that's one thing I do miss about a relationship.\"\" RuPaul premiered Monday, June 10, on FOX. Related slideshow: Christina Anstead, Ex Tarek El Moussa Film Show Post-Pregnancy Reveal: Pics\"",
+        "word_count": 403,
+        "publish_time": "2025-05-22T05:44:51Z",
+        "source": "Bloomberg",
+        "tags": [
+          "ai",
+          "tv-celebrity",
+          "tv",
+          "film"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N115344",
+          "N25376"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "政治",
+          "社会",
+          "篮球",
+          "网球"
+        ],
+        "engagement_score": 0.79
+      },
+      "interaction_data": {
+        "scroll_depth": 0.86,
+        "clicks_count": 7,
+        "shares_count": 1,
+        "comments_count": 1,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.08,
+        "topic_keywords": [
+          "ai",
+          "tv-celebrity",
+          "tv"
+        ],
+        "viral_potential": 0.41,
+        "trend_score": 0.2,
+        "recommendation_relevance": 0.02,
+        "content_quality": 0.26,
+        "user_profile_match": 0.99
+      }
+    },
+    {
+      "timestamp": "2019-06-16T08:09:09Z",
+      "user_id": "U227465",
+      "news_id": "N76978",
+      "action_type": "comment",
+      "session_id": "session_e1e698c66e3f",
+      "dwell_time": 163,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsscienceandtechnology",
+        "headline": "Scientists are putting antibiotics into the ocean on purpose. And it's our only hope.",
+        "content": "\"Just off the coast of the Keys, wind-driven swells toss our little boat like a bath toy. Nearly 30 feet below, in the blue murk, divers tend their plot: a sparse patch of sea-floor 10 meters square. One swimmer hovers over a brain coral the size of a fish­bowl, studying its corduroy surface as she readies a syringe in one hand. She dispenses a droplet of white putty and dabs it onto the edge of the colony. Back at the surface, Karen Neely, a Nova Southeastern University marine biologist with the easy manner (and tan) of someone who spends her professional life on the water, scans survey sheets marked with terse scribbles of observation. Coral reefs are bleaching around the globe, but Neely and her ­collaborators are grappling with a new, more mysterious epidemic. And to fight it, they're using a weapon scientists never thought they'd unleash. Stony corals, though easily mistaken for rocks, are animals. Each colony is made up of tiny tentacled polyps crowded together to form a living skin that grows, mosslike, over an elaborate ­calcium-carbonate skeleton laid down by generations of clones. Like all animals, they get sick. ­Bleaching an increasingly common affliction where heat-stressed colonies expel their colorful photosynthetic algae and turn white could be akin to an auto­immune disease. Bacteria and viruses threaten them too. In 2014, a scientist diving just off Miami noticed some mangy-looking corals with white bull's-eyes where dead tissue had recently peeled away from the skeleton. It was the first sighting of a new condition called stony coral tissue loss disease (SCTLD). The ailment would tear through reefs in waters along Broward and Miami-Dade counties over the next two years, targeting more than 20 different species, including massive mounding varieties like brain and boulder coral that make up the foundation of the reef. The contagion can knock out an 800-year-old colony the size of a car in a matter of weeks. Important habitats vanished and the wave-breaking power of the reef diminished, leaving the shoreline increasingly vulnerable to storms. As scientists scrambled to assess the damage, the mysterious malady started chewing its way into the Florida Keys, sometimes moving 10 miles in a month. By January 2019, it had infected areas as far south as Key West, encompassing much of the national marine sanctuary that protects more than 50 kinds of coral and hundreds of species of fish. This wasn't just another illness, but a plague. And it had infiltrated one of the best-preserved stretches of coral reef left in the U.S. With no diagnosis to guide them most marine microbes don't thrive in lab cultures, making the usual approach to identifying diseases basically useless scientists still sought solutions. One hint of hope: Infected colonies kept in captivity recovered with the help of antibiotics. But putting anti­biotics into the ocean is problematic. The ­fish-​­farming industry uses them plenty but faces criticism for causing bacterial resistance in surrounding waters. The drugs also end up in marine food chains because waste­water plants have no way to remove the compounds from sewage and runoff. Now, with the blessing of the FDA, Neely and her colleagues are adding more chemicals to the load. Neely and I take a boat from Ramrod Key, a lacy island in the Lower Keys where the ­tissue-​loss disease showed up a few months earlier. It's a short ride to the site, where we gear up and, palming our masks to our faces, roll backward into the water. From 20 feet up, it's hard to see anything amiss. Fish dart around swaying purple sea fans. Mounds of living coral rise from the sand, swirled with velvety brown ridges or freckled with green-blue buds. As we swim closer, Neely ­zeroes in on a maze coral as wide as a tire, its tawny skin marred by white splotches. She points out a puttylike line scrawled midway through one of the bare spots. This marks where she applied antibiotics two weeks earlier. At the time, it was the edge of the infection. Now, she writes: \"\"Ineffective, disease passed\"\" on her waterproof clipboard. She pantomimes wiping away a tear below her mask. Three of the four colonies Neely treated are still sick. In some cases, SCTLD sneaked through the pharmaceutical barrier. In others, new white spots popped up elsewhere. Only on the last, a boulder coral roughly the size and shape of an overstuffed ­ottoman, has the treatment mostly succeeded. This is what it's supposed to do,\"\" Neely writes, indicating the line that has held off bacterial siege. On one side, the deeply ridged surface is plush and healthy; the other is a bare, razor-edged skeleton. Antibiotics won't undo the damage, but they can keep it from spreading through the entire colony. When we surface, Neely admits she's surprised the meds haven't worked better. She seems thoughtful but not despairing. \"\"We've been studying coral diseases for 30 or 40 years,\"\" she points out. \"\"We're still in the Dark Ages. Our treatments are like sticking leeches on and hoping for the best.\"\" The history of humans intervening in wildlife disease is brief and strange. Over the past three decades, we've tried to treat prairie dogs for plague and help chimps fight ­Ebola. We're battling on­going outbreaks of chlamydia in koalas and transmissible cancer in Tasmanian devils . Given the choice between losing species and medicating them, it seems, humans prefer playing doctor to undertaker. In the ocean, however, we're still out of our depth. \"\"Where we are with coral disease is about where we were with human health in the 1800s,\"\" says Andy Bruckner, the National Oceanic and Atmospheric Administration researcher in charge of coordinating much of the work on SCTLD, echoing Neely's assessment. \"\"On land you can cull animals, you can put up some barrier to prevent an outbreak from spreading. We can't do that in the water.\"\" We do know that we've made the emergence and spread of infections more likely. Corals already stressed by heat or pollution get sick more easily, and damage from human activity can give pathogens a foothold. And while most blights go into remission when temperatures drop, Bruckner says, SCTLD does not seem to take winter vacations. That's left reefs without their usual span of recovery time. ­SCTLD's unrelenting progress has felled as much as a third of Florida's corals, making it perhaps the most destructive illness ever to hit the reef. Global warming makes these sorts of fast-growing, far-reaching, and seemingly unstoppable plagues more likely. \"\"In a lot of cases, warming is at least a double whammy for disease,\"\" explains Drew Harvell, Cornell University marine ecologist and author of the book Ocean Outbreak . \"\"It can stress the host and make it more susceptible, and warmer conditions allow a lot of microbes to grow faster.\"\" Hotter water likely contributed to the sea star wasting disease that was first identified in Washington in 2013 and quickly spread from Alaska to Mexico, as well as other recent die-offs in lobsters, oysters, abalone, and sea grasses. This isn't just a marine problem. Some studies suggest that heat made amphibians more susceptible to a fungus that's driving many of them to extinction. Just an extra degree or two may enable infectious bacteria and fungi in every sort of ecosystem to grow faster, with fewer periods of dormancy. \"\"A planet that's good for microbes is not going to be that safe for us,\"\" Harvell says. Even with stakes as high as these, the decision to apply antibiotics is still risky. Widespread use in agriculture and medicine has already led to a rise in drug-​­resistant bacteria. To minimize the danger, Neely and her colleagues mix amoxicillin, a common, broad-​­spectrum antiseptic that killed the ­disease in lab trials, into a paste that slowly releases the drug into the coral's tissues. The concoction hardens when exposed to seawater, making its contents less likely to seep into the ocean. As Neely and I saw firsthand, however, these targeted doses might fall short. Despite the millions of dollars marshalled in ongoing efforts to fight this outbreak, there aren't enough bodies in the water to treat every diseased coral on every ailing reef before SCTLD obliterates them. Instead, researchers and managers are focusing on a handful of key spots where endangered species could vanish. There is no guarantee they can defeat such an aggressive pathogen, but they'll fend it off as long as possible. In the meantime, scientists have begun to explore other, more-​­audacious schemes, including a massive operation to rescue the rarest corals from the reef before they disappear altogether. \"\"I don't know if we can do anything with him,\"\" says Cynthia Lewis, squinting into a basin of seawater, where a piece of pillar coral about the size and shape of a leg of lamb is looking very unhappy. Lewis is deputy director of the Keys Marine Laboratory and a specialist in this particular animal. Extremely rare and susceptible to disease, the species boasts fewer than 50 genetically unique individuals in Florida. In 2018, with SCTLD advancing on some of these last holdouts, Lewis and Neely led a campaign to collect fragments from all the remaining colonies, preserving as much of their genetic diversity as possible. This one is pale and pinkish, flesh fraying off its skeleton. The infection is so advanced that Lewis suspects she might not be able to save it, but she will pass much of the day trying. As Neely says, surfacing from a dive where she spent half an hour chiseling this chunk off an ailing colony, \"\"It's a lot of work for so little tissue, but when you have 70 pandas, you do a lot for each panda.\"\" Lewis pauses her examination to glance at her phone. Her contractor is calling. When Irma hit Florida in 2017 , the Category 4 hurricane destroyed Lewis' house on Long Key. She is still rebuilding more than a year later. The reef shapes any storm's impact on the Keys. Irma churned up 30-foot swells on the open ocean, but...",
+        "word_count": 1665,
+        "publish_time": "2025-05-28T23:40:27Z",
+        "source": "Fox News",
+        "tags": [
+          "research",
+          "ai",
+          "news",
+          "health",
+          "breaking",
+          "treatment",
+          "study",
+          "newsscienceandtechnology"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N48218"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "美食",
+          "健康",
+          "银行"
+        ],
+        "engagement_score": 0.61
+      },
+      "interaction_data": {
+        "scroll_depth": 0.28,
+        "clicks_count": 4,
+        "shares_count": 3,
+        "comments_count": 4,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.23,
+        "topic_keywords": [
+          "research",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.65,
+        "trend_score": 0.0,
+        "recommendation_relevance": 0.25,
+        "content_quality": 0.27,
+        "user_profile_match": 0.16
+      }
+    },
+    {
+      "timestamp": "2019-06-19T06:13:17Z",
+      "user_id": "U126292",
+      "news_id": "N53399",
+      "action_type": "click",
+      "session_id": "session_a8fab13e8caa",
+      "dwell_time": 605,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "markets",
+        "headline": "S&P 500 closes at record high on hopes for a rate cut",
+        "content": "\"Stocks rallied Thursday, cheering the possibility that the Federal Reserve will cut interest rates next month. The S&P 500 surged 1% to post a record close. The broad index also hit an intraday record of 2,956. The Dow closed 249 points higher, while the Nasdaq gained 0.8%. \"\"Markets are based on numbers and perception. If the perception is rates are getting cut, that's going to drive markets higher,\"\" said Kathy Entwistle, a senior vice president of wealth management at UBS. \"\"UBS' stance up until yesterday was we wouldn't see any rate cuts this year. Now we see a much larger chance of a 50-basis-point cut.\"\" The Fed said Wednesday it stands ready to battle growing global and domestic economic risks as they took stock of intensifying trade tensions and growing concerns about inflation. Most Fed policymakers slashed their rate outlook for the rest of the calendar year by approximately half a percentage point in the previous session, while Chairman Jerome Powell said others agree the case for lower rates is building. Policymakers also dropped \"\"patient\"\" from the Fed's statement and acknowledged that inflation is \"\"running below\"\" its 2% objective. Market participants viewed the overall tone from the U.S. central bank as more dovish than expected. Traders are now pricing in a 100% chance of a rate cut next month, according to the CME FedWatch tool. \"\"The Fed is not in the business of validating market pricing except when they are both heading in the same direction, and that is what the central bank did yesterday,\"\" said Steven Blitz, a chief U.S. economist at TS Lombard, in a note. \"\"Without an economic emergency on his hands and there isn't one we could view yesterday's no-cut cut as a simple declaration of the Fed's independence while, at the same time, solidifying in the market the easing the Fed wants priced in.\"\" Thursday's gains cut most of the steep losses recorded by the major indexes in May. The S&P 500 and Dow both fell more than 6% while the Nasdaq lost 7.9% last month. The three indexes were up more than 7% for June. Stocks plunged in May as increasing trade tensions compounded fears of slower economic growth. China and the U.S. hiked tariffs on billions of dollars worth of their goods. Stocks turned around this month as traders bet the rising trade tensions, coupled with weaker economic data, would lead the Fed to ease its monetary policy stance. The Fed's message on Wednesday sent the 10-year Treasury yield below 2% for the first time since November 2016. Investors bid stock futures higher overnight on the decline in the benchmark for mortgage rates and corporate bonds. The yield stood at 2.8% in January. The dollar also took a hit against other major currencies. The dollar index dropped 0.5% to 96.65, led by a 0.6% slide in the euro. The yen and Canadian dollar also rose against the U.S. currency. Energy shares got a boost from higher oil prices. The Energy Select Sector SPDR Fund (XLE) climbed 2.2% as shares of Exxon Mobil gained 1.7%. Oil prices surged 5.4% after a U.S. official said a drone was shot down over Iranian airspace. Meanwhile, Slack shares surged more than 40% in their first day of trading. The stock closed above $38 after setting a reference price of $26. CNBC's Sam Meredith contributed to this report.\"",
+        "word_count": 560,
+        "publish_time": "2025-05-23T09:01:44Z",
+        "source": "Bloomberg",
+        "tags": [
+          "policy",
+          "markets",
+          "market",
+          "ai",
+          "finance",
+          "stock",
+          "report",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N38263"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "明星",
+          "娱乐",
+          "旅行"
+        ],
+        "engagement_score": 0.19
+      },
+      "interaction_data": {
+        "scroll_depth": 0.79,
+        "clicks_count": 8,
+        "shares_count": 3,
+        "comments_count": 1,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.92,
+        "topic_keywords": [
+          "policy",
+          "markets",
+          "market"
+        ],
+        "viral_potential": 0.13,
+        "trend_score": 0.73,
+        "recommendation_relevance": 0.63,
+        "content_quality": 0.49,
+        "user_profile_match": 0.9
+      }
+    },
+    {
+      "timestamp": "2019-06-14T06:32:38Z",
+      "user_id": "U392096",
+      "news_id": "N43145",
+      "action_type": "like",
+      "session_id": "session_2b3d94580818",
+      "dwell_time": 146,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "iOS",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "finance-savemoney",
+        "headline": "New House bill may change how you plan for retirement",
+        "content": "\"The House of Representatives recently passed a bill that may complicate retirement planning options for Americans. The House passed the Setting Every Community Up for Retirement Enhancement (SECURE) Act of 2019 on May 23. If enacted into law, it could be tricky for Americans who are not financially savvy investors. Some of the changes could benefit consumers: The law encourages more small employers to offer 401(k) plans and raises the age for required minimum distributions (RMDs) from retirement accounts to 72 from 70.5, a nod to longer life expectancies and later retirements. However, there are some changes that consumers should be wary of, experts say. For example, one change in the law would shorten the amount of time that someone who inherits an Individual Retirement Account (IRA) can hold onto the funds, potentially causing them to lose money. \"\"If you inherited my IRA before I'd be able to stretch the distribution over your lifetime, which is more time for dollars to grow tax deferred. Now you have to drain that inherited IRA over 10 years, which gives you less time to grow the money on a tax-deferred basis,\"\" Dave O'Brien, chair elect of the National Association of Personal Financial Advisors (NAPFA), told ABC News. Another change that American workers should be wary of, according to consumer advocates, is adding annuities complex financial tools offered by insurance companies to 401(k) plans. Annuities have seen a boom in sales since last June, when the Trump Administration rolled back Obama-era regulations that required financial advisers to put their customers' interests ahead of their own. \"\"There will come a time where we will point back to this as the start of a trend toward high-cost annuities being offered in 401(k) plans to the detriment of retirement savers,\"\" Barbara Roper, the director of investor protection at the Consumer Federation of America, told The New York Times . The new law would let employers off the hook for the outcomes of the annuities, which guarantee some future income but usually charge high fees. \"\"Putting an annuity in your 401(k) plan adds complexity and cost that small employers and employees do not need. Employees can still buy an annuity when they retire. You don't need an act to allow people to buy something you're allowed to buy outside of your retirement plan,\"\" O'Brien said. Annuities are complex financial tools to which workers can contribute over years, and then get regular payouts in retirement. However, experts say that except for the most sophisticated investors, they are hard to understand. (MORE: Trump signs retirement savings executive order in Charlotte) Annuities are often pitched as similar to a pension because of the regular payouts. But O'Brien calls that a false equivalency. \"\"People may claim it's like a pension, it really isn't. A pension is the employer's money going in for you. This is the employee's money going in for expenses,\"\" O'Brien said. \"\"A pension is a highly regulated, retirement benefit that the employer funds. An annuity is a really complicated, expensive insurance product that the employee would buy.\"\" Annuities are often marketed as tax-deferred savings vehicles. But, O'Brien said, \"\"your 401(k) is already a tax-deferred vehicle. It kills me when we see an annuity in a tax-deferred IRA because you doubled up.\"\"\"",
+        "word_count": 542,
+        "publish_time": "2025-05-18T14:07:26Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "market",
+          "ai",
+          "news",
+          "finance-savemoney",
+          "finance"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "互联网",
+          "科技",
+          "股票",
+          "经济",
+          "电视",
+          "娱乐",
+          "时尚",
+          "旅行"
+        ],
+        "engagement_score": 0.09
+      },
+      "interaction_data": {
+        "scroll_depth": 0.41,
+        "clicks_count": 2,
+        "shares_count": 2,
+        "comments_count": 2,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.72,
+        "topic_keywords": [
+          "market",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.92,
+        "trend_score": 0.22,
+        "recommendation_relevance": 0.55,
+        "content_quality": 0.18,
+        "user_profile_match": 0.26
+      }
+    }
+  ],
+  "metadata": {
+    "source": "news_app",
+    "version": "1.0",
+    "processed_time": "2025-06-12T19:28:07.797632Z"
+  }
+}

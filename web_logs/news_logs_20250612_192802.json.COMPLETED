@@ -1,0 +1,753 @@
+{
+  "batch_id": "batch_20250612_192802_4e032700",
+  "events": [
+    {
+      "timestamp": "2019-06-26T12:49:06Z",
+      "user_id": "U335175",
+      "news_id": "N122297",
+      "action_type": "comment",
+      "session_id": "session_7a28f5457481",
+      "dwell_time": 615,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Windows",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsworld",
+        "headline": "The father and daughter who drowned at the border were desperate for a better life, family says",
+        "content": "\"Valeria was a cheery child. Not even 2 years old, she loved to dance, play with her stuffed animals and brush her family members' hair. Her father, Óscar Alberto Martínez Ramírez, was stalwart. Nearly always working, he sold his motorcycle and borrowed money to move his family from El Salvador to the United States. Martínez and his wife, Tania Vanessa Ávalos, wanted to save up for a home there. They wanted safety, opportunity. Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post \"\"They wanted a better future for their girl,\"\" María Estela Ávalos, Vanessa's mother, told The Washington Post. They traveled more than 1,000 miles seeking it. Once in the United States, they planned to ask for asylum, for refuge from the violence that drives many Central American migrants from their home countries every day. But the farthest the family got was an international bridge in Matamoros, Mexico. On Sunday, they were told the bridge was closed and that they should return Monday. Aid workers told The Post the line to get across the bridge was hundreds long. The young family was desperate. Standing on the Mexican side of the Rio Grande, America looked within reach. Martínez and Valeria waded in. But before they all made it to the other side, to Brownsville, Tex., the river waters pulled the 25-year-old and his daughter under and swept them away. The next day, a photo of their bodies among matted reeds, locked in a final embrace, was published by the Mexican newspaper La Jornada and later by the Associated Press , shocking the world with a viscerally clear moment of desperation reminiscent of a 2015 photograph showing a 3-year-old Syrian boy who lay drowned on a calm Mediterranean shore. Martínez and Valeria were met by twin disasters: fast-moving waters and an asylum system unprepared for the crush of Central Americans fleeing crime and poverty. As the image rocketed across social media, it became a symbol of the large-scale humanitarian crisis at the border and, for some, a condemnation of the Trump administration's restrictive immigration policies. One of those policies, the U.S. customs practice known as \"\"metering,\"\" has drastically reduced the number of migrants allowed to request asylum each day. \"\"This particular incident highlights that there are many humanitarian tragedies resulting directly from our current immigration and border enforcement policies that are entirely unnecessary,\"\" said Woodson Martin of Team Brownsville, a nonprofit group that travels to Matamoros every day to hand out food and water to waiting migrants. \"\"We as a people are culpable in this, and we need to fix it.\"\" \"\"The direct cause of the death of that father and daughter is the metering policy at the bridge,\"\" he said. In a news conference, Mexican President Andrés Manuel López Obrador called the migrants' deaths \"\"very regrettable.\"\" \"\"We have always denounced that as there is more rejection in the United States, there are people who lose their lives in the desert or crossing\"\" the river, he said, according to an AP account. Neither the Department of Homeland Security nor U.S. Customs and Border Protection responded to requests for comment. On Wednesday, President Trump blamed Democrats for the high number of migrants attempting to cross the border. His political opponents, Trump said, have refused to \"\"fix the laws.\"\" \"\"If we had the right laws that the Democrats are not letting us have, those people, they wouldn't be coming up, they wouldn't be trying,\"\" he said. Authorities detained more than 144,000 people at the border last month , as migration levels reached their highest point since 2006. Those record numbers, and a Rio Grande swollen from spring runoff, have made for especially perilous crossings in recent weeks. Over the weekend , Border Patrol agents found four bodies near a section of the river in Hidalgo County, west of Brownsville. Three of them were young children, the fourth was a woman in her early 20s. A local sheriff said they were found \"\"in an area very well known for immigrants crossing the river.\"\" In early May , border agents recovered the body of a 10-month-old boy and said they were searching for two other children and a man, all of whom went missing after their raft capsized as they tried to cross the Rio Grande near Eagle Pass, Tex. Of the 283 migrant deaths that Border Patrol recorded at the Southwest border last year, the largest share 96 perished in the Rio Grande Valley. Agents rescued another 4,300 who were \"\"in danger and in some cases life-threatening situations\"\" border-wide. During a Wednesday hearing about the U.S.-Mexico border, American lawmakers said they hoped the photo \"\"that all Americans woke up this morning looking at\"\" would motivate Congress to take action. \"\"I don't want to see another picture like that on this border,\"\" said Sen. Ron Johnson (R-Wis.), chair of the Homeland Security and Government Affairs Committee. Johnson implored Republicans and Democrats to work together on solving what has proven to be a politically divisive issue. \"\"We have to do something,\"\" he said. For Democrats on the committee that means scrapping metering and the Trump administration policy that forces asylum seekers to wait in Mexico while their claims are processed. More than 11,000 people been returned to Mexico so far, according to government data provided to the committee. In an interview, former acting director of Immigration and Customs Enforcement Tom Homan urged Congress to close what he called \"\"loopholes\"\" that encourage families to travel north with their children. \"\"The word's out, you bring a child you probably won't be detained at all,\"\" said Homan, was on scene in 2003 when 19 immigrants died after being trapped in a tractor trailer. \"\"So, you know, I've said it many times ... If Congress doesn't close the loopholes, more women will be raped, more children will die.\"\" It's unclear how long Martínez and his family would have had to wait to begin their asylum claim, but Martin of Team Brownsville said there is a list of several hundred people on any given day. When they arrived in Matamoros on Sunday, they had been traveling through Mexico for two months, relatives said. And they may have had good reason to risk a river crossing, rather than stay in the border city. \"\"It's a dangerous place to be a person, and it's certainly a dangerous place to be a migrant,\"\" Martin said. Young women who travel there are often forced into prostitution, while men are pressured to join gangs, he said. The U.S. State Department advises its citizens to steer clear of the entire state of Tamaulipas, where Matamoros is located, \"\"due to crime and kidnapping.\"\" Before they started their journey to the border, Vanessa called her mother to say the family was heading for the United States, and Estela was worried. \"\"I told them to pray as much as possible,\"\" Estela said. \"\"I asked God for nothing to happen to them, and for everything to go well. She assured me that they didn't have far to go.\"\" The next time her daughter called, Estela could hardly understand her. She was screaming. Now the family in Tonacatepeque, El Salvador, is expecting the bodies of Martínez and Valeria to return home, Estela said. Mexican authorities recovered them Monday morning, a few hundred yards from the international bridge. She hopes Vanessa will be back soon, too. \"\"I want to hug my daughter, she needs us,\"\" Estela said. \"\"I know she's damaged, as are we, but she even more because she lost her little girl and her husband.\"\" Gabriela Martínez contributed to this report from Mexico City. Drea Cornejo, Maria Sacchetti and Alex Horton contributed from Washington. Read more: 'The Taliban gave me toothpaste': Former captives contrast U.S. treatment of child migrants 'I accept it': DOJ lawyer defends herself over viral video about providing migrants with soap, toothbrushes Three children, one woman found dead in Texas near Rio Grande border Conditions at migrant detention centers are 'horrendous.' Trump, Pence blame Democrats.\"",
+        "word_count": 1331,
+        "publish_time": "2025-05-18T13:42:08Z",
+        "source": "BBC",
+        "tags": [
+          "congress",
+          "newsworld",
+          "policy",
+          "ai",
+          "news",
+          "treatment",
+          "report",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N22738",
+          "N93272"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "电视",
+          "电脑",
+          "足球",
+          "时尚"
+        ],
+        "engagement_score": 0.84
+      },
+      "interaction_data": {
+        "scroll_depth": 0.74,
+        "clicks_count": 10,
+        "shares_count": 1,
+        "comments_count": 2,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.72,
+        "topic_keywords": [
+          "congress",
+          "newsworld",
+          "policy"
+        ],
+        "viral_potential": 0.92,
+        "trend_score": 0.0,
+        "recommendation_relevance": 0.99,
+        "content_quality": 0.06,
+        "user_profile_match": 0.84
+      }
+    },
+    {
+      "timestamp": "2019-06-17T11:59:44Z",
+      "user_id": "U146053",
+      "news_id": "N65974",
+      "action_type": "read",
+      "session_id": "session_84318a74ffca",
+      "dwell_time": 55,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "music",
+        "topic": "music-celebrity",
+        "headline": "Post Malone wore a Dolly Parton outfit during his Bonnaroo set, and Dolly Parton loved it",
+        "content": "\"MANCHESTER, Tenn. Just one day after Post Malone took the main stage at Bonnaroo, Dolly Parton took to Twitter and applauded his attire. \"\"Love the outfit from head toe @PostMalone,\"\" the country superstar tweeted, complete with a winking emoji. For his 1 hour and 15 minute set Saturday night on the What Stage at Great Stage Park, the pop star wore a black-and-white shirt and pants combo with Parton's face all over it. Post Malone was among this year's headliners at the four-day music festival. Artists slated to perform Sunday, the final day of Bonnaroo, include Cardi B, The Lumineers and Phish. Love the outfit from head to toe @PostMalone 😉 pic.twitter.com/Qxxhpi96NO Dolly Parton (@DollyParton) June 16, 2019 He stacked his biggest hits to close Saturday's upbeat set, including breakout \"\"White Iverson,\"\" \"\"Rockstar\"\" and \"\"Sunflower.\"\" Related video: Dolly Parton on her Netflix series and the songs that inspired it (Provided by TODAY)\"",
+        "word_count": 152,
+        "publish_time": "2025-06-12T16:48:07Z",
+        "source": "ESPN",
+        "tags": [
+          "ai",
+          "music-celebrity",
+          "music"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N122382",
+          "N18402"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "生活",
+          "旅行",
+          "奥运会",
+          "电视",
+          "娱乐",
+          "商业"
+        ],
+        "engagement_score": 0.79
+      },
+      "interaction_data": {
+        "scroll_depth": 0.2,
+        "clicks_count": 0,
+        "shares_count": 2,
+        "comments_count": 0,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.42,
+        "topic_keywords": [
+          "ai",
+          "music-celebrity",
+          "music"
+        ],
+        "viral_potential": 0.23,
+        "trend_score": 0.05,
+        "recommendation_relevance": 0.84,
+        "content_quality": 0.54,
+        "user_profile_match": 0.09
+      }
+    },
+    {
+      "timestamp": "2019-06-17T13:27:47Z",
+      "user_id": "U158889",
+      "news_id": "N103864",
+      "action_type": "skip",
+      "session_id": "session_3ff62f224c2c",
+      "dwell_time": 58,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "video",
+        "topic": "popculture",
+        "headline": "Adam Levine Sells L.A. Mansion for $45 Million One Year After Buying It See Inside!",
+        "content": "Adam Levine reportedly spent $7 million renovating the Beverly Hills home in the year after purchasing the home for $33.9 million",
+        "word_count": 21,
+        "publish_time": "2025-05-15T17:39:14Z",
+        "source": "Forbes",
+        "tags": [
+          "video",
+          "popculture",
+          "report"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N104156"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "科技",
+          "互联网",
+          "新闻",
+          "旅行",
+          "电视",
+          "娱乐"
+        ],
+        "engagement_score": 0.78
+      },
+      "interaction_data": {
+        "scroll_depth": 0.73,
+        "clicks_count": 6,
+        "shares_count": 0,
+        "comments_count": 5,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.37,
+        "topic_keywords": [
+          "video",
+          "popculture",
+          "report"
+        ],
+        "viral_potential": 0.39,
+        "trend_score": 0.32,
+        "recommendation_relevance": 0.21,
+        "content_quality": 0.79,
+        "user_profile_match": 0.24
+      }
+    },
+    {
+      "timestamp": "2019-06-15T10:44:03Z",
+      "user_id": "U22232",
+      "news_id": "N32113",
+      "action_type": "share",
+      "session_id": "session_a8fcece8d6be",
+      "dwell_time": 3,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "foodanddrink",
+        "topic": "restaurantsandnews",
+        "headline": "The Best Ice Cream Stand in Every State",
+        "content": "\"The Daily Meal has compiled a list of the best ice cream stand in every state using online and word-of-mouth research. The Best Ice Cream Stand in Every State There is no wrong season to eat ice cream, but it really hits the spot in summer . On a sweltering day, a cup or cone of that creamy, dreamy treat will cool you off and boost your mood. Everything's better with ice cream, especially if you add sprinkles, whipped cream and a cherry on top. Luckily, every state in America has good ice cream . That means The Daily Meal had a lot of research to do to narrow the list down to the absolute best spot to get it in your state. We scoured tons of online reviews, social media posts and word-of-mouth tips until we found the absolute best place to grab a scoop, sundae, shake or other frozen treat nationwide. Whether you're in Texas or Maine, Alaska or Wisconsin, we have found ice cream stands, shops, creameries, dairy farms and more that are scooping up the creamiest, tastiest homemade ice cream no matter the weather. Read on to discover the best ice cream stand in every state. Alabama: Cammie's Old Dutch Ice Cream (Mobile) Cammie's Old Dutch Ice Cream has been serving Alabama 's finest ice cream since 1956. This family-owned creamery offers single-, double- and triple-dip cones plus menu items such as milkshakes, malts, Holland sodas and a \"\"meal in one\"\" a malted shake filled with five scoops of ice cream. Alaska: Hot Licks (Fairbanks) Open May through August, Hot Licks uses local ingredients as well as dairy cream from an Oregon dairy to create their flavors. There is currently a shortage of dairy cows in this American state, but Hot Licks still manages to serve the best and freshest quality ice cream in Alaska with cool flavors like Aurora Borealis, a vanilla ice cream swirled with Alaskan blueberry and cranberry puree. Arizona: Sweet Provisions (Scottsdale) Sweet Provisions makes fresh ice cream, pies, cookies, bars, brownies and more treats, meaning they have something for every sweet tooth. They also offer soda floats and frappes and will gladly add a scoop of ice cream to a piece of pie or a brownie to help you beat the Arizona heat. Arkansas: Burton's Comfort Creamery (Fayetteville) Burton's Comfort Creamery is an Arkansas favorite food truck. This Fayetteville-based truck offers rich, creamy soft serve covered with salty, sweet and even spicy toppings. Plus they have ice cream sandwiches made with brownies and chocolate chip cookies. California: McConnell's Fine Ice Creams (Santa Barbara) Originally founded by a husband and wife in 1950, this California staple is now sold in grocery stores nationwide. Its flagship store still stands on State Street in Santa Barbara's downtown, but many new McConnell's shops have popped up all over the country serving their decadent and fresh flavors like chocolate covered strawberries and Turkish coffee. Colorado: Little Man Ice Cream (Denver) Little Man Ice Cream is designed to look like you're going in to an enormous 28-foot-tall milk bottle to get your ice cream, which comes in tasty flavors such as cheesecake brownie and strawberry balsamic. Since opening in 2008, this Denver, Colorado , shop has run a Scoop for Scoop program that matches each order with a donation of rice and beans to developing countries around the world. Connecticut: Ferris Acres Creamery (Newtown) A cone from Ferris Acres Creamery tastes even better while watching cows graze on their Connecticut farm. This seasonal stand is a family business with three generations involved in making the ice cream on site every day in flavors like black raspberry, cookie jar, grasshopper and peach. Delaware: Woodside Farm Creamery (Hockessin) Woodside Farm Creamery uses an entire apple pie in a batch of their cinnamon apple pie ice cream. This Delaware shop also has a flavor called Motor Oil made with coffee ice cream swirled with green caramel and fudge. Not feeling ice cream? You can buy grass-fed beef patties and steaks. Florida: Jaxson's Ice Cream Parlour and Restaurant (Dania Beach) Jaxson's Ice Cream Parlour and Restaurant has a massive menu of food and treats as well as one of the largest collections of rural American memorabilia. Customers come by this Florida ice cream parlor for the classic desserts such as turtle sundaes and banana splits and to take in all the kitschy goodness. Georgia: Morelli's Gourmet Ice Cream (Atlanta) Salted caramel is one of best-sellers at Morelli's in Atlanta, but this Georgia shop also offers off-the-beaten-path flavors like jalapeño coconut and ginger lavender. Check out their Krispy Kreamier flavor it's made with real pieces of Krispy Kreme doughnuts. Hawaii: Lappert's (Maui) Locals and visitors to Hawaii always make it a point to stop by Lappert's , which has locations across the islands. There are Hawaiian-inspired flavors such as Kona coffee, Hawaiian sea salt caramel and macadamia nut, but there are also world-inspired flavors such as Costa Rican plantain cajeta, Mexican chocolate cinnamon swirl and Philippine macapuno peach sorbet. Idaho: Goody's Soda Fountain and Candy (Boise) Goody's Soda Fountain & Candy Store is an old-fashioned Idaho soda fountain serving up comforting classics like banana splits, waffle bowls, phosphates and handmade chocolate and fudge. They make their ice cream in their Idaho store multiple times a week. Illinois: Margie's Candies (Chicago) From Chicago to the suburbs, everybody knows Margie's Candies is the place to go for ice cream in Illinois . This nostalgic neighborhood staple has remained Chicago's best since 1921 and is famed for its sundaes, which are served with homemade hot fudge or other sauces separate so you can drizzle it fresh yourself. If you bring enough friends along, you can try to tackle the \"\"World's Largest Sundae\"\" made with a half gallon of ice cream. Indiana: BRICS (Indianapolis) BRICS stands for \"\"Broad Ripple Ice Cream Station.\"\" This iconic Indiana ice cream spot is co-owned by a relative of Kurt Vonnegut and is located inside the historic Monon Railway Station. They have a list of over 40 ice cream flavors, such as amaretto cherry and yellow cake batter. They can also make any scoop, sundae, shake or other treat vegan using vegan gelato. Iowa: Whitey's Ice Cream (Bettendorf) For 85 years, Whitey's in Bettendorf, Iowa , has been dishing out what they claim is \"\"the best ice cream in the Midwest.\"\" Customers can choose from flavors like bubble gum, banana graham, coffee toffee and white chocolate raspberry. The also offer cookie ice cream sandwiches and Bostons, which are malts or shakes with a sundae on top. Kansas: College Hill Creamery (Wichita) The glowing reviews of this Kansas creamery rave about this adorable little house turned ice cream and coffee shop. The menu at College Hill Creamery includes flavors like birthday cake and java chip ice cream as well as affogatos, which are scoops of ice cream topped with shots of espresso. Kentucky: Crank & Boom Ice Cream Lounge (Lexington) This Bluegrass State ice cream shop is the perfect mix of cool and cute. Crank & Boom 's hot flavor creations, such as Kentucky bourbon and honey, come in adorable Mason jars. Plus customers can get their booze on with alcoholic floats and ice cream cocktails. Louisiana: Creole Creamery (New Orleans) The creamery specialties at Creole Creamery in New Orleans set this ice cream stand apart from everything else in Louisiana . Their Skyscraper is an enormous concoction made with cookies and cream, chocolate and vanilla ice creams layered with caramel, hot fudge and crushed Oreos served with whipped cream, sprinkles, a cherry and a wafer. Plus they also serve something called a Tchoupitoulas made with eight scoops and eight toppings. You can share it, but if you can finish it on your own, you earn a spot in their hall of fame. Maine: Toots Ice Cream (North Yarmouth) Toots Ice Cream is served in a caboose on a Maine dairy farm filled with cute cows. You can enjoy the rustic scenery while you munch on deliciously creamy ice cream flavors such as Candy Store Floor, Grandma's Peanut Butter Pie or grapefruit sorbet. Maryland: The Charmery (Baltimore) A big favorite among students at Johns Hopkins University, Maryland 's The Charmery has tons of flavors, including cool ones like baklava, black sesame, buttermilk and cornbread, and butternut squash and clove. They serve fun color-changing \"\"magic\"\" spoons and have menu items like Turtle Soup, made from melted chocolate ice cream. Massachusetts: Richardson's (Middleton) This family-run Massachusetts dairy farm serves homemade ice cream and frozen yogurt made from the milk from their 375 cows. Richardson's has traditional flavors like chocolate and vanilla as well as fun ones like matcha green tea, Snickers and Blue Crunchasaurus. They also have a driving range, mini-golf courses and batting cages for an afternoon of fun. Michigan: Moomers (Traverse City) Moomers , which is located on a working dairy farm, has over 160 handmade ice cream flavors, including Cherries Moobilee and brownie batter. Customers go nuts for this Traverse City, Michigan , creamery's sundaes, including the massive Wholly Cow, a 10-scoop sundae served in a trifle bowl. Minnesota: Izzy's (St. Paul) Everyone in Minnesota is obsessed with Izzy's because every scoop of ice cream gets a mini \"\"Izzy-sized\"\" scoop of a different flavor on top. So that means if you order a scoop of bananas Foster, you can top it off with a tiny scoop of Guinness, dulce de leche, strawberry cheesecake or marshmallow. Or, if you're really indecisive, you can order a Dizzy Izzy, which is five mini scoops in a cup or in the shop's house-made malted waffle cone. Mississippi: Area 51 Ice Cream (Hernando) Area 51 Ice Cream is just as mysterious as its name. Their small-batch flavors are made with fresh ingredients from Mississippi farmers markets, so menu items change often. Flavors include classics like cookies and cream and bourbon butter pecan as well as mo...",
+        "word_count": 1650,
+        "publish_time": "2025-05-13T14:03:01Z",
+        "source": "New York Times",
+        "tags": [
+          "research",
+          "market",
+          "ai",
+          "restaurantsandnews",
+          "foodanddrink",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N25386",
+          "N35729"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "旅行",
+          "生活",
+          "政治",
+          "社会",
+          "科技",
+          "足球",
+          "体育"
+        ],
+        "engagement_score": 0.76
+      },
+      "interaction_data": {
+        "scroll_depth": 0.78,
+        "clicks_count": 10,
+        "shares_count": 2,
+        "comments_count": 5,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.05,
+        "topic_keywords": [
+          "research",
+          "market",
+          "ai"
+        ],
+        "viral_potential": 0.63,
+        "trend_score": 0.42,
+        "recommendation_relevance": 0.92,
+        "content_quality": 0.12,
+        "user_profile_match": 0.07
+      }
+    },
+    {
+      "timestamp": "2019-06-17T17:49:19Z",
+      "user_id": "U32515",
+      "news_id": "N104931",
+      "action_type": "skip",
+      "session_id": "session_4556ee0037b6",
+      "dwell_time": 45,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Mac",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "video",
+        "topic": "popculture",
+        "headline": "Iconic 'Lorax' tree topples over in La Jolla",
+        "content": "\"The Monterey cypress tree that's located in La Jolla, California, and thought to have inspired Dr. Seuss 1971 children's book \"\"The Lorax\"\" has fallen. It was estimated to be about 80 to 100 years old. The anchors on the 3rd hour of TODAY chat about it.\"",
+        "word_count": 46,
+        "publish_time": "2025-05-17T10:11:16Z",
+        "source": "New York Times",
+        "tags": [
+          "video",
+          "popculture"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N90242",
+          "N91436"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "足球",
+          "新闻",
+          "社会"
+        ],
+        "engagement_score": 0.04
+      },
+      "interaction_data": {
+        "scroll_depth": 0.85,
+        "clicks_count": 10,
+        "shares_count": 1,
+        "comments_count": 4,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.41,
+        "topic_keywords": [
+          "video",
+          "popculture"
+        ],
+        "viral_potential": 0.3,
+        "trend_score": 0.93,
+        "recommendation_relevance": 0.76,
+        "content_quality": 0.53,
+        "user_profile_match": 0.6
+      }
+    },
+    {
+      "timestamp": "2019-06-25T11:37:02Z",
+      "user_id": "U260848",
+      "news_id": "N78508",
+      "action_type": "like",
+      "session_id": "session_54013b7c9913",
+      "dwell_time": 428,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "health",
+        "topic": "voices",
+        "headline": "Amelia Gray Hamlin: 'If I Hadn't Come Out About My Eating Disorder, I Probably Would Have Relapsed'",
+        "content": "\"*In 2018, Amelia Gray Hamlin, daughter of *Real Housewives of Beverly Hills' s Lisa Rinna, revealed on Instagram she had been struggling with an eating disorder a year later, she's reliving some of those moments as they air on RHOBH . Hamlin opened up to Glamour about her recovery, dealing with an eating disorder in the public eye, and the best advice her mom has ever given her. Trigger warning: This post contains descriptions of eating disorder behavior. A year ago this past spring, I was at a resort in Mexico, enjoying the beach with my best friend and living in a bikini. The year before I'd been at the same resort, but back then I almost didn't recognize myself I was really struggling at the time. As I posted photos from the trip, one thing quickly became apparent: same resort, same girl, very different body. I'd gained weight over the previous year, and my followers were noticing the drastic change. \"\"Oh look, she's just hit puberty,\"\" commenters speculated. But they were so off base the year before I'd been struggling with anorexia. I had gained weight since the last time I was at that Mexican resort. I'd gotten help and gotten healthier. All these young girls were following me and commenting on my posts, and I realized I didn't want them to be following a lie. I couldn't allow little girls, or little boys, or whoever, to look at the changes in my body and think I'd just hit puberty that the really skinny photos of me from the year before were just a normal prepubescent body. I couldn't stop thinking about the message those comments about my body sent. I couldn't hide behind the screen anymore. That's when I started speaking publicly about my eating disorder . View this post on Instagram I feel comfort with finally posting something that I wish I was confident enough to post long ago. I'm getting many comments comparing my body today vs. my body last year. I think that the support from my followers has really pushed me into writing this. Anyways, last year at this time there was no doubt that I was not okay. Not only physically but also mentally. I feel like sometimes people forget that just because your job involves being in front of the camera, doesn't mean you can't have bad days. We're human. All of us. Instead of people ever commenting on my mental stability, people commented on my weight. Usually, when people are struggling with an eating disorder it stems from your mind, and your body is a reflection of it. I could go on and on about that time of my life, but the most important part about it was waking up one morning and deciding to stop sabotaging myself. My health, my physical health, my mental health and everything about myself. Once I got the help that I needed, shortly after the second photo was taken, I began to try to love myself for me. I am SO beyond humbled and grateful to have the platform that I do at such a young age, and to wake up every morning with a little girl reaching out to me and telling me I am her inspiration, really makes me feel like I have a purpose. I went through this journey not for attention, not for people to pitty me, but to help. I am on this earth to help people, and I know that. One in 200 women in the US suffer from anorexia. And I want to help. The first photo, taken today is not a photo of the perfect girl. That is a photo of me, trying to figure out my body, and owing my curves that I naturally have, and not forcing myself to starve them away. I have a lot of health complications after starving myself for so long so it's going to be a journey that I go through for a large part of my life. I still have an extremely healthy life style and I workout so hard all week to maintain my Body. Not to say that recently being diagnosed with hashimotos has also been an extreme challenge for me to balance when still getting over this part of my life, but I am getting there. One day at a time. I want to help. A post shared by Amelia (@ameliagray) on Mar 31, 2018 at 5:57pm PDT I didn't tell anyone I planned to \"\"come out,\"\" so to speak. Instead I took my phone down to the beach to be alone and started drafting an Instagram post just writing it down helped me a lot. I started crying. Even for me, it was powerful to read the truth. I felt lighter. The photo of me in the white bikini that I chose to accompany the post has become my infamous anorexia photo. When I'd taken it a year earlier, I remember I wasn't allowed to post it. My mom knew I looked unhealthy and she didn't want me to open myself up to a flood of public shaming from the internet. I think that's ultimately why I used that photo it was taken at one of my worst moments, and it showed just how far I'd come. I figured I'd get maybe 2,000 likes on the photo but it went viral. It has over 38,000 likes. My mom, who had been flying at the time, called me in a panic when she switched on her phone to a flurry of texts asking if I was okay. Initially she wasn't happy; I'd just opened up about such a big part of my life that our family was originally going to keep private. But at the end of the day it was my story. It was something I had gone though. I had the right to decide how and when to talk about it. I get why she was concerned. I was still at an extremely vulnerable time in my life when I came out about my eating disorder. In the wake of my anorexia, I was diagnosed with Hashimoto's disease , an autoimmune disease that screws with your thyroid. My body was reacting to being starved for so long. With Hashimoto's I'm going to have to take two pills every single morning as soon as I wake up, maybe for the rest of my life. Obviously that's not the worst thing in the world, but it's hard knowing I did this to myself. Dealing with this was a lot. I was already tremendously insecure, so to have people saying \"\"Oh, she gained weight! She gained weight!\"\" was really hard. I know I gained weight. I was terrified of gaining weight. I felt like, Geez, thanks for pointing it out and making it worse. But if I'm being honest, if I hadn't come out about my eating disorder when I did, I probably would have relapsed. Here's the thing about sharing my life on social media : I have eyes on me 24/7. After sharing my story, they weren't just anonymous eyes but eyes that knew this intimate detail about my life, that were watching me and my body every single day. When you're in recovery from an eating disorder, it's so difficult to continue pushing through even when you have bad days where you just want to go back to your old habits. Sharing my story has helped keep me accountable. I want to be a role model, to be strong for all the people who look to me. I think that's really helped me tremendously in my whole recovery process. I have such a strong support system my mom included. This season on Real Housewives of Beverly Hills , a couple of episodes touch on my anorexia . I can't bring myself to watch footage from when I was really struggling. I just can't relive it. I've come so far, and it would make me too sad to see how I used to act. View this post on Instagram A series A post shared by Amelia (@ameliagray) on Feb 28, 2019 at 11:26pm PST If there's one message I'd want people to take away from my story, it's this: Don't comment on other people's bodies. You never know what someone might be struggling with even what you mean as a compliment can be a trigger. I honestly think so many problems could be avoided if people were more careful with their words. When I first started struggling with anorexia, I loved when friends would comment on my weight. I have a distinct memory of running into a friend at the mall, right outside Victoria's Secret. She put her hand on my waist and was like, 'Oh, my God, Ameila, you're so skinny, you need to stop!\"\" I loved those comments. They felt amazing, as psycho as that sounds. It was this feeling that fed my eating disorder. It's funny, ever since I opened up about my eating disorder, nobody really comments on my body anymore. I guess people understand that if they did, it would be pretty [messed] up. (Still, I try not to read my comments very much even a small amount of hate can really overtake the love.) Instead, it seems as though the body shamers have flocked to my mom's comment section. She really gets the heat of the body shaming related to me people tell her my eating disorder is her fault, that she caused me to be anorexic. I wish I could pull up a screen and show the world a play-by-play of my past. My mom tried to help me so much, but every time I'd just be like, 'No, I'm fine, I'm just on a weight-loss journey.' To have people saying she didn't do enough hurts my heart so much. If they could only see how much I rejected her help and how much I pushed her away it hurts me for her. View this post on Instagram Mama, I'm sorry this is late- I really wanted to make it what you deserve. You are SO incredible. Not only do you love me and Delilah unconditionally, but the support that you give to us is so amazing. You have never failed. You work so hard to make sure that we are always happy- and we couldn't be happier. You helped me through a time in my life when I was alone and struggling. You have been a shoulder to lean on no matter what. You always lift me up and make sure that I know I am loved. When people come up to me the first thing they tell me is, \"\"your mom is amazing - please tell her she is the best person ever\"\" I know how blessed I am to have been raised by such a beautiful person. You've taught me how to stick up for myself, and that honesty is the most important quality. You've taught me how to love, you've taught me perseverance, you've taught me strength, and you've taught me the importance of kindness. I love you SO MUCH mama you have NO IDEA. You've set the bar high in regards to being a mom. You are so beautiful, I love you, thank you. @lisarinna A post shared by Amelia (@ameliagray) on May 12, 2019 at 10:50pm PDT Her biggest advice to me has been helping me understand that I c...",
+        "word_count": 1908,
+        "publish_time": "2025-06-04T06:02:30Z",
+        "source": "ESPN",
+        "tags": [
+          "voices",
+          "ai",
+          "health"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N49558",
+          "N17077"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "理财",
+          "保险",
+          "电视",
+          "娱乐",
+          "股票",
+          "商业",
+          "互联网",
+          "科技"
+        ],
+        "engagement_score": 0.77
+      },
+      "interaction_data": {
+        "scroll_depth": 0.22,
+        "clicks_count": 9,
+        "shares_count": 3,
+        "comments_count": 4,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.55,
+        "topic_keywords": [
+          "voices",
+          "ai",
+          "health"
+        ],
+        "viral_potential": 0.57,
+        "trend_score": 0.93,
+        "recommendation_relevance": 0.07,
+        "content_quality": 0.17,
+        "user_profile_match": 0.77
+      }
+    },
+    {
+      "timestamp": "2019-07-02T05:44:43Z",
+      "user_id": "U185184",
+      "news_id": "N33124",
+      "action_type": "read",
+      "session_id": "session_5f3dfb4f70ea",
+      "dwell_time": 80,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "sports",
+        "topic": "football_nfl",
+        "headline": "Why Julian Edelman Did Not Speak To His Dad For 81 Days In 2018",
+        "content": "\"Julian Edelman has quite the bond with his father, Frank. But their relationship became strained for a brief time in 2018 after the New England Patriots wideout was handed a four-game suspension from the NFL for violating their performance-enhancing drug policy. \"\"Me and my dad talk every day,\"\" Edelman said in his new documentary \"\"100%: Julian Edelman,\"\" as transcribed by Boston.com. \"\"And after that, we didn't talk for a while.\"\" In fact, the documentary states the two didn't speak for 81 days. Angie, Edelman's mother, said the situation bothered Edelman's father, who took a \"\"different stance\"\" on how to best cope with the situation than his son. \"\"Frank was very upset,\"\" she said. \"\"Jules didn't want his dad a part of this process. He was handling it with his attorneys, and my husband doesn't understand that sometimes.\"\" The suspension came as Edelman was working toward his return from a season-ending ACL injury that kept him on the sidelines in 2017. He wowed his teammates in his return in November 2018, but it's clear he wanted to impress was his father.\"",
+        "word_count": 180,
+        "publish_time": "2025-06-11T20:10:03Z",
+        "source": "Reuters",
+        "tags": [
+          "football_nfl",
+          "ai",
+          "sports",
+          "policy"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N36828",
+          "N64277"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "音乐",
+          "银行",
+          "财经"
+        ],
+        "engagement_score": 0.92
+      },
+      "interaction_data": {
+        "scroll_depth": 0.77,
+        "clicks_count": 2,
+        "shares_count": 1,
+        "comments_count": 2,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.56,
+        "topic_keywords": [
+          "football_nfl",
+          "ai",
+          "sports"
+        ],
+        "viral_potential": 0.62,
+        "trend_score": 0.32,
+        "recommendation_relevance": 0.16,
+        "content_quality": 0.22,
+        "user_profile_match": 0.87
+      }
+    },
+    {
+      "timestamp": "2019-06-17T05:48:38Z",
+      "user_id": "U187822",
+      "news_id": "N72931",
+      "action_type": "skip",
+      "session_id": "session_2dd992837659",
+      "dwell_time": 60,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "iOS",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "video",
+        "topic": "popculture",
+        "headline": "Meghan Markle And Prince Harry Post New Photo Of Baby Archie For Father's Day",
+        "content": "A new photo of baby Archie was released for Father's Day.",
+        "word_count": 11,
+        "publish_time": "2025-05-30T18:36:20Z",
+        "source": "USA Today",
+        "tags": [
+          "video",
+          "popculture"
+        ],
+        "entities": {
+          "persons": [
+            "{",
+            "Father's Day",
+            ": ",
+            "Mother's Day",
+            "}"
+          ],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N95202",
+          "N21601"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "保险",
+          "科技",
+          "手机",
+          "电视"
+        ],
+        "engagement_score": 0.96
+      },
+      "interaction_data": {
+        "scroll_depth": 0.79,
+        "clicks_count": 6,
+        "shares_count": 0,
+        "comments_count": 5,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.55,
+        "topic_keywords": [
+          "video",
+          "popculture"
+        ],
+        "viral_potential": 0.33,
+        "trend_score": 0.21,
+        "recommendation_relevance": 0.84,
+        "content_quality": 0.1,
+        "user_profile_match": 0.8
+      }
+    },
+    {
+      "timestamp": "2019-06-20T14:10:51Z",
+      "user_id": "U300506",
+      "news_id": "N75943",
+      "action_type": "like",
+      "session_id": "session_476e55d305ba",
+      "dwell_time": 68,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shaanxi",
+        "city": "Xi'an"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tv-celebrity",
+        "headline": "Dynasty Star Catherine Oxenberg 'Couldn't Stop Sobbing' With Joy After Nxivm Founder's Conviction",
+        "content": "\"When Nxivm founder Keith Raniere was convicted in federal court on Wednesday of sex trafficking charges in connection with the sexually coercive group, Catherine Oxenberg burst into tears of redemption. \"\"I couldn't stop sobbing. It was like all of this pent up emotion and I was trying to be quiet and not be disruptive,\"\" she tells PEOPLE in an exclusive interview. The actress, whose daughter India joined the New York-based group in 2011 but has since left, adds, \"\"I'm so grateful to those jurors, I cannot tell you, for seeing through the monster that Keith Raniere is.\"\" Raniere had pleaded not guilty on all seven charges he faced, including racketeering and sex trafficking. He will be sentenced in September and could face life in prison. PEOPLE was not immediately able to reach his lawyers. (via the Washington Post) Prosecutors described Nxivm as a sexual pyramid scheme involving sex slaves, with Raniere at the top. The group has long marketed itself as a group that empowers people and helps them manage emotional trauma, but prosecutors and Oxenberg have said it has a darker side built on coercion and manipulation. Investigators said Raniere, who was known as \"\"Vanguard\"\" to his followers, occupied the top of a pyramid called DOS, with tiers of female \"\"slaves,\"\" each of whom could become a \"\"master\"\" to slaves beneath them. Raniere's top lieutenant in the organization was Allison Mack , the actress who starred on Smallville . In April, Mack pleaded guilty to conspiracy and racketeering charges and will be sentenced in September. Oxenberg publicly blew the whistle on Nxivm , which prosecutor Richard Donoghue described in court as \"\"a cult-like organization involved in sex trafficking, child pornography, extortion, compelled abortions, branding, degradation and humiliation.\"\" She spoke out against the group and her attempts to rescue her daughter, and chronicling her experience in her 2018 memoir, CAPTIVE: A Mother's Crusade to Save Her Daughter From a Terrifying Cult, cowritten by PEOPLE contributor Natasha Stoynoff, which will soon be out in paperback. She describes the verdict to PEOPLE as \"\"unbelievable vindication for me. Incredible relief. Closure, finally being able to move forward.\"\" She said the verdict also represented \"\"vindication for these young women who got up there and testified the most vulnerable details of their lives. Exposing these terrible abuses by this man. And the fear that he was going to get away with it yet again.\"\" Oxenberg: Raniere Is 'Sociopath' Oxenberg tells PEOPLE that when the verdict was read, Raniere had \"\"no expression. And you know, I think that's symptomatic of a sociopath is they lack empathy. No emotion at all. Nothing. Nothing.\"\" During the trial, another former Nxivm member testified that Mack allegedly imposed a restrictive diet on India to suit Raniere's sexual desires. \"\"Alison was trying to have [India] get down to a certain weight. It was just really hard to watch, sometimes,\"\" the former member, a 31-year-old actress identified only as Nicole, said in court, The New York Post reported . The Post reported that previous witnesses described Raniere's alleged preference for his \"\"slaves\"\" to be skinny, sleep-deprived and compliant. Oxenberg told PEOPLE Mack's alleged behavior was \"\"horrendous and despicable\"\" and confirmed the reports of her daughter's restrictive diet. \"\"I knew India was on a restricted diet of between 500 to 900 calories, but I had no idea it was down to 500 calories for a year,\"\" said Oxenberg. \"\"It's so many layers of disgust. When you think it can't get worse, it does. The layers of sadism and cruelty are endless.\"\" 'Strong and Empowered Women' In 2018, Oxenberg told PEOPLE India had left NXIVM and was \"\"moving forward.\"\" She says the trial was eye opening for India and other survivors, \"\"showing the way that they were using these girls and setting them up for sex for Keith. And that was this whole plan. And the girls had no idea. None.\"\" Asked how India was faring after escaping the group, Oxenberg says, \"\"Pretty amazing. Really quite amazing. And I would say for all of the women who'd been through this ordeal. … They are not broken and they will be stronger than they were before.\"\" She adds, \"\"They will be strong and empowered women as a result of this experience. And deeply vindicated because I think that this is going to be a groundbreaking case as far as redefining coercion, and sex trafficking. I really do.\"\" Oxenberg's memoir, CAPTIVE: A Mother's Crusade to Save Her Daughter From a Terrifying Cult, cowritten by PEOPLE contributor Natasha Stoynoff, will soon be out in paperback.\"",
+        "word_count": 758,
+        "publish_time": "2025-06-09T04:00:25Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "exclusive",
+          "tv-celebrity",
+          "market",
+          "ai",
+          "breaking",
+          "report",
+          "tv"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "奥运会",
+          "音乐",
+          "保险",
+          "银行",
+          "旅行"
+        ],
+        "engagement_score": 0.56
+      },
+      "interaction_data": {
+        "scroll_depth": 0.65,
+        "clicks_count": 4,
+        "shares_count": 2,
+        "comments_count": 1,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.55,
+        "topic_keywords": [
+          "exclusive",
+          "tv-celebrity",
+          "market"
+        ],
+        "viral_potential": 0.59,
+        "trend_score": 0.84,
+        "recommendation_relevance": 0.3,
+        "content_quality": 0.92,
+        "user_profile_match": 0.05
+      }
+    },
+    {
+      "timestamp": "2019-06-26T13:01:04Z",
+      "user_id": "U155201",
+      "news_id": "N92453",
+      "action_type": "like",
+      "session_id": "session_e8efae536d15",
+      "dwell_time": 14,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "The nation's best drivers",
+        "content": "\"The nation's best drivers A Texas city has nation's best drivers, Baltimore the worst Thinking about where to go on your next road trip? Brownsville, Texas, could be a safe bet. The border town a little less than 30 miles from South Padre Island, for the second year running, is where you'll find America's best drivers. You might want to avoid Baltimore, though. The city came in last in a ranking of drivers in 200 cities, according to an Allstate insurance company report. A new report says L.A. has some of the worst drivers in the nation and that its riskiest road, based on collisions, is the 405. Los Angeles Los Angeles was fifth worse (No. 195), and other California cities Glendale (196), Oakland, San Francisco, Pasadena (187) and Hayward finished in the bottom 15. Allstate looked at collision claims across the U.S. The rankings show that Brownsville drivers get into a collision every 14.95 years, on average; L.A. drivers, an accident once every 5.81 years. Report details safe and non-safe driving cities The report also details which roads are what Allstate calls \"\"the riskiest\"\" that is, the roads on which most crashes occur. In Glendale, it's the 134 Freeway; in L.A., the 405; and Pasadena, the 210. The findings were released before the Fourth of July, which All-State calls the deadliest driving holiday of the year. Here are the rest of the safest driving cities in the U.S.: 2. Boise, Idaho A storm dropped several inches of snow in Boise, Idaho, and around the Treasure Valley. 3. Huntsville, Ala. Traffic slows as US 72 becomes four lanes near Providence Main Street west of Huntsville, Ala. 4. Kansas City, Kan. The snow had already slowe traffic on northbound Interstate 35, after the Interstate 29 split in Kansas City. 5. Laredo, Texas A line of people crosses from the United States into Mexico at International Bridge No. 1. There are four bridges over the Rio Grande at Laredo, Texas but No. 1 is designed for foot traffic headed into the Nuevo Laredo tourist district. 6. Olathe, Kan. More, Kansas! 7. Fort Collins, Colo. The Rocky Mountains and bighorn sheep in Fort Collins. 8. Overland Park, Kan. Kansas again. 9. McAllen, Texas A sunset in McAllen, Texas 10. Cape Coral, Fla. Cape Coral highrise 11. Madison, Wis. The capital building dome in Madison, at night with the fountain of Monona Terrace in the foreground. 12. Cary, N.C. Cary Art Center in North Carolina 13. Colorado Springs, Colo. Cityscape of Colorado Springs 14. Port St. Lucie, Fla. A resort beach on the St. Lucie River in Port St. Lucie, Florida 15. Scottsdale, Ariz. Sunny day in Scottsdale\"",
+        "word_count": 444,
+        "publish_time": "2025-05-31T01:40:54Z",
+        "source": "Reuters",
+        "tags": [
+          "ai",
+          "news",
+          "report",
+          "newsus"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N30459",
+          "N104473"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "股票",
+          "金融",
+          "AI",
+          "电脑",
+          "音乐"
+        ],
+        "engagement_score": 0.11
+      },
+      "interaction_data": {
+        "scroll_depth": 0.8,
+        "clicks_count": 10,
+        "shares_count": 0,
+        "comments_count": 2,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.56,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "report"
+        ],
+        "viral_potential": 0.01,
+        "trend_score": 0.36,
+        "recommendation_relevance": 0.45,
+        "content_quality": 0.92,
+        "user_profile_match": 0.03
+      }
+    }
+  ],
+  "metadata": {
+    "source": "mobile_app",
+    "version": "1.0",
+    "processed_time": "2025-06-12T19:28:02.520505Z"
+  }
+}

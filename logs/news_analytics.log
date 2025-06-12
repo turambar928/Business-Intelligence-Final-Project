@@ -1,0 +1,403 @@
+2025-06-04 20:15:06,385 - __main__ - INFO - 系统配置加载完成
+2025-06-04 20:15:16,389 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:15:16.389204
+2025-06-04 20:15:26,392 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:15:26.392749
+2025-06-04 20:15:36,403 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:15:36.403337
+2025-06-04 20:15:46,428 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:15:46.428666
+2025-06-04 20:15:56,438 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:15:56.438297
+2025-06-04 20:16:06,447 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:16:06.447797
+2025-06-04 20:16:16,461 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:16:16.461290
+2025-06-04 20:16:26,471 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:16:26.471826
+2025-06-04 20:16:36,487 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:16:36.487499
+2025-06-04 20:16:46,497 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:16:46.497676
+2025-06-04 20:16:56,508 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:16:56.508756
+2025-06-04 20:17:06,514 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:17:06.514807
+2025-06-04 20:17:16,522 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:17:16.522789
+2025-06-04 20:17:26,533 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:17:26.533334
+2025-06-04 20:17:36,544 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:17:36.544168
+2025-06-04 20:17:46,553 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:17:46.553764
+2025-06-04 20:17:56,564 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:17:56.564829
+2025-06-04 20:18:06,575 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:18:06.575452
+2025-06-04 20:18:16,582 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:18:16.582726
+2025-06-04 20:18:26,591 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:18:26.590964
+2025-06-04 20:18:36,599 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:18:36.599832
+2025-06-04 20:18:46,610 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:18:46.610761
+2025-06-04 20:18:56,621 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:18:56.621685
+2025-06-04 20:19:06,632 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:19:06.631681
+2025-06-04 20:19:16,642 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:19:16.642858
+2025-06-04 20:19:26,649 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:19:26.649857
+2025-06-04 20:19:36,660 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:19:36.660756
+2025-06-04 20:19:46,668 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:19:46.668088
+2025-06-04 20:19:56,675 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:19:56.675761
+2025-06-04 20:20:06,684 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:20:06.684683
+2025-06-04 20:20:16,688 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:20:16.688557
+2025-06-04 20:20:26,699 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:20:26.699358
+2025-06-04 20:20:36,710 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:20:36.710466
+2025-06-04 20:20:46,722 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:20:46.722067
+2025-06-04 20:20:56,732 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:20:56.732353
+2025-06-04 20:21:06,738 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:21:06.738155
+2025-06-04 20:21:16,749 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:21:16.749649
+2025-06-04 20:21:26,759 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:21:26.759558
+2025-06-04 20:21:36,770 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:21:36.770136
+2025-06-04 20:21:46,781 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:21:46.781248
+2025-06-04 20:21:56,792 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:21:56.792008
+2025-06-04 20:22:06,798 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:22:06.798650
+2025-06-04 20:22:16,808 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:22:16.808134
+2025-06-04 20:22:26,819 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:22:26.819299
+2025-06-04 20:22:36,823 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:22:36.823130
+2025-06-04 20:22:46,832 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:22:46.832028
+2025-06-04 20:22:56,932 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:22:56.932366
+2025-06-04 20:23:06,935 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:23:06.935912
+2025-06-04 20:23:16,942 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:23:16.942494
+2025-06-04 20:23:26,945 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:23:26.945332
+2025-06-04 20:23:36,948 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:23:36.948403
+2025-06-04 20:23:46,962 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:23:46.962296
+2025-06-04 20:23:56,990 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:23:56.990039
+2025-06-04 20:24:06,991 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:24:06.991446
+2025-06-04 20:24:16,997 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:24:16.997253
+2025-06-04 20:24:27,005 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:24:27.005590
+2025-06-04 20:24:37,007 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:24:37.007652
+2025-06-04 20:24:47,018 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:24:47.018598
+2025-06-04 20:24:57,030 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:24:57.030345
+2025-06-04 20:25:07,042 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:25:07.042620
+2025-06-04 20:25:17,055 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:25:17.054957
+2025-06-04 20:25:27,065 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:25:27.065815
+2025-06-04 20:25:37,076 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:25:37.075956
+2025-06-04 20:25:47,087 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:25:47.087619
+2025-06-04 20:25:57,098 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:25:57.098051
+2025-06-04 20:26:07,100 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:26:07.100407
+2025-06-04 20:26:17,111 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:26:17.111225
+2025-06-04 20:26:27,117 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:26:27.117472
+2025-06-04 20:26:37,127 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:26:37.127253
+2025-06-04 20:26:47,138 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:26:47.138018
+2025-06-04 20:26:57,148 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:26:57.148565
+2025-06-04 20:27:07,159 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:27:07.159655
+2025-06-04 20:27:17,169 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:27:17.169688
+2025-06-04 20:27:27,179 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:27:27.179631
+2025-06-04 20:27:37,182 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:27:37.182168
+2025-06-04 20:27:47,193 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:27:47.192939
+2025-06-04 20:27:57,201 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:27:57.201476
+2025-06-04 20:28:07,213 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:28:07.213578
+2025-06-04 20:28:17,223 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:28:17.222937
+2025-06-04 20:28:27,233 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:28:27.233252
+2025-06-04 20:28:37,244 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:28:37.243934
+2025-06-04 20:28:47,253 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:28:47.253240
+2025-06-04 20:28:57,265 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:28:57.265210
+2025-06-04 20:29:07,270 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:29:07.270826
+2025-06-04 20:29:17,282 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:29:17.282055
+2025-06-04 20:29:27,289 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:29:27.289076
+2025-06-04 20:29:37,302 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:29:37.302739
+2025-06-04 20:29:47,308 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:29:47.308584
+2025-06-04 20:29:57,315 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:29:57.315171
+2025-06-04 20:30:07,325 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:30:07.325902
+2025-06-04 20:30:17,334 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:30:17.334289
+2025-06-04 20:30:27,344 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:30:27.344188
+2025-06-04 20:30:37,350 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:30:37.350185
+2025-06-04 20:30:47,360 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:30:47.360754
+2025-06-04 20:30:57,370 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:30:57.370883
+2025-06-04 20:31:07,372 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:31:07.372004
+2025-06-04 20:31:17,383 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:31:17.383120
+2025-06-04 20:31:27,386 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:31:27.386240
+2025-06-04 20:31:37,387 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:31:37.387516
+2025-06-04 20:31:47,398 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:31:47.398542
+2025-06-04 20:31:57,409 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:31:57.409221
+2025-06-04 20:32:07,413 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:32:07.413033
+2025-06-04 20:32:17,420 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:32:17.419963
+2025-06-04 20:32:27,428 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:32:27.427847
+2025-06-04 20:32:37,473 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:32:37.473674
+2025-06-04 20:32:47,509 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:32:47.509679
+2025-06-04 20:32:57,520 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:32:57.519931
+2025-06-04 20:33:07,530 - __main__ - INFO - 系统运行正常 - 2025-06-04 20:33:07.530627
+2025-06-10 23:21:54,623 - __main__ - INFO - 系统配置加载完成
+2025-06-10 23:21:54,626 - __main__ - ERROR - 系统运行错误: name 'NewsStreamingAnalyzer' is not defined
+2025-06-10 23:27:21,114 - __main__ - INFO - 系统配置加载完成
+2025-06-10 23:27:21,115 - __main__ - ERROR - 系统运行错误: name 'NewsStreamingAnalyzer' is not defined
+2025-06-10 23:31:42,873 - __main__ - INFO - 系统配置加载完成
+2025-06-10 23:31:42,923 - __main__ - ERROR - 系统运行错误: [Errno 2] No such file or directory: '/opt/spark/./bin/spark-submit'
+2025-06-10 23:37:47,996 - __main__ - INFO - 系统配置加载完成
+2025-06-10 23:43:47,290 - __main__ - ERROR - 系统运行错误: (1698, "Access denied for user 'root'@'localhost'")
+2025-06-10 23:43:47,327 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-06-10 23:49:03,716 - __main__ - INFO - 系统配置加载完成
+2025-06-10 23:49:19,680 - root - WARNING - MySQL连接失败: (1045, "Access denied for user 'analytics_user'@'localhost' (using password: YES)"), 将使用文件保存结果
+2025-06-10 23:49:19,681 - root - INFO - 新闻流分析器初始化完成
+2025-06-10 23:49:27,405 - py4j.java_gateway - INFO - Callback Server Starting
+2025-06-10 23:49:27,406 - py4j.java_gateway - INFO - Socket listening on ('127.0.0.1', 32959)
+2025-06-10 23:49:28,827 - root - INFO - 流数据处理已启动...
+2025-06-10 23:49:37,686 - py4j.clientserver - INFO - Python Server ready to receive messages
+2025-06-10 23:49:37,688 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:49:41,797 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:49:46,169 - root - INFO - 处理批次 1, 数据量: 16
+2025-06-10 23:49:47,707 - py4j.clientserver - ERROR - There was an exception while executing the Python Proxy on the Python Side.
+Traceback (most recent call last):
+  File "/home/tzf/.local/lib/python3.10/site-packages/py4j/clientserver.py", line 617, in _call_proxy
+    return_value = getattr(self.pool[obj_id], method)(*params)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pyspark/sql/utils.py", line 115, in call
+    raise e
+  File "/home/tzf/.local/lib/python3.10/site-packages/pyspark/sql/utils.py", line 112, in call
+    self.func(DataFrame(jdf, wrapped_session_jdf), batch_id)
+  File "/home/tzf/Desktop/Business-Intelligence-Final-Project/src/spark_streaming_analyzer.py", line 123, in _process_batch
+    batch_pandas = batch_df.toPandas()
+  File "/home/tzf/.local/lib/python3.10/site-packages/pyspark/sql/pandas/conversion.py", line 251, in toPandas
+    series = series.astype(t, copy=False)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/generic.py", line 6324, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/internals/managers.py", line 451, in astype
+    return self.apply(
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/internals/managers.py", line 352, in apply
+    applied = getattr(b, f)(**kwargs)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/internals/blocks.py", line 511, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/dtypes/astype.py", line 242, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/dtypes/astype.py", line 184, in astype_array
+    values = values.astype(dtype, copy=copy)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 694, in astype
+    raise TypeError(
+TypeError: Casting to unit-less dtype 'datetime64' is not supported. Pass e.g. 'datetime64[ns]' instead.
+2025-06-10 23:49:48,013 - __main__ - ERROR - 系统运行错误: [STREAM_FAILED] Query [id = 58946a2e-a722-4cdb-96bd-2568393cf3ba, runId = cae7f783-2f87-45f3-9075-023b6fcdf506] terminated with exception: An exception was raised by the Python Proxy. Return Message: Traceback (most recent call last):
+  File "/home/tzf/.local/lib/python3.10/site-packages/py4j/clientserver.py", line 617, in _call_proxy
+    return_value = getattr(self.pool[obj_id], method)(*params)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pyspark/sql/utils.py", line 115, in call
+    raise e
+  File "/home/tzf/.local/lib/python3.10/site-packages/pyspark/sql/utils.py", line 112, in call
+    self.func(DataFrame(jdf, wrapped_session_jdf), batch_id)
+  File "/home/tzf/Desktop/Business-Intelligence-Final-Project/src/spark_streaming_analyzer.py", line 123, in _process_batch
+    batch_pandas = batch_df.toPandas()
+  File "/home/tzf/.local/lib/python3.10/site-packages/pyspark/sql/pandas/conversion.py", line 251, in toPandas
+    series = series.astype(t, copy=False)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/generic.py", line 6324, in astype
+    new_data = self._mgr.astype(dtype=dtype, copy=copy, errors=errors)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/internals/managers.py", line 451, in astype
+    return self.apply(
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/internals/managers.py", line 352, in apply
+    applied = getattr(b, f)(**kwargs)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/internals/blocks.py", line 511, in astype
+    new_values = astype_array_safe(values, dtype, copy=copy, errors=errors)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/dtypes/astype.py", line 242, in astype_array_safe
+    new_values = astype_array(values, dtype, copy=copy)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/dtypes/astype.py", line 184, in astype_array
+    values = values.astype(dtype, copy=copy)
+  File "/home/tzf/.local/lib/python3.10/site-packages/pandas/core/arrays/datetimes.py", line 694, in astype
+    raise TypeError(
+TypeError: Casting to unit-less dtype 'datetime64' is not supported. Pass e.g. 'datetime64[ns]' instead.
+
+2025-06-10 23:49:48,035 - py4j.clientserver - INFO - Closing down clientserver connection
+2025-06-10 23:50:33,101 - __main__ - INFO - 系统配置加载完成
+2025-06-10 23:50:52,239 - root - WARNING - MySQL连接失败: (1045, "Access denied for user 'analytics_user'@'localhost' (using password: YES)"), 将使用文件保存结果
+2025-06-10 23:50:52,241 - root - INFO - 新闻流分析器初始化完成
+2025-06-10 23:50:59,315 - py4j.java_gateway - INFO - Callback Server Starting
+2025-06-10 23:50:59,315 - py4j.java_gateway - INFO - Socket listening on ('127.0.0.1', 46343)
+2025-06-10 23:50:59,855 - root - INFO - 流数据处理已启动...
+2025-06-10 23:51:03,897 - py4j.clientserver - INFO - Python Server ready to receive messages
+2025-06-10 23:51:03,899 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:51:09,379 - root - INFO - 处理批次 1, 数据量: 16
+2025-06-10 23:51:10,869 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:51:12,100 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:51:13,659 - root - INFO - 处理批次 2, 数据量: 180
+2025-06-10 23:51:17,719 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:51:20,532 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:51:22,528 - root - INFO - 处理批次 3, 数据量: 18
+2025-06-10 23:51:23,768 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:51:30,449 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:51:32,529 - root - INFO - 处理批次 4, 数据量: 20
+2025-06-10 23:51:33,323 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:51:40,472 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:51:42,501 - root - INFO - 处理批次 5, 数据量: 20
+2025-06-10 23:51:43,468 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:51:50,438 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:51:51,797 - root - INFO - 处理批次 6, 数据量: 20
+2025-06-10 23:51:52,746 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:52:00,343 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:52:01,810 - root - INFO - 处理批次 7, 数据量: 20
+2025-06-10 23:52:02,818 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:52:11,177 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:52:12,629 - root - INFO - 处理批次 8, 数据量: 22
+2025-06-10 23:52:13,841 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:52:20,443 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:52:21,763 - root - INFO - 处理批次 9, 数据量: 18
+2025-06-10 23:52:22,678 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:52:30,336 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:52:31,831 - root - INFO - 处理批次 10, 数据量: 20
+2025-06-10 23:52:32,807 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:52:40,209 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:52:41,631 - root - INFO - 处理批次 11, 数据量: 20
+2025-06-10 23:52:42,634 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:52:50,443 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:52:51,752 - root - INFO - 处理批次 12, 数据量: 20
+2025-06-10 23:52:52,630 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:53:00,324 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:53:01,734 - root - INFO - 处理批次 13, 数据量: 20
+2025-06-10 23:53:02,781 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:53:10,588 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:53:12,571 - root - INFO - 处理批次 14, 数据量: 20
+2025-06-10 23:53:13,656 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:53:20,417 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:53:21,960 - root - INFO - 处理批次 15, 数据量: 20
+2025-06-10 23:53:23,021 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:53:30,553 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:53:31,994 - root - INFO - 处理批次 16, 数据量: 20
+2025-06-10 23:53:33,055 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:53:40,321 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:53:41,773 - root - INFO - 处理批次 17, 数据量: 20
+2025-06-10 23:53:42,274 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:53:50,557 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:53:51,690 - root - INFO - 处理批次 18, 数据量: 20
+2025-06-10 23:53:52,203 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:54:00,533 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:54:01,953 - root - INFO - 处理批次 19, 数据量: 20
+2025-06-10 23:54:02,862 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:54:10,287 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:54:11,600 - root - INFO - 处理批次 20, 数据量: 20
+2025-06-10 23:54:12,117 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:54:20,294 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:54:21,706 - root - INFO - 处理批次 21, 数据量: 20
+2025-06-10 23:54:22,221 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:54:30,287 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:54:31,673 - root - INFO - 处理批次 22, 数据量: 20
+2025-06-10 23:54:32,113 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:54:40,358 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:54:41,751 - root - INFO - 处理批次 23, 数据量: 18
+2025-06-10 23:54:42,200 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:54:50,432 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:54:51,820 - root - INFO - 处理批次 24, 数据量: 20
+2025-06-10 23:54:52,227 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:55:01,090 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:55:02,911 - root - INFO - 处理批次 25, 数据量: 20
+2025-06-10 23:55:03,378 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:55:10,444 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:55:11,882 - root - INFO - 处理批次 26, 数据量: 20
+2025-06-10 23:55:12,502 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:55:20,286 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:55:21,668 - root - INFO - 处理批次 27, 数据量: 20
+2025-06-10 23:55:22,329 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:55:30,294 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:55:31,877 - root - INFO - 处理批次 28, 数据量: 20
+2025-06-10 23:55:32,466 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:55:40,399 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:55:42,026 - root - INFO - 处理批次 29, 数据量: 20
+2025-06-10 23:55:42,479 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:55:50,205 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:55:51,203 - root - INFO - 处理批次 30, 数据量: 20
+2025-06-10 23:55:52,073 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:56:00,333 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:56:01,828 - root - INFO - 处理批次 31, 数据量: 20
+2025-06-10 23:56:02,522 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:56:10,201 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:56:11,214 - root - INFO - 处理批次 32, 数据量: 20
+2025-06-10 23:56:12,068 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:56:20,265 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:56:21,237 - root - INFO - 处理批次 33, 数据量: 20
+2025-06-10 23:56:22,079 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:56:30,181 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:56:31,287 - root - INFO - 处理批次 34, 数据量: 20
+2025-06-10 23:56:32,237 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:56:40,389 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:56:41,774 - root - INFO - 处理批次 35, 数据量: 20
+2025-06-10 23:56:42,619 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:56:50,369 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:56:51,375 - root - INFO - 处理批次 36, 数据量: 20
+2025-06-10 23:56:52,234 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:57:00,370 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:57:01,421 - root - INFO - 处理批次 37, 数据量: 20
+2025-06-10 23:57:02,425 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:57:10,386 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:57:11,941 - root - INFO - 处理批次 38, 数据量: 20
+2025-06-10 23:57:12,529 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:57:20,362 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:57:21,931 - root - INFO - 处理批次 39, 数据量: 20
+2025-06-10 23:57:22,535 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:57:30,307 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:57:31,388 - root - INFO - 处理批次 40, 数据量: 20
+2025-06-10 23:57:32,196 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:57:40,377 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:57:41,408 - root - INFO - 处理批次 41, 数据量: 20
+2025-06-10 23:57:42,201 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:57:50,280 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:57:51,477 - root - INFO - 处理批次 42, 数据量: 20
+2025-06-10 23:57:52,261 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:58:00,467 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:58:02,156 - root - INFO - 处理批次 43, 数据量: 20
+2025-06-10 23:58:03,357 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:58:10,342 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:58:11,513 - root - INFO - 处理批次 44, 数据量: 20
+2025-06-10 23:58:12,558 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:58:20,372 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:58:21,519 - root - INFO - 处理批次 45, 数据量: 20
+2025-06-10 23:58:22,692 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:58:30,511 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:58:32,187 - root - INFO - 处理批次 46, 数据量: 20
+2025-06-10 23:58:33,117 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:58:40,330 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:58:41,187 - root - INFO - 处理批次 47, 数据量: 20
+2025-06-10 23:58:41,783 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:58:50,520 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:58:51,706 - root - INFO - 处理批次 48, 数据量: 20
+2025-06-10 23:58:52,815 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:59:00,189 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:59:01,438 - root - INFO - 处理批次 49, 数据量: 20
+2025-06-10 23:59:02,571 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:59:10,433 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:59:11,309 - root - INFO - 处理批次 50, 数据量: 20
+2025-06-10 23:59:11,786 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:59:20,349 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:59:21,464 - root - INFO - 处理批次 51, 数据量: 20
+2025-06-10 23:59:22,433 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:59:30,341 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:59:31,383 - root - INFO - 处理批次 52, 数据量: 20
+2025-06-10 23:59:31,892 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:59:40,316 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:59:41,360 - root - INFO - 处理批次 53, 数据量: 20
+2025-06-10 23:59:42,402 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-10 23:59:50,354 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-10 23:59:51,381 - root - INFO - 处理批次 54, 数据量: 20
+2025-06-10 23:59:51,890 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:00:00,322 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:00:01,410 - root - INFO - 处理批次 55, 数据量: 20
+2025-06-11 00:00:01,814 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:00:10,291 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:00:11,421 - root - INFO - 处理批次 56, 数据量: 20
+2025-06-11 00:00:11,807 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:00:20,291 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:00:21,378 - root - INFO - 处理批次 57, 数据量: 20
+2025-06-11 00:00:21,915 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:00:30,239 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:00:31,376 - root - INFO - 处理批次 58, 数据量: 20
+2025-06-11 00:00:31,840 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:00:40,217 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:00:41,481 - root - INFO - 处理批次 59, 数据量: 20
+2025-06-11 00:00:41,929 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:00:50,200 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:00:51,429 - root - INFO - 处理批次 60, 数据量: 20
+2025-06-11 00:00:52,127 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:01:00,378 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:01:01,621 - root - INFO - 处理批次 61, 数据量: 20
+2025-06-11 00:01:02,126 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:01:10,191 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:01:11,447 - root - INFO - 处理批次 62, 数据量: 20
+2025-06-11 00:01:11,909 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:01:20,258 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:01:21,613 - root - INFO - 处理批次 63, 数据量: 20
+2025-06-11 00:01:21,928 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:01:30,258 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:01:31,720 - root - INFO - 处理批次 64, 数据量: 20
+2025-06-11 00:01:32,037 - root - ERROR - 保存结果到文件时出错: name 'os' is not defined
+2025-06-11 00:01:59,093 - __main__ - INFO - 系统配置加载完成
+2025-06-11 00:02:19,099 - root - WARNING - MySQL连接失败: (1045, "Access denied for user 'analytics_user'@'localhost' (using password: YES)"), 将使用文件保存结果
+2025-06-11 00:02:19,100 - root - INFO - 新闻流分析器初始化完成
+2025-06-11 00:02:28,100 - py4j.java_gateway - INFO - Callback Server Starting
+2025-06-11 00:02:28,101 - py4j.java_gateway - INFO - Socket listening on ('127.0.0.1', 46391)
+2025-06-11 00:02:28,972 - root - INFO - 流数据处理已启动...
+2025-06-11 00:02:34,417 - py4j.clientserver - INFO - Python Server ready to receive messages
+2025-06-11 00:02:34,417 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:02:38,105 - root - INFO - 处理批次 65, 数据量: 122
+2025-06-11 00:21:57,102 - __main__ - INFO - 系统配置加载完成
+2025-06-11 00:22:20,828 - root - INFO - 新闻流分析器初始化完成
+2025-06-11 00:22:30,278 - py4j.java_gateway - INFO - Callback Server Starting
+2025-06-11 00:22:30,279 - py4j.java_gateway - INFO - Socket listening on ('127.0.0.1', 41465)
+2025-06-11 00:22:31,291 - root - INFO - 流数据处理已启动...
+2025-06-11 00:22:35,958 - py4j.clientserver - INFO - Python Server ready to receive messages
+2025-06-11 00:22:35,961 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:22:42,407 - root - INFO - 处理批次 65, 数据量: 122
+2025-06-11 00:23:41,251 - root - INFO - 批次 65 分析结果已保存到MySQL数据库
+2025-06-11 00:23:42,611 - py4j.clientserver - INFO - Received command c on object id p0
+2025-06-11 00:23:44,939 - root - INFO - 处理批次 66, 数据量: 774
+2025-06-11 00:24:52,868 - root - INFO - 批次 66 分析结果已保存到MySQL数据库

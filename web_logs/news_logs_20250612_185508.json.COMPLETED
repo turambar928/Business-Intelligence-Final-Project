@@ -1,0 +1,746 @@
+{
+  "batch_id": "batch_20250612_185508_bba1b2e4",
+  "events": [
+    {
+      "timestamp": "2019-06-27T06:49:46Z",
+      "user_id": "U335175",
+      "news_id": "N34903",
+      "action_type": "share",
+      "session_id": "session_7432c6e43766",
+      "dwell_time": 129,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shaanxi",
+        "city": "Xi'an"
+      },
+      "news_details": {
+        "category": "video",
+        "topic": "animals",
+        "headline": "Scamp the Tramp crowned as World's Ugliest Dog",
+        "content": "Scamp the Tramp, a California mutt, was crowned Friday as the World's Ugliest Dog at the annual contest at the Sonoma-Marin Fair in California. Scamp and his owner, Yvonne Morones, join TODAY to chat about their win.",
+        "word_count": 37,
+        "publish_time": "2025-05-13T19:41:09Z",
+        "source": "TechCrunch",
+        "tags": [
+          "ai",
+          "animals",
+          "video"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N95328",
+          "N32103"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "银行",
+          "理财",
+          "音乐",
+          "电视",
+          "足球",
+          "新闻",
+          "政治"
+        ],
+        "engagement_score": 1.0
+      },
+      "interaction_data": {
+        "scroll_depth": 0.22,
+        "clicks_count": 1,
+        "shares_count": 2,
+        "comments_count": 4,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.54,
+        "topic_keywords": [
+          "ai",
+          "animals",
+          "video"
+        ],
+        "viral_potential": 0.86,
+        "trend_score": 0.28,
+        "recommendation_relevance": 0.9,
+        "content_quality": 0.91,
+        "user_profile_match": 0.63
+      }
+    },
+    {
+      "timestamp": "2019-06-14T17:33:22Z",
+      "user_id": "U146053",
+      "news_id": "N36897",
+      "action_type": "read",
+      "session_id": "session_9134f377af3f",
+      "dwell_time": 406,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestyleroyals",
+        "headline": "Prince Harry Couldn't Stop Smiling As He Attended a Garden Party Solo",
+        "content": "\"Prince Harry attended a garden party in London on June 14 to celebrate the Commonwealth's 70th anniversary . The prince looked dapper in a navy suit at the event while presenting awards to Commonwealth innovators. The Duke of Sussex has had an extremely busy week, which has included onstage performances and a plethora of secret royal engagements. Prince Harry might be about to celebrate his first Father's Day as a new dad, but that doesn't mean he's having any time off. Following a busy week of royal events--which included being heckled onstage at the Sentebale Audi Concert at Hampton Court Palace--Harry stepped out for a special garden party at Marlborough House in London today in honor of the 70th anniversary of the Commonwealth . As usual, the duke put in an exceedingly suave appearance, donning a chic navy suit with a white shirt. Prince Harry handed out awards to Commonwealth innovators \"\"who are pioneering solutions to international development challenges,\"\" per The Commonwealth 's official website. 15 individuals were presented with trophies, certificates and cash awards at the event, and Prince Harry was in great spirits throughout as he chatted with the winners: Harry's appearance follows the news that the Duke and Duchess of Sussex have hired a nanny to help look after baby Archie. \"\"Family life could not be more perfect for [Harry and Meghan],\"\" a source close to Harry and Meghan told BAZAAR.com . \"\"Ever since Archie arrived they haven't stopped smiling. The sleepless nights are totally worth it.\"\" RELATED VIDEO: Meghan Markle and Prince Harry's Life as Parents: Everything That's Changed! [Provided by ETonline]\"",
+        "word_count": 266,
+        "publish_time": "2025-06-12T04:44:14Z",
+        "source": "BBC",
+        "tags": [
+          "lifestyleroyals",
+          "news",
+          "lifestyle"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N18713",
+          "N92169"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "理财",
+          "互联网",
+          "电脑"
+        ],
+        "engagement_score": 0.22
+      },
+      "interaction_data": {
+        "scroll_depth": 0.69,
+        "clicks_count": 10,
+        "shares_count": 2,
+        "comments_count": 0,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.68,
+        "topic_keywords": [
+          "lifestyleroyals",
+          "news",
+          "lifestyle"
+        ],
+        "viral_potential": 0.13,
+        "trend_score": 0.76,
+        "recommendation_relevance": 0.18,
+        "content_quality": 0.61,
+        "user_profile_match": 0.12
+      }
+    },
+    {
+      "timestamp": "2019-06-20T13:22:03Z",
+      "user_id": "U158889",
+      "news_id": "N109347",
+      "action_type": "click",
+      "session_id": "session_3cdd68213634",
+      "dwell_time": 871,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Android",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "Ex-Senate staffer sentenced to 4 years for 'doxing' GOP senators in Kavanaugh confirmation fight",
+        "content": "\"A U.S. judge on Wednesday sentenced a former Democratic Senate staff member to four years in prison for a burglary and hacking campaign that culminated in the single largest known theft of electronic data from the Senate and the posting of private information about Republican senators on the Internet. Jackson A. Cosko, 27, of the District, pleaded guilty in April to \"\"doxing\"\" the senators after being fired by one senator and growing angry at others while watching the Sept. 27 Senate hearing that addressed sexual assault allegations against then-Supreme Court nominee Brett M. Kavanaugh. Cosko subsequently doxed five senators by anonymously editing their Wikipedia pages to add phone numbers and home addresses, he admitted to the court. The information was quickly removed after the alterations were discovered, and aides contacted authorities. Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post In addition to two counts of disclosing restricted personal information and one count each of computer fraud, Cosko confessed to one count each of witness tampering and obstruction of justice by threatening a staffer who caught him on a computer in the office of Sen. Maggie Hassan (D-N.H.), where he was a computer administrator before he was fired in May 2018. U.S. District Judge Thomas F. Hogan of Washington said Cosko intended to hurt people with whom he disagreed, committing a \"\"vicious offense\"\" in an increasingly \"\"intemperate and uncivil\"\" world in which, the judge noted, a gunman in 2017 opened fire on Republican lawmakers at a baseball practice and Democrats faced similar threats, including from a mail bomber in Florida. \"\"People should realize, especially young people, you simply cannot do this without facing serious consequences,\"\" Hogan said. Also Wednesday, prosecutors charged another Hassan staffer they allege had been persuaded by Cosko to try to \"\"wipe down\"\" Senate computers he hacked. Samantha Deforest Davis was charged with two misdemeanors one federal count of aiding and abetting computer fraud and one District count of attempted evidence tampering in a criminal information, a type of charging document that is used when a defendant waives indictment and that can signal an intent to plead guilty. Davis's assistant federal defender, Shelli Peterson, declined to comment. In plea papers, Cosko acknowledged that the senators he doxed were GOP Senate Judiciary Committee members Lindsey O. Graham (S.C.); and Mike Lee and Orrin G. Hatch, both of Utah; as well as and Rand Paul and Senate Majority Leader Mitch McConnell, both Republicans from Kentucky. \"\"The defendant deliberately and maliciously committed serious crimes directed at United States senators and the Senate,\"\" imposing significant harm on individuals senators, their families, staff and the Senate, Assistant U.S. Attorney Demian S. Ahn said in requesting a 57-month prison sentence. Ahn urged the judge to impose a penalty to deter others, saying that Cosko's \"\"crimes call out for a significant sentence,\"\" having been committed in an environment of a rise in politically motivated \"\"criminal harassment and threats.\"\" Cosko's attorneys argued for a two-year term, saying he cooperated fully with investigators, alerting police to a co-defendant, and also to keystroke-logging equipment he had placed on Senate machines and to key evidence missed in a police search. Supporters wrote to the judge saying they were shocked by Cosko's actions, which they attributed to a spiral of untreated mental-health problems and massive consumption of psychedelic drugs, cocaine and alcohol last year . \"\"I accept full and complete responsibility for my actions,\"\" Cosko said in court, backed by his parents, siblings and cousins. He apologized for the harm he caused to the Senate, staffers, constituents and the U.S. Capitol Police , and the disappointment and humiliation he inflicted on his family . Cosko has served about four months in jail and five months in treatment since his arrest. \"\"I believe it saved my life, and moving forward I intend to take full advantage of that to live a purposeful life,\"\" he said. Hogan agreed to recommend that Cosko serve his sentence at the federal low-security prison at Lompoc, Calif., near his parents , and participate in a U.S. Bureau of Prisons residential drug rehabilitation program . Hogan noted that a federal presentencing investigation found that Cosko had been consuming various drugs in what should have been fatal quantities. \"\"I find it almost incredible or unbelievable that you could even operate anything,\"\" Hogan said. Cosko's attorney Brian W. Stolarz said, \"\"No one should be judged by their worst act but how they emerge from it.\"\" Cosko was arrested Oct. 3 by U.S. Capitol Police, who said he had been caught sneaking into Hassan's offices after 10 p.m. the night before and using an aide's computer and log-in, according to court filings. Another aide recognized Cosko, ordered him to leave and called police, Cosko acknowledged in plea papers. Minutes later, that aide received a threatening email with the subject line \"\"I own Everything\"\" and a text stating, \"\"If you tell anyone I will leak it all. Emails signal conversations gmails. Senators children's health information and socials,\"\" according to plea papers. Cosko had burglarized the office several times, copying network drives and identifying sensitive information he might use later, he admitted in court filings. The five federal felony counts to which Cosko pleaded guilty carried maximum penalties of up to 20 years in prison. spencer.hsu@washpost.com\"",
+        "word_count": 880,
+        "publish_time": "2025-05-23T00:52:31Z",
+        "source": "The Guardian",
+        "tags": [
+          "ai",
+          "news",
+          "health",
+          "treatment",
+          "newspolitics",
+          "baseball",
+          "senate"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N103864",
+          "N51305"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "生活",
+          "美食",
+          "财经",
+          "保险",
+          "新闻",
+          "政治",
+          "音乐"
+        ],
+        "engagement_score": 0.32
+      },
+      "interaction_data": {
+        "scroll_depth": 0.44,
+        "clicks_count": 9,
+        "shares_count": 2,
+        "comments_count": 2,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.19,
+        "topic_keywords": [
+          "ai",
+          "news",
+          "health"
+        ],
+        "viral_potential": 0.42,
+        "trend_score": 0.29,
+        "recommendation_relevance": 0.74,
+        "content_quality": 0.94,
+        "user_profile_match": 0.56
+      }
+    },
+    {
+      "timestamp": "2019-06-29T13:48:22Z",
+      "user_id": "U22232",
+      "news_id": "N34256",
+      "action_type": "skip",
+      "session_id": "session_745321ad088e",
+      "dwell_time": 1100,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "foodanddrink",
+        "topic": "foodnews",
+        "headline": "You Can Still Visit these Old-Fashioned Soda Fountains",
+        "content": "Whether you're feeling nostalgic, or just looking for some old timey fun, these soda fountains have you covered. Soda Fountains Soda fountains the machine to create carbonated drinks first became popular in America in the mid-20th century. These machines became synonymous with drugstore counters and ice cream parlors, and inspired a plethora of new recipes like egg creams, ice cream floats, and malts. The machine quickly lent its name to the gathering places where such treats could be enjoyed. Though many have closed down, these old-fashioned soda fountains are still up and running, delivering a blast from the past and a dreamsicle on the side. Leopold's Ice Cream - Savannah, GA This staple of downtown Savannah was started by brothers Peter, George, and Basil Leopold in 1919 and is now run by Stratton Leopold, Peter's son. For 100 years, Leopold's Ice Cream has served its delicious homemade ice cream recipes, including its original crowd-pleasing favorite, tutti frutti. Zaharakos Ice Cream Parlor - Columbus, IN Zaharakos Ice Cream Parlor is often the site of formal photo shoots and special events once you see the ornate interior, you'll understand why! Opened in 1900, this ice cream parlor features bubbly sodas from the onyx soda fountain and freshly baked waffle cones. Doc's Soda Fountain - Girard, IL Once upon a time, Doc's Soda Fountain was a drugstore on the legendary Route 66. Though it was renamed in 2007, Doc's is still dedicated to old fashioned quality and style. Stop in for a tasty ice cream treat and check out the pharmacy museum while you're at it! St. Francis Soda Fountain - San Francisco, CA Egg creams, dreamsicles, and ice cream floats abound at the St. Francis Fountain. This soda fountain has been around since 1918, and though its had a face lift, everything on the menu is served with a side of nostalgia. La King's Confectionery - Galveston, TX Not only does La King's Confectionery serve up malts, shakes, sodas and more from a 1920s soda fountain, but they also serve locally made ice cream. If frozen treats aren't your style, try any one of their old fashioned candies and taffies. Eddie's Sweet Shop - Queens, NY Eddie's Sweet Shop is a Forest Hills institution and New York City's oldest ice cream parlor. It was even recently featured in the Netflix movie Isn't It Romantic? with Rebel Wilson and Liam Hemsworth. Stop in and treat yourself to their homemade ice cream, toppings, and syrups. Little Drug Co. - New Smyrna Beach, FL Little Drug Co. is still using their original malt machine, so you can be sure to have a genuine old timey experience. Little Drug Co. is actually a working pharmacy, so you can enjoy one of their treats while you wait for your prescription to be filled. Goolrick's Pharmacy - Fredericksburg, VA Goolrick's Pharmacy is the oldest continuously running soda fountain in America, so you know they're doing something right! Their menu features all the classics, like malts, hot fudge sundaes, and floats. Goolrick's is also a working pharmacy, making it just what the doctor ordered. Elliston Place Soda Shop - Nashville, TN Elliston Place Soda Shop is on the National Register of Historic Places, and their soda fountain treats are not to be missed. Whether you choose one of their flavored sodas, sundaes, or a slice of all-American pie, you can't go wrong. The Franklin Fountain - Philadelphia, PA Philadelphia's Franklin Fountain might not be quite as old as the other soda fountains on this list, but their delicious classic treats are served up in an early 1900s style saloon. The Franklin Fountain uses their own homemade ice cream in all of their desserts and floats. Hungry for more? Here's What to Order at the Oldest Diners Across America.",
+        "word_count": 629,
+        "publish_time": "2025-05-15T14:00:07Z",
+        "source": "Fox News",
+        "tags": [
+          "foodnews",
+          "foodanddrink",
+          "ai",
+          "movie"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N64531",
+          "N15119"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": true,
+        "user_interests": [
+          "国际",
+          "政治",
+          "保险",
+          "体育"
+        ],
+        "engagement_score": 0.69
+      },
+      "interaction_data": {
+        "scroll_depth": 0.93,
+        "clicks_count": 3,
+        "shares_count": 1,
+        "comments_count": 5,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.62,
+        "topic_keywords": [
+          "foodnews",
+          "foodanddrink",
+          "ai"
+        ],
+        "viral_potential": 0.57,
+        "trend_score": 0.19,
+        "recommendation_relevance": 0.5,
+        "content_quality": 0.02,
+        "user_profile_match": 0.69
+      }
+    },
+    {
+      "timestamp": "2019-06-17T13:35:35Z",
+      "user_id": "U32515",
+      "news_id": "N91436",
+      "action_type": "share",
+      "session_id": "session_2021d13401c2",
+      "dwell_time": 48,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestylesmartliving",
+        "headline": "25 habits of toxic people",
+        "content": "The 25 habits are the hallmarks of a toxic person and can help you avoid being around, or becoming, one. While it's easy to say that one should always stay away from toxic people, toxic behavior can be difficult to identify, especially when it's present in those we care about or even in ourselves. It's important to recognize it, however, because staying in a toxic relationship can be damaging to one's emotional and mental well-being . There are certain behaviors that are telltale signs of a toxic individual, and by identifying these behaviors, you can protect yourself by avoiding or putting down boundaries with this person. If you notice that you yourself display any of these behaviors, working on stopping them and seeking out better coping mechanisms would do wonders for your own self-esteem and the health of your relationships. Giving unsolicited advice Unless someone specifically asks for it, giving out advice can be patronizing and interfering. Toxic people are especially prone to do so when it's inappropriate or even when the other person has made clear it's unwelcome; it may offer them a feeling of superiority and control. Insulting others The most toxic thing someone can do is to bring others down. Toxic people will often explicitly insult others, as well as subtly do so in the form of jokes and backhanded compliments. This causes others to feel hurt and self-doubt that can be quite lasting. Spreading gossip Toxic people have a habit of focusing on others rather than doing their own introspection. They take information, or even make up lies, about other people and spread gossip in an effort to hurt the other person's reputation and perhaps even hurt their credibility should they speak out about the toxic person's behavior. Excluding others Gossip is just one way that toxic people engage in relational aggression, a type of aggression in which one causes harm to another by damaging their relationships or social status. Toxic people enjoy pitting others against each other, and they often outright do so by excluding people or encouraging the social ostracism of those they feel threatened by or envious of. Such social exclusion can be very damaging to a person, often having psychological effects. Constantly talk about themselves A big indication that someone is bad news is their lack of interest in others. Some toxic people talk about themselves constantly and show very little regard for other people, turning the conversation back to themselves whenever possible. Giving the silent treatment Unless you're putting down boundaries with someone with whom you know communication is futile, giving another person the silent treatment is an extremely toxic behavior. Not only does this make the other person feel rejected and undesirable, but it also helps the toxic person avoid any confrontation about their behavior. Refusing to take ownership of their behavior Most toxic people will do anything to avoid accepting responsibility for mistakes or toxic behaviors. They tend to shift blame to others or on their circumstances; nothing is ever their fault. This can be especially damaging when the toxic person is treating others badly, as they will make their victims feel as though they have done something to deserve the abuse. Lying While sometimes it is necessary to tell a white lie , frequent lying is a sure sign that a person is toxic and difficult to deal with. Whether it's telling constant small fibs or huge lies that affect your entire relationship, this kind of behavior can completely undermine any trust in their relationships. Gaslighting An especially insidious kind of lying, gaslighting is when a person tries to create doubt about another person or group's reality. This is typically done to deny abusive behavior, but also to distort reality to their own narrative. When being gaslighted, you'll find that you question your own memory or perception of events and sometimes even your own sanity. Verbal abuse An extremely nasty thing to do is to outright verbally abuse another person with name-calling or attacks on another person's behavior, appearance, personality and more. A toxic person will often do this to take the other person's confidence down, and if someone is subjected to verbal abuse enough, they'll come to internalize it, affecting their self-esteem and even sense of identity. Rarely apologizing Toxic people rarely apologize, if ever at all. As they are loath to take responsibility for their actions, they are very unlikely to say they're sorry, since doing so would mean having to face consequences or make the effort to do better. Many times, when a toxic person does give an apology, it's an attempt to manipulate others into doing what they want. Emotional blackmail Another way toxic people attempt to get what they want is through guilting others. If you refuse to go along with a toxic person's wishes, be prepared for them to try to make you feel like a terrible person for it in order to get you to give in. Judging others Far from examining their own behavior and attempting to be better , toxic people tend to enjoy judging others' behavior and commenting on it. They'll often also judge others for their appearance, job, financial situation, relationships, family and more. Being around someone who is so judgmental can cause both confidence and self-esteem to take a dip. Being a fair weather friend While a toxic person is more than happy to feed off others for support and help in their own times of need, they're often very reluctant to return the favor. A toxic friend can be great to have when times are good, but don't expect them to be around to lend a hand or a shoulder when you're going through some rougher days . Always having to be right If someone always insists on being right, that's definitely a sign of some toxic behavior. They'll even twist the truth or get into their habit of lying in order to ensure that their side of an argument is the right one, or refuse to see other points of view entirely. Constant negativity Although it's not immediately apparent, constant negativity is actually quite toxic behavior to both the person doing it and the people around them. Not only are negative and pessimistic thoughts detrimental to one's own confidence and self-esteem, but it's extremely draining to others who have to be subjected to the constant negativity. This lack of positivity puts a damper on everything, as a very negative person will also react to other people's good news with condescension or skepticism. One-upping others The need to feel superior is a constant for many toxic people, and they tend to see life as a competition. If you share good news, they'll feel the need to share even better news. If you tell a great story, they'll come up with an even more interesting or outlandish one. This toxic behavior is meant to make the toxic person seem as though they are the smartest and most interesting person in the room, and it can be quite draining. Minimizing others' feelings If you're ever trying to vent about something that upsets you, and the other person constantly makes you feel as if you're overreacting, that's definitely toxic behavior. It's understandable to seek validation, and your emotions are always valid. Anyone who tries to make you feel otherwise does not truly care about how you feel. Constant criticism Habitual criticism of others helps no one, and only serves to put people down. If you're around someone who you notice is constantly criticizing other people whether to their faces or not there's a good chance they're doing the same to you. If they are in fact doing it to your face, this can also have a huge effect on your own self-esteem and sense of self. Not respecting boundaries It's important to put down boundaries with toxic people in order to protect your own mental and emotional health. However, a person who is toxic will not appreciate this and will often attempt to continue to cross those boundaries. Entitlement to other people's time, space or even person is not only damaging to relationships and other people's sense of safety , but it's violating as well. Bragging If someone is deeply insecure, they'll often overcompensate by trying to bolster their own image by bragging about their talents and accomplishments. Toxic people will often do this in a way that's clearly meant to show how much better they are than others, and they'll often put down those around them in the process. Jealousy It is that very insecurity that will also cause a toxic person to be very unhappy when they perceive that someone else is having some sort of success or happiness. Instead of noticing and appreciating the other person's hard work to attain their success , they'll feel indignant and resentful. A dead giveaway that a person is experiencing toxic envy is when they minimize other people's accomplishments or insult others that they perceive to be doing something well. Losing their temper Anger is an understandable and necessary emotion, but like any emotion, it's important to channel it in a healthy manner. Expressing your anger by raising your voice or getting physical is not healthy, however, and it is a definite sign of a toxic person when they can't keep their temper in check. Manipulating others Instead of being straightforward and trying to communicate their needs, toxic people tend to try to control others outright through covert means. A toxic person does not care about what others want or need, but would rather manipulate a situation in any way in order to attain a goal that will benefit them. Being inconsistent The most difficult toxic behavior to deal with is when the other person is simply inconsistent in their treatment of you. They will change their outlook and their opinions on people, events and other subject matter to whatever suits them, and often this results in switching between a hot and cold attitude towards friends and family. If you're constantly unsure of where you stand with...",
+        "word_count": 1678,
+        "publish_time": "2025-05-25T14:24:52Z",
+        "source": "NBC News",
+        "tags": [
+          "lifestylesmartliving",
+          "ai",
+          "news",
+          "health",
+          "treatment",
+          "lifestyle"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N28810",
+          "N90242"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "奥运会",
+          "生活",
+          "AI"
+        ],
+        "engagement_score": 0.45
+      },
+      "interaction_data": {
+        "scroll_depth": 0.69,
+        "clicks_count": 8,
+        "shares_count": 2,
+        "comments_count": 3,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.07,
+        "topic_keywords": [
+          "lifestylesmartliving",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.88,
+        "trend_score": 0.17,
+        "recommendation_relevance": 0.83,
+        "content_quality": 0.8,
+        "user_profile_match": 0.14
+      }
+    },
+    {
+      "timestamp": "2019-06-20T09:45:35Z",
+      "user_id": "U260848",
+      "news_id": "N61682",
+      "action_type": "like",
+      "session_id": "session_5e6de9680f07",
+      "dwell_time": 84,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Windows",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tvnews",
+        "headline": "Meghan McCain hurls harsh words at Joy Behar on 'The View' but it doesn't affect friendship",
+        "content": "\"What's a little B-word between friends? \"\"The View\"\" kicked off Wednesday's episode, not addressing Bella Thorne's critical comments of host Whoopi Goldberg , but with a heated discussion between two of their own: Meghan McCain and Joy Behar , while discussing a President Trump rally. \"\"It's not a fun job for me everyday,\"\" McCain, who became a host in 2017, said to Behar. \"\"I get that you're angry that Trump's president, like a lot of people are, but I don't think yelling at me is gonna fix the problem. \"\"I just said it was hard for me to watch Lindsey Graham, who I considered an uncle, for a long time, OK?\"\" she continued. \"\"But I'm trying to explain why 2020 is not in the bag for you. It's not.\"\" Goldberg attempted to ease the tension by pausing the simmering conversation. \"\"It's a great discussion, and we can go back to it,\"\" she said with a chuckle, \"\"I just need everybody to take a beat.\"\" \"\"But being the sacrificial Republican everyday, I'm just trying to...\"\" McCain trailed off before turning her attention to Behar. \"\"Don't feel bad for me, (expletive), I'm paid to do this.\"\" Defending her choice of words, McCain said that she and Behar refer to each other that way \"\"all the time.\"\" After coming back from commercial, McCain emphasized there was no bad blood with Behar, despite the name-calling. \"\"... I just want everyone to stop being so precious about our relationship because it's almost 2020, and women can debate on TV in a spirited way without it being personal,\"\" she continued. \"\"And, I know this is a big shock, we get along backstage.\"\" Behar chimed in: \"\"I'm very straight in what I believe, and so is she, so we're gonna fight. It's OK.\"\" Related video: 'Shame on you': Bella Thorne is disgusted by Whoopi Goldberg's criticisms\"",
+        "word_count": 309,
+        "publish_time": "2025-05-22T11:41:59Z",
+        "source": "USA Today",
+        "tags": [
+          "ai",
+          "tvnews",
+          "tv"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N27954",
+          "N65651"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "互联网",
+          "AI",
+          "社会",
+          "新闻",
+          "电影",
+          "娱乐"
+        ],
+        "engagement_score": 0.8
+      },
+      "interaction_data": {
+        "scroll_depth": 0.41,
+        "clicks_count": 6,
+        "shares_count": 0,
+        "comments_count": 1,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.91,
+        "topic_keywords": [
+          "ai",
+          "tvnews",
+          "tv"
+        ],
+        "viral_potential": 0.49,
+        "trend_score": 0.49,
+        "recommendation_relevance": 0.49,
+        "content_quality": 0.1,
+        "user_profile_match": 0.83
+      }
+    },
+    {
+      "timestamp": "2019-06-21T05:48:03Z",
+      "user_id": "U185184",
+      "news_id": "N18319",
+      "action_type": "read",
+      "session_id": "session_cb27d9e5f72e",
+      "dwell_time": 66,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tv-celebrity",
+        "headline": "Watch Chrissy Teigen's Son Adorably Repeat His 1st Word Over and Over Again",
+        "content": "\"He's got it! Chrissy Teigen revealed her son Miles' first word, allowing the 13-month-old to demonstrate his adorable skill to her followers. \"\"When your first word is 'yeah!'\"\" the Cravings author, 33, captioned an Instagram video of the little one on Thursday, June 20. In the video, Miles repeats the word each time Teigen's mom, Vilailuck Teigen , asks whether he loves a certain family member, including his mom, his dad, John Legend , and older sister Luna, 3. View this post on Instagram when your first word is \"\"yeah!\"\" A post shared by chrissy teigen (@chrissyteigen) on Jun 20, 2019 at 5:37pm PDT Chrissy compared her youngest child to the Voice coach, 40, adding in the comments section: \"\"Luna's first word was 'no'. They're exactly us.\"\" The Lip Sync Battle cohost previously teased that Miles was \"\"so close\"\" to saying his first word . She encouraged her baby boy to say \"\"Dada\"\" in a February Instagram video. He eventually worked up to saying \"\"Mama\"\" by May, but it appears the common first word for babies was not his. Earlier this week, Chrissy took on mom-shamers who criticized her for postponing Luna's first dentist appointment . The model posted via Instagram on Tuesday, June 18, that she was \"\"so proud\"\" of her daughter for nailing the visit. When another Instagram user commented, \"\"What age do they start over there? My daughter started seeing a dentist at a yr [sic] old,\"\" Chrissy fired back, \"\"Was waiting for this. U guys never fail me.\"\" Legend stood up for his wife, asking that haters place blame on the parents equally . \"\"On our first date after Luna was born, everyone critiqued her,\"\" the EGOT winner told Us Weekly earlier this month. \"\"'Why are you going out two weeks after your baby was born?' But they didn't critique me. … Hopefully people are learning that Chrissy and I are a partnership and if you're going to parent-shame us, do it to us as a partnership.\"\"\"",
+        "word_count": 331,
+        "publish_time": "2025-05-19T07:24:19Z",
+        "source": "CNN",
+        "tags": [
+          "ai",
+          "tv-celebrity",
+          "tv"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N100653",
+          "N120637"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "健康",
+          "银行",
+          "理财",
+          "娱乐"
+        ],
+        "engagement_score": 0.45
+      },
+      "interaction_data": {
+        "scroll_depth": 0.61,
+        "clicks_count": 6,
+        "shares_count": 3,
+        "comments_count": 1,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.54,
+        "topic_keywords": [
+          "ai",
+          "tv-celebrity",
+          "tv"
+        ],
+        "viral_potential": 0.62,
+        "trend_score": 0.56,
+        "recommendation_relevance": 0.15,
+        "content_quality": 0.39,
+        "user_profile_match": 0.96
+      }
+    },
+    {
+      "timestamp": "2019-06-18T07:57:12Z",
+      "user_id": "U187822",
+      "news_id": "N94044",
+      "action_type": "comment",
+      "session_id": "session_935f9617fd7f",
+      "dwell_time": 979,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newscrime",
+        "headline": "Friend charged with murder of ex-state senator who was found slain outside her home",
+        "content": "\"A friend and onetime campaign aide for the former Arkansas state senator found dead outside her home has been charged with her murder. Rebecca O'Donnell, 48, was charged Monday with murder, abuse of a corpse, and tampering with physical evidence on Monday, in the death of former state Sen. Linda Collins-Smith. O'Donnell and Collins-Smith, 57, were friends and worked together last year, Collins-Smith's former press secretary Ken Yang previously told NBC News . O'Donnell, a former campaign staffer for Collins-Smith, was taken into custody on Friday, according to Arkansas State Police. Police discovered Collins-Smith's body outside her home in Pocahontas, Arkansas on June 4. According to Henry H. Boyce, the prosecuting attorney in the case, it took investigators two days to identify the former senator using dental records because her body was in an \"\"advanced state of decomposition.\"\" Gregg Parrish, the executive director of the Arkansas Association of Public Defenders, said O'Donnell does not have the means to hire her own attorney. Collins-Smith served in both the Arkansas House and Senate. In 2017, she introduced a controversial transgender \"\"bathroom bill\"\" that would have required people to use the bathrooms that correspond to their assigned sex.\"",
+        "word_count": 195,
+        "publish_time": "2025-06-07T19:57:57Z",
+        "source": "CNN",
+        "tags": [
+          "senate",
+          "news",
+          "ai",
+          "newscrime"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N90425",
+          "N36268"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "时尚",
+          "商业",
+          "经济",
+          "新闻"
+        ],
+        "engagement_score": 0.29
+      },
+      "interaction_data": {
+        "scroll_depth": 0.94,
+        "clicks_count": 3,
+        "shares_count": 1,
+        "comments_count": 1,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.76,
+        "topic_keywords": [
+          "senate",
+          "news",
+          "ai"
+        ],
+        "viral_potential": 0.03,
+        "trend_score": 0.42,
+        "recommendation_relevance": 0.68,
+        "content_quality": 0.78,
+        "user_profile_match": 0.49
+      }
+    },
+    {
+      "timestamp": "2019-06-20T17:50:17Z",
+      "user_id": "U300506",
+      "news_id": "N108781",
+      "action_type": "comment",
+      "session_id": "session_d1283798a7db",
+      "dwell_time": 91,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "health",
+        "topic": "wellness",
+        "headline": "How Long Does Alcohol Stay in Your System? We Asked an Expert",
+        "content": "\"We've all been warned not to drink and drive. We've been taught that alcohol use and driving don't mix well. But how long does alcohol stay in your system? Should you worry about driving, say, the morning after a night out with friends? We asked an expert to explain just how long it takes your body to rid itself of alcohol. For starters, we'll give you a refresher on what happens to your body when you drink . You've probably heard that alcohol use depending on how much you drink can harm your liver. But you may not have been warned about just how much stress you put on this vital blood-filtering organ after even just a few hours of partying. \"\"When you get alcohol in your blood, it passes through the liver, and the liver breaks it down,\"\" explains George Koob, PhD, director of the National Institute on Alcohol Abuse and Alcoholism, a division of the NIH. The main job of your liver is filtering blood that's flowing from your digestive tract to the rest of your body. In the process of breaking down the alcohol you consume , your liver encounters toxins. Heavy drinking can make your liver fatty and cause scarring that can eventually restrict blood flow. This can cause liver cells to die and, consequently, halt liver function . RELATED: 7 Ways to Keep Alcohol From Ruining Your Diet So, how long does alcohol stay in your system? Individuals metabolize alcohol at different rates. In general, Koob says most people can break down half a drink every hour. He also explains it in terms of your blood alcohol content (BAC). \"\"If you're at 0.08, if you don't drink anymore, in two hours you'd probably be [at] about 0.05,\"\" he says. So, that translates to your BAC lowering at about 0.015 an hour. (In the US, your blood alcohol content is calculated as a percentage of the grams of alcohol you've consumed per every 100 milliliters of your blood.) A Breathalyzer measures your BAC by calculating how much alcohol is in the air you blow onto it. For reference, you can get a DUI if you drive while having a BAC of 0.08 or higher. If you weigh 160 pounds, four drinks can put you there . Again, keep in mind that people's bodies react differently to alcohol. All the averages you hear when it comes to alcohol use are just that. What happens to your friend when she has four drinks might not be exactly what happens to you if you try to drink as quickly as her. Now that you know how long it takes a person (on average) to metabolize alcohol, you might wonder how long it takes for your body to completely rid itself of the drug. According to addiction treatment network American Addiction Centers, \"\" Alcohol is detectable for up to 6 hours in blood; about 12-24 hours in breath, urine, and saliva; and up to 90 days in hair.\"\" So just because you've endured the hangover doesn't mean someone can't tell that you partied over the weekend if they get ahold of a hair sample. For reference, a small glass of red wine has around 1.5 units of alcohol. (One unit of alcohol is eight grams or 10 milliliters of pure alcohol.) A pint of strong beer has around 3, and a small shot of tequila has about 1. You'll be doing your body a favor if you keep count of how many units you've consumed while you're hanging out at the bar. If you keep count, you'll know when it's time to slow down and stop. RELATED: 4 Warning Signs You're Dependent on Alcohol, According to an Expert\"",
+        "word_count": 618,
+        "publish_time": "2025-06-12T01:08:30Z",
+        "source": "USA Today",
+        "tags": [
+          "wellness",
+          "ai",
+          "health",
+          "treatment",
+          "breaking"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N75943"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "手机",
+          "投资",
+          "金融",
+          "体育",
+          "网球"
+        ],
+        "engagement_score": 0.99
+      },
+      "interaction_data": {
+        "scroll_depth": 0.91,
+        "clicks_count": 5,
+        "shares_count": 2,
+        "comments_count": 3,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.64,
+        "topic_keywords": [
+          "wellness",
+          "ai",
+          "health"
+        ],
+        "viral_potential": 0.35,
+        "trend_score": 0.76,
+        "recommendation_relevance": 0.5,
+        "content_quality": 0.08,
+        "user_profile_match": 0.4
+      }
+    },
+    {
+      "timestamp": "2019-06-26T06:04:30Z",
+      "user_id": "U155201",
+      "news_id": "N21504",
+      "action_type": "share",
+      "session_id": "session_f70dac1f26c9",
+      "dwell_time": 146,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Android",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Zhejiang",
+        "city": "Hangzhou"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestylebuzz",
+        "headline": "When people saw a Facebook post shaming a man for sleeping in McDonald's, they helped him get back on his feet",
+        "content": "\"When a woman dining at a McDonald's noticed a man sleeping in one of the booths, she snapped a photo of him and uploaded it to Facebook. She criticized him for sleeping in public, said that was \"\"not really\"\" OK and finished the post off with an angry emoji. It turns out the man was 21-year-old Simon Childs, a homeless father who was resting between his shifts at a McDonald's in Fayette County, Georgia. The man wasn't at the highest point in his life, having recently lost his mother, and needing to care for his young son. \"\"It kind of hurt to see my picture up there, you know?\"\" Childs told CNN affiliate WSB-TV. But when others saw the post, they decided to help Childs. Some donated hotel rooms for him and his son to stay in, according to WSB-TV. And Childs later walked into work to find donated diapers for his son, in addition to other supplies and clothes. He has also received job offers. Childs was surprised by the outpouring of support for him. \"\"I thought it was something negative and nobody would care about it,\"\" he said. He said there are no hard feelings between him and the woman who posted about him. \"\"I'm not homeless, not now, thanks to her,\"\" Childs said.\"",
+        "word_count": 216,
+        "publish_time": "2025-05-19T14:22:28Z",
+        "source": "Washington Post",
+        "tags": [
+          "ai",
+          "lifestylebuzz",
+          "lifestyle",
+          "tv"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N64724",
+          "N50439"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "网球",
+          "健康"
+        ],
+        "engagement_score": 0.26
+      },
+      "interaction_data": {
+        "scroll_depth": 0.8,
+        "clicks_count": 2,
+        "shares_count": 1,
+        "comments_count": 0,
+        "likes_count": 0
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.81,
+        "topic_keywords": [
+          "ai",
+          "lifestylebuzz",
+          "lifestyle"
+        ],
+        "viral_potential": 0.59,
+        "trend_score": 0.9,
+        "recommendation_relevance": 0.2,
+        "content_quality": 0.21,
+        "user_profile_match": 0.06
+      }
+    }
+  ],
+  "metadata": {
+    "source": "web_portal",
+    "version": "1.0",
+    "processed_time": "2025-06-12T18:55:08.786306Z"
+  }
+}

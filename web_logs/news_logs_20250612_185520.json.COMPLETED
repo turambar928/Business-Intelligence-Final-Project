@@ -1,0 +1,769 @@
+{
+  "batch_id": "batch_20250612_185520_bf84f9b9",
+  "events": [
+    {
+      "timestamp": "2019-06-17T03:47:08Z",
+      "user_id": "U167237",
+      "news_id": "N17380",
+      "action_type": "click",
+      "session_id": "session_d3a6b2bdc146",
+      "dwell_time": 424,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "tv",
+        "topic": "tvnews",
+        "headline": "'Game of Thrones' Star Lena Headey Confesses She 'Wanted a Better' Death for Cersei",
+        "content": "\"Lena Headey , the actress who portrayed Cersei Lannister on Game of Thrones , is admitting that she isn't content with her loathsome character's demise. The 45-year-old actress recently did an interview with the UK's The Guardian where she flatly admitted, \"\"I wanted a better death.\"\" Though Headey had misgivings about Cersei's death in the penultimate episode of the hit show, she also admitted that with a program this popular, pleasing everyone -- including her -- was simply impossible. \"\"Obviously you dream of your death,\"\" she told the publication. \"\"You could go in any way on that show. So I was kind of gutted. But I just think they couldn't have pleased everyone. No matter what they did, I think there was going to be some big comedown from the climb.\"\" In the show's final battle scene, Daenerys' ( Emilia Clarke ) became unhinged and attacked King's Landing from the sky, coaxing her final dragon to spew fire at the city's inhabitants and decimating the Red Keep. Deep in the castle's bowels, Cersei and her twin brother/lover, Jaime Lannister ( Nikolaj Coster-Waldau ), were buried under rubble. Headey's commentary isn't the first time she has expressed some disappointment at how her storyline drew to a close on the massive show. In May, she told Entertainment Weekly that, her reaction to Cersei's death was \"\"mixed.\"\" \"\"I wanted her to have some big piece or fight with somebody,\"\" she explained, later adding that conversations with Coster-Waldau helped her make sense of the unceremonious end for the show's long-standing baddie. \"\"The more we talked about it the more it seemed like the perfect end for her,\"\" Headey said. \"\"They came into the world together and now they leave together.\"\" However, at least one of Headey's co-stars, Sophie Turner , didn't hesitate to admit to ET that she liked how her own character ended up on the show -- ruling as Queen of the North in Winterfell. \"\" I love the way that Sansa's journey ended ,\"\" she said while promoting Dark Phoenix in May. \"\"I think it was kind of the one thing that she wanted throughout the whole show…to be home and to be where she felt most safe and comfortable and that's Winterfell. She's totally capable of leading those people.\"\" During the interview, the 23-year-old actress also said that from the show's earliest days, Sansa quickly realized that she didn't want to rule Westeros. \"\" Since she got to King's Landing in season one, she never wanted that Iron Throne ,\"\" she shared. \"\"She never wanted to rule over that many people… I think, watching how this character finished on Game of Thrones was the most satisfying ending.\"\" See more updates from Turner down below.\"",
+        "word_count": 454,
+        "publish_time": "2025-05-14T18:28:17Z",
+        "source": "NBC News",
+        "tags": [
+          "entertainment",
+          "ai",
+          "tv",
+          "update",
+          "tvnews"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N95202"
+        ],
+        "reading_time_of_day": "night",
+        "is_weekend": false,
+        "user_interests": [
+          "奥运会",
+          "经济",
+          "商业",
+          "社会",
+          "健康"
+        ],
+        "engagement_score": 0.7
+      },
+      "interaction_data": {
+        "scroll_depth": 0.49,
+        "clicks_count": 0,
+        "shares_count": 1,
+        "comments_count": 3,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.37,
+        "topic_keywords": [
+          "entertainment",
+          "ai",
+          "tv"
+        ],
+        "viral_potential": 0.0,
+        "trend_score": 0.48,
+        "recommendation_relevance": 0.34,
+        "content_quality": 0.68,
+        "user_profile_match": 0.85
+      }
+    },
+    {
+      "timestamp": "2019-06-26T11:35:09Z",
+      "user_id": "U52926",
+      "news_id": "N27719",
+      "action_type": "skip",
+      "session_id": "session_664ca870c515",
+      "dwell_time": 123,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shaanxi",
+        "city": "Xi'an"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "Supreme Court rules for sex offender in child pornography case testing power of judges, juries",
+        "content": "\"WASHINGTON The Supreme Court ruled Wednesday that even sex offenders deserve to have the reasons for their sentences determined by a jury, not a judge. The justices ruled 5-4 that a federal law requiring sex offenders to return to prison based on a judge's new findings is unconstitutional. Supreme Court precedent gives juries, not judges, the power to determine criminal conduct. Associate Justice Neil Gorsuch, one of President Donald Trump's two nominees on the court, wrote the opinion and was joined by the court's four liberal justices for the fourth time this term. \"\"A jury must find every fact that is essential to an individual's punishment,\"\" Gorsuch said. In the case before the court, the accused received \"\"a new prison term based instead only on facts found by a judge by a mere preponderance of the evidence.\"\" It was a victory for Andre Hammond, an Oklahoma man sentenced in 2010 to more than three years in prison on child pornography charges. In 2015, a judge found him guilty of violating his supervised release and tacked on five more years in prison. The question before the justices: Can a judge, rather than a jury, decide what facts merit a new sentence? Four conservative justices said yes. In their dissent, Justice Samuel Alito accused the decision by Gorsuch and his liberal allies of \"\"laying the groundwork for later decisions of much broader scope\"\" and \"\"revolutionary implications.\"\" Photo gallery by Business Insider \"\"It represents one particular view about crime and punishment that is ascendant in some quarters today but is not required by the Constitution,\"\" Alito wrote. \"\"If the court eventually takes the trip that this opinion proposes, the consequences will be far-reaching and unfortunate.\"\" More: Supreme Court's top cases of 2019 It was the second decision in a week involving the Sex Offender Registration and Notification Act , a 2006 law requiring sex offenders to register and notify authorities when they move. Last week, the court ruled 5-3 that the law properly gives the attorney general latitude in applying it to about 500,000 prior offenders. Challengers had argued only Congress can make that decision. That decision could be short-lived. The fifth vote was provided by Alito, who disagreed with his liberal colleagues on their reasoning and indicated he would be willing to strike down Congress' power to delegate that authority in a future case. This article originally appeared on USA TODAY: Supreme Court rules for sex offender in child pornography case testing power of judges, juries\"",
+        "word_count": 414,
+        "publish_time": "2025-05-30T18:24:46Z",
+        "source": "Forbes",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "newsus",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N26426",
+          "N115515"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "政治",
+          "保险",
+          "财经",
+          "电影",
+          "时尚",
+          "旅行"
+        ],
+        "engagement_score": 0.77
+      },
+      "interaction_data": {
+        "scroll_depth": 0.59,
+        "clicks_count": 3,
+        "shares_count": 2,
+        "comments_count": 3,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.58,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.98,
+        "trend_score": 0.27,
+        "recommendation_relevance": 0.04,
+        "content_quality": 0.6,
+        "user_profile_match": 0.67
+      }
+    },
+    {
+      "timestamp": "2019-06-25T09:41:05Z",
+      "user_id": "U16752",
+      "news_id": "N111857",
+      "action_type": "comment",
+      "session_id": "session_7e3df24a5771",
+      "dwell_time": 185,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsworld",
+        "headline": "Trump Muses Privately About Ending Postwar Japan Defense Pact",
+        "content": "\"(Bloomberg) -- President Donald Trump has recently mused to confidants about withdrawing from a longstanding defense treaty with Japan, according to three people familiar with the matter, in his latest complaint about what he sees as unfair U.S. security pacts. Trump regards the accord as too one-sided because it promises U.S. aid if Japan is ever attacked, but doesn't oblige Japan's military to come to America's defense, the people said. The treaty, signed more than 60 years ago, forms the foundation of the alliance between the countries that emerged from World War II. Even so, the president hasn't taken any steps toward pulling out of the treaty, and administration officials said such a move is highly unlikely. All of the people asked not to be identified discussing Trump's private conversations. While Trump's repeated criticism of security pacts around the world has alarmed allies from Seoul to Paris, he hasn't moved to withdraw from such agreements the way he has with trade deals. Exiting the pact would jeopardize a postwar alliance that has helped guarantee security in the Asia Pacific, laying the foundation for the region's economic rise. Under the terms of its surrender in World War II, Japan agreed to a pacifist constitution in which it renounced the right to wage war. Japanese Chief Cabinet Secretary Yoshihide Suga said Tuesday in response to a question about the Bloomberg News report that the security framework was at the core of the country's alliance with the U.S. \"\"There is no talk at all of a review of the Japan-U.S. security alliance as has been reported in the media,\"\" Suga said, echoing a statement by the foreign ministry. Scrapping the treaty would risk ceding security of the Western Pacific to China and potentially spurring a fresh nuclear arms race, if Japan decided it needed to protect itself from nuclear-armed neighbors. It would also call into question the U.S.'s military commitments to Australia, the Philippines, South Korea, Taiwan and a host of other allies around the world. Meeting With Abe The president will make his second trip to Japan in a matter of weeks on Wednesday when he travels for the Group of 20 summit in Osaka. He's expected to again meet with Japanese Prime Minister Shinzo Abe, who enjoys as good a relationship with the mercurial and unpredictable American president as any foreign leader. Yet as with many U.S. allies, there are growing tensions between the countries over Trump's attitude toward trade. The president has said he may enact tariffs on imports of foreign cars, calling them a threat to national security -- an allegation called preposterous by automakers and many U.S. lawmakers. The question of whether an American president can withdraw from a ratified treaty without congressional approval is unsettled. President George W. Bush withdrew from the Anti-Ballistic Missile Treaty in 2002 without lawmakers' consent. Trump regards Japan's repeated efforts to move a large U.S. military base in Okinawa as a sort of land-grab, the people said, and has raised the idea of seeking financial compensation for American forces to relocate. Trump's focus on the U.S. defense pact with Japan may foreshadow broader scrutiny of American treaty obligations across the world, two people familiar with the matter said. The White House communications staff declined to comment Monday night. Read More: Okinawa Strongly Rejects U.S. Base Expansion in Referendum The president has said in private conversations previously that he has Japan's back and is aware of the U.S.'s obligations under the treaty. But, as with his stance on other multilateral agreements, he wants the relationship to be more reciprocal. \"\"The U.S.-Japan alliance has never been stronger,\"\" Trump told sailors and Marines last month aboard the USS Wasp, an amphibious assault ship at the naval base in Yokosuka, shared by the U.S. and Japan's Self-Defense Forces. \"\"This remarkable port is the only one in the world where an American naval fleet and an allied naval fleet headquartered side by side, a testament to the ironclad partnership between U.S. and Japanese forces,\"\" he said. At the same time, the president has long expressed skepticism of arrangements such as the North Atlantic Treaty Organization and the United Nations. He withdrew from the Trans-Pacific Partnership trade agreement and the Paris climate accord, both agreed by President Barack Obama, and has re-negotiated the North American Free Trade Agreement. The U.S. defense treaty with Japan was first signed in 1951 along with the Treaty of San Francisco that officially ended World War II. The defense pact, revised in 1960, grants the U.S. the right to base military forces in Japan in exchange for the promise that America will defend the island nation if it's ever attacked. For decades after the war, Japan refrained from developing offensive capabilities such as long-range bombers, aircraft carriers and nuclear weapons. But Abe, a relatively hawkish leader, believes his nation should take a more robust role in its own defense. He pushed through a controversial interpretation of the constitution to allow Japanese forces to come to the aid of allies. Japan is buying advanced F-35 fighter planes from the U.S. and will fly some of them off warships effectively refashioned as aircraft carriers , its first since the war. In May, the country's ruling Liberal Democratic Party recommended the government eventually raise defense spending to about 2% of gross domestic product, in line with NATO recommendations for its members and a threshold Trump has said should be a minimum for U.S. allies. 'Cornerstone of Peace' There are currently about 54,000 U.S. military personnel based in Japan, a permanent troop presence that allows the U.S. to more easily project force across the Pacific. U.S. Forces, Japan, calls the arrangement \"\"the cornerstone of peace and security in the Pacific\"\" on its website. It isn't clear how those forces would be affected if Trump withdrew from the treaty. The president has frequently complained that U.S. allies hosting American bases don't pay enough money for what he considers a privilege, and he could seek to negotiate a new or revised treaty that entails more Japanese financial support for the U.S. military presence. While the president did not refer to the base by name in his recent conversations, there has been a running dispute surrounding Marine Corps Air Station Futenma on Okinawa. The American presence has been controversial for more than two decades, since three servicemen raped a 12-year-old Okinawan girl in 1995. Local people still attribute the presence of the base to higher rates of crime and accidents in the area, according to the Council on Foreign Relations. James Carafano, vice president of foreign and defense policy studies at the Heritage Foundation, said he doubts the U.S. will withdraw from the treaty with Japan. \"\"There's nothing that says we have to abide by treaties for all eternity,\"\" Carafano said. \"\"I just doubt we will revisit U.S. policy on the U.S.-Japan strategic alliance,\"\" which he also referred to as the \"\"cornerstone\"\" of U.S. foreign policy in Asia. Futenma U.S. Marine Base in Okinawa. Abe reached a deal in 2013 with Obama to move the base out of Okinawa as early as 2022 if a replacement could be constructed. But Trump believes the land underneath the base is valuable for development, and has told confidants the real estate could be worth about $10 billion, the people said. He considers the situation another example of a wealthy country taking advantage of the U.S., the people said. (Updates with response for Japanese government in fifth paragraph.) --With assistance from Isabel Reynolds, Emi Nobuhiro and Jon Herskovitz. To contact the reporter on this story: Jennifer Jacobs in Washington at jjacobs68@bloomberg.net To contact the editors responsible for this story: Alex Wayne at awayne3@bloomberg.net, Joshua Gallu For more articles like this, please visit us at bloomberg.com ©2019 Bloomberg L.P.\"",
+        "word_count": 1294,
+        "publish_time": "2025-06-07T13:15:39Z",
+        "source": "TechCrunch",
+        "tags": [
+          "congress",
+          "newsworld",
+          "policy",
+          "ai",
+          "news",
+          "report",
+          "update",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N52103",
+          "N116770"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "国际",
+          "社会",
+          "互联网",
+          "电脑"
+        ],
+        "engagement_score": 0.13
+      },
+      "interaction_data": {
+        "scroll_depth": 0.56,
+        "clicks_count": 7,
+        "shares_count": 0,
+        "comments_count": 3,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.17,
+        "topic_keywords": [
+          "congress",
+          "newsworld",
+          "policy"
+        ],
+        "viral_potential": 0.04,
+        "trend_score": 0.66,
+        "recommendation_relevance": 0.04,
+        "content_quality": 0.38,
+        "user_profile_match": 0.45
+      }
+    },
+    {
+      "timestamp": "2019-06-19T15:01:45Z",
+      "user_id": "U23110",
+      "news_id": "N21776",
+      "action_type": "comment",
+      "session_id": "session_c15d0b5d6aed",
+      "dwell_time": 48,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "foodanddrink",
+        "topic": "newstrends",
+        "headline": "Jamie Oliver Has Sold His Three Restaurants in Gatwick Airport",
+        "content": "\"The name and the brand will live on with 250 jobs saved Jamie Oliver's severely diminished restaurant group has confirmed that three of its four remaining U.K. outlets all at Gatwick airport, south of London have been sold, through its administrators, to the transport hub hospitality operator, SSP. As first reported by the Times' Dominic Walsh , three separate spaces Jamie's Diner, Jamie's Coffee Lounge, and the only remaining branch of Jamie's Italian (which also includes Jamie's Bakery Grab and Go!) will continue to operate with the TV chef and campaigner's name. The sale has also ensured the security of 250 jobs. SSP manages the likes of Starbucks, Yo! Sushi, Burger King, and James Martin Kitchen at airport locations, a white-label service which specialises in heavy volumes for known brands at travel locations internationally. SSP already manages 12 Jamie Oliver-branded locations across Europe and says it has plans for expansion in Brazil and Bahrain. Following the collapse of Oliver's restaurant group last month , when it appointed the financial services company KPMG, Oliver closed 22 restaurants, including 20 Jamie's Italians, Barbecoa steakhouse in the City, and the group's flagship social enterprise Fifteen in Old Street, London. (Jamie Oliver's Fifteen Cornwall at Watergate Bay, a franchise, near Newquay, continues to be unaffected.) At the time, Oliver, who set up Jamie's Italian with his friend and mentor, Gennaro Contaldo, in 2008 said, \"\"I am deeply saddened by this outcome and would like to thank all of the staff and our suppliers who have put their hearts and souls into this business for over a decade. I appreciate how difficult this is for everyone affected.\"\" It is thought that in the region of 1,000 jobs were lost. In a statement today, SSP said, \"\"SSP Group...has taken over operations of the three Jamie Oliver food and beverage units at Gatwick Airport. \"\"All 250 members of staff who work across the Jamie Oliver's Diner, Jamie's Italian and Jamie's Coffee Lounge at Gatwick Airport have transferred to SSP as part of the agreement.\"\" Simon Smith, SSP Group CEO, added: \"\"We're delighted to be expanding our partnership with Jamie Oliver, especially as we already operate 12 Jamie Oliver units in Austria, Finland, France, the Netherlands, Norway and Spain, and have further units planned in Brazil and Bahrain. \"\"Jamie's cafes and restaurants are much loved by customers all around the world, so we're very excited to be adding the brand to our UK portfolio and increasing our presence at Gatwick Airport.\"\"\"",
+        "word_count": 413,
+        "publish_time": "2025-05-23T06:20:29Z",
+        "source": "Associated Press",
+        "tags": [
+          "ai",
+          "report",
+          "tv",
+          "foodanddrink",
+          "newstrends",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N31487",
+          "N19160"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "音乐",
+          "明星",
+          "股票",
+          "保险",
+          "银行"
+        ],
+        "engagement_score": 0.42
+      },
+      "interaction_data": {
+        "scroll_depth": 0.29,
+        "clicks_count": 6,
+        "shares_count": 0,
+        "comments_count": 5,
+        "likes_count": 2
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.98,
+        "topic_keywords": [
+          "ai",
+          "report",
+          "tv"
+        ],
+        "viral_potential": 0.15,
+        "trend_score": 0.02,
+        "recommendation_relevance": 0.06,
+        "content_quality": 0.41,
+        "user_profile_match": 0.8
+      }
+    },
+    {
+      "timestamp": "2019-06-14T06:17:48Z",
+      "user_id": "U51091",
+      "news_id": "N15107",
+      "action_type": "skip",
+      "session_id": "session_74d9c45f1593",
+      "dwell_time": 628,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsworld",
+        "headline": "NY woman, 53, died on vacation in Dominican Republic; son demands answers",
+        "content": "\"A New York woman, 53, is the latest American tourist to die in the Dominican Republic , long one of the top Caribbean destinations for U.S. travelers. Leyla Cox of New Brighton went on vacation June 5 and was expected to return on June 12, as The Staten Island Advance reported. Cox, who had traveled alone before, was found dead of a heart attack in her hotel room, according to the news outlet. \"\"We can confirm the death of U.S. citizen Leyla Cox in the Dominican Republic on June 11. Out of respect for family members and loved ones we cannot comment further,\"\" a State Department official confirmed to Fox News. So far, at least six American tourists have died under oddly similar circumstances -- four this year, two last year -- in the Dominican Republic, a rash of deaths of seemingly healthy people. \"\"I am overwhelmed and confused and in shock,\"\" William, 25, her only child, said. \"\"With everything going on in the news right now, we think she's a casualty of what's been happening.\"\" His mom's coworker posted a tribute on Facebook. Peggy McGinley Reilly wrote: \"\"She turned 53 on Saturday. I want the world to know, that another US Citizen passed away in this vacation destination, that as far as I know is not being held accountable for the past transgressions. Hopefully this will be investigated.\"\" On Wednesday, Dominican tourism officials said they wanted to reassure U.S. tourists that U.S. federal agents and health specialists have been taking an active role investigating the deaths. Slideshow by INSIDER The Tourism Ministry said it wanted to \"\"extend its sincerest condolences to the families and friends of those affected in the tragic events that have been reported over the last few weeks in the country.\"\" The FBI was conducting deeper analyses of toxicological results, warning that conclusions may take up to a month and urging \"\"patience during this process.\"\" Leyla's son said his family didn't have the money to figure out any mysteries over his mother's death. CLICK HERE TO GET THE FOX NEWS APP \"\"They've put me against a wall where I don't have a choice,\"\" he said. \"\"Our own toxicology report would cost copious amounts of money.\"\" He added, \"\"I have to get her ashes back.\"\" Fox News' Elizabeth Llorente contributed to this report.\"",
+        "word_count": 386,
+        "publish_time": "2025-05-18T05:01:11Z",
+        "source": "NBC News",
+        "tags": [
+          "newsworld",
+          "ai",
+          "news",
+          "health",
+          "report"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N49500",
+          "N31398"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "生活",
+          "经济",
+          "投资",
+          "篮球",
+          "体育",
+          "娱乐"
+        ],
+        "engagement_score": 0.66
+      },
+      "interaction_data": {
+        "scroll_depth": 0.31,
+        "clicks_count": 9,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.96,
+        "topic_keywords": [
+          "newsworld",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.84,
+        "trend_score": 0.81,
+        "recommendation_relevance": 0.11,
+        "content_quality": 0.43,
+        "user_profile_match": 0.61
+      }
+    },
+    {
+      "timestamp": "2019-06-18T07:15:58Z",
+      "user_id": "U76796",
+      "news_id": "N85531",
+      "action_type": "comment",
+      "session_id": "session_79534568606f",
+      "dwell_time": 62,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Android",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "Trump hits polling on Fox News: 'Something weird going on at Fox'",
+        "content": "\"President Trump on Monday dismissed a new poll from Fox News that showed him losing to multiple 2020 Democratic presidential candidates, saying \"\"something weird\"\" is happening at the network favored by conservatives. . @FoxNews Polls are always bad for me. They were against Crooked Hillary also. Something weird going on at Fox. Our polls show us leading in all 17 Swing States. For the record, I didn't spend 30 hours with @abcnews , but rather a tiny fraction of that. More Fake News @BretBaier - Donald J. Trump (@realDonaldTrump) June 17, 2019 Fox News on Sunday released a poll that showed Trump trailing five Democratic presidential contenders in hypothetical 2020 match-ups. The survey showed former Vice President Joe Biden leading Trump by 10 points. It also showed Sen. Bernie Sanders (I-Vt.) carrying a 9-point lead in a hypothetical head-to-head match-up. Three other Democratic candidates - Sen. Elizabeth Warren (D-Mass.), Sen. Kamala Harris (D-Calif.) and South Bend, Ind., Mayor Pete Buttigieg - also polled ahead of Trump, albeit within the survey's margin of error. A Quinnipiac University survey released last week also showed Trump trailing a number of Democratic contenders, including Biden by 13 points. Trump has repeatedly downplayed recent polling of his 2020 election prospects in the last week. The president tweeted earlier Monday that \"\"only fake polls\"\" showed him behind 2020 Democrats, referring to them as a \"\"Motley Crew.\"\" \"\"We are looking really good, but it is far too early to be focused on that,\"\" he said. \"\"Much work to do! MAKE AMERICA GREAT AGAIN!\"\" The new comments from Trump came just a day after news surfaced that his campaign had cut ties with some of its pollsters following a leak of internal surveys that showed Trump trailing Biden in multiple key states. Trump is known to have a cordial relationship with many Fox News personalities and has appeared on the network more than any other. But he has increasingly criticized it over its campaign coverage, particularly when it chooses to cover 2020 Democrats. He said in May that Fox News host Chris Wallace was \"\"wasting airtime\"\" by hosting a town hall with Buttigieg. \"\"Fox is moving more and more to the losing (wrong) side in covering the Dems,\"\" he said, adding, \"\"They forgot the people who got them there.\"\"\"",
+        "word_count": 381,
+        "publish_time": "2025-05-16T13:36:43Z",
+        "source": "Reuters",
+        "tags": [
+          "election",
+          "ai",
+          "news",
+          "newspolitics"
+        ],
+        "entities": {
+          "persons": [
+            "{'Fox': 'Fox News', ",
+            "Fox'",
+            ": 'Fox News'}"
+          ],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N92065",
+          "N20802"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "社会",
+          "保险",
+          "时尚",
+          "互联网",
+          "手机"
+        ],
+        "engagement_score": 0.11
+      },
+      "interaction_data": {
+        "scroll_depth": 0.98,
+        "clicks_count": 8,
+        "shares_count": 3,
+        "comments_count": 4,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.58,
+        "topic_keywords": [
+          "election",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.76,
+        "trend_score": 0.25,
+        "recommendation_relevance": 0.67,
+        "content_quality": 0.88,
+        "user_profile_match": 0.08
+      }
+    },
+    {
+      "timestamp": "2019-06-15T07:42:49Z",
+      "user_id": "U305622",
+      "news_id": "N84681",
+      "action_type": "comment",
+      "session_id": "session_cc66481afe46",
+      "dwell_time": 1713,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shanghai",
+        "city": "Shanghai"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "finance-retirement",
+        "headline": "3 Social Security realities you need to face",
+        "content": "\"Tens of millions of seniors collect Social Security , and those benefits are instrumental in helping them pay the bills. But Social Security is by no means a perfect solution to your retirement savings needs, and you may not wind up with as much income from the program as you'd expect. Here are three truths about Social Security that might inspire you to rethink your approach to retirement savings. 1. Those benefits won't pay for your retirement by themselves Many people neglect their nest eggs during their careers because they figure they'll fall back on Social Security once retired. In reality, those benefits are only designed to replace about 40% of the average earner's preretirement income. Most seniors, however, need somewhere in the ballpark of 80% of their former earnings to enjoy a comfortable lifestyle, so if your plan is to count on those benefits alone in retirement, you could easily wind up cash-strapped and unhappy. If you're still not convinced: The average recipient today collects just $1,461 a month, or $17,532 a year, in Social Security benefits. Even if you cut back on a host of living expenses, that still may not suffice to cover the goods and services you consider essential to your quality of life. So don't ignore your savings when you have a chance to build some; setting aside even a small amount of money each month during your working years could make a huge difference for your retirement. 2. An across-the-board reduction in benefits could happen Social Security relies heavily on payroll taxes to cover its financial obligations. In the coming years, however, the program will be in a position where it's paying out more money than it takes in, thanks in part to the throngs of baby boomers exiting the workforce. Now, Social Security does have trust funds it can tap to bridge the gap between scheduled benefits and incoming revenue, but according to the latest Trustees Report , those funds are expected to run out of money in 2035. Once that happens, recipients could see as much as a 20% reduction in their monthly benefits. As mentioned earlier, Social Security will now replace about 40% of your former income if you were an average earner. If an across-the-board cut in benefits comes to pass, it'll replace an even smaller percentage, which is why you need savings to compensate. Related video: How to plan for a Social Security shortfall (provided by CNBC) 3. You may have no choice but to claim benefits early Though your Social Security benefits are based on your 35 highest-paid years on the job, the age you claim them could change your monthly payout. If you file at full retirement age (either 66, 67, or somewhere in between, depending on the year you were born), you'll get the full monthly benefit your earnings history entitles you to. But if you file earlier -- which you're allowed to do beginning at age 62 -- you'll slash your benefits for each month you claim them ahead of full retirement age. Many people claim Social Security early because they're impatient and want that money as soon as they're eligible. But for some, the decision to file for benefits early isn't so much a want as it is a necessity. A large number of seniors, for example, lose their jobs in their early 60s, don't manage to find replacement work, and file for benefits because they need the income to cover their bills. Others leave their jobs earlier than planned because of health issues, and land in a similar boat. The point is that you might get less money out of Social Security than you expected, which underscores the need to have savings of your own. Let's be clear: There's nothing wrong with factoring Social Security into your retirement budget, and counting on it to provide some income. At the same time, be sure to save independently so you're not overly reliant on those benefits later in life. Setting aside $200 a month over a 30-year period will give you a $227,000 nest egg if your investments generate an average annual 7% return during that time, which is more than doable because it's several percentage points below the stock market's average. The key, however, is to give yourself a lengthy savings window, and set money aside consistently throughout. The Motley Fool has a disclosure policy . SPONSORED: The $16,728 Social Security bonus most retirees completely overlook If you're like most Americans, you're a few years (or more) behind on your retirement savings. But a handful of little-known \"\"Social Security secrets\"\" could help ensure a boost in your retirement income. For example: one easy trick could pay you as much as $16,728 more... each year! Once you learn how to maximize your Social Security benefits, we think you could retire confidently with the peace of mind we're all after. Simply click here to discover how to learn more about these strategies .\"",
+        "word_count": 827,
+        "publish_time": "2025-06-12T05:46:41Z",
+        "source": "NBC News",
+        "tags": [
+          "policy",
+          "finance-retirement",
+          "market",
+          "ai",
+          "finance",
+          "stock",
+          "report",
+          "investment"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N109657",
+          "N83864"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "网球",
+          "社会",
+          "政治",
+          "时尚",
+          "生活"
+        ],
+        "engagement_score": 0.84
+      },
+      "interaction_data": {
+        "scroll_depth": 0.51,
+        "clicks_count": 4,
+        "shares_count": 2,
+        "comments_count": 4,
+        "likes_count": 3
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.71,
+        "topic_keywords": [
+          "policy",
+          "finance-retirement",
+          "market"
+        ],
+        "viral_potential": 0.84,
+        "trend_score": 0.28,
+        "recommendation_relevance": 0.42,
+        "content_quality": 0.24,
+        "user_profile_match": 0.39
+      }
+    },
+    {
+      "timestamp": "2019-06-14T08:32:09Z",
+      "user_id": "U389087",
+      "news_id": "N58081",
+      "action_type": "read",
+      "session_id": "session_0151163f5c36",
+      "dwell_time": 8,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "entertainment",
+        "topic": "entertainment-celebrity",
+        "headline": "The honeymoon is (literally) over for newlywed Jude Law, plus more news",
+        "content": "\"Kylie Jenner and Jordyn Woods could be on the road back to friendship, plus more celebrity news for June 13, 2019. Jude Law and Phillipa Coan say 'goodbye' to Italy as honeymoon comes to a close Aw, the honeymoon appears to be over for Jude Law and his new wife, Phillipa Coan -- the actual honeymoon, that is. The couple was spotted leaving Italy after enjoying time together on the beach and on the water in Sardinia, according to JustJared . The couple, who flew back to London on Monday, June 10, from the Province of Olbia-Tempio, Italy, got married in London in April. Their civil ceremony was reportedly held at civil ceremony at Old Marylebone Town Hall; Jude is said to have asked everyone to keep the whole thing top-secret. The actor, 46, and 32-year-old business psychologist, had been dating for four years before they tied the knot . Can Kylie Jenner and Jordyn Woods patch things up? When Kylie Jenner spotted her former best friend, Jordyn Woods at Bootsy Bellows over the weekend, she made an effort to approach her, say \"\"hello,\"\" smile and share a few moments of conversation. Whether that means the two can overcome the feud that erupted between Jordyn and Kyllie's family after they learned Jordyn had hooked up with Khloe Kardashian's then-boyfriend, Tristan Thompson, remains to be seen, though. A source tells ET : \"\"Kylie is open to having a relationship with Jordyn Woods again, but is cautious. She's in a tough place because Jordyn was Kylie's best friend and rock for a very long time, but Kylie is loyal to her sister, Khloe.\"\" The insider continued: \"\"Kylie was nice to Jordyn over the weekend and it brought back old feelings of the fun they use to have together. As of now the girls aren't hanging out and they aren't nearly as close as they once were, but both girls are hoping in the future they can be friends. Probably not as close as they once were, but figuring out what works for them.\"\" Jordyn admitted on \"\"Red table Talk\"\" that she and Tristan kissed but told host Jada Pinkett Smith she never slept with him and does not believe she's \"\"the reason that Tristan and Khloe are not together.\"\" Katherine Schwarzenegger shows off her new diamond wedding band Just a few days after she and Chris Pratt said \"\"I do\"\" in Montecito, Calif., Katherine Schwarzenegger stepped out for some shopping in the Venice section of Los Angeles on Wednesday, June 12, sporting her new pave wedding band, which Page Six notes is similar to the one on her engagement ring. Now that the wedding is behind her, the newly minted Mrs. Pratt is back to working on her new podcast, \"\"The Dog That Changed Me.\"\" In a May Instagram post, she described the show at a collection of \"\"interviews with some of my friends, all inspiring pet parents, where I will be talking with them about the importance of pet adoption and the positive impact dogs have on our lives.\"\" Ariana Grande pays tribute to Mac Miller in his hometown When Ariana Grande performed in Pittsburgh, Penn., on Wednesday, June 12, her heart was never too far from her late love , Mac Miller, who grew up there. JustJared reports that she played some of his most recognizable hits for the crowd before she began her show. Then, she opened with \"\"Raindrops (An Angel Cried),\"\" which most fans believe was written about her split from Mac. She reportedly got emotional during the tune. When she got to \"\"Thank U, Next,\"\" JustJared reports she stopped singing at the line about Mac. Instead, the crowd took over, singing the lyric, \"\"Wish I could say, 'Thank you' to Malcolm / 'Cause he was an angel.\"\" Mac died in September from mixed drug toxicity involving fentanyl, cocaine and alcohol. He was 26. Selena Gomez celebrates the 45th anniversary of Roe v. Wade with a charity necklace For the past three weeks, the newest post on Selena Gomez 's Instagram has been a large black and white text image that reads, \"\"STOP TELLING WOMEN WHAT TO DO WITH THEIR BODIES.\"\" Now, she's wearing a similar directive around her neck. Us Weekly reports that when Selena stopped by \"\"Live with Kelly and Ryan\"\" on Wednesday, June 12, that tiny gold necklace she was wearing had a not-so-tiny message behind it. The gold necklace reads, \"\"1973,\"\" the year Roe v. Wade legalized abortion in the United States, giving women the right to choose whether to carry a child to term. Artist Sophie Ratner created the piece, which also comes in a silver and a diamond studded version, in collaboration with Physicians for Reproductive Health. Thirty percent of each necklace sale goes to support the reproductive health group, according to Us. The pieces are relatively affordable, too -- the gold version Selena has on is $380, but the silver is just $115. The diamond version is $850. When Selena posted about women's right to choice, she accompanied her image with this caption : \"\"To see what is happening right now in Alabama, Georgia, Mississippi and several other states in our country is not only deeply upsetting but seems that it can't possibly be real in 2019. It's no one's business what a woman chooses to do with her body. End of story. If you want to help fight this, click on the link in my bio to find out how you can volunteer or make a donation.\"\" Ashley Benson moves in with Cara Delevingne: Report Cara Delevingne and Ashley Benson are reportedly taking the next step in their relationship. A source tells Us Weekly Ashley, 29, \"\"sold her house in Los Angeles\"\" and \"\"moved into Cara's place there.\"\" The pair were first linked romantically last April when they left Kylie Jenner 's birthday together, according to Us. It wasn't long after that before an insider confirmed they were \"\"dating\"\" to Us. \"\"This is the first girl she's ever dated,\"\" the source said of Ashley. \"\"This relationship with Cara is the first time she's been in a healthy relationship and she feels as if it's really easy with her.\"\" This past April, Cara was forced to defend her relationship on social media when critics blasted her for dating a woman. \"\"If you have a problem with true love then come and say this s--- to my face instead [of] pathetically hating through Instagram,\"\" the 26-year-old model posted. \"\"I genuinely feel sorry for you both, you are clearly not happy with your lives and have far too my time on your hands. Maybe get a hobby that doesn't involve being homophobic and hating others for being happy.\"\" Grassroots support builds for George Clooney to win Nobel Peace Prize There's now a growing list of supporters who want this to be the next winner of the Nobel Peace Prize -- and we're not talking about international human rights attorney, Amal Clooney , though there's probably a case to be made there, too, given her fight to hold members of ISIS accountable for reported acts of sexual violence against women in Syria and Iraq. According to The Hollywood Reporter , a campaign to award the esteemed prize to George Clooney has gotten underway courtesy of a petition tied to his op-ed pieces in support of the boycott against the Beverly Hills Hotel. Like other hotels in the Dorchester Collection group, the longtime industry favorite is owned by the Sultan of Brunei. (According to Wikipedia , the Sultan \"\"spearheaded\"\" the implementation of the Sharia law penal code, including death by stoning, severing of limbs and flogging for adultery, homosexual acts and abortions, among other \"\"crimes.\"\") The group campaigning for George's nomination is asking people to email postmaster@nobel.no asking to add George as a write-in candidate. \"\"We ask this be done in the name of personal freedom; free from brutal prosecution, free from discrimination of any sort; but most of all in the name of hope, as we very much feel that hope is a quality rather lacking in the world these days,\"\" Courtney Love says she saw Kurt Cobain as a ghost once In the new issue of Interview, Courtney Love sits down to answer 20 questions from a wide variety of musicians, actors, writers directors -- even a Kris Jenner. Among the highlights are her tale of watching the Motley Crue movie, \"\"The Dirt\"\" and \"\"groaning\"\" collectively with her girlfriends (\"\"'I was like when's Ozzy gonna snort the ant?' Then, within seconds, he snorted the ant\"\"); her reply to Debbie Harry's question about potential musical partners (\"\"I straddle it all babe ...,\"\" she says, noting that because Kanye West 's \"\"Yeezus-Jesus\"\" Sunday service is \"\"gospel, I have time for it\"\"); and what she tells Gwyneth Paltrow about the misperceptions around grief (\"\"you get over it when you get over it, which is probably never\"\"). The standout, though, may be the interesting -- if annoyingly detail-free -- response she gave to actor Joshua Boone when he asked if she's ever seen a ghost. \"\" When I moved to Hancock Park from Seattle with Frances and Edward [Norton], I saw Kurt in a chair for a moment,\"\" she says, \"\"... and he said hi to me and then he left.\"\" Jamie Lynn Sigler opens up about talking to her kids about MS Like Selma Blair, who's been diligently documenting her health ups and downs on social media, Jamie Lynn Sigler has multiple sclerosis. She's been living with the diagnosis and disease for more than a decade -- much longer than Selma, who just revealed her condition last year. And with two small children at home -- Jamie's eldest son Beau is 5, her youngest, Jack, is 16 months -- she's working through how to share what she's going through with the little ones. \"\"My oldest son is five and so he has awareness,\"\" she told Us Weekly on Wednesday, June 12. \"\"Only in the past year have I used the words MS to explain things. I think I just follow his lead, what he wants to know. Then I will tell him. I don't need to offer the information. … If he's inquiring about something, I'm happy to talk about it and don't force it on him. It doesn't need to be the topic all the time because it's only a small part of me. He's well aware of my abilities and disabilities and he knows no other mom, and so he has no judgment about that, which I ap...",
+        "word_count": 1754,
+        "publish_time": "2025-05-22T13:54:52Z",
+        "source": "Forbes",
+        "tags": [
+          "movie",
+          "entertainment-celebrity",
+          "entertainment",
+          "ai",
+          "news",
+          "health",
+          "report",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N17355"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "手机",
+          "电视",
+          "篮球"
+        ],
+        "engagement_score": 0.86
+      },
+      "interaction_data": {
+        "scroll_depth": 0.55,
+        "clicks_count": 3,
+        "shares_count": 1,
+        "comments_count": 5,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.95,
+        "topic_keywords": [
+          "movie",
+          "entertainment-celebrity",
+          "entertainment"
+        ],
+        "viral_potential": 1.0,
+        "trend_score": 0.07,
+        "recommendation_relevance": 0.34,
+        "content_quality": 0.76,
+        "user_profile_match": 0.21
+      }
+    },
+    {
+      "timestamp": "2019-06-18T04:59:38Z",
+      "user_id": "U438651",
+      "news_id": "N62593",
+      "action_type": "share",
+      "session_id": "session_a5768efaf53c",
+      "dwell_time": 288,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Jiangsu",
+        "city": "Nanjing"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestylebuzz",
+        "headline": "The Man With 17 Kids (and Counting)",
+        "content": "\"When Tim Gullicksen began donating to a sperm bank in 1989, he never expected to meet his biological children. He never imagined renting a 15-passenger van to take them to California's Bass Lake every summer. Or envisioned the kids hiking, playing pranks, and competing viciously over silly games they invented together. But this July, Tim will as has now become an annual tradition rent that van, fill it with food from Costco, and take the kids out to Bass Lake for a week. The \"\"kids\"\" are 18 to 25 years old now, adults really. Some have been coming to Bass Lake for a decade. Over the years, they have found Tim in one of two ways: a website called the Donor Sibling Registry , which connects people by donor number, or, more recently, DNA tests from 23andMe or AncestryDNA. These tools have allowed many donor-conceived people to connect with their donors and donor siblings . But Tim, a 52-year-old real-estate agent in San Francisco, is unusually involved, and the sibling group unusually tight-knit. When I asked whether I could interview any of the siblings, he shot off a message in their Instagram group chat. Eleven of them quickly agreed. \"\"I just feel really lucky. This is a really, really cool situation,\"\" says Emma Walker, who met Tim after taking a DNA test four years ago, when she was 16. She went to her first Bass Lake reunion in 2016. \"\"It was overwhelming in the best of ways,\"\" she says. \"\"We pulled up in a car, and people just ran up to us and were hugging us.\"\" As Tim remembers it, he decided to donate sperm after reading about lesbians looking for donors in a San Francisco gay-pride magazine. How great, he thought, to help families have kids. As a young gay man in the '80s, decades before marriage equality, he didn't think he would otherwise have children. But he soon learned that he could not donate to a sperm bank for the same reason he could not donate to a blood bank. Because he had sex with men, he was seen as a risk for HIV. The controversial policy is in place even today , even though banks have long quarantined and tested sperm for HIV. It didn't sit well with Tim, so he lied. He passed all the health screenings, began donating regularly, and for years never thought about it much. His sperm went all over the country. Unlike other donors, who provide sperm mostly for cash, he did eventually want to meet his donor kids, but he didn't expect to at least not until they were 18 and came looking for him on their own. In the mid-2000s, Tim heard about the Donor Sibling Registry, and for the first time, he realized he might get to know his donor kids as kids . He signed up. He matched with a handful of the moms who had picked him as their sperm donor. Still, he says, \"\"they all seemed really reluctant.\"\" They had their own lives and their own families; they weren't ready to bring in a stranger. He stopped checking the site regularly because he wasn't getting frequent messages. But Si'Mone Braquet and her 9-year-old son, McKay, were different. When Tim didn't respond immediately to her message on the Donor Sibling Registry, she emailed the site's founder, who in turn forwarded the message to Tim. He remembers her saying in their first phone call, \"\"Your son wants to meet you.\"\" Those words stuck him. \"\"That's the first and only time,\"\" he says, \"\"that someone who has gotten their donor sperm from me has referred to the child as mine.\"\" McKay had started asking about his dad when he was about 5. At school, he would make cards for Father's Day, only to have no one to give them to so he started keeping a \"\"daddy box.\"\" Once Si'Mone got in touch with Tim, father and son started talking for an hour every day. Tim came down to visit during his spring break. \"\"I'm super nervous,\"\" he recalls. \"\"I have no idea what to expect.\"\" McKay remembers waiting by the big window at the front of his house, scanning the street for his dad. For two strangers, even for two genetically related strangers, they hit it off. They rode bikes. They went by McKay's school. And McKay gave Tim the daddy box. Once the other moms saw photos of Tim with McKay on the Donor Sibling Registry, they got comfortable with the idea of their kids meeting him too. He started going to see other kids a boy near Los Angeles, a girl near San Francisco, and so on. He also began coming out one by one to their moms. \"\"I was super nervous about it at first because I had lied,\"\" he says, but none of them made a huge deal about it. Once, before Tim went to visit McKay in Texas, Si'Mone's family did bring up a photo that her family had found, of him with \"\"cross-dressers.\"\" He corrected her. \"\"I was like, 'Honey, they're drag queens. They're different because they have a sense of humor,\"\" he recalls, laughing. It didn't bother Si'Mone after that, and as the kids themselves have gotten older, they have also realized in their own time that Tim is gay. Tim started taking the boys and girls on separate group trips Iceland, Paris, London, New York City but he quickly became overwhelmed. So he hatched the idea for Bass Lake. Years ago, when Tim was young, his father would take the family camping there. The lake is a reservoir operated by PG&E, and the company's employee association rents out the old workers' cabins. In his 30s, Tim decided to revive the Bass Lake tradition for his family and friends, and soon started inviting his donor kids along. He has now met 17 of them. He has matched with several more donor offspring on 23andMe and Ancestry, and even more are likely out there. McKay, who has known Tim since he was 9, calls him \"\"Dad.\"\" \"\"For me, it was definitely about having a dad,\"\" he says, though he acknowledged that most of the siblings didn't feel the same way. \"\"A lot of the siblings weren't as interested in the dad portion as they were in the siblings.\"\" Amelia Meier, for example, wasn't particularly curious about her father. But she did desperately want siblings. \"\"I would do sweet but crazy stuff. I would give my mom my spare change 'I'll help you adopt a kid.' I used to write notes to her. I used to write letters to fairies ... I would look at adopting sites and fostering sites,\"\" she says. \"\"I was very motivated.\"\" Amelia's mother was one of the first who got in touch with Tim on the Donor Sibling Registry, and Amelia began going to Bass Lake with her siblings in 2009. It seemed like her wish came true, I said. \"\"Yeah,\"\" she replied. \"\"Yeah, it did.\"\" As Tim's donor kids got older, they have started finding him on their own, rather than through their moms. Sam Leicht learned she was donor-conceived when she was 16, when her parents were in the middle of a custody battle. She found Tim by tracking down his donor number. As they began to talk, he told her about all her half siblings and invited her to Bass Lake. Sam grew up with a twin sister (also related to Tim), but now she suddenly found herself with eight or nine more half siblings. And naturally, she started looking them all up on Facebook. \"\"I actually made an Excel document of every name and face, just so I could get them straight before I met them all,\"\" she says. They started chatting on Facebook and Instagram and Snapchat. She met them all for the first time at Bass Lake in 2015. Sam wasn't sure exactly how to describe her relationship with Tim, which isn't quite that of father and daughter. \"\"He's kind of my funny gay uncle,\"\" she says. Growing up in the Midwest and going to Catholic school her whole life, Sam hadn't known a single person who was gay and out. But several of the siblings are also queer, and several had been raised by lesbian moms. Sam came out during her senior year of high school. \"\"I don't think I would have had as supportive of an environment for getting on that path to self-discovery if I hadn't known all these lesbian moms or Tim,\"\" she says. She had messaged Tim about coming out to her parents, and the two of them talked about it a lot as they got closer. Sam is 21 now and in college in Portland, Oregon, which she also credits to Tim's influence. \"\"I always thought my own life would be on the East Coast or in the Midwest,\"\" she says. But she visited Tim in San Francisco, went to Bass Lake, and fell in love with the landscape. She ended up applying to a few schools on the West Coast, and it all worked out. \"\"I'm outside my house right now, and there's giant pine trees all around. It's gorgeous,\"\" she says. After Emma found her half siblings in 2015 through an AncestryDNA test, she remembers seeing a photo of Sam in which she immediately recognized herself. \"\"She looks so much like me. It was so freaky and cool,\"\" she says. Emma recently graduated from college with a degree in sociology, and she's gotten interested in studying donor-conceived people. For her, going from a small, quiet family with one sister to a big, loud group of siblings was new and strange and exhilarating. The one word the siblings kept using to describe themselves is competitive . \"\"Anything that is compete-able is competed,\"\" says Amelia. At Bass Lake, they've spent hours competing to balance the longest on a floating log or on an inner tube being pulled on a boat. And for the rest of the year, they have Snapchat. A couple of the brothers have years-long Snapstreaks with each other, and recently they've been trading high scores for games inside the app. Tim is in the Instagram group chat, but Snapchat is kids only , they told me. After all, says McKay, \"\"it's pretty weird when any grown man has Snapchat.\"\" Tim, for his part, is a consummate planner, and he is already thinking about how the Bass Lake tradition will continue when the siblings have relationships and families of their own. He has created something bigger than he could have known. \"\"Bass Lake was more out of efficiency,\"\" he says. \"\"And I realized a few years into it, their connection with each other is more important, which is an awesome gift.\"\"\"",
+        "word_count": 1796,
+        "publish_time": "2025-06-10T01:36:00Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "policy",
+          "ai",
+          "health",
+          "lifestylebuzz",
+          "study",
+          "lifestyle"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N44501",
+          "N23681"
+        ],
+        "reading_time_of_day": "night",
+        "is_weekend": false,
+        "user_interests": [
+          "经济",
+          "股票",
+          "手机",
+          "足球",
+          "保险"
+        ],
+        "engagement_score": 0.06
+      },
+      "interaction_data": {
+        "scroll_depth": 0.43,
+        "clicks_count": 4,
+        "shares_count": 1,
+        "comments_count": 0,
+        "likes_count": 8
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.06,
+        "topic_keywords": [
+          "policy",
+          "ai",
+          "health"
+        ],
+        "viral_potential": 0.95,
+        "trend_score": 0.95,
+        "recommendation_relevance": 0.01,
+        "content_quality": 0.09,
+        "user_profile_match": 0.91
+      }
+    },
+    {
+      "timestamp": "2019-06-25T10:11:31Z",
+      "user_id": "U142720",
+      "news_id": "N12827",
+      "action_type": "like",
+      "session_id": "session_801b781a11eb",
+      "dwell_time": 9,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Windows",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "video",
+        "topic": "animals",
+        "headline": "Squirrel attacks annoying man",
+        "content": "This man has learned the hard way that you should not disturb a squirrel while he's eating. His friends still tried to warn him, but he eventually paid for his stubbornness!",
+        "word_count": 31,
+        "publish_time": "2025-06-03T22:24:04Z",
+        "source": "NBC News",
+        "tags": [
+          "ai",
+          "animals",
+          "video"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N107048",
+          "N115929"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "奥运会",
+          "经济",
+          "投资",
+          "AI",
+          "手机"
+        ],
+        "engagement_score": 0.69
+      },
+      "interaction_data": {
+        "scroll_depth": 0.77,
+        "clicks_count": 4,
+        "shares_count": 2,
+        "comments_count": 3,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.49,
+        "topic_keywords": [
+          "ai",
+          "animals",
+          "video"
+        ],
+        "viral_potential": 0.8,
+        "trend_score": 0.95,
+        "recommendation_relevance": 0.05,
+        "content_quality": 0.13,
+        "user_profile_match": 0.01
+      }
+    }
+  ],
+  "metadata": {
+    "source": "web_portal",
+    "version": "1.0",
+    "processed_time": "2025-06-12T18:55:20.001110Z"
+  }
+}

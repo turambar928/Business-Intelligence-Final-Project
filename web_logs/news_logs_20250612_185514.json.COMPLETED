@@ -1,0 +1,751 @@
+{
+  "batch_id": "batch_20250612_185514_4eaefa80",
+  "events": [
+    {
+      "timestamp": "2019-06-24T14:19:03Z",
+      "user_id": "U285976",
+      "news_id": "N67892",
+      "action_type": "click",
+      "session_id": "session_4cc74e31ef56",
+      "dwell_time": 29,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "health",
+        "topic": "health-news",
+        "headline": "Doing this simple thing for just 18 minutes a day may significantly improve your health",
+        "content": "\"Go green. A recent study of 20,000 people published in the journal Scientific Reports finds that people who spend at least 120 minutes per week that's about 18 minutes a day in nature are far more likely to report being in good health and having higher psychological well-being, as compared to those who don't embrace nature. People who spent some time in nature, but fewer than 120 minutes a week, \"\"were no more likely to report good health or high well-being than those who reported 0 minutes,\"\" the study authors found. You can break that 120 minutes up however you like into one very long visit or shorter ones. And you don't have to go deep into a forest: Parks, woodlands and beaches work too. Whatever you do, this nature exposure is likely to have a big impact if you get enough of it: Those who spent 120 to 180 minutes in nature were roughly 20% more likely to say they had higher psychological well-being than their less-nature-exposed peers, and 60% more likely to say their health was good. This research builds on numerous other studies that show that getting out into nature is a key to better physical and mental health. A study published in 2015 in the journal Landscape and Urban Planning found that, compared to those who took a 50-minute walk through an urban area, those who took a 50-minute walk in nature had decreased levels of anxiety and higher levels of happiness. And exposure to nature \"\"reduces mental fatigue and the feelings of irritability that come with it,\"\" according to a study published in Environment & Behavior. Another 2015 study found that people who took an hour-and-a-half walk in nature vs. on a road had lower levels of rumination, in which you engage in repetitive thoughts focused on negative things. The nature walkers also \"\"showed reduced neural activity in an area of the brain linked to risk for mental illness,\"\" according to the study published in the Proceedings of the National Academy of Sciences. It's important to remember, however, that the Scientific Reports study doesn't prove causality. People who go into nature a lot may already have a sunnier psychological disposition, for example. Still, it's a simple prescription that many of us can follow: Go green for at least 120 minutes a week and you may boost health and happiness. The authors write: \"\"120 minutes contact with nature per week may reflect a kind of 'threshold,' below which there is insufficient contact to produce significant benefits to health and well-being.\"\" Gallery: 8 things you can do to help you live a long, happy life (Business Insider)\"",
+        "word_count": 440,
+        "publish_time": "2025-05-13T02:45:10Z",
+        "source": "USA Today",
+        "tags": [
+          "research",
+          "ai",
+          "health",
+          "health-news",
+          "study",
+          "report",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N17073",
+          "N39614"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "社会",
+          "新闻",
+          "商业",
+          "银行"
+        ],
+        "engagement_score": 0.1
+      },
+      "interaction_data": {
+        "scroll_depth": 0.24,
+        "clicks_count": 4,
+        "shares_count": 2,
+        "comments_count": 2,
+        "likes_count": 5
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.78,
+        "topic_keywords": [
+          "research",
+          "ai",
+          "health"
+        ],
+        "viral_potential": 0.41,
+        "trend_score": 1.0,
+        "recommendation_relevance": 0.52,
+        "content_quality": 0.23,
+        "user_profile_match": 0.49
+      }
+    },
+    {
+      "timestamp": "2019-06-19T00:44:33Z",
+      "user_id": "U116027",
+      "news_id": "N35493",
+      "action_type": "skip",
+      "session_id": "session_18eac0d56f23",
+      "dwell_time": 41,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsus",
+        "headline": "California governor apologizes to Native Americans, cites 'genocide'",
+        "content": "\"LOS ANGELES (Reuters) - California Governor Gavin Newsom on Tuesday apologized to Native Americans for violence and other wrongdoings they suffered during the state's history and called their mistreatment genocide. The Democratic governor, in an executive order, called for the creation of a Truth and Healing Council to produce a report before the end of 2024 on the historical relationship between the state and Native Americans. Newsom delivered the apology during an appearance with tribal leaders at the California Indian Heritage Center near Sacramento, the state capital. \"\"It's called a genocide, that's what it was, a genocide,\"\" Newsom said, citing the $1.3 million in state funding authorized in the 1850s to subsidize militia campaigns against Native Americans. \"\"No other way to describe it, and that's the way it needs to be described in the history books.\"\" Tribal leaders who appeared with Newsom on Tuesday thanked him for the apology. \"\"It's healing to hear your words, but actions will speak for themselves and I do look forward to hearing more and seeing more of you,\"\" Erica Pinto, chairwoman of Jamul Indian Village in San Diego County, said. \"\"WAR OF EXTERMINATION\"\" In discussing the history of California's treatment of Native Americans, Newsom cited an 1851 address to the state legislature by California's first governor, Peter Burnett. \"\"That a war of extermination will continue to be waged between the races until the Indian race becomes extinct must be expected,\"\" Burnett said then. The state of California had never previously formally apologized for its role in wrongdoing against Native Americans, according to the governor's office. Newsom's predecessor, Democrat Jerry Brown, did endorse a 2016 book by historian Benjamin Madley, of the University of California, Los Angeles, titled \"\"An American Genocide: The United States and the California Indian Catastrophe, 1846-1873.\"\" The book detailed how California's indigenous population fell from as many as 150,000 people to about 30,000. Madley estimated that between 1846 and 1873, up to 16,000 Native Americans were killed in California. Disease, dislocation and starvation also took their toll, Madley wrote. The U.S. Congress in 2009 passed a resolution, tucked into an appropriations bill, that apologized to Native Americans for violence, maltreatment and neglect inflicted by U.S. citizens. (Reporting by Alex Dobuzinskis; editing by Bill Tarrant and Leslie Adler)\"",
+        "word_count": 376,
+        "publish_time": "2025-05-16T14:53:11Z",
+        "source": "USA Today",
+        "tags": [
+          "congress",
+          "ai",
+          "news",
+          "treatment",
+          "report",
+          "newsus"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N40778",
+          "N117108"
+        ],
+        "reading_time_of_day": "night",
+        "is_weekend": false,
+        "user_interests": [
+          "金融",
+          "经济",
+          "篮球",
+          "网球"
+        ],
+        "engagement_score": 0.72
+      },
+      "interaction_data": {
+        "scroll_depth": 0.27,
+        "clicks_count": 1,
+        "shares_count": 2,
+        "comments_count": 2,
+        "likes_count": 1
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.4,
+        "topic_keywords": [
+          "congress",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.84,
+        "trend_score": 0.61,
+        "recommendation_relevance": 0.21,
+        "content_quality": 0.79,
+        "user_profile_match": 0.07
+      }
+    },
+    {
+      "timestamp": "2019-06-16T07:53:56Z",
+      "user_id": "U270814",
+      "news_id": "N109025",
+      "action_type": "click",
+      "session_id": "session_5b2248374f0a",
+      "dwell_time": 111,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "movies",
+        "topic": "movienews",
+        "headline": "Halle Berry, Justin Timberlake and more stars buy out theaters for Charleston, S.C., shooting doc",
+        "content": "\"On Monday, June 17 and Wednesday, June 19, only, people across the country will see \"\"Emanuel,\"\" Viola Davis and Golden State Warriors' star Steph Curry's new documentary about the June 17, 2015 shootings at Emanuel A.M.E. Church in Charleston, South Carolina. Thanks to a growing list of celebrities, many of those viewers will have a chance to see the film for free. Page Six reports Justin Timberlake , Halle Berry , Charlize Theron , Laverne Cox and LL Cool J and more stars are set to buy out all the seats in nine theaters on those days so they can give the tickets to churches and community organizations who will then distribute them. According to the tab, the celebrities got involved because they feel the message of the film is so important that they want as many people to see it as possible. \"\"We, along with the country, grieved each family's loss,\"\" Viola Davis and her husband, Julius Tennon, told Essence in a joint statement. \"\"Yet, miraculously, from this devastation we witnessed tremendous benchmarks of humanity. The survivors found courage to love in the face of hate.\"\" The film features moving interviews with survivors of the shooting that left nine African-Americans dead as they were saying their closing prayer during a Bible study at the church. Essence notes that the larger focus, however, is on how people in the community supported one another after the horrific, white supremacy-fueled murders as well as why the church has been so important to the community for so long. Family members of the victims figure prominently in the film, as well. The number of theaters where the bill is being footed by stars -- nine -- is presumably in honor of the nine who died in the attack three years ago. Other celebs buying out theaters include Yvette Nicole Brown (Richmond Heights, Ohio), Tyrese (Los Angeles), Nick Cannon (Washington DC and San Diego) and Martin Lawrence (Hanover, Md.). The theaters are reportedly located in Memphis, Tenn.; Cleveland; Los Angeles; Mobile, Ala.; New York City, Richmond Heights, Ohio; Washington, DC; San Diego, Calif., and Hanover, Maryland. Last year, Neil Patrick Harris, Kristen Bell and other celebrities bought out theaters so more viewers could see \"\"Love, Simon,\"\" a coming-of-age story about a closeted gay high school boy. Watch the trailer for 'Emanuel' below:\"",
+        "word_count": 387,
+        "publish_time": "2025-06-01T11:53:31Z",
+        "source": "Wall Street Journal",
+        "tags": [
+          "ai",
+          "movienews",
+          "study",
+          "movies",
+          "report",
+          "film"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N32113",
+          "N12347"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "明星",
+          "国际",
+          "社会",
+          "体育",
+          "奥运会"
+        ],
+        "engagement_score": 1.0
+      },
+      "interaction_data": {
+        "scroll_depth": 0.97,
+        "clicks_count": 6,
+        "shares_count": 1,
+        "comments_count": 1,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.32,
+        "topic_keywords": [
+          "ai",
+          "movienews",
+          "study"
+        ],
+        "viral_potential": 0.85,
+        "trend_score": 0.6,
+        "recommendation_relevance": 0.66,
+        "content_quality": 0.66,
+        "user_profile_match": 0.53
+      }
+    },
+    {
+      "timestamp": "2019-06-24T12:30:46Z",
+      "user_id": "U94068",
+      "news_id": "N41621",
+      "action_type": "comment",
+      "session_id": "session_a1a9a01d1d8d",
+      "dwell_time": 396,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Sichuan",
+        "city": "Chengdu"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newsworld",
+        "headline": "Mexico deploys 15,000 troops to US border to slow migration",
+        "content": "\"Mexico has deployed nearly 15,000 soldiers and National Guardsmen to its border with the United States, the army chief said Monday -- admitting they are detaining migrants who try to cross, after the policy triggered backlash. Under pressure from US President Donald Trump to slow the surge of Central Americans crossing the border, Mexico promised earlier this month to reinforce its southern border with 6,000 National Guardsmen, but had not previously disclosed the extent of the crackdown on its northern border. \"\"We have a total deployment, between the National Guard and army units, of 14,000, almost 15,000 men in the north of the country,\"\" Defense Minister Luis Cresencio Sandoval said at a press conference alongside President Andres Manuel Lopez Obrador. Asked whether those forces were detaining migrants to prevent them from crossing, Sandoval replied: \"\"Yes.\"\" \"\"Given that (undocumented) migration is not a crime but rather an administrative violation, we simply detain them and turn them over to the authorities\"\" at the National Migration Institute, he said. The government has faced criticism over migrant detentions at the northern border since an AFP photographer documented last week how heavily armed National Guardsmen in Ciudad Juarez forcefully stopped two women and a young girl from crossing the Rio Grande river into the United States. The policy is a shift from previous practice. The Mexican security forces had not typically detained migrants at the US border in the past. Fleeing chronic poverty and brutal gang violence in their home countries, the Central Americans crossing Mexico mostly lack migration papers. However, international law protects the right of undocumented migrants to cross international borders to request asylum. And the US courts have upheld their right to do that anywhere along the border, whether or not it is an official crossing. Trump wants Mexico to do more to stop a recent increase in migrant arrivals. Last month, he threatened to impose tariffs on all Mexican goods, extracting a promise from Lopez Obrador's government to reinforce Mexico's southern border and expand its policy of taking back migrants while the US processes their asylum claims. The deal, struck on June 7, gives Mexico 45 days to show results.\"",
+        "word_count": 359,
+        "publish_time": "2025-05-31T19:04:23Z",
+        "source": "Washington Post",
+        "tags": [
+          "newsworld",
+          "policy",
+          "ai",
+          "news",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N88272",
+          "N47934"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "政治",
+          "手机",
+          "互联网",
+          "经济"
+        ],
+        "engagement_score": 0.67
+      },
+      "interaction_data": {
+        "scroll_depth": 0.96,
+        "clicks_count": 7,
+        "shares_count": 3,
+        "comments_count": 2,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.74,
+        "topic_keywords": [
+          "newsworld",
+          "policy",
+          "ai"
+        ],
+        "viral_potential": 0.49,
+        "trend_score": 0.42,
+        "recommendation_relevance": 0.01,
+        "content_quality": 1.0,
+        "user_profile_match": 0.35
+      }
+    },
+    {
+      "timestamp": "2019-06-21T13:03:31Z",
+      "user_id": "U399057",
+      "news_id": "N81217",
+      "action_type": "skip",
+      "session_id": "session_6581e9e137e1",
+      "dwell_time": 63,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "Windows",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Shanghai",
+        "city": "Shanghai"
+      },
+      "news_details": {
+        "category": "video",
+        "topic": "animals",
+        "headline": "Watch Squirrel Pop Out of Box of Nuts 'Like a Jack in the Box' to Protect Its Food Stash",
+        "content": "This squirrel is acting nutty over a stash of nuts! Buzz60's Mercer Morrison has the story.",
+        "word_count": 16,
+        "publish_time": "2025-05-18T21:15:35Z",
+        "source": "Washington Post",
+        "tags": [
+          "animals",
+          "video"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N51218",
+          "N105712"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "奥运会",
+          "投资"
+        ],
+        "engagement_score": 0.72
+      },
+      "interaction_data": {
+        "scroll_depth": 0.77,
+        "clicks_count": 10,
+        "shares_count": 1,
+        "comments_count": 5,
+        "likes_count": 6
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.32,
+        "topic_keywords": [
+          "animals",
+          "video"
+        ],
+        "viral_potential": 0.53,
+        "trend_score": 0.21,
+        "recommendation_relevance": 0.83,
+        "content_quality": 0.2,
+        "user_profile_match": 0.57
+      }
+    },
+    {
+      "timestamp": "2019-06-16T06:36:27Z",
+      "user_id": "U79887",
+      "news_id": "N67166",
+      "action_type": "read",
+      "session_id": "session_0f5157cf9c10",
+      "dwell_time": 33,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Safari"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Guangzhou"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newscrime",
+        "headline": "Police: Woman jabbed at Florida sea turtle nest with stick",
+        "content": "\"MIAMI BEACH, Fla. A woman has been accused of disturbing a sea turtle nest in Florida. Miami Beach police officers on Saturday arrested 41-year-old Yaqun Lu. She is facing a felony charge of molesting marine turtles or eggs. An arrest report says officers witnessed Lu using a wooden stick to jab at a nest as she was \"\"stomping\"\" around the nesting area. The nest was in an area closed off from the public by sticks and yellow tape. Officers say the eggs weren't damaged. Lu is a Chinese citizen who listed a Hudsonville, Michigan, address. The report says the Chinese consulate in Houston was notified about the arrest. Online records showed no attorney listed for her. Sea turtles are protected by federal law, and Florida laws make it illegal to harm them or their offspring.\"",
+        "word_count": 135,
+        "publish_time": "2025-05-24T23:21:09Z",
+        "source": "USA Today",
+        "tags": [
+          "news",
+          "report",
+          "newscrime"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N45340",
+          "N116761"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "健康",
+          "银行",
+          "理财",
+          "新闻",
+          "政治"
+        ],
+        "engagement_score": 0.49
+      },
+      "interaction_data": {
+        "scroll_depth": 0.21,
+        "clicks_count": 3,
+        "shares_count": 1,
+        "comments_count": 4,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.48,
+        "topic_keywords": [
+          "news",
+          "report",
+          "newscrime"
+        ],
+        "viral_potential": 0.56,
+        "trend_score": 0.39,
+        "recommendation_relevance": 0.95,
+        "content_quality": 0.73,
+        "user_profile_match": 0.65
+      }
+    },
+    {
+      "timestamp": "2019-06-18T10:04:16Z",
+      "user_id": "U330991",
+      "news_id": "N79662",
+      "action_type": "like",
+      "session_id": "session_0fa2c43e939c",
+      "dwell_time": 40,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "Mac",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Tianjin",
+        "city": "Tianjin"
+      },
+      "news_details": {
+        "category": "movies",
+        "topic": "movies-celebrity",
+        "headline": "Field of Bleeps! Kevin Costner Accidentally Drops the F-Bomb on Live Radio Broadcast",
+        "content": "\"F is for Field of Dreams and for Kevin Costner , one other thing. The Oscar winner, 64, stopped by for a live radio interview on The Dan Patrick Show Monday, where he was on hand to discuss the upcoming second season of his series Yellowstone when one of the show's hosts, Paulie Pabst, asked him about his arguably most famous role. \"\"When you were getting pitched Field of Dreams … you were at your peak of stardom, did you ever think, 'This could be really silly?' \"\" Pabst asked of the 1989 fantasy sports drama . \"\"What, do you think I peaked? What are you talking about? What the f are you talking about?\"\" Costner replied, seemingly serious but unable to keep a smile from creeping onto his face. The hosts all immediately jumped to reminding the actor that they couldn't drop the F-bomb on live radio, eliciting laughter from some in the background and leading Costner to sheepishly apologize. \"\"Paulie, you can't say that, and you can't say that!\"\" joked Patrick, pointing at a laughing Costner. \"\"Did you see what he said to me? He said I peaked!\"\" the actor ribbed Pabst. Pabst reworded his question a bit, noting that Field of Dreams turned out to be a \"\"fantastic\"\" film in the end and Costner apologized for \"\"humiliating\"\" Pabst, as well as to the audience for his swearing flub. \"\"You can use that word if you just use it sparingly, and it's just like a sword,\"\" the star joked. Yellowstone season 2 premieres Wednesday on Paramount Network at 10 p.m. EST/9 p.m. CST. Related video: Kevin Costner talks Season 2 of \"\"Yellowstone\"\" and why he avoids using stuntmen when he can (Provided by CBS):\"",
+        "word_count": 286,
+        "publish_time": "2025-06-08T01:59:32Z",
+        "source": "Reuters",
+        "tags": [
+          "ai",
+          "movies",
+          "film",
+          "movies-celebrity"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N70471",
+          "N12956"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": false,
+        "user_interests": [
+          "理财",
+          "国际"
+        ],
+        "engagement_score": 0.25
+      },
+      "interaction_data": {
+        "scroll_depth": 0.87,
+        "clicks_count": 10,
+        "shares_count": 2,
+        "comments_count": 2,
+        "likes_count": 7
+      },
+      "ai_analysis": {
+        "sentiment_score": -0.38,
+        "topic_keywords": [
+          "ai",
+          "movies",
+          "film"
+        ],
+        "viral_potential": 0.87,
+        "trend_score": 0.59,
+        "recommendation_relevance": 0.68,
+        "content_quality": 0.64,
+        "user_profile_match": 0.25
+      }
+    },
+    {
+      "timestamp": "2019-06-16T08:12:20Z",
+      "user_id": "U227465",
+      "news_id": "N82756",
+      "action_type": "comment",
+      "session_id": "session_bc4c58ed675a",
+      "dwell_time": 286,
+      "device_info": {
+        "device_type": "tablet",
+        "os": "Mac",
+        "browser": "Edge"
+      },
+      "location": {
+        "country": "China",
+        "province": "Guangdong",
+        "city": "Shenzhen"
+      },
+      "news_details": {
+        "category": "news",
+        "topic": "newspolitics",
+        "headline": "GOP in disarray as budget impasse threatens shutdown, deep cuts and default",
+        "content": "\"Senate Republicans and the Trump administration are struggling to reach an agreement on a path forward on critical budget and spending issues, threatening not only another government shutdown and deep spending cuts but a federal default that could hit the economy hard. GOP leaders have spent months cajoling President Trump in favor of a bipartisan budget deal that would fund the government and raise the limit on federal borrowing this fall, but their efforts have yet to produce a deal. And the uncertain path forward was underscored a few days ago at the Capitol, when a budget meeting between key Senate Republicans, including Majority Leader Mitch McConnell (R-Ky.), and senior White House officials left out Democrats, whose votes will be imperative to avoid a shutdown and an economy-shaking breach of the federal debt limit. Subscribe to the Post Most newsletter: Today's most popular stories on The Washington Post \"\"We're negotiating with ourselves right now,\"\" said Senate Appropriations Chairman Richard C. Shelby (R-Ala.). \"\"The president, the administration, has some views, maybe, that are a little different sometimes than the Senate Republicans have. So we're trying to see if we can be together as best we can.\"\" The GOP dysfunction coupled with a new House Democratic majority with its own priorities leaves the sides much farther apart than they were at this point in last year's budget process, which ended in a record-long government funding lapse. At the time, Republicans controlled both chambers of Congress, but negotiations stalled over funding Trump's immigration priorities. Trump and Congress face a trio of difficult budget issues. Congress must pass, and Trump must sign, funding legislation by Oct. 1 to avoid a new shutdown. They need to raise the federal debt limit around the same time, according to the latest estimates. Failure to do so would force the government to make difficult decisions about which obligations to pay, and could be considered a default by investors, shaking markets and an economy already showing some signs of alarm. And by year's end, they also need to agree on how to lift austere budget caps that will otherwise snap into place and slash $125 billion from domestic and military programs. Senate Republicans and the administration thus far have not agreed on how to proceed on any of the issues, making it all but impossible for them to enter into substantive negotiations with Democrats. That has left the Capitol in a state of suspension over what the coming months will hold. \"\"True to form, Congress and the White House seem to be intent on waiting until the absolute last minute to address all these issues that we've known about,\"\" said Maya MacGuineas, president of the nonpartisan, nonprofit Committee for a Responsible Federal Budget. \"\"Basically everything they could do wrong, they are doing wrong.\"\" Tensions between key Senate Republicans and White House acting chief of staff Mick Mulvaney have been on display for months, and GOP lawmakers and aides partially blame that frayed relationship for the halting pace of talks. Mulvaney was a member of the conservative House Freedom Caucus before he joined the administration, first as White House budget director before becoming acting chief of staff, and he has advocated dramatic spending cuts opposed by lawmakers of both parties. Mulvaney has been slow to come around to the need for a bipartisan budget deal that would raise domestic and military spending caps, even after McConnell met privately with Trump last month and got the president's blessing to proceed with such a deal, said a senior GOP Senate aide who spoke on the condition of anonymity to describe private conversations. \"\"The problem with Mulvaney is sometimes he forgets he's a staffer now, so he's looking to execute on his own vision instead of the president's, and that slows down the process,\"\" the aide said. A Mulvaney spokesman did not respond to a request for comment on his relationship with Senate Republicans. But an administration official, speaking on the condition of anonymity to describe internal thinking, said that Trump has encouraged McConnell to get a good deal but has not offered a blanket agreement for a budget agreement that would raise domestic spending to levels that Senate Republicans might be able to accept in order to cut a deal with Democrats but that could cause heartburn for the White House. What those spending levels should be remains a point of contention between Senate Republicans and the administration, according to lawmakers and officials on both sides, and it's unclear when or how resolution will be reached. According to administration officials and Senate GOP aides, Mulvaney and the administration favor continuing existing spending levels or striking a one-year deal, over reaching the kind of two-year deal that has been agreed to in the past and that lawmakers in both parties favor now. The administration also has pushed for raising the debt limit as soon as possible, while House Speaker Nancy Pelosi (D-Calif.) has made clear that a vote on the debt limit is off the table until a spending deal is reached. Senate Republicans, too, favor including the debt limit in a broader spending deal, but some complain that they still don't know exactly what the White House will support when it comes to any of the financial issues they're confronting. \"\"I think that's what we're trying to find out,\"\" said Sen. John Thune (S.D.), the No. 2 Senate Republican. \"\"Our members are ready to move, but they don't want to move unless the White House is on board with all of the above.\"\" Senate Republicans and top aides have voiced frustrations with Mulvaney publicly and privately in recent weeks, with Shelby being particularly caustic in discussing Mulvaney's involvement in talks about a massive disaster aid bill that became law earlier this month after weeks of stalled negotiations. At one point Shelby was asked whether Mulvaney was playing a \"\"constructive role\"\" in talks, and he said that Mulvaney was playing \"\"a role.\"\" Shelby also requested Mulvaney's presence at his own meeting with Trump last month so that Mulvaney could hear Shelby describe the dire impacts if a budget deal is not reached. And after this week's meeting with Mulvaney, Treasury Secretary Steven Mnuchin and others, Shelby simply said of Mulvaney's posture in negotiations: \"\"He was there.\"\" The frustration with Mulvaney is bipartisan. At a news conference this past week, Pelosi suggested she was skeptical of dealmaking \"\"when Mick Mulvaney takes the lead,\"\" referencing his role while in the House in provoking a government shutdown in 2013. \"\"Mick Mulvaney was one of the leaders in shutting down government when he was here and voted to keep it closed,\"\" Pelosi said. The internal GOP disarray has provoked repeated criticisms from Democrats who blame Republicans for the failure of an attempt at high-level bipartisan talks last month, although Republicans say Democrats were to blame for refusing to budge on spending levels. \"\"Let's hope the Republicans can get their act together,\"\" Senate Minority Leader Charles E. Schumer (D-N.Y.) said in a brief interview on Capitol Hill recently. The finger-pointing has transformed Congress' most basic mandate of funding the government into a high-stakes blame game with potentially devastating consequences. If new spending bills are not passed before Oct. 1, the government will shut down, just as it did this past winter for a record-long 35 days when Democrats refused Trump's demands to pay for his wall along the U.S.-Mexico border. In one measure of just how many contentious issues lie ahead, funding for the wall, which is certain to be a hot-button issue again, has barely begun to be negotiated between the parties. At the same time, if a deal is not reached to lift automatic spending caps known as the \"\"sequester,\"\" the resulting automatic cuts would indiscriminately slash vital domestic programs and jeopardize military readiness, members of both parties warn. And the Treasury Department is already employing cash-saving tactics, called \"\"extraordinary measures,\"\" because Congress has failed to act to raise the nation's borrowing limit, often called the debt ceiling. If Congress does not act and Treasury runs out of money, which is forecast to happen sometime in late fall, Treasury would be unable to pay all of its bills on time, which could lead to a default on the government's obligations, a spike in interest rates, a surge in unemployment and a stock market crash. Fitch Ratings warned earlier this year that a shutdown coupled with a battle over the debt limit might damage the country's Triple-A credit rating. Lawmakers and administration officials say they are aware of the urgency to act. But recent interactions between Congress and the White House have not been confidence-inspiring. The sweeping $19 billion disaster aid bill that recently became law did so only after months of partisan bickering, and an emergency spending request for the migration crisis on the southern border also has stalled amid partisan disputes, despite urgent warnings from the administration that agencies will run out of money to deal with the influx at the end of this month. House Democrats have gone their own way on spending bills without Republican buy-in, putting a massive $983 billion appropriations package for the Health and Human Services Department, the Pentagon and other agencies on the floor at spending levels Senate Republicans and the White House would never agree to. A bipartisan agreement in the Senate that helped Congress make unusual progress passing spending bills last year up until the dispute over the wall has not been resurrected this year, and the Senate Appropriations Committee has not yet passed a single spending bill. And it all comes against the backdrop of an intensely partisan debate over impeachment and a looming presidential campaign, which Shelby called \"\"collate...",
+        "word_count": 1614,
+        "publish_time": "2025-06-10T23:41:37Z",
+        "source": "BBC",
+        "tags": [
+          "congress",
+          "market",
+          "ai",
+          "news",
+          "economy",
+          "newspolitics",
+          "senate",
+          "government"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N48218",
+          "N76978"
+        ],
+        "reading_time_of_day": "morning",
+        "is_weekend": true,
+        "user_interests": [
+          "明星",
+          "电影",
+          "理财",
+          "政治"
+        ],
+        "engagement_score": 0.77
+      },
+      "interaction_data": {
+        "scroll_depth": 0.96,
+        "clicks_count": 3,
+        "shares_count": 0,
+        "comments_count": 4,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.77,
+        "topic_keywords": [
+          "congress",
+          "market",
+          "ai"
+        ],
+        "viral_potential": 0.33,
+        "trend_score": 1.0,
+        "recommendation_relevance": 0.27,
+        "content_quality": 0.08,
+        "user_profile_match": 0.78
+      }
+    },
+    {
+      "timestamp": "2019-06-26T03:56:45Z",
+      "user_id": "U126292",
+      "news_id": "N108227",
+      "action_type": "click",
+      "session_id": "session_7a9fe81f5548",
+      "dwell_time": 270,
+      "device_info": {
+        "device_type": "mobile",
+        "os": "iOS",
+        "browser": "Chrome"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "finance",
+        "topic": "markets",
+        "headline": "Stocks close mixed as Boeing weighs on the Dow",
+        "content": "\"The S&P 500 finished higher Thursday, powered by bank shares, as traders awaited clues from an upcoming meeting between President Donald Trump and Chinese President Xi Jinping. The broad index climbed 0.4% to 2,924, snapping a four-day losing streak, as the financials sector gained nearly 1%. The Nasdaq advanced 0.7% to 7,967. The Dow lagged, slipping 10 points to 26,526 as Boeing weighed down the 30-stock index. Citigroup shares led the big banks higher, climbing 1.4%. Morgan Stanley, Goldman Sachs and Wells Fargo all closed more than 1% higher. J.P. Morgan Chase rose 0.3%. Bank stocks rose ahead of the Federal Reserve's stress-test results release, which is scheduled for later on Thursday. Trump and Xi are scheduled to meet at the G-20 summit in Osaka, Japan on Saturday. The two leaders are expected to discuss trade, with investors looking for clues on whether China and the U.S. can make progress towards ending their ongoing trade war. China and the U.S. have been in a trade war for more than a year. The U.S. has imposed tariffs on more than $250 billion worth of Chinese goods. China has retaliated with tariffs on U.S. products. An agreement between Trump and Xi at the G-20 summit in Japan would avert the next round of tariffs on additional $300 billion worth of Chinese imports. \"\"We've consistently repeated that the rally in stocks to essentially new highs has been driven by hopes of Fed rate cuts and a U.S.-China trade truce. The Fed generally met expectations,\"\" said Tom Essaye, the founder of The Sevens Report. \"\"Now it's time for Trump and Xi to meet and determine the next steps in the trade conflict.\"\" \"\"The expectation of something somewhat positive is very much baked into stocks, and given both sides have been actively trying to downplay expectations, the risk into and out of this meeting is for mild dis-appointment,\"\" Essaye said. Xi is expected to present Trump with the terms China expects the U.S. to meet before Beijing is willing to settle the contentious trade fight between the two nations.The news was first reported by The Wall Street Journal. CNBC later confirmed the report through sources. The South China Morning Post, citing unnamed sources, reported overnight that officials from Washington and Beijing had tentatively agreed to resume talks aimed at resolving the dispute. The report could not be independently verified by CNBC. Comments from Larry Kudlow, National Economic Council director, added to the uncertainty around trade. Kudlow told Fox News that no preconditions were set ahead of Trump's meeting with Xi. He also said the U.S. may move forward with additional tariffs. Kudlow's comments briefly hit stocks, but later recovered. There may be uncertainty around the outcome of the Trump-Xi, but some traders are betting on stocks that could rally on positive news after the weekend. Christian Fromhertz, the CEO of The Tribeca Trade Group, said options traders are buying up short-term call options on some Chinese internet companies, including online video platform IQIYI and e-commerce company JD.com. \"\"It seems like some people are taking shots at a few of the Chinese internet names and they're catching some momentum,\"\" Fromhertz said. \"\"Traders might be thinking, 'hey, let's take a shot on something that's already been beaten up and could pop if something happens.'\"\" U.S.-listed shares of IQIYI surged more than 10% on Thursday. JD.com. closed 0.5% higher. The KraneShares CSI China Internet ETF (KWEB) jumped 2%. In corporate news, Walgreens Boots Alliance climbed 4.1% after the pharmacy operator reported better-than-expected quarterly results. The company's numbers were driven by higher prescription drug sales, CEO Stefano Pessina said. Boeing shares fell 2.9% amid increasing uncertainty about when 737 Max jets will be able to fly again. On the data front, the Commerce Department said the U.S. economy grew at a solid rate of 3.1% in the first quarter. But some components like consumer spending and business investments grew at a slower pace than previously estimated. CNBC's Michael Bloom and Sam Meredith contributed to this report.\"",
+        "word_count": 667,
+        "publish_time": "2025-05-26T23:12:29Z",
+        "source": "ESPN",
+        "tags": [
+          "markets",
+          "ai",
+          "news",
+          "finance",
+          "economy",
+          "stock",
+          "report",
+          "business"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N53399",
+          "N39488"
+        ],
+        "reading_time_of_day": "night",
+        "is_weekend": false,
+        "user_interests": [
+          "美食",
+          "电视",
+          "理财",
+          "互联网",
+          "手机"
+        ],
+        "engagement_score": 0.26
+      },
+      "interaction_data": {
+        "scroll_depth": 0.23,
+        "clicks_count": 1,
+        "shares_count": 1,
+        "comments_count": 1,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.52,
+        "topic_keywords": [
+          "markets",
+          "ai",
+          "news"
+        ],
+        "viral_potential": 0.49,
+        "trend_score": 0.66,
+        "recommendation_relevance": 0.62,
+        "content_quality": 0.31,
+        "user_profile_match": 0.91
+      }
+    },
+    {
+      "timestamp": "2019-06-14T14:58:57Z",
+      "user_id": "U392096",
+      "news_id": "N104113",
+      "action_type": "like",
+      "session_id": "session_4a5a993ab301",
+      "dwell_time": 34,
+      "device_info": {
+        "device_type": "desktop",
+        "os": "iOS",
+        "browser": "Firefox"
+      },
+      "location": {
+        "country": "China",
+        "province": "Beijing",
+        "city": "Beijing"
+      },
+      "news_details": {
+        "category": "lifestyle",
+        "topic": "lifestyleroyals",
+        "headline": "13 Reasons Queen Elizabeth II Will Never Give Up the Throne",
+        "content": "She became the Queen of England in 1952. As for if and when she might abdicate, we're all in with: No, and never. Abdicating? Nah. In 2017, The Daily Mail floated a titillating headline asking, 'Is the Queen Preparing to Abdicate?' As it turns out, the story was really about rumors the Queen plans to appoint Prince Charles as 'Prince Regent' when she turns 95, however, British history makes clear that appointing a regent is not equal to abdicating . Further, the Queen isn't even legally empowered to appoint a regent, which happens only under very specific circumstances as outlined in the Regency Act of 1937 . Find out the current line of succession to the British crown . Abdicating due to age just isn't done While some royal families have a tradition of monarchs stepping down after he or she reaches a certain age (such as the royal family of the Netherlands), there's no such tradition in the United Kingdom. In fact, abdication has been said to go against informal rules of the monarchy's set-up. Indeed, it was considered a constitutional crisis when Prince Edward VIII abdicated in 1936 to marry Wallis Simpson. Queen Elizabeth II promised she'd reign for life On her 21st birthday, Queen Elizabeth II promised England she'd be their Queen for life. 'I declare before you all that my whole life whether it be long or short shall be devoted to your service and the service of our great imperial family to which we all belong,' she said. That's a big promise, but she's kept to it for going on 67 years now. Here are some fascinating facts about the Queen you won't want to miss. She feels it's her duty to reign Experts on the monarch such as Sarah Bradford, author of Queen Elizabeth II: Her Life in Our Times , confirm the Queen feels that reigning is her life's mission and duty. 'She's never even contemplated abdication,' Bradford told The Week . Here are some myths about the royal family that it's time to stop believing . The people don't want her to abdicate A long time ago, the people might have supported the Queen's abdicating. That was back before Prince Charles and Princess Diana's marriage imploded for all to see, says The Week . 'It wasn't until the end of the 1990s that the Prince's reputation began to pull out of its nosedive.' However, public support of the Queen's turning the throne over to the Prince of Wales has not risen significantly. Recent surveys show that a full 70 percent of the United Kingdom would prefer the Queen remain in power for as long as she lives. Anti-monarchy sentiment The public's love for the Queen does not equal the public's love for the monarchy. So while the public would like to see Queen Elizabeth II remain Queen for her lifetime, they may not necessarily wish to replace her with another monarch. As The Guardian' s Polly Toynbee writes, 'Let [Queen Elizabeth II] reign as long as she lives. But let her be Elizabeth the Last.' It is hard to imagine the Queen would hand the reigns over amid such sentiment. The whole Charles thing Even if the public were in favor of putting a new monarch on the throne, Prince Charles is next in line, and that's considered problematic. 'We know far too much about his foibles and past errors to revere him as we revere his mother,' writes The Daily Mail 's Allison Pearson. In addition, people have their doubts about the ability of Prince Charles to maintain the requisite royal neutrality on certain political issues. While the Queen could abdicate in favor of Prince William, there is no historical precedent for passing over the current Prince of Wales (the traditional 'on-deck' role) in favor of his child. Take a look at these candid, rarely seen photos of the royal family . Plus, Charles is already 70 Even if the Queen was to abdicate due to her age, the Prince of Wales is already in his 70s. And in the opinion of some palace insiders, including Paul Burrell, former butler of Princess Diana, the public perceives Prince Charles as too old to take on the role of King. And about the whole Camilla thing Apart from all the talk about whether Queen Elizabeth II will abdicate, one of the hottest royal topics is whether Camilla Parker Bowles will be known as 'Queen' if and when Prince Charles ascends the throne. Traditionally, the King's spouse is referred to as 'Queen.' However, public sentiment isn't exactly supportive of a 'Queen Camilla.' Although in 2005, Prince Charles assured the public Camilla would never be known as 'Queen,' (she would instead go by the title 'Princess Consort') he's since retracted his statement, going as far as deleting it from his official website . Would Queen Elizabeth choose to stir up that hornet's nest? Our guts tell us no. Although, if you got to know the Duchess of Cornwall, you might actually like her. Find out 15 surprising facts about Camilla Parker Bowles. Prince Philip's retirement isn't a couple-thing When Prince Philip retired in August 2017, people began to wonder if the Queen would join her husband. In fact, the absence of such a declaration by the Queen would appear to be proof of the opposite. Here's why Prince Philip has never been referred to as 'King Philip.' Prince Philip's retirement actually gives the monarchy a youthful glow As a result of Prince Philip's retirement, Queen Elizabeth II has been accompanied at many public events by her son and grandsons. With Prince Charles, Prince William, and Prince Harry taking on the role that Prince Philip once played, the monarchy automatically has been giving a bit of a facelift, appearing younger and more vibrant as a result. Take a look at these rarely seen photos of Queen Elizabeth and Prince Philip . She's already delegating anyway The Queen has lately been delegating more and more of her duties to her children and grandchildren. In doing so, she's demonstrating her capacity to rule, as well as her effectiveness. Why would the Queen take the much more extreme step of abdicating if she's able to take the smaller steps of delegating her duties to the younger royals? Plans are already underway for her NOT to abdicate In the summer of 2018, the government performed a dress rehearsal for the Queen's death, according to the Express . 'Ministers practiced the ground-breaking protocol for the very first time and even gave it the code name London Bridge,' and the first day after the Queen's death has been given the code name D1. It certainly doesn't sound like there are any plans afoot for the Queen not to be Queen at the time of her passing. In fact, it seems that quite the opposite is true. Next, don't miss these 50 things you didn't know about the royals.",
+        "word_count": 1156,
+        "publish_time": "2025-05-16T02:02:15Z",
+        "source": "Associated Press",
+        "tags": [
+          "ai",
+          "breaking",
+          "lifestyleroyals",
+          "government",
+          "lifestyle"
+        ],
+        "entities": {
+          "persons": [],
+          "locations": [],
+          "organizations": []
+        }
+      },
+      "user_context": {
+        "previous_articles": [
+          "N43145"
+        ],
+        "reading_time_of_day": "afternoon",
+        "is_weekend": false,
+        "user_interests": [
+          "奥运会",
+          "网球",
+          "投资",
+          "金融"
+        ],
+        "engagement_score": 0.15
+      },
+      "interaction_data": {
+        "scroll_depth": 0.65,
+        "clicks_count": 7,
+        "shares_count": 3,
+        "comments_count": 3,
+        "likes_count": 4
+      },
+      "ai_analysis": {
+        "sentiment_score": 0.12,
+        "topic_keywords": [
+          "ai",
+          "breaking",
+          "lifestyleroyals"
+        ],
+        "viral_potential": 0.89,
+        "trend_score": 0.3,
+        "recommendation_relevance": 0.41,
+        "content_quality": 0.7,
+        "user_profile_match": 0.15
+      }
+    }
+  ],
+  "metadata": {
+    "source": "news_app",
+    "version": "1.0",
+    "processed_time": "2025-06-12T18:55:14.292578Z"
+  }
+}
